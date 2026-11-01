@@ -1,0 +1,17 @@
+# The game, anything taken from it and anything built: local only.
+game/
+symbols/*.log
+h4/generated/
+h4/out/
+third_party/
+loc/catalog/
+loc/extract/
+loc/build/
+loc/fonts_en/
+loc/fonts_uk/
+loc/tools/glyphs
+loc/voice/raw/
+art/
+__pycache__/
+.DS_Store
+*.log

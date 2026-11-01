@@ -1,0 +1,2048 @@
+[
+ {
+  "id": 0,
+  "where": "Keyword",
+  "cells": [
+   "1:1"
+  ],
+  "uk": "",
+  "key": "709a23220f2c"
+ },
+ {
+  "id": 1,
+  "where": "Keyword",
+  "cells": [
+   "1:2"
+  ],
+  "uk": "",
+  "key": "da4db97e6877"
+ },
+ {
+  "id": 2,
+  "where": "acid",
+  "cells": [
+   "2:1",
+   "2:2"
+  ],
+  "uk": "Кислота",
+  "key": "32608e1e8415"
+ },
+ {
+  "id": 3,
+  "where": "bloodlust",
+  "cells": [
+   "3:1",
+   "3:2"
+  ],
+  "uk": "Жага крові",
+  "key": "3493ed064944"
+ },
+ {
+  "id": 4,
+  "where": "burning hands",
+  "cells": [
+   "4:1",
+   "4:2"
+  ],
+  "uk": "Іскри",
+  "key": "45bfc012fbf8"
+ },
+ {
+  "id": 5,
+  "where": "fire shield",
+  "cells": [
+   "5:1",
+   "5:2"
+  ],
+  "uk": "Вогняний щит",
+  "key": "be772084ea92"
+ },
+ {
+  "id": 6,
+  "where": "fire_aura_effect",
+  "cells": [
+   "6:1",
+   "6:2",
+   "67:1",
+   "67:2",
+   "73:1",
+   "73:2"
+  ],
+  "uk": "",
+  "key": "b4d1e1bdf71f"
+ },
+ {
+  "id": 7,
+  "where": "firebreathing",
+  "cells": [
+   "7:1",
+   "7:2"
+  ],
+  "uk": "Вогняна аура",
+  "key": "edc7c0a043ea"
+ },
+ {
+  "id": 8,
+  "where": "haste",
+  "cells": [
+   "8:1",
+   "8:2"
+  ],
+  "uk": "Пришвидшення",
+  "key": "27b44b7bcfbd"
+ },
+ {
+  "id": 9,
+  "where": "kreegan fire",
+  "cells": [
+   "9:1",
+   "9:2"
+  ],
+  "uk": "Демонський вогонь",
+  "key": "0b82448f0fe5"
+ },
+ {
+  "id": 10,
+  "where": "magic arrow",
+  "cells": [
+   "10:1",
+   "10:2"
+  ],
+  "uk": "Магічна стріла",
+  "key": "6bc9bdfeceeb"
+ },
+ {
+  "id": 11,
+  "where": "mana",
+  "cells": [
+   "11:1",
+   "11:2"
+  ],
+  "uk": "Мана",
+  "key": "1eab2e778967"
+ },
+ {
+  "id": 12,
+  "where": "quickness",
+  "cells": [
+   "12:1",
+   "12:2"
+  ],
+  "uk": "Спритність",
+  "key": "983c8e670612"
+ },
+ {
+  "id": 13,
+  "where": "slayer",
+  "cells": [
+   "13:1",
+   "13:2"
+  ],
+  "uk": "Убивця",
+  "key": "441547750c4a"
+ },
+ {
+  "id": 14,
+  "where": "speed",
+  "cells": [
+   "14:1",
+   "14:2"
+  ],
+  "uk": "Зілля швидкості",
+  "key": "7d79366a21c9"
+ },
+ {
+  "id": 15,
+  "where": "confusion",
+  "cells": [
+   "15:1",
+   "15:2"
+  ],
+  "uk": "Сум'яття",
+  "key": "68b8d436c080"
+ },
+ {
+  "id": 16,
+  "where": "fire bolt",
+  "cells": [
+   "16:1",
+   "16:2"
+  ],
+  "uk": "Вогняна стріла",
+  "key": "687b90f427d6"
+ },
+ {
+  "id": 17,
+  "where": "first strike",
+  "cells": [
+   "17:1",
+   "17:2"
+  ],
+  "uk": "Перший удар",
+  "key": "f76c9d84a2b3"
+ },
+ {
+  "id": 18,
+  "where": "mana flare",
+  "cells": [
+   "18:1",
+   "18:2"
+  ],
+  "uk": "Спалах мани",
+  "key": "8b87c20ba902"
+ },
+ {
+  "id": 19,
+  "where": "misfortune",
+  "cells": [
+   "19:1",
+   "19:2"
+  ],
+  "uk": "Невдача",
+  "key": "326399049418"
+ },
+ {
+  "id": 20,
+  "where": "spell shackle",
+  "cells": [
+   "20:1",
+   "20:2"
+  ],
+  "uk": "Магічні кайдани",
+  "key": "6a7c8ae97c6d"
+ },
+ {
+  "id": 21,
+  "where": "bloodfrenzy",
+  "cells": [
+   "21:1",
+   "21:2"
+  ],
+  "uk": "Кривавий шал",
+  "key": "258062c30571"
+ },
+ {
+  "id": 22,
+  "where": "fire ring",
+  "cells": [
+   "22:1",
+   "22:2"
+  ],
+  "uk": "Вогняне кільце",
+  "key": "4ee9f8b80e1d"
+ },
+ {
+  "id": 23,
+  "where": "fireball",
+  "cells": [
+   "23:1",
+   "23:2"
+  ],
+  "uk": "Вогняна куля",
+  "key": "734e89b7b677"
+ },
+ {
+  "id": 24,
+  "where": "lightning",
+  "cells": [
+   "24:1",
+   "24:2"
+  ],
+  "uk": "Блискавка",
+  "key": "4504e5f0bfcc"
+ },
+ {
+  "id": 25,
+  "where": "magic mirror",
+  "cells": [
+   "25:1",
+   "25:2"
+  ],
+  "uk": "Магічне дзеркало",
+  "key": "069ab6ce9f4e"
+ },
+ {
+  "id": 26,
+  "where": "mass slayer",
+  "cells": [
+   "26:1",
+   "26:2"
+  ],
+  "uk": "Масовий убивця",
+  "key": "faeb5d7d489e"
+ },
+ {
+  "id": 27,
+  "where": "cloud of confusion",
+  "cells": [
+   "27:1",
+   "27:2"
+  ],
+  "uk": "Хмара сум'яття",
+  "key": "5072a640b145"
+ },
+ {
+  "id": 28,
+  "where": "implosion",
+  "cells": [
+   "28:1",
+   "28:2"
+  ],
+  "uk": "Імплозія",
+  "key": "f871fb53aaa5"
+ },
+ {
+  "id": 29,
+  "where": "inferno",
+  "cells": [
+   "29:1",
+   "29:2"
+  ],
+  "uk": "Пекло",
+  "key": "6a69f7a5a045"
+ },
+ {
+  "id": 30,
+  "where": "mass first strike",
+  "cells": [
+   "30:1",
+   "30:2"
+  ],
+  "uk": "Масовий перший удар",
+  "key": "ccd0fe4ae15e"
+ },
+ {
+  "id": 31,
+  "where": "mass misfortune",
+  "cells": [
+   "31:1",
+   "31:2"
+  ],
+  "uk": "Масова невдача",
+  "key": "d6a3840744e1"
+ },
+ {
+  "id": 32,
+  "where": "reflexes",
+  "cells": [
+   "32:1",
+   "32:2"
+  ],
+  "uk": "Котяча реакція",
+  "key": "6e12117d87b0"
+ },
+ {
+  "id": 33,
+  "where": "armageddon",
+  "cells": [
+   "33:1",
+   "33:2"
+  ],
+  "uk": "Армагеддон",
+  "key": "9de6a042ccb6"
+ },
+ {
+  "id": 34,
+  "where": "chain lightning",
+  "cells": [
+   "34:1",
+   "34:2"
+  ],
+  "uk": "Ланцюгова блискавка",
+  "key": "b1f1770d9a38"
+ },
+ {
+  "id": 35,
+  "where": "disintegrate",
+  "cells": [
+   "35:1",
+   "35:2"
+  ],
+  "uk": "Розщеплення",
+  "key": "9ccb3f0774c4"
+ },
+ {
+  "id": 36,
+  "where": "cancellation",
+  "cells": [
+   "36:1",
+   "36:2"
+  ],
+  "uk": "Скасування",
+  "key": "319aaae4dec4"
+ },
+ {
+  "id": 37,
+  "where": "choking gas",
+  "cells": [
+   "37:1",
+   "37:2"
+  ],
+  "uk": "Задушливий газ",
+  "key": "9e01c23c5f40"
+ },
+ {
+  "id": 38,
+  "where": "curse",
+  "cells": [
+   "38:1",
+   "38:2"
+  ],
+  "uk": "Прокляття",
+  "key": "0b3d98d5a8a2"
+ },
+ {
+  "id": 39,
+  "where": "despair",
+  "cells": [
+   "39:1",
+   "39:2"
+  ],
+  "uk": "Відчай",
+  "key": "5206575b9210"
+ },
+ {
+  "id": 40,
+  "where": "mana_leech",
+  "cells": [
+   "40:1",
+   "40:2"
+  ],
+  "uk": "Висмоктування мани",
+  "key": "50e92e893020"
+ },
+ {
+  "id": 41,
+  "where": "panic",
+  "cells": [
+   "41:1",
+   "41:2"
+  ],
+  "uk": "Паніка",
+  "key": "ec143493b0df"
+ },
+ {
+  "id": 42,
+  "where": "poison",
+  "cells": [
+   "42:1",
+   "42:2"
+  ],
+  "uk": "Отрута",
+  "key": "6de0b0c65644"
+ },
+ {
+  "id": 43,
+  "where": "poison attack",
+  "cells": [
+   "43:1",
+   "43:2"
+  ],
+  "uk": "Отруйна атака",
+  "key": "56f61a600381"
+ },
+ {
+  "id": 44,
+  "where": "raise skeletons",
+  "cells": [
+   "44:1",
+   "44:2"
+  ],
+  "uk": "Підняти скелетів",
+  "key": "2c840f98e062"
+ },
+ {
+  "id": 45,
+  "where": "ray of suffering",
+  "cells": [
+   "45:1",
+   "45:2"
+  ],
+  "uk": "Руйнівний промінь",
+  "key": "94b7c5c1fa37"
+ },
+ {
+  "id": 46,
+  "where": "smoke",
+  "cells": [
+   "46:1",
+   "46:2"
+  ],
+  "uk": "Дим",
+  "key": "028f2cb637bd"
+ },
+ {
+  "id": 47,
+  "where": "aging",
+  "cells": [
+   "47:1",
+   "47:2"
+  ],
+  "uk": "Старіння",
+  "key": "6ea92a1f626e"
+ },
+ {
+  "id": 48,
+  "where": "animate dead",
+  "cells": [
+   "48:1",
+   "48:2"
+  ],
+  "uk": "Оживити мертвих",
+  "key": "591b15571e1b"
+ },
+ {
+  "id": 49,
+  "where": "evil hour",
+  "cells": [
+   "49:1",
+   "49:2"
+  ],
+  "uk": "Нечестива пісня",
+  "key": "f1f6b8b7fd35"
+ },
+ {
+  "id": 50,
+  "where": "life drain",
+  "cells": [
+   "50:1",
+   "50:2"
+  ],
+  "uk": "Висмоктування життя",
+  "key": "8933b92db339"
+ },
+ {
+  "id": 51,
+  "where": "mire",
+  "cells": [
+   "51:1",
+   "51:2"
+  ],
+  "uk": "Трясовина",
+  "key": "a2ef081935ed"
+ },
+ {
+  "id": 52,
+  "where": "slow",
+  "cells": [
+   "52:1",
+   "52:2"
+  ],
+  "uk": "Втома",
+  "key": "849afde5f9da"
+ },
+ {
+  "id": 53,
+  "where": "sorrow",
+  "cells": [
+   "53:1",
+   "53:2"
+  ],
+  "uk": "Скорбота",
+  "key": "19b311a2aa79"
+ },
+ {
+  "id": 54,
+  "where": "Terror",
+  "cells": [
+   "54:1",
+   "54:2"
+  ],
+  "uk": "Жах",
+  "key": "799316349768"
+ },
+ {
+  "id": 55,
+  "where": "weakness",
+  "cells": [
+   "55:1",
+   "55:2"
+  ],
+  "uk": "Слабкість",
+  "key": "429a85e88299"
+ },
+ {
+  "id": 56,
+  "where": "fear",
+  "cells": [
+   "56:1",
+   "56:2"
+  ],
+  "uk": "Аура страху",
+  "key": "fb6bbaecc814"
+ },
+ {
+  "id": 57,
+  "where": "magic leech",
+  "cells": [
+   "57:1",
+   "57:2"
+  ],
+  "uk": "Висмоктування магії",
+  "key": "6d617ff4a693"
+ },
+ {
+  "id": 58,
+  "where": "mass cancellation",
+  "cells": [
+   "58:1",
+   "58:2"
+  ],
+  "uk": "Масове скасування",
+  "key": "1fc47c1b61d1"
+ },
+ {
+  "id": 59,
+  "where": "mass curse",
+  "cells": [
+   "59:1",
+   "59:2"
+  ],
+  "uk": "Масове прокляття",
+  "key": "5f55ceb1452b"
+ },
+ {
+  "id": 60,
+  "where": "plague",
+  "cells": [
+   "60:1",
+   "60:2"
+  ],
+  "uk": "Чума",
+  "key": "b349a4a4eee0"
+ },
+ {
+  "id": 61,
+  "where": "raise ghost",
+  "cells": [
+   "61:1",
+   "61:2"
+  ],
+  "uk": "Підняти привида",
+  "key": "2ac99af59746"
+ },
+ {
+  "id": 62,
+  "where": "death call",
+  "cells": [
+   "62:1",
+   "62:2"
+  ],
+  "uk": "Поклик смерті",
+  "key": "fa2928d818cf"
+ },
+ {
+  "id": 63,
+  "where": "mass sorrow",
+  "cells": [
+   "63:1",
+   "63:2"
+  ],
+  "uk": "Масова скорбота",
+  "key": "3fbf215bebe1"
+ },
+ {
+  "id": 64,
+  "where": "mass weakness",
+  "cells": [
+   "64:1",
+   "64:2"
+  ],
+  "uk": "Масова слабкість",
+  "key": "82c26d4f666e"
+ },
+ {
+  "id": 65,
+  "where": "summon demon",
+  "cells": [
+   "65:1",
+   "145:1"
+  ],
+  "uk": "Виклик крижаного демона",
+  "key": "4c70be23e4fa"
+ },
+ {
+  "id": 66,
+  "where": "summon demon",
+  "cells": [
+   "65:2",
+   "145:2"
+  ],
+  "uk": "Крижаний демон",
+  "key": "e660ac963dcb"
+ },
+ {
+  "id": 67,
+  "where": "vampiric touch",
+  "cells": [
+   "66:1",
+   "66:2"
+  ],
+  "uk": "Вампірський дотик",
+  "key": "eb488d94829b"
+ },
+ {
+  "id": 68,
+  "where": "hand of death",
+  "cells": [
+   "68:1",
+   "68:2"
+  ],
+  "uk": "Рука смерті",
+  "key": "6ae978485d42"
+ },
+ {
+  "id": 69,
+  "where": "raise vampires",
+  "cells": [
+   "69:1",
+   "69:2"
+  ],
+  "uk": "Підняти вампірів",
+  "key": "9e0258007e9c"
+ },
+ {
+  "id": 70,
+  "where": "sacrifice",
+  "cells": [
+   "70:1",
+   "70:2",
+   "71:1",
+   "71:2"
+  ],
+  "uk": "Жертва",
+  "key": "2e94553c2bb3"
+ },
+ {
+  "id": 71,
+  "where": "stone_gaze",
+  "cells": [
+   "72:1",
+   "72:2"
+  ],
+  "uk": "Кам'яний погляд",
+  "key": "0eef8d9f4323"
+ },
+ {
+  "id": 72,
+  "where": "bind wound",
+  "cells": [
+   "74:1",
+   "74:2"
+  ],
+  "uk": "Перев'язати рану",
+  "key": "6c3cb4fbcc20"
+ },
+ {
+  "id": 73,
+  "where": "bless",
+  "cells": [
+   "75:1",
+   "75:2"
+  ],
+  "uk": "Благословення",
+  "key": "caac95b51c07"
+ },
+ {
+  "id": 74,
+  "where": "cold resistance",
+  "cells": [
+   "76:1",
+   "76:2"
+  ],
+  "uk": "Опір холоду",
+  "key": "bdf1a002d0a3"
+ },
+ {
+  "id": 75,
+  "where": "exorcism",
+  "cells": [
+   "77:1",
+   "77:2"
+  ],
+  "uk": "Екзорцизм",
+  "key": "2b053c965877"
+ },
+ {
+  "id": 76,
+  "where": "fire resistance",
+  "cells": [
+   "78:1",
+   "78:2"
+  ],
+  "uk": "Опір вогню",
+  "key": "a31e37313d09"
+ },
+ {
+  "id": 77,
+  "where": "holy armor",
+  "cells": [
+   "79:1",
+   "79:2"
+  ],
+  "uk": "Духовний обладунок",
+  "key": "64688ba10a2d"
+ },
+ {
+  "id": 78,
+  "where": "holy word",
+  "cells": [
+   "80:1",
+   "80:2"
+  ],
+  "uk": "Святе слово",
+  "key": "6cb38e659889"
+ },
+ {
+  "id": 79,
+  "where": "morale",
+  "cells": [
+   "81:1",
+   "81:2"
+  ],
+  "uk": "Бойовий дух",
+  "key": "6c37e68def22"
+ },
+ {
+  "id": 80,
+  "where": "physical protection",
+  "cells": [
+   "82:1",
+   "82:2"
+  ],
+  "uk": "Безтілесність",
+  "key": "4a2396068019"
+ },
+ {
+  "id": 81,
+  "where": "ranged protection",
+  "cells": [
+   "83:1",
+   "83:2"
+  ],
+  "uk": "Захист від стріл",
+  "key": "04e3ef3b23cd"
+ },
+ {
+  "id": 82,
+  "where": "simple healing",
+  "cells": [
+   "84:1",
+   "84:2",
+   "88:1",
+   "88:2"
+  ],
+  "uk": "Зцілення",
+  "key": "c166015199fe"
+ },
+ {
+  "id": 83,
+  "where": "summon boat",
+  "cells": [
+   "85:1",
+   "85:2"
+  ],
+  "uk": "Виклик корабля",
+  "key": "bfc92b926044"
+ },
+ {
+  "id": 84,
+  "where": "celestial armor",
+  "cells": [
+   "86:1",
+   "86:2"
+  ],
+  "uk": "Небесний щит",
+  "key": "aa3a3b404db1"
+ },
+ {
+  "id": 85,
+  "where": "divine protection",
+  "cells": [
+   "87:1",
+   "87:2"
+  ],
+  "uk": "Захисник",
+  "key": "35f266084583"
+ },
+ {
+  "id": 86,
+  "where": "holy retribution",
+  "cells": [
+   "89:1",
+   "89:2"
+  ],
+  "uk": "Відплата",
+  "key": "8366443a8650"
+ },
+ {
+  "id": 87,
+  "where": "holy water",
+  "cells": [
+   "90:1",
+   "90:2"
+  ],
+  "uk": "Свята вода",
+  "key": "ad90698ef0c3"
+ },
+ {
+  "id": 88,
+  "where": "martyr",
+  "cells": [
+   "91:1",
+   "91:2"
+  ],
+  "uk": "Мученик",
+  "key": "e77903891b19"
+ },
+ {
+  "id": 89,
+  "where": "protection from chaos",
+  "cells": [
+   "92:1",
+   "92:2"
+  ],
+  "uk": "Оберіг від Хаосу",
+  "key": "7cc9f5e1340a"
+ },
+ {
+  "id": 90,
+  "where": "protection from death",
+  "cells": [
+   "93:1",
+   "93:2"
+  ],
+  "uk": "Оберіг від Смерті",
+  "key": "9988fbebd12f"
+ },
+ {
+  "id": 91,
+  "where": "protection from life",
+  "cells": [
+   "94:1",
+   "94:2"
+  ],
+  "uk": "Оберіг від Життя",
+  "key": "503887e4b5ed"
+ },
+ {
+  "id": 92,
+  "where": "protection from nature",
+  "cells": [
+   "95:1",
+   "95:2"
+  ],
+  "uk": "Оберіг від Природи",
+  "key": "78409793f686"
+ },
+ {
+  "id": 93,
+  "where": "protection from order",
+  "cells": [
+   "96:1",
+   "96:2"
+  ],
+  "uk": "Оберіг від Порядку",
+  "key": "82356fa899f8"
+ },
+ {
+  "id": 94,
+  "where": "song of peace",
+  "cells": [
+   "97:1",
+   "97:2"
+  ],
+  "uk": "Пісня миру",
+  "key": "f79316b16898"
+ },
+ {
+  "id": 95,
+  "where": "spiritual fervor",
+  "cells": [
+   "98:1",
+   "98:2"
+  ],
+  "uk": "Веселощі",
+  "key": "653a17596d50"
+ },
+ {
+  "id": 96,
+  "where": "divine aura",
+  "cells": [
+   "99:1",
+   "99:2"
+  ],
+  "uk": "Небесний обладунок",
+  "key": "650c894540b8"
+ },
+ {
+  "id": 97,
+  "where": "divine retribution",
+  "cells": [
+   "100:1",
+   "100:2"
+  ],
+  "uk": "Святий клич",
+  "key": "12337dc40fb4"
+ },
+ {
+  "id": 98,
+  "where": "mass bless",
+  "cells": [
+   "101:1",
+   "101:2"
+  ],
+  "uk": "Масове благословення",
+  "key": "4f1babf33ec4"
+ },
+ {
+  "id": 99,
+  "where": "mass healing",
+  "cells": [
+   "102:1",
+   "102:2"
+  ],
+  "uk": "Масове зцілення",
+  "key": "03f97bae8396"
+ },
+ {
+  "id": 100,
+  "where": "regeneration",
+  "cells": [
+   "103:1",
+   "103:2"
+  ],
+  "uk": "Регенерація",
+  "key": "506eb98f49ae"
+ },
+ {
+  "id": 101,
+  "where": "mass exorcism",
+  "cells": [
+   "104:1",
+   "104:2"
+  ],
+  "uk": "Масовий екзорцизм",
+  "key": "37652c675106"
+ },
+ {
+  "id": 102,
+  "where": "mass protection from chaos",
+  "cells": [
+   "105:1",
+   "105:2"
+  ],
+  "uk": "Масовий оберіг від Хаосу",
+  "key": "abf7c87f9f1a"
+ },
+ {
+  "id": 103,
+  "where": "mass protection from death",
+  "cells": [
+   "106:1",
+   "106:2"
+  ],
+  "uk": "Масовий оберіг від Смерті",
+  "key": "826803f08aa4"
+ },
+ {
+  "id": 104,
+  "where": "mass protection from nature",
+  "cells": [
+   "107:1",
+   "107:2"
+  ],
+  "uk": "Масовий оберіг від Природи",
+  "key": "4b213096415d"
+ },
+ {
+  "id": 105,
+  "where": "mass protection from order",
+  "cells": [
+   "108:1",
+   "108:2"
+  ],
+  "uk": "Масовий оберіг від Порядку",
+  "key": "886a548c2b60"
+ },
+ {
+  "id": 106,
+  "where": "mass spiritual fervor",
+  "cells": [
+   "109:1",
+   "109:2"
+  ],
+  "uk": "Масові веселощі",
+  "key": "93eed4cd2511"
+ },
+ {
+  "id": 107,
+  "where": "prayer",
+  "cells": [
+   "110:1",
+   "110:2"
+  ],
+  "uk": "Молитва",
+  "key": "8c4f3272183b"
+ },
+ {
+  "id": 108,
+  "where": "divine intervention",
+  "cells": [
+   "111:1",
+   "111:2"
+  ],
+  "uk": "Божественне втручання",
+  "key": "e22b137c2065"
+ },
+ {
+  "id": 109,
+  "where": "guardian angel",
+  "cells": [
+   "112:1",
+   "112:2"
+  ],
+  "uk": "Янгол-охоронець",
+  "key": "ccea2bd972ae"
+ },
+ {
+  "id": 110,
+  "where": "immortality",
+  "cells": [
+   "113:1",
+   "113:2"
+  ],
+  "uk": "Безсмертя",
+  "key": "7778b4161443"
+ },
+ {
+  "id": 111,
+  "where": "rebirth",
+  "cells": [
+   "114:1",
+   "114:2"
+  ],
+  "uk": "Відродження",
+  "key": "89992da5b314"
+ },
+ {
+  "id": 112,
+  "where": "resurrection",
+  "cells": [
+   "115:1",
+   "115:2"
+  ],
+  "uk": "Воскресіння",
+  "key": "a19b05f05155"
+ },
+ {
+  "id": 113,
+  "where": "sanctuary",
+  "cells": [
+   "116:1",
+   "116:2"
+  ],
+  "uk": "Святилище",
+  "key": "826239c2d82a"
+ },
+ {
+  "id": 114,
+  "where": "binding",
+  "cells": [
+   "117:1",
+   "117:2"
+  ],
+  "uk": "Сковування",
+  "key": "7f0043e684cc"
+ },
+ {
+  "id": 115,
+  "where": "giant strength",
+  "cells": [
+   "118:1",
+   "118:2"
+  ],
+  "uk": "Сила велетня",
+  "key": "909f291c04a1"
+ },
+ {
+  "id": 116,
+  "where": "health boost",
+  "cells": [
+   "119:1",
+   "119:2"
+  ],
+  "uk": "Здоров'я",
+  "key": "3703cd216881"
+ },
+ {
+  "id": 117,
+  "where": "luck",
+  "cells": [
+   "120:1",
+   "120:2"
+  ],
+  "uk": "Удача",
+  "key": "1c295a8aa571"
+ },
+ {
+  "id": 118,
+  "where": "nature haste",
+  "cells": [
+   "121:1",
+   "121:2"
+  ],
+  "uk": "Швидкість",
+  "key": "2d2cb022bc3d"
+ },
+ {
+  "id": 119,
+  "where": "pathfinding",
+  "cells": [
+   "122:1",
+   "122:2"
+  ],
+  "uk": "Шляхопрокладання",
+  "key": "a131d9c2d55f"
+ },
+ {
+  "id": 120,
+  "where": "stoneskin",
+  "cells": [
+   "123:1",
+   "123:2"
+  ],
+  "uk": "Кам'яна шкіра",
+  "key": "aa2d5357ba44"
+ },
+ {
+  "id": 121,
+  "where": "strength",
+  "cells": [
+   "124:1",
+   "124:2"
+  ],
+  "uk": "Сила",
+  "key": "24d3e4fdd9a8"
+ },
+ {
+  "id": 122,
+  "where": "summon imps",
+  "cells": [
+   "125:1",
+   "125:2"
+  ],
+  "uk": "Виклик бісів",
+  "key": "c3c20691dd3c"
+ },
+ {
+  "id": 123,
+  "where": "summon leprechaun",
+  "cells": [
+   "126:1"
+  ],
+  "uk": "Виклик лепреконів",
+  "key": "c5a77b3e581c"
+ },
+ {
+  "id": 124,
+  "where": "summon leprechaun",
+  "cells": [
+   "126:2"
+  ],
+  "uk": "Лепрекон",
+  "key": "e3f363b5a9e8"
+ },
+ {
+  "id": 125,
+  "where": "summon sprite",
+  "cells": [
+   "127:1",
+   "127:2"
+  ],
+  "uk": "Виклик фей",
+  "key": "ec4de1982d7c"
+ },
+ {
+  "id": 126,
+  "where": "summon wolf",
+  "cells": [
+   "128:1",
+   "128:2"
+  ],
+  "uk": "Виклик вовків",
+  "key": "2776a225cc89"
+ },
+ {
+  "id": 127,
+  "where": "terrain walk",
+  "cells": [
+   "129:1",
+   "129:2"
+  ],
+  "uk": "Хода місцевістю",
+  "key": "71b1ea04f011"
+ },
+ {
+  "id": 128,
+  "where": "fortune",
+  "cells": [
+   "130:1",
+   "130:2"
+  ],
+  "uk": "Фортуна",
+  "key": "7517bda593c3"
+ },
+ {
+  "id": 129,
+  "where": "magic resistance",
+  "cells": [
+   "131:1",
+   "131:2"
+  ],
+  "uk": "Опір магії",
+  "key": "2d2d6fb66d35"
+ },
+ {
+  "id": 130,
+  "where": "quicksand",
+  "cells": [
+   "132:1",
+   "132:2"
+  ],
+  "uk": "Сипучі піски",
+  "key": "87c83dd2029a"
+ },
+ {
+  "id": 131,
+  "where": "rock growth",
+  "cells": [
+   "133:1",
+   "133:2"
+  ],
+  "uk": "Кам'яна стіна",
+  "key": "413409f36ffe"
+ },
+ {
+  "id": 132,
+  "where": "snake strike",
+  "cells": [
+   "134:1",
+   "134:2"
+  ],
+  "uk": "Зміїний удар",
+  "key": "240fc908f112"
+ },
+ {
+  "id": 133,
+  "where": "summon cerberus",
+  "cells": [
+   "135:1"
+  ],
+  "uk": "Виклик церберів",
+  "key": "b340a4f8db07"
+ },
+ {
+  "id": 134,
+  "where": "summon cerberus",
+  "cells": [
+   "135:2"
+  ],
+  "uk": "Цербер",
+  "key": "4f5aae5c8a8d"
+ },
+ {
+  "id": 135,
+  "where": "summon elf",
+  "cells": [
+   "136:1",
+   "136:2"
+  ],
+  "uk": "Виклик ельфів",
+  "key": "123bb5ce75e7"
+ },
+ {
+  "id": 136,
+  "where": "summon satyr",
+  "cells": [
+   "137:1"
+  ],
+  "uk": "Виклик сатирів",
+  "key": "7d76c3773735"
+ },
+ {
+  "id": 137,
+  "where": "summon satyr",
+  "cells": [
+   "137:2"
+  ],
+  "uk": "Сатир",
+  "key": "86152615dadb"
+ },
+ {
+  "id": 138,
+  "where": "summon stinkbug",
+  "cells": [
+   "138:1",
+   "138:2"
+  ],
+  "uk": "Осиний рій",
+  "key": "306b533f9829"
+ },
+ {
+  "id": 139,
+  "where": "summon tiger",
+  "cells": [
+   "139:1"
+  ],
+  "uk": "Виклик білих тигрів",
+  "key": "0f8ce7188fb9"
+ },
+ {
+  "id": 140,
+  "where": "summon tiger",
+  "cells": [
+   "139:2"
+  ],
+  "uk": "Білий тигр",
+  "key": "6e65f6e71742"
+ },
+ {
+  "id": 141,
+  "where": "anti magic",
+  "cells": [
+   "140:1",
+   "140:2"
+  ],
+  "uk": "Антимагія",
+  "key": "aa4737d43b89"
+ },
+ {
+  "id": 142,
+  "where": "mass haste",
+  "cells": [
+   "141:1",
+   "141:2"
+  ],
+  "uk": "Масова швидкість",
+  "key": "91aa30afe0ba"
+ },
+ {
+  "id": 143,
+  "where": "summon air elemental",
+  "cells": [
+   "142:1"
+  ],
+  "uk": "Виклик повітряного елементаля",
+  "key": "1c2c7dfd0a88"
+ },
+ {
+  "id": 144,
+  "where": "summon air elemental",
+  "cells": [
+   "142:2"
+  ],
+  "uk": "Повітряний елементаль",
+  "key": "ceda38a9ac88"
+ },
+ {
+  "id": 145,
+  "where": "summon earth elemental",
+  "cells": [
+   "143:1"
+  ],
+  "uk": "Виклик земляного елементаля",
+  "key": "0cf35eb98c0f"
+ },
+ {
+  "id": 146,
+  "where": "summon earth elemental",
+  "cells": [
+   "143:2"
+  ],
+  "uk": "Земляний елементаль",
+  "key": "55a9e1bb934d"
+ },
+ {
+  "id": 147,
+  "where": "summon fire elemental",
+  "cells": [
+   "144:1"
+  ],
+  "uk": "Виклик вогняного елементаля",
+  "key": "85e68394a074"
+ },
+ {
+  "id": 148,
+  "where": "summon fire elemental",
+  "cells": [
+   "144:2"
+  ],
+  "uk": "Вогняний елементаль",
+  "key": "77c3f1b31300"
+ },
+ {
+  "id": 149,
+  "where": "summon water elemental",
+  "cells": [
+   "146:1"
+  ],
+  "uk": "Виклик водяного елементаля",
+  "key": "a45aac2e9ad6"
+ },
+ {
+  "id": 150,
+  "where": "summon water elemental",
+  "cells": [
+   "146:2"
+  ],
+  "uk": "Водяний елементаль",
+  "key": "889aa85f651e"
+ },
+ {
+  "id": 151,
+  "where": "water walk",
+  "cells": [
+   "147:1",
+   "147:2"
+  ],
+  "uk": "Хода по воді",
+  "key": "3240fea8e7a7"
+ },
+ {
+  "id": 152,
+  "where": "sacred ground",
+  "cells": [
+   "148:1",
+   "148:2"
+  ],
+  "uk": "Оберіг від некромантії",
+  "key": "9051db74ae1c"
+ },
+ {
+  "id": 153,
+  "where": "mass fortune",
+  "cells": [
+   "149:1",
+   "149:2"
+  ],
+  "uk": "Масова фортуна",
+  "key": "1536c154e1fa"
+ },
+ {
+  "id": 154,
+  "where": "mass snake strike",
+  "cells": [
+   "150:1"
+  ],
+  "uk": "Масовий зміїний удар",
+  "key": "6b32d5cd8870"
+ },
+ {
+  "id": 155,
+  "where": "mass snake strike",
+  "cells": [
+   "150:2"
+  ],
+  "uk": "Масовий удар",
+  "key": "18ff398a389f"
+ },
+ {
+  "id": 156,
+  "where": "summon griffin",
+  "cells": [
+   "151:1",
+   "151:2"
+  ],
+  "uk": "Виклик ґрифонів",
+  "key": "cee17c5e2b5d"
+ },
+ {
+  "id": 157,
+  "where": "summon unicorn",
+  "cells": [
+   "152:1",
+   "152:2"
+  ],
+  "uk": "Виклик єдинорогів",
+  "key": "3b56a54c3ac4"
+ },
+ {
+  "id": 158,
+  "where": "summon venom spawn",
+  "cells": [
+   "153:1"
+  ],
+  "uk": "Виклик отруйного поріддя",
+  "key": "1cee214d04dc"
+ },
+ {
+  "id": 159,
+  "where": "summon venom spawn",
+  "cells": [
+   "153:2"
+  ],
+  "uk": "Отруйне поріддя",
+  "key": "0fdb59bba40d"
+ },
+ {
+  "id": 160,
+  "where": "summon_waspwort",
+  "cells": [
+   "154:1",
+   "154:2"
+  ],
+  "uk": "Виклик осокрутів",
+  "key": "31650d622255"
+ },
+ {
+  "id": 161,
+  "where": "dragon strength",
+  "cells": [
+   "155:1",
+   "155:2"
+  ],
+  "uk": "Сила дракона",
+  "key": "8c600fed0975"
+ },
+ {
+  "id": 162,
+  "where": "summon devils",
+  "cells": [
+   "156:1",
+   "156:2"
+  ],
+  "uk": "Виклик дияволів",
+  "key": "62ff7a2882ee"
+ },
+ {
+  "id": 163,
+  "where": "summon faerie dragon",
+  "cells": [
+   "157:1"
+  ],
+  "uk": "Виклик чарівних драконів",
+  "key": "81b48e8a44a5"
+ },
+ {
+  "id": 164,
+  "where": "summon faerie dragon",
+  "cells": [
+   "157:2"
+  ],
+  "uk": "Чарівний дракон",
+  "key": "8605a0095c10"
+ },
+ {
+  "id": 165,
+  "where": "summon mantis",
+  "cells": [
+   "158:1",
+   "158:2"
+  ],
+  "uk": "Виклик богомолів",
+  "key": "1a7ce6fc6d69"
+ },
+ {
+  "id": 166,
+  "where": "summon phoenix",
+  "cells": [
+   "159:1",
+   "159:2"
+  ],
+  "uk": "Виклик фенікса",
+  "key": "b4219ab8f8dc"
+ },
+ {
+  "id": 167,
+  "where": "bind flyer",
+  "cells": [
+   "160:1",
+   "160:2"
+  ],
+  "uk": "Скувати летючих",
+  "key": "724b009eb065"
+ },
+ {
+  "id": 168,
+  "where": "blur",
+  "cells": [
+   "161:1",
+   "161:2"
+  ],
+  "uk": "Розмиття",
+  "key": "900aa998d355"
+ },
+ {
+  "id": 169,
+  "where": "dispel",
+  "cells": [
+   "162:1",
+   "162:2"
+  ],
+  "uk": "Розвіяти чари",
+  "key": "ef9db2dd866d"
+ },
+ {
+  "id": 170,
+  "where": "displacement",
+  "cells": [
+   "163:1",
+   "163:2"
+  ],
+  "uk": "Зсув",
+  "key": "3d6fb67a37bc"
+ },
+ {
+  "id": 171,
+  "where": "magic fist",
+  "cells": [
+   "164:1",
+   "164:2"
+  ],
+  "uk": "Магічний кулак",
+  "key": "6d6a92fbc6ec"
+ },
+ {
+  "id": 172,
+  "where": "precision",
+  "cells": [
+   "165:1",
+   "165:2"
+  ],
+  "uk": "Влучність",
+  "key": "3dd4db5ce7ea"
+ },
+ {
+  "id": 173,
+  "where": "precognition",
+  "cells": [
+   "166:1",
+   "166:2"
+  ],
+  "uk": "Передбачення",
+  "key": "d1cda711a4cf"
+ },
+ {
+  "id": 174,
+  "where": "endurance",
+  "cells": [
+   "167:1",
+   "167:2"
+  ],
+  "uk": "Витривалість",
+  "key": "cf6427142652"
+ },
+ {
+  "id": 175,
+  "where": "stun",
+  "cells": [
+   "168:1",
+   "168:2"
+  ],
+  "uk": "Оглушення",
+  "key": "d97664aa1386"
+ },
+ {
+  "id": 176,
+  "where": "visions",
+  "cells": [
+   "169:1",
+   "169:2"
+  ],
+  "uk": "Видіння",
+  "key": "99014e48cbce"
+ },
+ {
+  "id": 177,
+  "where": "cowardice",
+  "cells": [
+   "170:1",
+   "170:2"
+  ],
+  "uk": "Боягузтво",
+  "key": "39892c7627b6"
+ },
+ {
+  "id": 178,
+  "where": "flight",
+  "cells": [
+   "171:1",
+   "171:2"
+  ],
+  "uk": "Політ",
+  "key": "f6d700f5f3de"
+ },
+ {
+  "id": 179,
+  "where": "ice bolt",
+  "cells": [
+   "172:1",
+   "172:2"
+  ],
+  "uk": "Крижана стріла",
+  "key": "ecd7625b7a76"
+ },
+ {
+  "id": 180,
+  "where": "illusionary ally",
+  "cells": [
+   "173:1",
+   "173:2"
+  ],
+  "uk": "Створити ілюзію",
+  "key": "b41c481bf10f"
+ },
+ {
+  "id": 181,
+  "where": "order slow",
+  "cells": [
+   "174:1",
+   "174:2"
+  ],
+  "uk": "Сповільнення",
+  "key": "33dcec9ce454"
+ },
+ {
+  "id": 182,
+  "where": "power drain",
+  "cells": [
+   "175:1",
+   "175:2"
+  ],
+  "uk": "Висмоктування сили",
+  "key": "5c0001e9f05b"
+ },
+ {
+  "id": 183,
+  "where": "short hypnotism",
+  "cells": [
+   "176:1",
+   "176:2"
+  ],
+  "uk": "Чари",
+  "key": "e124e7077d3d"
+ },
+ {
+  "id": 184,
+  "where": "steal enchantment",
+  "cells": [
+   "177:1"
+  ],
+  "uk": "Викрасти чари",
+  "key": "78fc0391180f"
+ },
+ {
+  "id": 185,
+  "where": "steal enchantment",
+  "cells": [
+   "177:2"
+  ],
+  "uk": "Викрасти закляття",
+  "key": "e18c1a3b48ce"
+ },
+ {
+  "id": 186,
+  "where": "banish",
+  "cells": [
+   "178:1",
+   "178:2"
+  ],
+  "uk": "Вигнання",
+  "key": "34110212fafd"
+ },
+ {
+  "id": 187,
+  "where": "forgetfulness",
+  "cells": [
+   "179:1",
+   "179:2"
+  ],
+  "uk": "Забуття",
+  "key": "f13ac264e266"
+ },
+ {
+  "id": 188,
+  "where": "mass dispel",
+  "cells": [
+   "180:1",
+   "180:2"
+  ],
+  "uk": "Масове розвіяння",
+  "key": "b2b703003459"
+ },
+ {
+  "id": 189,
+  "where": "mass precision",
+  "cells": [
+   "181:1",
+   "181:2"
+  ],
+  "uk": "Масова влучність",
+  "key": "b4132accd793"
+ },
+ {
+  "id": 190,
+  "where": "mass_blur",
+  "cells": [
+   "182:1",
+   "182:2"
+  ],
+  "uk": "Масове розмиття",
+  "key": "eb42de0c0900"
+ },
+ {
+  "id": 191,
+  "where": "teleport",
+  "cells": [
+   "183:1",
+   "183:2"
+  ],
+  "uk": "Телепорт",
+  "key": "f9f57d40683e"
+ },
+ {
+  "id": 192,
+  "where": "town gate",
+  "cells": [
+   "184:1",
+   "184:2"
+  ],
+  "uk": "Міська брама",
+  "key": "a24469cf3c84"
+ },
+ {
+  "id": 193,
+  "where": "berserk",
+  "cells": [
+   "185:1",
+   "185:2"
+  ],
+  "uk": "Шал",
+  "key": "9ecca445cad6"
+ },
+ {
+  "id": 194,
+  "where": "blind",
+  "cells": [
+   "186:1",
+   "186:2"
+  ],
+  "uk": "Осліплення",
+  "key": "dff70db312cc"
+ },
+ {
+  "id": 195,
+  "where": "clone",
+  "cells": [
+   "187:1",
+   "187:2"
+  ],
+  "uk": "Фантом",
+  "key": "8d8ac9ac37fa"
+ },
+ {
+  "id": 196,
+  "where": "freeze",
+  "cells": [
+   "188:1",
+   "188:2"
+  ],
+  "uk": "Заморожувальна атака",
+  "key": "e15f0b12e155"
+ },
+ {
+  "id": 197,
+  "where": "frozen",
+  "cells": [
+   "189:1",
+   "189:2"
+  ],
+  "uk": "Заморожено",
+  "key": "939f868537a1"
+ },
+ {
+  "id": 198,
+  "where": "greater forgetfulness",
+  "cells": [
+   "190:1"
+  ],
+  "uk": "Масове забуття",
+  "key": "44df9d08c6f6"
+ },
+ {
+  "id": 199,
+  "where": "greater forgetfulness",
+  "cells": [
+   "190:2"
+  ],
+  "uk": "Масове забуття",
+  "key": "5cb8223d3808"
+ },
+ {
+  "id": 200,
+  "where": "mass slow",
+  "cells": [
+   "191:1",
+   "191:2"
+  ],
+  "uk": "Масове сповільнення",
+  "key": "05c1a3026548"
+ },
+ {
+  "id": 201,
+  "where": "hypnotize",
+  "cells": [
+   "192:1",
+   "192:2"
+  ],
+  "uk": "Гіпноз",
+  "key": "baadbb853b78"
+ },
+ {
+  "id": 202,
+  "where": "pain mirror",
+  "cells": [
+   "193:1",
+   "193:2"
+  ],
+  "uk": "Дзеркало болю",
+  "key": "c907bc5b3571"
+ },
+ {
+  "id": 203,
+  "where": "steal all enchantments",
+  "cells": [
+   "194:1"
+  ],
+  "uk": "Викрасти всі чари",
+  "key": "f0b324afee24"
+ },
+ {
+  "id": 204,
+  "where": "steal all enchantments",
+  "cells": [
+   "194:2"
+  ],
+  "uk": "Викрасти всі закляття",
+  "key": "0e6df93ee28d"
+ },
+ {
+  "id": 205,
+  "where": "robe_of_the_guardian",
+  "cells": [
+   "196:1"
+  ],
+  "uk": "Мантія охоронця",
+  "key": "5bd2b04fc9f0"
+ },
+ {
+  "id": 206,
+  "where": "robe_of_the_guardian",
+  "cells": [
+   "196:2"
+  ],
+  "uk": "Мантія охоронця",
+  "key": "bb86d5f105cb"
+ }
+]

@@ -1,0 +1,1631 @@
+[
+ {
+  "id": 0,
+  "where": "Keyword",
+  "cells": [
+   "0:1"
+  ],
+  "uk": "",
+  "key": "709a23220f2c"
+ },
+ {
+  "id": 1,
+  "where": "tactics_basic",
+  "cells": [
+   "1:1"
+  ],
+  "uk": "Базова тактика",
+  "key": "b460fda7f20a"
+ },
+ {
+  "id": 2,
+  "where": "tactics_advanced",
+  "cells": [
+   "2:1"
+  ],
+  "uk": "Поглиблена тактика",
+  "key": "f8733c3045c1"
+ },
+ {
+  "id": 3,
+  "where": "tactics_expert",
+  "cells": [
+   "3:1"
+  ],
+  "uk": "Експертна тактика",
+  "key": "ef14fb9b5f39"
+ },
+ {
+  "id": 4,
+  "where": "tactics_master",
+  "cells": [
+   "4:1"
+  ],
+  "uk": "Майстерна тактика",
+  "key": "064522484efc"
+ },
+ {
+  "id": 5,
+  "where": "tactics_grandmaster",
+  "cells": [
+   "5:1"
+  ],
+  "uk": "Довершена тактика",
+  "key": "75885aa1e892"
+ },
+ {
+  "id": 6,
+  "where": "offense_basic",
+  "cells": [
+   "6:1"
+  ],
+  "uk": "Базовий напад",
+  "key": "6323b4e1b521"
+ },
+ {
+  "id": 7,
+  "where": "offense_advanced",
+  "cells": [
+   "7:1"
+  ],
+  "uk": "Поглиблений напад",
+  "key": "cac28eb782eb"
+ },
+ {
+  "id": 8,
+  "where": "offense_expert",
+  "cells": [
+   "8:1"
+  ],
+  "uk": "Експертний напад",
+  "key": "0029bcb4ab77"
+ },
+ {
+  "id": 9,
+  "where": "offense_master",
+  "cells": [
+   "9:1"
+  ],
+  "uk": "Майстерний напад",
+  "key": "1c1053991a39"
+ },
+ {
+  "id": 10,
+  "where": "offense_grandmaster",
+  "cells": [
+   "10:1"
+  ],
+  "uk": "Довершений напад",
+  "key": "0ec09878aba2"
+ },
+ {
+  "id": 11,
+  "where": "defense_basic",
+  "cells": [
+   "11:1"
+  ],
+  "uk": "Базовий захист",
+  "key": "ff32e0ae69b3"
+ },
+ {
+  "id": 12,
+  "where": "defense_advanced",
+  "cells": [
+   "12:1"
+  ],
+  "uk": "Поглиблений захист",
+  "key": "83b243fd559f"
+ },
+ {
+  "id": 13,
+  "where": "defense_expert",
+  "cells": [
+   "13:1"
+  ],
+  "uk": "Експертний захист",
+  "key": "fb3329c58453"
+ },
+ {
+  "id": 14,
+  "where": "defense_master",
+  "cells": [
+   "14:1"
+  ],
+  "uk": "Майстерний захист",
+  "key": "8a67d179a91b"
+ },
+ {
+  "id": 15,
+  "where": "defense_grandmaster",
+  "cells": [
+   "15:1"
+  ],
+  "uk": "Довершений захист",
+  "key": "afce947bad3c"
+ },
+ {
+  "id": 16,
+  "where": "leadership_basic",
+  "cells": [
+   "16:1"
+  ],
+  "uk": "Базове лідерство",
+  "key": "fde5657a2fc4"
+ },
+ {
+  "id": 17,
+  "where": "leadership_advanced",
+  "cells": [
+   "17:1"
+  ],
+  "uk": "Поглиблене лідерство",
+  "key": "6b1321b0c508"
+ },
+ {
+  "id": 18,
+  "where": "leadership_expert",
+  "cells": [
+   "18:1"
+  ],
+  "uk": "Експертне лідерство",
+  "key": "97aa1c050531"
+ },
+ {
+  "id": 19,
+  "where": "leadership_master",
+  "cells": [
+   "19:1"
+  ],
+  "uk": "Майстерне лідерство",
+  "key": "cb99f77608ba"
+ },
+ {
+  "id": 20,
+  "where": "leadership_grandmaster",
+  "cells": [
+   "20:1"
+  ],
+  "uk": "Довершене лідерство",
+  "key": "76174bb99f9d"
+ },
+ {
+  "id": 21,
+  "where": "combat_basic",
+  "cells": [
+   "23:1"
+  ],
+  "uk": "Базовий ближній бій",
+  "key": "75f495300c79"
+ },
+ {
+  "id": 22,
+  "where": "combat_advanced",
+  "cells": [
+   "24:1"
+  ],
+  "uk": "Поглиблений ближній бій",
+  "key": "3c26cba9e51f"
+ },
+ {
+  "id": 23,
+  "where": "combat_expert",
+  "cells": [
+   "25:1"
+  ],
+  "uk": "Експертний ближній бій",
+  "key": "5452ecebb92b"
+ },
+ {
+  "id": 24,
+  "where": "combat_master",
+  "cells": [
+   "26:1"
+  ],
+  "uk": "Майстерний ближній бій",
+  "key": "df69e8a8dbe3"
+ },
+ {
+  "id": 25,
+  "where": "combat_grandmaster",
+  "cells": [
+   "27:1"
+  ],
+  "uk": "Довершений ближній бій",
+  "key": "556f85a0dc07"
+ },
+ {
+  "id": 26,
+  "where": "toughness_basic",
+  "cells": [
+   "28:1"
+  ],
+  "uk": "Базовий бій",
+  "key": "1447e9890c2a"
+ },
+ {
+  "id": 27,
+  "where": "toughness_advanced",
+  "cells": [
+   "29:1"
+  ],
+  "uk": "Поглиблений бій",
+  "key": "bb8be1df4298"
+ },
+ {
+  "id": 28,
+  "where": "toughness_expert",
+  "cells": [
+   "30:1"
+  ],
+  "uk": "Експертний бій",
+  "key": "2bc111e64b82"
+ },
+ {
+  "id": 29,
+  "where": "toughness_master",
+  "cells": [
+   "31:1"
+  ],
+  "uk": "Майстерний бій",
+  "key": "25ed8611f257"
+ },
+ {
+  "id": 30,
+  "where": "toughness_grandmaster",
+  "cells": [
+   "32:1"
+  ],
+  "uk": "Довершений бій",
+  "key": "3593b1a43524"
+ },
+ {
+  "id": 31,
+  "where": "archery_basic",
+  "cells": [
+   "33:1"
+  ],
+  "uk": "Базова стрільба з лука",
+  "key": "c365274c6384"
+ },
+ {
+  "id": 32,
+  "where": "archery_advanced",
+  "cells": [
+   "34:1"
+  ],
+  "uk": "Поглиблена стрільба з лука",
+  "key": "951f9c20bb42"
+ },
+ {
+  "id": 33,
+  "where": "archery_expert",
+  "cells": [
+   "35:1"
+  ],
+  "uk": "Експертна стрільба з лука",
+  "key": "49d9c633a269"
+ },
+ {
+  "id": 34,
+  "where": "archery_master",
+  "cells": [
+   "36:1"
+  ],
+  "uk": "Майстерна стрільба з лука",
+  "key": "cb0ea9692ed0"
+ },
+ {
+  "id": 35,
+  "where": "archery_grandmaster",
+  "cells": [
+   "37:1"
+  ],
+  "uk": "Довершена стрільба з лука",
+  "key": "a40ff4b7f473"
+ },
+ {
+  "id": 36,
+  "where": "resistance_basic",
+  "cells": [
+   "38:1"
+  ],
+  "uk": "Базовий опір магії",
+  "key": "92b9c76696e0"
+ },
+ {
+  "id": 37,
+  "where": "resistance_advanced",
+  "cells": [
+   "39:1"
+  ],
+  "uk": "Поглиблений опір магії",
+  "key": "97a3aa620db5"
+ },
+ {
+  "id": 38,
+  "where": "resistance_expert",
+  "cells": [
+   "40:1"
+  ],
+  "uk": "Експертний опір магії",
+  "key": "65cdd8b83b1b"
+ },
+ {
+  "id": 39,
+  "where": "resistance_master",
+  "cells": [
+   "41:1"
+  ],
+  "uk": "Майстерний опір магії",
+  "key": "01bbbf87303b"
+ },
+ {
+  "id": 40,
+  "where": "resistance_grandmaster",
+  "cells": [
+   "42:1"
+  ],
+  "uk": "Довершений опір магії",
+  "key": "a831f0193772"
+ },
+ {
+  "id": 41,
+  "where": "scouting_basic",
+  "cells": [
+   "45:1"
+  ],
+  "uk": "Базова розвідка",
+  "key": "78596d724757"
+ },
+ {
+  "id": 42,
+  "where": "scouting_advanced",
+  "cells": [
+   "46:1"
+  ],
+  "uk": "Поглиблена розвідка",
+  "key": "ed5f9363195d"
+ },
+ {
+  "id": 43,
+  "where": "scouting_expert",
+  "cells": [
+   "47:1"
+  ],
+  "uk": "Експертна розвідка",
+  "key": "897532055462"
+ },
+ {
+  "id": 44,
+  "where": "scouting_master",
+  "cells": [
+   "48:1"
+  ],
+  "uk": "Майстерна розвідка",
+  "key": "79e17ffba720"
+ },
+ {
+  "id": 45,
+  "where": "scouting_grandmaster",
+  "cells": [
+   "49:1"
+  ],
+  "uk": "Довершена розвідка",
+  "key": "506c577313b9"
+ },
+ {
+  "id": 46,
+  "where": "pathfinding_basic",
+  "cells": [
+   "50:1"
+  ],
+  "uk": "Базове шляхопрокладання",
+  "key": "1819ad589032"
+ },
+ {
+  "id": 47,
+  "where": "pathfinding_advanced",
+  "cells": [
+   "51:1"
+  ],
+  "uk": "Поглиблене шляхопрокладання",
+  "key": "720757b6f955"
+ },
+ {
+  "id": 48,
+  "where": "pathfinding_expert",
+  "cells": [
+   "52:1"
+  ],
+  "uk": "Експертне шляхопрокладання",
+  "key": "440547a8e1b2"
+ },
+ {
+  "id": 49,
+  "where": "pathfinding_master",
+  "cells": [
+   "53:1"
+  ],
+  "uk": "Майстерне шляхопрокладання",
+  "key": "8577cef84b7a"
+ },
+ {
+  "id": 50,
+  "where": "pathfinding_grandmaster",
+  "cells": [
+   "54:1"
+  ],
+  "uk": "Довершене шляхопрокладання",
+  "key": "cdbfa1053326"
+ },
+ {
+  "id": 51,
+  "where": "seamanship_basic",
+  "cells": [
+   "55:1"
+  ],
+  "uk": "Базове мореплавство",
+  "key": "88a28d4e0ecf"
+ },
+ {
+  "id": 52,
+  "where": "seamanship_advanced",
+  "cells": [
+   "56:1"
+  ],
+  "uk": "Поглиблене мореплавство",
+  "key": "f92e648dc546"
+ },
+ {
+  "id": 53,
+  "where": "seamanship_expert",
+  "cells": [
+   "57:1"
+  ],
+  "uk": "Експертне мореплавство",
+  "key": "f13bf6944a5d"
+ },
+ {
+  "id": 54,
+  "where": "seamanship_master",
+  "cells": [
+   "58:1"
+  ],
+  "uk": "Майстерне мореплавство",
+  "key": "1e94a3e70ecc"
+ },
+ {
+  "id": 55,
+  "where": "seamanship_grandmaster",
+  "cells": [
+   "59:1"
+  ],
+  "uk": "Довершене мореплавство",
+  "key": "57823a217492"
+ },
+ {
+  "id": 56,
+  "where": "stealth_basic",
+  "cells": [
+   "60:1"
+  ],
+  "uk": "Базова скритність",
+  "key": "2252462be45c"
+ },
+ {
+  "id": 57,
+  "where": "stealth_advanced",
+  "cells": [
+   "61:1"
+  ],
+  "uk": "Поглиблена скритність",
+  "key": "dc4477394fe5"
+ },
+ {
+  "id": 58,
+  "where": "stealth_expert",
+  "cells": [
+   "62:1"
+  ],
+  "uk": "Експертна скритність",
+  "key": "153117aadd44"
+ },
+ {
+  "id": 59,
+  "where": "stealth_master",
+  "cells": [
+   "63:1"
+  ],
+  "uk": "Майстерна скритність",
+  "key": "da063d642489"
+ },
+ {
+  "id": 60,
+  "where": "stealth_grandmaster",
+  "cells": [
+   "64:1"
+  ],
+  "uk": "Довершена скритність",
+  "key": "7731aec0399d"
+ },
+ {
+  "id": 61,
+  "where": "nobility_basic",
+  "cells": [
+   "67:1"
+  ],
+  "uk": "Базова шляхетність",
+  "key": "84a4b173d5b7"
+ },
+ {
+  "id": 62,
+  "where": "nobility_advanced",
+  "cells": [
+   "68:1"
+  ],
+  "uk": "Поглиблена шляхетність",
+  "key": "dad8eb34c7fc"
+ },
+ {
+  "id": 63,
+  "where": "nobility_expert",
+  "cells": [
+   "69:1"
+  ],
+  "uk": "Експертна шляхетність",
+  "key": "619ff48d2bbf"
+ },
+ {
+  "id": 64,
+  "where": "nobility_master",
+  "cells": [
+   "70:1"
+  ],
+  "uk": "Майстерна шляхетність",
+  "key": "3b92ca8aaaa8"
+ },
+ {
+  "id": 65,
+  "where": "nobility_grandmaster",
+  "cells": [
+   "71:1"
+  ],
+  "uk": "Довершена шляхетність",
+  "key": "23fa05dce3aa"
+ },
+ {
+  "id": 66,
+  "where": "estates_basic",
+  "cells": [
+   "72:1"
+  ],
+  "uk": "Базові маєтки",
+  "key": "c1682dabb91b"
+ },
+ {
+  "id": 67,
+  "where": "estates_advanced",
+  "cells": [
+   "73:1"
+  ],
+  "uk": "Поглиблені маєтки",
+  "key": "1d818ab048bd"
+ },
+ {
+  "id": 68,
+  "where": "estates_expert",
+  "cells": [
+   "74:1"
+  ],
+  "uk": "Експертні маєтки",
+  "key": "be512f27ff02"
+ },
+ {
+  "id": 69,
+  "where": "estates_master",
+  "cells": [
+   "75:1"
+  ],
+  "uk": "Майстерні маєтки",
+  "key": "e43af9d9b8f9"
+ },
+ {
+  "id": 70,
+  "where": "estates_grandmaster",
+  "cells": [
+   "76:1"
+  ],
+  "uk": "Довершені маєтки",
+  "key": "c35694065729"
+ },
+ {
+  "id": 71,
+  "where": "mining_basic",
+  "cells": [
+   "77:1"
+  ],
+  "uk": "Базове гірництво",
+  "key": "7db5c89a279f"
+ },
+ {
+  "id": 72,
+  "where": "mining_advanced",
+  "cells": [
+   "78:1"
+  ],
+  "uk": "Поглиблене гірництво",
+  "key": "4d3b98902dea"
+ },
+ {
+  "id": 73,
+  "where": "mining_expert",
+  "cells": [
+   "79:1"
+  ],
+  "uk": "Експертне гірництво",
+  "key": "e9920bc33c7f"
+ },
+ {
+  "id": 74,
+  "where": "mining_master",
+  "cells": [
+   "80:1"
+  ],
+  "uk": "Майстерне гірництво",
+  "key": "d67a654e84c0"
+ },
+ {
+  "id": 75,
+  "where": "mining_grandmaster",
+  "cells": [
+   "81:1"
+  ],
+  "uk": "Довершене гірництво",
+  "key": "be24bfdcdc80"
+ },
+ {
+  "id": 76,
+  "where": "diplomacy_basic",
+  "cells": [
+   "82:1"
+  ],
+  "uk": "Базова дипломатія",
+  "key": "ce2279b96396"
+ },
+ {
+  "id": 77,
+  "where": "diplomacy_advanced",
+  "cells": [
+   "83:1"
+  ],
+  "uk": "Поглиблена дипломатія",
+  "key": "fe349d016637"
+ },
+ {
+  "id": 78,
+  "where": "diplomacy_expert",
+  "cells": [
+   "84:1"
+  ],
+  "uk": "Експертна дипломатія",
+  "key": "ed51d0cf7670"
+ },
+ {
+  "id": 79,
+  "where": "diplomacy_master",
+  "cells": [
+   "85:1"
+  ],
+  "uk": "Майстерна дипломатія",
+  "key": "e4f78485de90"
+ },
+ {
+  "id": 80,
+  "where": "diplomacy_grandmaster",
+  "cells": [
+   "86:1"
+  ],
+  "uk": "Довершена дипломатія",
+  "key": "8e6f9c0954fe"
+ },
+ {
+  "id": 81,
+  "where": "life_basic",
+  "cells": [
+   "89:1"
+  ],
+  "uk": "Базова магія Життя",
+  "key": "5b744133972c"
+ },
+ {
+  "id": 82,
+  "where": "life_advanced",
+  "cells": [
+   "90:1"
+  ],
+  "uk": "Поглиблена магія Життя",
+  "key": "b7e57e1d330e"
+ },
+ {
+  "id": 83,
+  "where": "life_expert",
+  "cells": [
+   "91:1"
+  ],
+  "uk": "Експертна магія Життя",
+  "key": "78a4b58f5f20"
+ },
+ {
+  "id": 84,
+  "where": "life_master",
+  "cells": [
+   "92:1"
+  ],
+  "uk": "Майстерна магія Життя",
+  "key": "cf3a90d67023"
+ },
+ {
+  "id": 85,
+  "where": "life_grandmaster",
+  "cells": [
+   "93:1"
+  ],
+  "uk": "Довершена магія Життя",
+  "key": "01538eb1775b"
+ },
+ {
+  "id": 86,
+  "where": "healing_basic",
+  "cells": [
+   "94:1"
+  ],
+  "uk": "Базове цілительство",
+  "key": "b52eaa1cfb56"
+ },
+ {
+  "id": 87,
+  "where": "healing_advanced",
+  "cells": [
+   "95:1"
+  ],
+  "uk": "Поглиблене цілительство",
+  "key": "076375cd1ebc"
+ },
+ {
+  "id": 88,
+  "where": "healing_expert",
+  "cells": [
+   "96:1"
+  ],
+  "uk": "Експертне цілительство",
+  "key": "594f45cc8cfc"
+ },
+ {
+  "id": 89,
+  "where": "healing_master",
+  "cells": [
+   "97:1"
+  ],
+  "uk": "Майстерне цілительство",
+  "key": "d8e4662607e6"
+ },
+ {
+  "id": 90,
+  "where": "healing_grandmaster",
+  "cells": [
+   "98:1"
+  ],
+  "uk": "Довершене цілительство",
+  "key": "7c06611a642c"
+ },
+ {
+  "id": 91,
+  "where": "spirit_basic",
+  "cells": [
+   "99:1"
+  ],
+  "uk": "Базова духовність",
+  "key": "c71b99cf7f1e"
+ },
+ {
+  "id": 92,
+  "where": "spirit_advanced",
+  "cells": [
+   "100:1"
+  ],
+  "uk": "Поглиблена духовність",
+  "key": "77b17315db18"
+ },
+ {
+  "id": 93,
+  "where": "spirit_expert",
+  "cells": [
+   "101:1"
+  ],
+  "uk": "Експертна духовність",
+  "key": "8bf0db78e7c5"
+ },
+ {
+  "id": 94,
+  "where": "spirit_master",
+  "cells": [
+   "102:1"
+  ],
+  "uk": "Майстерна духовність",
+  "key": "92d09ea09eeb"
+ },
+ {
+  "id": 95,
+  "where": "spirit_grandmaster",
+  "cells": [
+   "103:1"
+  ],
+  "uk": "Довершена духовність",
+  "key": "e30519209382"
+ },
+ {
+  "id": 96,
+  "where": "resurrection_basic",
+  "cells": [
+   "104:1"
+  ],
+  "uk": "Базове воскресіння",
+  "key": "771cc6aa14b1"
+ },
+ {
+  "id": 97,
+  "where": "resurrection_advanced",
+  "cells": [
+   "105:1"
+  ],
+  "uk": "Поглиблене воскресіння",
+  "key": "2784188a2b87"
+ },
+ {
+  "id": 98,
+  "where": "resurrection_expert",
+  "cells": [
+   "106:1"
+  ],
+  "uk": "Експертне воскресіння",
+  "key": "6d903af746bd"
+ },
+ {
+  "id": 99,
+  "where": "resurrection_master",
+  "cells": [
+   "107:1"
+  ],
+  "uk": "Майстерне воскресіння",
+  "key": "2b6bdb056102"
+ },
+ {
+  "id": 100,
+  "where": "resurrection_grandmaster",
+  "cells": [
+   "108:1"
+  ],
+  "uk": "Довершене воскресіння",
+  "key": "70ad9756083e"
+ },
+ {
+  "id": 101,
+  "where": "order_basic",
+  "cells": [
+   "111:1"
+  ],
+  "uk": "Базова магія Порядку",
+  "key": "63aa2a76c22b"
+ },
+ {
+  "id": 102,
+  "where": "order_advanced",
+  "cells": [
+   "112:1"
+  ],
+  "uk": "Поглиблена магія Порядку",
+  "key": "757654e78f89"
+ },
+ {
+  "id": 103,
+  "where": "order_expert",
+  "cells": [
+   "113:1"
+  ],
+  "uk": "Експертна магія Порядку",
+  "key": "cabb6b9c9f75"
+ },
+ {
+  "id": 104,
+  "where": "order_master",
+  "cells": [
+   "114:1"
+  ],
+  "uk": "Майстерна магія Порядку",
+  "key": "fb0793b9921a"
+ },
+ {
+  "id": 105,
+  "where": "order_grandmaster",
+  "cells": [
+   "115:1"
+  ],
+  "uk": "Довершена магія Порядку",
+  "key": "a182a6b918ca"
+ },
+ {
+  "id": 106,
+  "where": "enchantment_basic",
+  "cells": [
+   "116:1"
+  ],
+  "uk": "Базове зачарування",
+  "key": "fdf922c65583"
+ },
+ {
+  "id": 107,
+  "where": "enchantment_advanced",
+  "cells": [
+   "117:1"
+  ],
+  "uk": "Поглиблене зачарування",
+  "key": "203de0dfd3fd"
+ },
+ {
+  "id": 108,
+  "where": "enchantment_expert",
+  "cells": [
+   "118:1"
+  ],
+  "uk": "Експертне зачарування",
+  "key": "df81ba7ee9e5"
+ },
+ {
+  "id": 109,
+  "where": "enchantment_master",
+  "cells": [
+   "119:1"
+  ],
+  "uk": "Майстерне зачарування",
+  "key": "129e4136f77e"
+ },
+ {
+  "id": 110,
+  "where": "enchantment_grandmaster",
+  "cells": [
+   "120:1"
+  ],
+  "uk": "Довершене зачарування",
+  "key": "be4d6bfc0e7b"
+ },
+ {
+  "id": 111,
+  "where": "mind_basic",
+  "cells": [
+   "121:1"
+  ],
+  "uk": "Базове чаклунство",
+  "key": "7c8a067fa67d"
+ },
+ {
+  "id": 112,
+  "where": "mind_advanced",
+  "cells": [
+   "122:1"
+  ],
+  "uk": "Поглиблене чаклунство",
+  "key": "414b602c7eb8"
+ },
+ {
+  "id": 113,
+  "where": "mind_expert",
+  "cells": [
+   "123:1"
+  ],
+  "uk": "Експертне чаклунство",
+  "key": "aa634b407510"
+ },
+ {
+  "id": 114,
+  "where": "mind_master",
+  "cells": [
+   "124:1"
+  ],
+  "uk": "Майстерне чаклунство",
+  "key": "c449fc0478c1"
+ },
+ {
+  "id": 115,
+  "where": "mind_grandmaster",
+  "cells": [
+   "125:1"
+  ],
+  "uk": "Довершене чаклунство",
+  "key": "f012af19ab18"
+ },
+ {
+  "id": 116,
+  "where": "charm_basic",
+  "cells": [
+   "126:1"
+  ],
+  "uk": "Базові чари",
+  "key": "803f7bd5b528"
+ },
+ {
+  "id": 117,
+  "where": "charm_advanced",
+  "cells": [
+   "127:1"
+  ],
+  "uk": "Поглиблені чари",
+  "key": "8441b427bca2"
+ },
+ {
+  "id": 118,
+  "where": "charm_expert",
+  "cells": [
+   "128:1"
+  ],
+  "uk": "Експертні чари",
+  "key": "d187e9ad99f6"
+ },
+ {
+  "id": 119,
+  "where": "charm_master",
+  "cells": [
+   "129:1"
+  ],
+  "uk": "Майстерні чари",
+  "key": "d2d90d731dce"
+ },
+ {
+  "id": 120,
+  "where": "charm_grandmaster",
+  "cells": [
+   "130:1"
+  ],
+  "uk": "Довершені чари",
+  "key": "5aed17f89d5c"
+ },
+ {
+  "id": 121,
+  "where": "death_basic",
+  "cells": [
+   "133:1"
+  ],
+  "uk": "Базова магія Смерті",
+  "key": "a7e712b02605"
+ },
+ {
+  "id": 122,
+  "where": "death_advanced",
+  "cells": [
+   "134:1"
+  ],
+  "uk": "Поглиблена магія Смерті",
+  "key": "3afee6b092c0"
+ },
+ {
+  "id": 123,
+  "where": "death_expert",
+  "cells": [
+   "135:1"
+  ],
+  "uk": "Експертна магія Смерті",
+  "key": "a044f4d6d9e2"
+ },
+ {
+  "id": 124,
+  "where": "death_master",
+  "cells": [
+   "136:1"
+  ],
+  "uk": "Майстерна магія Смерті",
+  "key": "5523e6038ee2"
+ },
+ {
+  "id": 125,
+  "where": "death_grandmaster",
+  "cells": [
+   "137:1"
+  ],
+  "uk": "Довершена магія Смерті",
+  "key": "96cfe35748ce"
+ },
+ {
+  "id": 126,
+  "where": "black_basic",
+  "cells": [
+   "138:1"
+  ],
+  "uk": "Базовий окультизм",
+  "key": "3bf593ad2a1a"
+ },
+ {
+  "id": 127,
+  "where": "black_advanced",
+  "cells": [
+   "139:1"
+  ],
+  "uk": "Поглиблений окультизм",
+  "key": "4ee5ecbc4123"
+ },
+ {
+  "id": 128,
+  "where": "black_expert",
+  "cells": [
+   "140:1"
+  ],
+  "uk": "Експертний окультизм",
+  "key": "88c26fb71ed2"
+ },
+ {
+  "id": 129,
+  "where": "black_master",
+  "cells": [
+   "141:1"
+  ],
+  "uk": "Майстерний окультизм",
+  "key": "348f9cf93841"
+ },
+ {
+  "id": 130,
+  "where": "black_grandmaster",
+  "cells": [
+   "142:1"
+  ],
+  "uk": "Довершений окультизм",
+  "key": "02cea3d76fb7"
+ },
+ {
+  "id": 131,
+  "where": "demonology_basic",
+  "cells": [
+   "143:1"
+  ],
+  "uk": "Базова демонологія",
+  "key": "11fdd8b23d4e"
+ },
+ {
+  "id": 132,
+  "where": "demonology_advanced",
+  "cells": [
+   "144:1"
+  ],
+  "uk": "Поглиблена демонологія",
+  "key": "4eb2b6f0e4ff"
+ },
+ {
+  "id": 133,
+  "where": "demonology_expert",
+  "cells": [
+   "145:1"
+  ],
+  "uk": "Експертна демонологія",
+  "key": "39b11a8b67f5"
+ },
+ {
+  "id": 134,
+  "where": "demonology_master",
+  "cells": [
+   "146:1"
+  ],
+  "uk": "Майстерна демонологія",
+  "key": "035264476e3e"
+ },
+ {
+  "id": 135,
+  "where": "demonology_grandmaster",
+  "cells": [
+   "147:1"
+  ],
+  "uk": "Довершена демонологія",
+  "key": "2831f058d2ca"
+ },
+ {
+  "id": 136,
+  "where": "necromancy_basic",
+  "cells": [
+   "148:1"
+  ],
+  "uk": "Базова некромантія",
+  "key": "11dee8a8fff7"
+ },
+ {
+  "id": 137,
+  "where": "necromancy_advanced",
+  "cells": [
+   "149:1"
+  ],
+  "uk": "Поглиблена некромантія",
+  "key": "205495561aa1"
+ },
+ {
+  "id": 138,
+  "where": "necromancy_expert",
+  "cells": [
+   "150:1"
+  ],
+  "uk": "Експертна некромантія",
+  "key": "51333241b2b2"
+ },
+ {
+  "id": 139,
+  "where": "necromancy_master",
+  "cells": [
+   "151:1"
+  ],
+  "uk": "Майстерна некромантія",
+  "key": "5f2537cb004b"
+ },
+ {
+  "id": 140,
+  "where": "necromancy_grandmaster",
+  "cells": [
+   "152:1"
+  ],
+  "uk": "Довершена некромантія",
+  "key": "586ef9d10e86"
+ },
+ {
+  "id": 141,
+  "where": "chaos_basic",
+  "cells": [
+   "155:1"
+  ],
+  "uk": "Базова магія Хаосу",
+  "key": "b6a8971def07"
+ },
+ {
+  "id": 142,
+  "where": "chaos_advanced",
+  "cells": [
+   "156:1"
+  ],
+  "uk": "Поглиблена магія Хаосу",
+  "key": "6cf0b17871d0"
+ },
+ {
+  "id": 143,
+  "where": "chaos_expert",
+  "cells": [
+   "157:1"
+  ],
+  "uk": "Експертна магія Хаосу",
+  "key": "755a6a83a82a"
+ },
+ {
+  "id": 144,
+  "where": "chaos_master",
+  "cells": [
+   "158:1"
+  ],
+  "uk": "Майстерна магія Хаосу",
+  "key": "b60832ac9340"
+ },
+ {
+  "id": 145,
+  "where": "chaos_grandmaster",
+  "cells": [
+   "159:1"
+  ],
+  "uk": "Довершена магія Хаосу",
+  "key": "b8083cabb909"
+ },
+ {
+  "id": 146,
+  "where": "conjuration_basic",
+  "cells": [
+   "160:1"
+  ],
+  "uk": "Базове заклинання",
+  "key": "520e8b4630f2"
+ },
+ {
+  "id": 147,
+  "where": "conjuration_advanced",
+  "cells": [
+   "161:1"
+  ],
+  "uk": "Поглиблене заклинання",
+  "key": "b15cacfb6e25"
+ },
+ {
+  "id": 148,
+  "where": "conjuration_expert",
+  "cells": [
+   "162:1"
+  ],
+  "uk": "Експертне заклинання",
+  "key": "0ad43e766381"
+ },
+ {
+  "id": 149,
+  "where": "conjuration_master",
+  "cells": [
+   "163:1"
+  ],
+  "uk": "Майстерне заклинання",
+  "key": "f66aca18075c"
+ },
+ {
+  "id": 150,
+  "where": "conjuration_grandmaster",
+  "cells": [
+   "164:1"
+  ],
+  "uk": "Довершене заклинання",
+  "key": "fbef5b5dbc19"
+ },
+ {
+  "id": 151,
+  "where": "pyromancy_basic",
+  "cells": [
+   "165:1"
+  ],
+  "uk": "Базова піромантія",
+  "key": "0c242893b579"
+ },
+ {
+  "id": 152,
+  "where": "pyromancy_advanced",
+  "cells": [
+   "166:1"
+  ],
+  "uk": "Поглиблена піромантія",
+  "key": "c513c4a6bd75"
+ },
+ {
+  "id": 153,
+  "where": "pyromancy_expert",
+  "cells": [
+   "167:1"
+  ],
+  "uk": "Експертна піромантія",
+  "key": "93fb9fc816f9"
+ },
+ {
+  "id": 154,
+  "where": "pyromancy_master",
+  "cells": [
+   "168:1"
+  ],
+  "uk": "Майстерна піромантія",
+  "key": "9cbcedfa7cf2"
+ },
+ {
+  "id": 155,
+  "where": "pyromancy_grandmaster",
+  "cells": [
+   "169:1"
+  ],
+  "uk": "Довершена піромантія",
+  "key": "44293d9cf6c4"
+ },
+ {
+  "id": 156,
+  "where": "sorcery_basic",
+  "cells": [
+   "170:1"
+  ],
+  "uk": "Базове ворожбитство",
+  "key": "6e42b3d9de4f"
+ },
+ {
+  "id": 157,
+  "where": "sorcery_advanced",
+  "cells": [
+   "171:1"
+  ],
+  "uk": "Поглиблене ворожбитство",
+  "key": "a2bdac4d19e5"
+ },
+ {
+  "id": 158,
+  "where": "sorcery_expert",
+  "cells": [
+   "172:1"
+  ],
+  "uk": "Експертне ворожбитство",
+  "key": "e6626b5c05b7"
+ },
+ {
+  "id": 159,
+  "where": "sorcery_master",
+  "cells": [
+   "173:1"
+  ],
+  "uk": "Майстерне ворожбитство",
+  "key": "2ec5452d6395"
+ },
+ {
+  "id": 160,
+  "where": "sorcery_grandmaster",
+  "cells": [
+   "174:1"
+  ],
+  "uk": "Довершене ворожбитство",
+  "key": "e33202621e89"
+ },
+ {
+  "id": 161,
+  "where": "nature_basic",
+  "cells": [
+   "177:1"
+  ],
+  "uk": "Базова магія Природи",
+  "key": "3196d4a3c6ca"
+ },
+ {
+  "id": 162,
+  "where": "nature_advanced",
+  "cells": [
+   "178:1"
+  ],
+  "uk": "Поглиблена магія Природи",
+  "key": "11bcb998f6c8"
+ },
+ {
+  "id": 163,
+  "where": "nature_expert",
+  "cells": [
+   "179:1"
+  ],
+  "uk": "Експертна магія Природи",
+  "key": "d38c03a2dec7"
+ },
+ {
+  "id": 164,
+  "where": "nature_master",
+  "cells": [
+   "180:1"
+  ],
+  "uk": "Майстерна магія Природи",
+  "key": "5d4fd76b8a8e"
+ },
+ {
+  "id": 165,
+  "where": "nature_grandmaster",
+  "cells": [
+   "181:1"
+  ],
+  "uk": "Довершена магія Природи",
+  "key": "1f98f6a7212c"
+ },
+ {
+  "id": 166,
+  "where": "herbalism_basic",
+  "cells": [
+   "182:1"
+  ],
+  "uk": "Базове травництво",
+  "key": "aa5d9481e3f3"
+ },
+ {
+  "id": 167,
+  "where": "herbalism_advanced",
+  "cells": [
+   "183:1"
+  ],
+  "uk": "Поглиблене травництво",
+  "key": "e9150c1d2c3b"
+ },
+ {
+  "id": 168,
+  "where": "herbalism_expert",
+  "cells": [
+   "184:1"
+  ],
+  "uk": "Експертне травництво",
+  "key": "17e611466e97"
+ },
+ {
+  "id": 169,
+  "where": "herbalism_master",
+  "cells": [
+   "185:1"
+  ],
+  "uk": "Майстерне травництво",
+  "key": "936e120f5aad"
+ },
+ {
+  "id": 170,
+  "where": "herbalism_grandmaster",
+  "cells": [
+   "186:1"
+  ],
+  "uk": "Довершене травництво",
+  "key": "42ab7c78a2c0"
+ },
+ {
+  "id": 171,
+  "where": "meditation_basic",
+  "cells": [
+   "187:1"
+  ],
+  "uk": "Базова медитація",
+  "key": "e1fe456fed27"
+ },
+ {
+  "id": 172,
+  "where": "meditation_advanced",
+  "cells": [
+   "188:1"
+  ],
+  "uk": "Поглиблена медитація",
+  "key": "464f88b1d382"
+ },
+ {
+  "id": 173,
+  "where": "meditation_expert",
+  "cells": [
+   "189:1"
+  ],
+  "uk": "Експертна медитація",
+  "key": "bb60f601ae9d"
+ },
+ {
+  "id": 174,
+  "where": "meditation_master",
+  "cells": [
+   "190:1"
+  ],
+  "uk": "Майстерна медитація",
+  "key": "17f6295eeb33"
+ },
+ {
+  "id": 175,
+  "where": "meditation_grandmaster",
+  "cells": [
+   "191:1"
+  ],
+  "uk": "Довершена медитація",
+  "key": "393e5bcb171a"
+ },
+ {
+  "id": 176,
+  "where": "summoning_basic",
+  "cells": [
+   "192:1"
+  ],
+  "uk": "Базовий виклик",
+  "key": "cd0c78d21395"
+ },
+ {
+  "id": 177,
+  "where": "summoning_advanced",
+  "cells": [
+   "193:1"
+  ],
+  "uk": "Поглиблений виклик",
+  "key": "5ab4a86cae6f"
+ },
+ {
+  "id": 178,
+  "where": "summoning_expert",
+  "cells": [
+   "194:1"
+  ],
+  "uk": "Експертний виклик",
+  "key": "6c9b34260eba"
+ },
+ {
+  "id": 179,
+  "where": "summoning_master",
+  "cells": [
+   "195:1"
+  ],
+  "uk": "Майстерний виклик",
+  "key": "1a86fd4ef126"
+ },
+ {
+  "id": 180,
+  "where": "summoning_grandmaster",
+  "cells": [
+   "196:1"
+  ],
+  "uk": "Довершений виклик",
+  "key": "48092d8089c1"
+ }
+]

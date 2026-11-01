@@ -1,0 +1,1964 @@
+[
+ {
+  "id": 0,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "1:1"
+  ],
+  "uk": "Драконячі двері",
+  "key": "8dc80ff51f6e"
+ },
+ {
+  "id": 1,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "2:1"
+  ],
+  "uk": "Таємний шлях",
+  "key": "653a2b3cb693"
+ },
+ {
+  "id": 2,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "3:1"
+  ],
+  "uk": "Портал містиків",
+  "key": "11bdf4917743"
+ },
+ {
+  "id": 3,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "4:1"
+  ],
+  "uk": "Притулок Іванана",
+  "key": "4638fa69f1b7"
+ },
+ {
+  "id": 4,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "5:1"
+  ],
+  "uk": "Брама духів",
+  "key": "fd0e691faeb0"
+ },
+ {
+  "id": 5,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "6:1"
+  ],
+  "uk": "Брама Драконячого Ока",
+  "key": "0422dcaa36bb"
+ },
+ {
+  "id": 6,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "7:1"
+  ],
+  "uk": "Загублений шлях",
+  "key": "c67d10adb72c"
+ },
+ {
+  "id": 7,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "8:1"
+  ],
+  "uk": "Втеча хитрого Корро",
+  "key": "b3c300f1118f"
+ },
+ {
+  "id": 8,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "9:1"
+  ],
+  "uk": "Відьмині двері",
+  "key": "e43302e94caf"
+ },
+ {
+  "id": 9,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "10:1"
+  ],
+  "uk": "Втеча герцога",
+  "key": "7939aaccb033"
+ },
+ {
+  "id": 10,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "11:1"
+  ],
+  "uk": "Химерний шлях",
+  "key": "a54a88c06b54"
+ },
+ {
+  "id": 11,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "12:1"
+  ],
+  "uk": "Мало хожена стежка",
+  "key": "1233149ef521"
+ },
+ {
+  "id": 12,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "13:1"
+  ],
+  "uk": "Крок скорботи",
+  "key": "57576d3a0858"
+ },
+ {
+  "id": 13,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "14:1"
+  ],
+  "uk": "Стрибок сліпця",
+  "key": "006eec9e0cbc"
+ },
+ {
+  "id": 14,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "15:1"
+  ],
+  "uk": "Портал гордого принца",
+  "key": "abf7f69fda8c"
+ },
+ {
+  "id": 15,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "16:1"
+  ],
+  "uk": "Портал без вороття",
+  "key": "c2d0141ad917"
+ },
+ {
+  "id": 16,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "17:1"
+  ],
+  "uk": "Двері узурпатора",
+  "key": "88ea988f204e"
+ },
+ {
+  "id": 17,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "18:1"
+  ],
+  "uk": "Портал короля Джуліара",
+  "key": "ad7403ba8624"
+ },
+ {
+  "id": 18,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "19:1"
+  ],
+  "uk": "Втеча розбійника",
+  "key": "ab665dd29879"
+ },
+ {
+  "id": 19,
+  "where": "Teleporter_Entrance",
+  "cells": [
+   "20:1"
+  ],
+  "uk": "Портал шукача знань",
+  "key": "0af201715225"
+ },
+ {
+  "id": 20,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "22:1"
+  ],
+  "uk": "Демонський мис",
+  "key": "0f8a0f7eea22"
+ },
+ {
+  "id": 21,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "23:1"
+  ],
+  "uk": "Двері ворога",
+  "key": "20b637da6b08"
+ },
+ {
+  "id": 22,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "24:1"
+  ],
+  "uk": "Прибуття примари",
+  "key": "860134f90f0a"
+ },
+ {
+  "id": 23,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "25:1"
+  ],
+  "uk": "Вихід Едма",
+  "key": "62ea7b8d965d"
+ },
+ {
+  "id": 24,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "26:1"
+  ],
+  "uk": "Святі двері",
+  "key": "76e24dc29967"
+ },
+ {
+  "id": 25,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "27:1"
+  ],
+  "uk": "Портал дослідника",
+  "key": "f3ad0bb11f6f"
+ },
+ {
+  "id": 26,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "28:1"
+  ],
+  "uk": "Дракон Тенролда",
+  "key": "94d5934aae9f"
+ },
+ {
+  "id": 27,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "29:1"
+  ],
+  "uk": "Лихі двері",
+  "key": "5797cfa25990"
+ },
+ {
+  "id": 28,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "30:1"
+  ],
+  "uk": "Брама загубленого пірата",
+  "key": "d7aa31d52948"
+ },
+ {
+  "id": 29,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "31:1"
+  ],
+  "uk": "Урочистий мис",
+  "key": "4f8908a901dd"
+ },
+ {
+  "id": 30,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "32:1"
+  ],
+  "uk": "Страхітливі двері",
+  "key": "7e09050c74ce"
+ },
+ {
+  "id": 31,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "33:1"
+  ],
+  "uk": "Мис Андаліон",
+  "key": "6329f321e10a"
+ },
+ {
+  "id": 32,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "34:1"
+  ],
+  "uk": "Мис Покинутих",
+  "key": "27e8ef6ab1e4"
+ },
+ {
+  "id": 33,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "35:1"
+  ],
+  "uk": "Драконячий замок",
+  "key": "cf228d83400b"
+ },
+ {
+  "id": 34,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "36:1"
+  ],
+  "uk": "Тиха брама",
+  "key": "939581db0426"
+ },
+ {
+  "id": 35,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "37:1"
+  ],
+  "uk": "Вихід старого короля",
+  "key": "bfbcbdeb1a28"
+ },
+ {
+  "id": 36,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "38:1"
+  ],
+  "uk": "Брама Армагеддону",
+  "key": "5ee115334267"
+ },
+ {
+  "id": 37,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "39:1"
+  ],
+  "uk": "Вихід Маранфеї",
+  "key": "0800d91595fe"
+ },
+ {
+  "id": 38,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "40:1"
+  ],
+  "uk": "Двері загибелі Давіта",
+  "key": "6441e03aa4fa"
+ },
+ {
+  "id": 39,
+  "where": "Teleporter_Exit",
+  "cells": [
+   "41:1"
+  ],
+  "uk": "Лускаті двері",
+  "key": "2a0534756ca7"
+ },
+ {
+  "id": 40,
+  "where": "Gateway",
+  "cells": [
+   "43:1"
+  ],
+  "uk": "Мовчазний перехід",
+  "key": "d03ce8f0cf4b"
+ },
+ {
+  "id": 41,
+  "where": "Gateway",
+  "cells": [
+   "44:1"
+  ],
+  "uk": "Двері голоду",
+  "key": "ab7c90771e8e"
+ },
+ {
+  "id": 42,
+  "where": "Gateway",
+  "cells": [
+   "45:1"
+  ],
+  "uk": "Шлях Лукана",
+  "key": "1dbf1853ec99"
+ },
+ {
+  "id": 43,
+  "where": "Gateway",
+  "cells": [
+   "46:1"
+  ],
+  "uk": "Стежка Унґтора",
+  "key": "4142efdb709d"
+ },
+ {
+  "id": 44,
+  "where": "Gateway",
+  "cells": [
+   "47:1"
+  ],
+  "uk": "Брама героя",
+  "key": "901d4f819bcd"
+ },
+ {
+  "id": 45,
+  "where": "Gateway",
+  "cells": [
+   "48:1"
+  ],
+  "uk": "Стара стежка",
+  "key": "8a0f97049ff6"
+ },
+ {
+  "id": 46,
+  "where": "Gateway",
+  "cells": [
+   "49:1"
+  ],
+  "uk": "Перехід Вераніана",
+  "key": "715c77201495"
+ },
+ {
+  "id": 47,
+  "where": "Gateway",
+  "cells": [
+   "50:1"
+  ],
+  "uk": "Брама перших ельфів",
+  "key": "d974e1b7a68b"
+ },
+ {
+  "id": 48,
+  "where": "Gateway",
+  "cells": [
+   "51:1"
+  ],
+  "uk": "Паща старих богів",
+  "key": "a1d7cfb8831c"
+ },
+ {
+  "id": 49,
+  "where": "Gateway",
+  "cells": [
+   "52:1"
+  ],
+  "uk": "Демонський зоб",
+  "key": "3d4beeceb322"
+ },
+ {
+  "id": 50,
+  "where": "Gateway",
+  "cells": [
+   "53:1"
+  ],
+  "uk": "Брама безнадії",
+  "key": "8a731b0f232e"
+ },
+ {
+  "id": 51,
+  "where": "Gateway",
+  "cells": [
+   "54:1"
+  ],
+  "uk": "Стежка болю",
+  "key": "bae5b0a9ed6b"
+ },
+ {
+  "id": 52,
+  "where": "Gateway",
+  "cells": [
+   "55:1"
+  ],
+  "uk": "Безумство Говта",
+  "key": "34ddade441a0"
+ },
+ {
+  "id": 53,
+  "where": "Gateway",
+  "cells": [
+   "56:1"
+  ],
+  "uk": "Багатосхідчасті двері",
+  "key": "a813a629c17f"
+ },
+ {
+  "id": 54,
+  "where": "Gateway",
+  "cells": [
+   "57:1"
+  ],
+  "uk": "Мрія мандрівника",
+  "key": "ac7b059c908c"
+ },
+ {
+  "id": 55,
+  "where": "Gateway",
+  "cells": [
+   "58:1"
+  ],
+  "uk": "Перехід мертвого короля",
+  "key": "7a07cc7e68c1"
+ },
+ {
+  "id": 56,
+  "where": "Gateway",
+  "cells": [
+   "59:1"
+  ],
+  "uk": "Двері барда",
+  "key": "8d21522e34a7"
+ },
+ {
+  "id": 57,
+  "where": "Gateway",
+  "cells": [
+   "60:1"
+  ],
+  "uk": "Брама заклинача",
+  "key": "2c052ca7629a"
+ },
+ {
+  "id": 58,
+  "where": "Gateway",
+  "cells": [
+   "61:1"
+  ],
+  "uk": "Притулок Сіндрела",
+  "key": "3d23df64df69"
+ },
+ {
+  "id": 59,
+  "where": "Gateway",
+  "cells": [
+   "62:1"
+  ],
+  "uk": "Брама велетнів",
+  "key": "85e668b6c9b6"
+ },
+ {
+  "id": 60,
+  "where": "Ferry",
+  "cells": [
+   "64:1"
+  ],
+  "uk": "Пором Куара",
+  "key": "d59b3590ec31"
+ },
+ {
+  "id": 61,
+  "where": "Ferry",
+  "cells": [
+   "65:1"
+  ],
+  "uk": "Причал Білих Гребенів",
+  "key": "67b11c59be55"
+ },
+ {
+  "id": 62,
+  "where": "Ferry",
+  "cells": [
+   "66:1"
+  ],
+  "uk": "Пором Холодної Води",
+  "key": "764ea2df904c"
+ },
+ {
+  "id": 63,
+  "where": "Ferry",
+  "cells": [
+   "67:1"
+  ],
+  "uk": "Водний шлях Джелії",
+  "key": "e1761239b078"
+ },
+ {
+  "id": 64,
+  "where": "Ferry",
+  "cells": [
+   "68:1"
+  ],
+  "uk": "Пором Залізного Тризуба",
+  "key": "b8e0ab285b37"
+ },
+ {
+  "id": 65,
+  "where": "Ferry",
+  "cells": [
+   "69:1"
+  ],
+  "uk": "Брід Морського Бога",
+  "key": "b45f49c8e532"
+ },
+ {
+  "id": 66,
+  "where": "Ferry",
+  "cells": [
+   "70:1"
+  ],
+  "uk": "Водний шлях Володаря Солі",
+  "key": "9e3fc162a1af"
+ },
+ {
+  "id": 67,
+  "where": "Ferry",
+  "cells": [
+   "71:1"
+  ],
+  "uk": "Швидкий Брід",
+  "key": "85385627da30"
+ },
+ {
+  "id": 68,
+  "where": "Ferry",
+  "cells": [
+   "72:1"
+  ],
+  "uk": "Водний шлях сирени",
+  "key": "3136c5407c2f"
+ },
+ {
+  "id": 69,
+  "where": "Ferry",
+  "cells": [
+   "73:1"
+  ],
+  "uk": "Пором Томма",
+  "key": "6e2b1926c6f5"
+ },
+ {
+  "id": 70,
+  "where": "Ferry",
+  "cells": [
+   "74:1"
+  ],
+  "uk": "Чарівний причал Берила",
+  "key": "93ac76eee734"
+ },
+ {
+  "id": 71,
+  "where": "Ferry",
+  "cells": [
+   "75:1"
+  ],
+  "uk": "Глибоководний причал",
+  "key": "698de141455e"
+ },
+ {
+  "id": 72,
+  "where": "Ferry",
+  "cells": [
+   "76:1"
+  ],
+  "uk": "Дивний причал Карли",
+  "key": "c1cdfe799921"
+ },
+ {
+  "id": 73,
+  "where": "Ferry",
+  "cells": [
+   "77:1"
+  ],
+  "uk": "Пором Альбатроса",
+  "key": "e3d59b64a0bb"
+ },
+ {
+  "id": 74,
+  "where": "Ferry",
+  "cells": [
+   "78:1"
+  ],
+  "uk": "Пором Утопленої Діви",
+  "key": "edf04f7db792"
+ },
+ {
+  "id": 75,
+  "where": "Ferry",
+  "cells": [
+   "79:1"
+  ],
+  "uk": "Водний шлях Королеви Вугрів",
+  "key": "4648253936a5"
+ },
+ {
+  "id": 76,
+  "where": "Ferry",
+  "cells": [
+   "80:1"
+  ],
+  "uk": "Брід Мактарна",
+  "key": "d653bb455453"
+ },
+ {
+  "id": 77,
+  "where": "Ferry",
+  "cells": [
+   "81:1"
+  ],
+  "uk": "Фермерський брід",
+  "key": "06203801349c"
+ },
+ {
+  "id": 78,
+  "where": "Ferry",
+  "cells": [
+   "82:1"
+  ],
+  "uk": "Брід біля Палаючого Мосту",
+  "key": "bd2906df8d1e"
+ },
+ {
+  "id": 79,
+  "where": "Ferry",
+  "cells": [
+   "83:1"
+  ],
+  "uk": "Водний шлях Останнього Шансу",
+  "key": "86571388d642"
+ },
+ {
+  "id": 80,
+  "where": "Life_Town",
+  "cells": [
+   "85:1"
+  ],
+  "uk": "Янгольський Мис",
+  "key": "3b3412bae9f0"
+ },
+ {
+  "id": 81,
+  "where": "Death_Town",
+  "cells": [
+   "86:1"
+  ],
+  "uk": "Еш-Фентон",
+  "key": "cf32ad85524e"
+ },
+ {
+  "id": 82,
+  "where": "Chaos_Town",
+  "cells": [
+   "87:1"
+  ],
+  "uk": "Пандемоніум",
+  "key": "6861ad5fe695"
+ },
+ {
+  "id": 83,
+  "where": "Order_Town",
+  "cells": [
+   "88:1"
+  ],
+  "uk": "Бенбрідж",
+  "key": "122aa6dd8635"
+ },
+ {
+  "id": 84,
+  "where": "Nature_Town",
+  "cells": [
+   "89:1"
+  ],
+  "uk": "Гадсон-Фолз",
+  "key": "33a3bd18631f"
+ },
+ {
+  "id": 85,
+  "where": "Might_Town",
+  "cells": [
+   "90:1"
+  ],
+  "uk": "Мерш",
+  "key": "65ce5890a487"
+ },
+ {
+  "id": 86,
+  "where": "Life_Town",
+  "cells": [
+   "91:1"
+  ],
+  "uk": "Провіденс",
+  "key": "e322b3eb1184"
+ },
+ {
+  "id": 87,
+  "where": "Death_Town",
+  "cells": [
+   "92:1"
+  ],
+  "uk": "Химера",
+  "key": "6c116124c3ed"
+ },
+ {
+  "id": 88,
+  "where": "Chaos_Town",
+  "cells": [
+   "93:1"
+  ],
+  "uk": "Раузес-Пойнт",
+  "key": "37732c60591b"
+ },
+ {
+  "id": 89,
+  "where": "Order_Town",
+  "cells": [
+   "94:1"
+  ],
+  "uk": "Герлі",
+  "key": "b63b3581c11b"
+ },
+ {
+  "id": 90,
+  "where": "Nature_Town",
+  "cells": [
+   "95:1"
+  ],
+  "uk": "Тисяча Дубів",
+  "key": "47db3b55c8e5"
+ },
+ {
+  "id": 91,
+  "where": "Might_Town",
+  "cells": [
+   "96:1"
+  ],
+  "uk": "Талсі",
+  "key": "1a797a162134"
+ },
+ {
+  "id": 92,
+  "where": "Life_Town",
+  "cells": [
+   "97:1"
+  ],
+  "uk": "Рай",
+  "key": "d08e742ea242"
+ },
+ {
+  "id": 93,
+  "where": "Death_Town",
+  "cells": [
+   "98:1"
+  ],
+  "uk": "Ґейррод",
+  "key": "9f2a64a20a25"
+ },
+ {
+  "id": 94,
+  "where": "Chaos_Town",
+  "cells": [
+   "99:1"
+  ],
+  "uk": "Азарна",
+  "key": "43696234a4b3"
+ },
+ {
+  "id": 95,
+  "where": "Order_Town",
+  "cells": [
+   "100:1"
+  ],
+  "uk": "Вестерос",
+  "key": "68e939c8e710"
+ },
+ {
+  "id": 96,
+  "where": "Nature_Town",
+  "cells": [
+   "101:1"
+  ],
+  "uk": "Ґрінвіль",
+  "key": "862738d6f9a7"
+ },
+ {
+  "id": 97,
+  "where": "Might_Town",
+  "cells": [
+   "102:1"
+  ],
+  "uk": "Реміх",
+  "key": "5959462a8222"
+ },
+ {
+  "id": 98,
+  "where": "Life_Town",
+  "cells": [
+   "103:1"
+  ],
+  "uk": "Стандертон",
+  "key": "0083a14b4db9"
+ },
+ {
+  "id": 99,
+  "where": "Death_Town",
+  "cells": [
+   "104:1"
+  ],
+  "uk": "Ксерос",
+  "key": "0728b55aab05"
+ },
+ {
+  "id": 100,
+  "where": "Chaos_Town",
+  "cells": [
+   "105:1"
+  ],
+  "uk": "Богалія",
+  "key": "1ed1d39131c2"
+ },
+ {
+  "id": 101,
+  "where": "Order_Town",
+  "cells": [
+   "106:1"
+  ],
+  "uk": "Вестрі",
+  "key": "f3ed3404a917"
+ },
+ {
+  "id": 102,
+  "where": "Nature_Town",
+  "cells": [
+   "107:1"
+  ],
+  "uk": "Ущелина Тодра",
+  "key": "d2e03bb2fc9c"
+ },
+ {
+  "id": 103,
+  "where": "Might_Town",
+  "cells": [
+   "108:1"
+  ],
+  "uk": "Ватаґа",
+  "key": "c8b3ec470abc"
+ },
+ {
+  "id": 104,
+  "where": "Life_Town",
+  "cells": [
+   "109:1"
+  ],
+  "uk": "Мартьєр",
+  "key": "8c092dbfbf6e"
+ },
+ {
+  "id": 105,
+  "where": "Death_Town",
+  "cells": [
+   "110:1"
+  ],
+  "uk": "Нелспрейт",
+  "key": "2fc03b6e6d4d"
+ },
+ {
+  "id": 106,
+  "where": "Chaos_Town",
+  "cells": [
+   "111:1"
+  ],
+  "uk": "Булавас",
+  "key": "004de82092f8"
+ },
+ {
+  "id": 107,
+  "where": "Order_Town",
+  "cells": [
+   "112:1"
+  ],
+  "uk": "Ґілліагорн",
+  "key": "732a6af25e4a"
+ },
+ {
+  "id": 108,
+  "where": "Nature_Town",
+  "cells": [
+   "113:1"
+  ],
+  "uk": "Місячна Загибель",
+  "key": "f8a6c80c45c9"
+ },
+ {
+  "id": 109,
+  "where": "Might_Town",
+  "cells": [
+   "114:1"
+  ],
+  "uk": "Норд",
+  "key": "dc64d109ff7a"
+ },
+ {
+  "id": 110,
+  "where": "Life_Town",
+  "cells": [
+   "115:1"
+  ],
+  "uk": "Брісбен",
+  "key": "c090e35e99e2"
+ },
+ {
+  "id": 111,
+  "where": "Death_Town",
+  "cells": [
+   "116:1"
+  ],
+  "uk": "Пошесть",
+  "key": "6c7fe02750cb"
+ },
+ {
+  "id": 112,
+  "where": "Chaos_Town",
+  "cells": [
+   "117:1"
+  ],
+  "uk": "Дивнокриниця",
+  "key": "8cf64ccfdcc5"
+ },
+ {
+  "id": 113,
+  "where": "Order_Town",
+  "cells": [
+   "118:1"
+  ],
+  "uk": "Оредре",
+  "key": "022f446c4064"
+ },
+ {
+  "id": 114,
+  "where": "Nature_Town",
+  "cells": [
+   "119:1"
+  ],
+  "uk": "Спочинок Дурна",
+  "key": "b29b5ba53a36"
+ },
+ {
+  "id": 115,
+  "where": "Might_Town",
+  "cells": [
+   "120:1"
+  ],
+  "uk": "Аустрі",
+  "key": "3af1bc6a4a95"
+ },
+ {
+  "id": 116,
+  "where": "Life_Town",
+  "cells": [
+   "121:1"
+  ],
+  "uk": "Ленорелей",
+  "key": "864f4bdeaf03"
+ },
+ {
+  "id": 117,
+  "where": "Death_Town",
+  "cells": [
+   "122:1"
+  ],
+  "uk": "Драуґгейм",
+  "key": "87a986fe18bd"
+ },
+ {
+  "id": 118,
+  "where": "Chaos_Town",
+  "cells": [
+   "123:1"
+  ],
+  "uk": "Ґанґферд",
+  "key": "dcdf6decb16e"
+ },
+ {
+  "id": 119,
+  "where": "Order_Town",
+  "cells": [
+   "124:1"
+  ],
+  "uk": "Аранґен",
+  "key": "c0be2d403af2"
+ },
+ {
+  "id": 120,
+  "where": "Nature_Town",
+  "cells": [
+   "125:1"
+  ],
+  "uk": "Небесні Веселощі",
+  "key": "faeb7a5e098c"
+ },
+ {
+  "id": 121,
+  "where": "Might_Town",
+  "cells": [
+   "126:1"
+  ],
+  "uk": "Гейдрун",
+  "key": "651a2ddcb822"
+ },
+ {
+  "id": 122,
+  "where": "Life_Town",
+  "cells": [
+   "127:1"
+  ],
+  "uk": "Фезанес",
+  "key": "69a08a228961"
+ },
+ {
+  "id": 123,
+  "where": "Death_Town",
+  "cells": [
+   "128:1"
+  ],
+  "uk": "Телярес",
+  "key": "d050a017dd3f"
+ },
+ {
+  "id": 124,
+  "where": "Chaos_Town",
+  "cells": [
+   "129:1"
+  ],
+  "uk": "Ішкандар",
+  "key": "f4dc3b0a4e11"
+ },
+ {
+  "id": 125,
+  "where": "Order_Town",
+  "cells": [
+   "130:1"
+  ],
+  "uk": "Орідірі",
+  "key": "c5a8c473f9eb"
+ },
+ {
+  "id": 126,
+  "where": "Nature_Town",
+  "cells": [
+   "131:1"
+  ],
+  "uk": "Ялинова Долина",
+  "key": "5679bdd35b65"
+ },
+ {
+  "id": 127,
+  "where": "Might_Town",
+  "cells": [
+   "132:1"
+  ],
+  "uk": "Гортус",
+  "key": "f7a92c430f88"
+ },
+ {
+  "id": 128,
+  "where": "Life_Town",
+  "cells": [
+   "133:1"
+  ],
+  "uk": "Чартлі",
+  "key": "99da5e636521"
+ },
+ {
+  "id": 129,
+  "where": "Death_Town",
+  "cells": [
+   "134:1"
+  ],
+  "uk": "Шаррон",
+  "key": "9fef432cb755"
+ },
+ {
+  "id": 130,
+  "where": "Chaos_Town",
+  "cells": [
+   "135:1"
+  ],
+  "uk": "Бандирма",
+  "key": "17467d2709a4"
+ },
+ {
+  "id": 131,
+  "where": "Order_Town",
+  "cells": [
+   "136:1"
+  ],
+  "uk": "Тореро",
+  "key": "02d511780098"
+ },
+ {
+  "id": 132,
+  "where": "Nature_Town",
+  "cells": [
+   "137:1"
+  ],
+  "uk": "Алькала",
+  "key": "4609cc512838"
+ },
+ {
+  "id": 133,
+  "where": "Might_Town",
+  "cells": [
+   "138:1"
+  ],
+  "uk": "Шеб",
+  "key": "3b8e63363cc6"
+ },
+ {
+  "id": 134,
+  "where": "Life_Town",
+  "cells": [
+   "139:1"
+  ],
+  "uk": "Херувим",
+  "key": "b63fbc8a2179"
+ },
+ {
+  "id": 135,
+  "where": "Death_Town",
+  "cells": [
+   "140:1"
+  ],
+  "uk": "Кілкі",
+  "key": "5ab28c83bb9f"
+ },
+ {
+  "id": 136,
+  "where": "Chaos_Town",
+  "cells": [
+   "141:1"
+  ],
+  "uk": "Безлад",
+  "key": "407ca2780abc"
+ },
+ {
+  "id": 137,
+  "where": "Order_Town",
+  "cells": [
+   "142:1"
+  ],
+  "uk": "Ардара",
+  "key": "6c952582a434"
+ },
+ {
+  "id": 138,
+  "where": "Nature_Town",
+  "cells": [
+   "143:1"
+  ],
+  "uk": "Зеленоліс",
+  "key": "7e0885c82a3e"
+ },
+ {
+  "id": 139,
+  "where": "Might_Town",
+  "cells": [
+   "144:1"
+  ],
+  "uk": "Начуса",
+  "key": "97134cd3ae3b"
+ },
+ {
+  "id": 140,
+  "where": "Life_Town",
+  "cells": [
+   "145:1"
+  ],
+  "uk": "Ексетер",
+  "key": "bee78e7f6413"
+ },
+ {
+  "id": 141,
+  "where": "Death_Town",
+  "cells": [
+   "146:1"
+  ],
+  "uk": "Мадроньос",
+  "key": "2c98562a1627"
+ },
+ {
+  "id": 142,
+  "where": "Chaos_Town",
+  "cells": [
+   "147:1"
+  ],
+  "uk": "Керм-Те-Боґ",
+  "key": "cdba14cf37e4"
+ },
+ {
+  "id": 143,
+  "where": "Order_Town",
+  "cells": [
+   "148:1"
+  ],
+  "uk": "Алемндрос",
+  "key": "ff8a8c62365b"
+ },
+ {
+  "id": 144,
+  "where": "Nature_Town",
+  "cells": [
+   "149:1"
+  ],
+  "uk": "Західні Водоспади",
+  "key": "cd806e5212e2"
+ },
+ {
+  "id": 145,
+  "where": "Might_Town",
+  "cells": [
+   "150:1"
+  ],
+  "uk": "Мансебос",
+  "key": "98a09ca61a26"
+ },
+ {
+  "id": 146,
+  "where": "Life_Town",
+  "cells": [
+   "151:1"
+  ],
+  "uk": "Ґалесте",
+  "key": "5d4e2e42e9ec"
+ },
+ {
+  "id": 147,
+  "where": "Death_Town",
+  "cells": [
+   "152:1"
+  ],
+  "uk": "Ліфертьє",
+  "key": "b0769a4c9e04"
+ },
+ {
+  "id": 148,
+  "where": "Chaos_Town",
+  "cells": [
+   "153:1"
+  ],
+  "uk": "Леґард",
+  "key": "ac72477b53f3"
+ },
+ {
+  "id": 149,
+  "where": "Order_Town",
+  "cells": [
+   "154:1"
+  ],
+  "uk": "Делафілд",
+  "key": "1aa0b83837e7"
+ },
+ {
+  "id": 150,
+  "where": "Nature_Town",
+  "cells": [
+   "155:1"
+  ],
+  "uk": "Гіллсборо",
+  "key": "e55802d6ca7e"
+ },
+ {
+  "id": 151,
+  "where": "Might_Town",
+  "cells": [
+   "156:1"
+  ],
+  "uk": "Купар",
+  "key": "dd7568c1d949"
+ },
+ {
+  "id": 152,
+  "where": "Life_Town",
+  "cells": [
+   "157:1"
+  ],
+  "uk": "Авесібо",
+  "key": "c29d4386756e"
+ },
+ {
+  "id": 153,
+  "where": "Death_Town",
+  "cells": [
+   "158:1"
+  ],
+  "uk": "Тасос",
+  "key": "c087d2ad4f2f"
+ },
+ {
+  "id": 154,
+  "where": "Chaos_Town",
+  "cells": [
+   "159:1"
+  ],
+  "uk": "Тренчин",
+  "key": "055eb49f4ade"
+ },
+ {
+  "id": 155,
+  "where": "Order_Town",
+  "cells": [
+   "160:1"
+  ],
+  "uk": "Ґрейт-Міссенден",
+  "key": "0368f028f87c"
+ },
+ {
+  "id": 156,
+  "where": "Nature_Town",
+  "cells": [
+   "161:1"
+  ],
+  "uk": "Оук-Блафс",
+  "key": "842d9b63a691"
+ },
+ {
+  "id": 157,
+  "where": "Might_Town",
+  "cells": [
+   "162:1"
+  ],
+  "uk": "Стерджис",
+  "key": "a366870d1e21"
+ },
+ {
+  "id": 158,
+  "where": "Life_Town",
+  "cells": [
+   "163:1"
+  ],
+  "uk": "Ковенант",
+  "key": "9537f1145b06"
+ },
+ {
+  "id": 159,
+  "where": "Death_Town",
+  "cells": [
+   "164:1"
+  ],
+  "uk": "Пафос",
+  "key": "6b6d9ac9f7ee"
+ },
+ {
+  "id": 160,
+  "where": "Chaos_Town",
+  "cells": [
+   "165:1"
+  ],
+  "uk": "Херес",
+  "key": "a9585a497021"
+ },
+ {
+  "id": 161,
+  "where": "Order_Town",
+  "cells": [
+   "166:1"
+  ],
+  "uk": "Квіннесек",
+  "key": "8af8b88e1e69"
+ },
+ {
+  "id": 162,
+  "where": "Nature_Town",
+  "cells": [
+   "167:1"
+  ],
+  "uk": "Скелясті Джерела",
+  "key": "85c95fd0195b"
+ },
+ {
+  "id": 163,
+  "where": "Might_Town",
+  "cells": [
+   "168:1"
+  ],
+  "uk": "Кешан",
+  "key": "1cf1ed17bfdc"
+ },
+ {
+  "id": 164,
+  "where": "Life_Town",
+  "cells": [
+   "169:1"
+  ],
+  "uk": "Ленсерос",
+  "key": "ec1f16ab27eb"
+ },
+ {
+  "id": 165,
+  "where": "Death_Town",
+  "cells": [
+   "170:1"
+  ],
+  "uk": "Корте",
+  "key": "f7d4ab3d336e"
+ },
+ {
+  "id": 166,
+  "where": "Chaos_Town",
+  "cells": [
+   "171:1"
+  ],
+  "uk": "Зейдрай",
+  "key": "4561a504af5e"
+ },
+ {
+  "id": 167,
+  "where": "Order_Town",
+  "cells": [
+   "172:1"
+  ],
+  "uk": "Мінерва",
+  "key": "e745c92ce279"
+ },
+ {
+  "id": 168,
+  "where": "Nature_Town",
+  "cells": [
+   "173:1"
+  ],
+  "uk": "Лландріндод",
+  "key": "a94f3fa9a618"
+ },
+ {
+  "id": 169,
+  "where": "Might_Town",
+  "cells": [
+   "174:1"
+  ],
+  "uk": "Левкас",
+  "key": "85e18daeeade"
+ },
+ {
+  "id": 170,
+  "where": "Life_Town",
+  "cells": [
+   "175:1"
+  ],
+  "uk": "Мелада",
+  "key": "663993f86499"
+ },
+ {
+  "id": 171,
+  "where": "Death_Town",
+  "cells": [
+   "176:1"
+  ],
+  "uk": "Стікс",
+  "key": "92ccbe4d323e"
+ },
+ {
+  "id": 172,
+  "where": "Chaos_Town",
+  "cells": [
+   "177:1"
+  ],
+  "uk": "Енністмор",
+  "key": "dd3512f61d19"
+ },
+ {
+  "id": 173,
+  "where": "Order_Town",
+  "cells": [
+   "178:1"
+  ],
+  "uk": "Морфей",
+  "key": "a1ccf695e321"
+ },
+ {
+  "id": 174,
+  "where": "Nature_Town",
+  "cells": [
+   "179:1"
+  ],
+  "uk": "Рашбрук",
+  "key": "ac48d6abc671"
+ },
+ {
+  "id": 175,
+  "where": "Might_Town",
+  "cells": [
+   "180:1"
+  ],
+  "uk": "Анук",
+  "key": "2e0b0401aefe"
+ },
+ {
+  "id": 176,
+  "where": "Life_Town",
+  "cells": [
+   "181:1"
+  ],
+  "uk": "Кенмер",
+  "key": "97f3ed593212"
+ },
+ {
+  "id": 177,
+  "where": "Death_Town",
+  "cells": [
+   "182:1"
+  ],
+  "uk": "Мортіс",
+  "key": "18a249ddb87f"
+ },
+ {
+  "id": 178,
+  "where": "Chaos_Town",
+  "cells": [
+   "183:1"
+  ],
+  "uk": "Скілла",
+  "key": "36c587b35c2f"
+ },
+ {
+  "id": 179,
+  "where": "Order_Town",
+  "cells": [
+   "184:1"
+  ],
+  "uk": "Корітон",
+  "key": "3a3b8b499198"
+ },
+ {
+  "id": 180,
+  "where": "Nature_Town",
+  "cells": [
+   "185:1"
+  ],
+  "uk": "Берр-Рідж",
+  "key": "1ce2ea3aa980"
+ },
+ {
+  "id": 181,
+  "where": "Might_Town",
+  "cells": [
+   "186:1"
+  ],
+  "uk": "Оккам",
+  "key": "db3b25489e66"
+ },
+ {
+  "id": 182,
+  "where": "Life_Town",
+  "cells": [
+   "187:1"
+  ],
+  "uk": "Гай-Вікем",
+  "key": "35c6529763c0"
+ },
+ {
+  "id": 183,
+  "where": "Death_Town",
+  "cells": [
+   "188:1"
+  ],
+  "uk": "Пухир",
+  "key": "b2b82f8cde20"
+ },
+ {
+  "id": 184,
+  "where": "Chaos_Town",
+  "cells": [
+   "189:1"
+  ],
+  "uk": "Марш-Те-Каррі",
+  "key": "4be970c379c7"
+ },
+ {
+  "id": 185,
+  "where": "Order_Town",
+  "cells": [
+   "190:1"
+  ],
+  "uk": "Даввад",
+  "key": "7d4568dde6d3"
+ },
+ {
+  "id": 186,
+  "where": "Nature_Town",
+  "cells": [
+   "191:1"
+  ],
+  "uk": "Вотерсміт",
+  "key": "5a04bab397ae"
+ },
+ {
+  "id": 187,
+  "where": "Might_Town",
+  "cells": [
+   "192:1"
+  ],
+  "uk": "Зія",
+  "key": "465370b7bc27"
+ },
+ {
+  "id": 188,
+  "where": "Life_Town",
+  "cells": [
+   "193:1"
+  ],
+  "uk": "Янгольський Водоспад",
+  "key": "7a02044d774c"
+ },
+ {
+  "id": 189,
+  "where": "Death_Town",
+  "cells": [
+   "194:1"
+  ],
+  "uk": "Пастон",
+  "key": "dedfeb155ac5"
+ },
+ {
+  "id": 190,
+  "where": "Chaos_Town",
+  "cells": [
+   "195:1"
+  ],
+  "uk": "Арґус",
+  "key": "c1fbd56fd789"
+ },
+ {
+  "id": 191,
+  "where": "Order_Town",
+  "cells": [
+   "196:1"
+  ],
+  "uk": "Маґріноч",
+  "key": "be112fc0cf4f"
+ },
+ {
+  "id": 192,
+  "where": "Nature_Town",
+  "cells": [
+   "197:1"
+  ],
+  "uk": "Срібний Ліс",
+  "key": "b4f50a3377f5"
+ },
+ {
+  "id": 193,
+  "where": "Might_Town",
+  "cells": [
+   "198:1"
+  ],
+  "uk": "Улен",
+  "key": "7324621e7455"
+ },
+ {
+  "id": 194,
+  "where": "Life_Town",
+  "cells": [
+   "199:1"
+  ],
+  "uk": "Ґрейсвіль",
+  "key": "5b889a26eb55"
+ },
+ {
+  "id": 195,
+  "where": "Death_Town",
+  "cells": [
+   "200:1"
+  ],
+  "uk": "Коса",
+  "key": "2ca0c4acfbb7"
+ },
+ {
+  "id": 196,
+  "where": "Chaos_Town",
+  "cells": [
+   "201:1"
+  ],
+  "uk": "Тінґа-Кей",
+  "key": "f535d999e165"
+ },
+ {
+  "id": 197,
+  "where": "Order_Town",
+  "cells": [
+   "202:1"
+  ],
+  "uk": "Дерсі",
+  "key": "e416675deb56"
+ },
+ {
+  "id": 198,
+  "where": "Nature_Town",
+  "cells": [
+   "203:1"
+  ],
+  "uk": "Вовче Озеро",
+  "key": "ac0872dccb85"
+ },
+ {
+  "id": 199,
+  "where": "Might_Town",
+  "cells": [
+   "204:1"
+  ],
+  "uk": "Ессіґ",
+  "key": "54acb4bf9f18"
+ },
+ {
+  "id": 200,
+  "where": "Life_Town",
+  "cells": [
+   "205:1"
+  ],
+  "uk": "Ґудспрінґс",
+  "key": "aae179cd6b04"
+ },
+ {
+  "id": 201,
+  "where": "Death_Town",
+  "cells": [
+   "206:1"
+  ],
+  "uk": "Лета",
+  "key": "0a0fe38c53ab"
+ },
+ {
+  "id": 202,
+  "where": "Chaos_Town",
+  "cells": [
+   "207:1"
+  ],
+  "uk": "Макіно",
+  "key": "ef69fe17598f"
+ },
+ {
+  "id": 203,
+  "where": "Order_Town",
+  "cells": [
+   "208:1"
+  ],
+  "uk": "Брейзбург",
+  "key": "0705d7e3bd0b"
+ },
+ {
+  "id": 204,
+  "where": "Nature_Town",
+  "cells": [
+   "209:1"
+  ],
+  "uk": "Аераторн",
+  "key": "49f5a4ef46be"
+ },
+ {
+  "id": 205,
+  "where": "Might_Town",
+  "cells": [
+   "210:1"
+  ],
+  "uk": "Ґарлох",
+  "key": "ff42eff17213"
+ },
+ {
+  "id": 206,
+  "where": "Life_Town",
+  "cells": [
+   "211:1"
+  ],
+  "uk": "Флорісант",
+  "key": "64d7610083af"
+ },
+ {
+  "id": 207,
+  "where": "Death_Town",
+  "cells": [
+   "212:1"
+  ],
+  "uk": "Тантал",
+  "key": "40f77a8c1bd8"
+ },
+ {
+  "id": 208,
+  "where": "Chaos_Town",
+  "cells": [
+   "213:1"
+  ],
+  "uk": "Торквемада",
+  "key": "be9787e9e381"
+ },
+ {
+  "id": 209,
+  "where": "Order_Town",
+  "cells": [
+   "214:1"
+  ],
+  "uk": "Мідлтаун",
+  "key": "ac2d48c82f12"
+ },
+ {
+  "id": 210,
+  "where": "Nature_Town",
+  "cells": [
+   "215:1"
+  ],
+  "uk": "Розколотий В'яз",
+  "key": "ead48f5c8b17"
+ },
+ {
+  "id": 211,
+  "where": "Might_Town",
+  "cells": [
+   "216:1"
+  ],
+  "uk": "Белґ",
+  "key": "9bbcdb431206"
+ },
+ {
+  "id": 212,
+  "where": "Life_Town",
+  "cells": [
+   "217:1"
+  ],
+  "uk": "Сяйво",
+  "key": "3b3af7efd9bf"
+ },
+ {
+  "id": 213,
+  "where": "Death_Town",
+  "cells": [
+   "218:1"
+  ],
+  "uk": "Мердстон",
+  "key": "d0af0219ba50"
+ },
+ {
+  "id": 214,
+  "where": "Chaos_Town",
+  "cells": [
+   "219:1"
+  ],
+  "uk": "Інсанія",
+  "key": "8d8779234e41"
+ },
+ {
+  "id": 215,
+  "where": "Order_Town",
+  "cells": [
+   "220:1"
+  ],
+  "uk": "Брама Вейла",
+  "key": "16babfa284c9"
+ },
+ {
+  "id": 216,
+  "where": "Nature_Town",
+  "cells": [
+   "221:1"
+  ],
+  "uk": "Оленяча Стежка",
+  "key": "234d5d10043c"
+ },
+ {
+  "id": 217,
+  "where": "Might_Town",
+  "cells": [
+   "222:1"
+  ],
+  "uk": "Ґорч",
+  "key": "1efb7459d29e"
+ }
+]

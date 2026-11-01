@@ -1,0 +1,4490 @@
+[
+ {
+  "id": 0,
+  "where": "Keyword",
+  "cells": [
+   "1:2"
+  ],
+  "uk": "",
+  "key": "709a23220f2c"
+ },
+ {
+  "id": 1,
+  "where": "Keyword",
+  "cells": [
+   "1:3"
+  ],
+  "uk": "",
+  "key": "fa71e03bddce"
+ },
+ {
+  "id": 2,
+  "where": "binding_liquid",
+  "cells": [
+   "2:2"
+  ],
+  "uk": "Флакон сполучної рідини",
+  "key": "5d26974c3483"
+ },
+ {
+  "id": 3,
+  "where": "binding_liquid",
+  "cells": [
+   "2:3"
+  ],
+  "uk": "Флакон сполучної рідини",
+  "key": "fa8035c6ad71"
+ },
+ {
+  "id": 4,
+  "where": "cloud_of_despair",
+  "cells": [
+   "3:2"
+  ],
+  "uk": "Хмара відчаю",
+  "key": "d4909591895a"
+ },
+ {
+  "id": 5,
+  "where": "cloud_of_despair",
+  "cells": [
+   "3:3"
+  ],
+  "uk": "Хмара відчаю",
+  "key": "7cb35c9ddaef"
+ },
+ {
+  "id": 6,
+  "where": "holy_water",
+  "cells": [
+   "4:2"
+  ],
+  "uk": "Свята вода",
+  "key": "ad90698ef0c3"
+ },
+ {
+  "id": 7,
+  "where": "holy_water",
+  "cells": [
+   "4:3"
+  ],
+  "uk": "Свята вода",
+  "key": "2074180bf493"
+ },
+ {
+  "id": 8,
+  "where": "kreegan_fire",
+  "cells": [
+   "5:2"
+  ],
+  "uk": "Демонський вогонь",
+  "key": "0b82448f0fe5"
+ },
+ {
+  "id": 9,
+  "where": "kreegan_fire",
+  "cells": [
+   "5:3"
+  ],
+  "uk": "Демонський вогонь",
+  "key": "d0b0b381068a"
+ },
+ {
+  "id": 10,
+  "where": "potion_of_cold",
+  "cells": [
+   "6:2"
+  ],
+  "uk": "Зілля холоду",
+  "key": "48dc3fc4e75f"
+ },
+ {
+  "id": 11,
+  "where": "potion_of_cold",
+  "cells": [
+   "6:3"
+  ],
+  "uk": "Зілля холоду",
+  "key": "4f76fc54a79d"
+ },
+ {
+  "id": 12,
+  "where": "potion_of_endurance",
+  "cells": [
+   "7:2"
+  ],
+  "uk": "Зілля витривалості",
+  "key": "b4b52a4ecafd"
+ },
+ {
+  "id": 13,
+  "where": "potion_of_endurance",
+  "cells": [
+   "7:3"
+  ],
+  "uk": "Зілля витривалості",
+  "key": "19af85c7844c"
+ },
+ {
+  "id": 14,
+  "where": "potion_of_fire_resistance",
+  "cells": [
+   "8:2"
+  ],
+  "uk": "Зілля опору вогню",
+  "key": "cc6fb0dd2b97"
+ },
+ {
+  "id": 15,
+  "where": "potion_of_fire_resistance",
+  "cells": [
+   "8:3"
+  ],
+  "uk": "Зілля опору вогню",
+  "key": "69538540c1aa"
+ },
+ {
+  "id": 16,
+  "where": "potion_of_healing",
+  "cells": [
+   "9:2"
+  ],
+  "uk": "Цілюще зілля",
+  "key": "d15ed3dade07"
+ },
+ {
+  "id": 17,
+  "where": "potion_of_healing",
+  "cells": [
+   "9:3"
+  ],
+  "uk": "Цілюще зілля",
+  "key": "9596db04f705"
+ },
+ {
+  "id": 18,
+  "where": "potion_of_health",
+  "cells": [
+   "10:2"
+  ],
+  "uk": "Зілля стійкості",
+  "key": "3d95d26f73a6"
+ },
+ {
+  "id": 19,
+  "where": "potion_of_health",
+  "cells": [
+   "10:3"
+  ],
+  "uk": "Зілля стійкості",
+  "key": "550014ac91ca"
+ },
+ {
+  "id": 20,
+  "where": "potion_of_luck",
+  "cells": [
+   "11:2"
+  ],
+  "uk": "Зілля удачі",
+  "key": "b47720cbfe72"
+ },
+ {
+  "id": 21,
+  "where": "potion_of_luck",
+  "cells": [
+   "11:3"
+  ],
+  "uk": "Зілля удачі",
+  "key": "a93b2d303fbf"
+ },
+ {
+  "id": 22,
+  "where": "potion_of_mana",
+  "cells": [
+   "12:2"
+  ],
+  "uk": "Зілля мани",
+  "key": "dfd416a68926"
+ },
+ {
+  "id": 23,
+  "where": "potion_of_mana",
+  "cells": [
+   "12:3"
+  ],
+  "uk": "Зілля мани",
+  "key": "70bf87a4526a"
+ },
+ {
+  "id": 24,
+  "where": "potion_of_mirth",
+  "cells": [
+   "13:2"
+  ],
+  "uk": "Зілля веселощів",
+  "key": "24739d13f70c"
+ },
+ {
+  "id": 25,
+  "where": "potion_of_mirth",
+  "cells": [
+   "13:3"
+  ],
+  "uk": "Зілля веселощів",
+  "key": "38d0eb41a18a"
+ },
+ {
+  "id": 26,
+  "where": "potion_of_precognition",
+  "cells": [
+   "14:2"
+  ],
+  "uk": "Зілля безсмертя",
+  "key": "a6a8556bffdd"
+ },
+ {
+  "id": 27,
+  "where": "potion_of_precognition",
+  "cells": [
+   "14:3"
+  ],
+  "uk": "Зілля безсмертя",
+  "key": "26ba761845d1"
+ },
+ {
+  "id": 28,
+  "where": "potion_of_quickness",
+  "cells": [
+   "15:2"
+  ],
+  "uk": "Зілля спритності",
+  "key": "f25c3be7b017"
+ },
+ {
+  "id": 29,
+  "where": "potion_of_quickness",
+  "cells": [
+   "15:3"
+  ],
+  "uk": "Зілля спритності",
+  "key": "3ec7f3673d5e"
+ },
+ {
+  "id": 30,
+  "where": "potion_of_resistance",
+  "cells": [
+   "16:2"
+  ],
+  "uk": "Зілля опору",
+  "key": "af5e2989d1aa"
+ },
+ {
+  "id": 31,
+  "where": "potion_of_resistance",
+  "cells": [
+   "16:3"
+  ],
+  "uk": "Зілля опору",
+  "key": "cc27c366cf4a"
+ },
+ {
+  "id": 32,
+  "where": "potion_of_restoration",
+  "cells": [
+   "17:2"
+  ],
+  "uk": "Зілля відновлення",
+  "key": "8dbb0d8ddbf0"
+ },
+ {
+  "id": 33,
+  "where": "potion_of_restoration",
+  "cells": [
+   "17:3"
+  ],
+  "uk": "Зілля відновлення",
+  "key": "1cb5e21e13e6"
+ },
+ {
+  "id": 34,
+  "where": "potion_of_speed",
+  "cells": [
+   "18:2"
+  ],
+  "uk": "Зілля швидкості",
+  "key": "8f8c7e3cd8de"
+ },
+ {
+  "id": 35,
+  "where": "potion_of_speed",
+  "cells": [
+   "18:3"
+  ],
+  "uk": "Зілля швидкості",
+  "key": "d679ac256fdc"
+ },
+ {
+  "id": 36,
+  "where": "potion_of_strength",
+  "cells": [
+   "19:2"
+  ],
+  "uk": "Зілля сили",
+  "key": "3ad2d816cf08"
+ },
+ {
+  "id": 37,
+  "where": "potion_of_strength",
+  "cells": [
+   "19:3"
+  ],
+  "uk": "Зілля сили",
+  "key": "1f837294039c"
+ },
+ {
+  "id": 38,
+  "where": "vial_of_acid",
+  "cells": [
+   "20:2"
+  ],
+  "uk": "Флакон кислоти",
+  "key": "231ddef3f989"
+ },
+ {
+  "id": 39,
+  "where": "vial_of_acid",
+  "cells": [
+   "20:3"
+  ],
+  "uk": "Флакон кислоти",
+  "key": "3af01fd7b2bd"
+ },
+ {
+  "id": 40,
+  "where": "vial_of_blinding_smoke",
+  "cells": [
+   "21:2"
+  ],
+  "uk": "Флакон сліпучого диму",
+  "key": "a45032d6840f"
+ },
+ {
+  "id": 41,
+  "where": "vial_of_blinding_smoke",
+  "cells": [
+   "21:3"
+  ],
+  "uk": "Флакон сліпучого диму",
+  "key": "d981dd66adb4"
+ },
+ {
+  "id": 42,
+  "where": "vial_of_choking_gas",
+  "cells": [
+   "22:2"
+  ],
+  "uk": "Флакон задушливого газу",
+  "key": "b6f1cd568ad3"
+ },
+ {
+  "id": 43,
+  "where": "vial_of_choking_gas",
+  "cells": [
+   "22:3"
+  ],
+  "uk": "Флакон задушливого газу",
+  "key": "0c34e51f5fcf"
+ },
+ {
+  "id": 44,
+  "where": "vial_of_poison",
+  "cells": [
+   "23:2"
+  ],
+  "uk": "Флакон отрути",
+  "key": "e4486748f168"
+ },
+ {
+  "id": 45,
+  "where": "vial_of_poison",
+  "cells": [
+   "23:3"
+  ],
+  "uk": "Флакон отрути",
+  "key": "cb8ae50766ab"
+ },
+ {
+  "id": 46,
+  "where": "greatsword",
+  "cells": [
+   "24:2"
+  ],
+  "uk": "Дворучний меч",
+  "key": "1b2b3396e9b7"
+ },
+ {
+  "id": 47,
+  "where": "greatsword",
+  "cells": [
+   "24:3"
+  ],
+  "uk": "Дворучний меч",
+  "key": "357076860558"
+ },
+ {
+  "id": 48,
+  "where": "mages_staff",
+  "cells": [
+   "25:2"
+  ],
+  "uk": "Посох мага",
+  "key": "4152004b4082"
+ },
+ {
+  "id": 49,
+  "where": "mages_staff",
+  "cells": [
+   "25:3"
+  ],
+  "uk": "Посох мага",
+  "key": "5983daa18f70"
+ },
+ {
+  "id": 50,
+  "where": "caduceus",
+  "cells": [
+   "26:2",
+   "26:3"
+  ],
+  "uk": "Посох святого Ранана",
+  "key": "0e5881354a25"
+ },
+ {
+  "id": 51,
+  "where": "staff_of_death",
+  "cells": [
+   "27:2"
+  ],
+  "uk": "Посох смерті",
+  "key": "fea197786686"
+ },
+ {
+  "id": 52,
+  "where": "staff_of_death",
+  "cells": [
+   "27:3"
+  ],
+  "uk": "Посох смерті",
+  "key": "8403408fb79c"
+ },
+ {
+  "id": 53,
+  "where": "staff_of_enchantment",
+  "cells": [
+   "28:2"
+  ],
+  "uk": "Посох чаклунства",
+  "key": "2b81ce524c29"
+ },
+ {
+  "id": 54,
+  "where": "staff_of_enchantment",
+  "cells": [
+   "28:3"
+  ],
+  "uk": "Посох чаклунства",
+  "key": "ff0e9375c95a"
+ },
+ {
+  "id": 55,
+  "where": "staff_of_power",
+  "cells": [
+   "29:2"
+  ],
+  "uk": "Посох сили",
+  "key": "da91bfb5e62f"
+ },
+ {
+  "id": 56,
+  "where": "staff_of_power",
+  "cells": [
+   "29:3"
+  ],
+  "uk": "Посох сили",
+  "key": "d6d62ef58da0"
+ },
+ {
+  "id": 57,
+  "where": "staff_of_summoning",
+  "cells": [
+   "30:2"
+  ],
+  "uk": "Посох виклику",
+  "key": "cdaae632c479"
+ },
+ {
+  "id": 58,
+  "where": "staff_of_summoning",
+  "cells": [
+   "30:3"
+  ],
+  "uk": "Посох виклику",
+  "key": "dc1003e34de3"
+ },
+ {
+  "id": 59,
+  "where": "staff_of_the_witch_king",
+  "cells": [
+   "31:2"
+  ],
+  "uk": "Посох безладу",
+  "key": "2168750c9d7d"
+ },
+ {
+  "id": 60,
+  "where": "staff_of_the_witch_king",
+  "cells": [
+   "31:3"
+  ],
+  "uk": "Посох безладу",
+  "key": "dcad4b54f006"
+ },
+ {
+  "id": 61,
+  "where": "halberd_of_speed",
+  "cells": [
+   "32:2"
+  ],
+  "uk": "Алебарда Прудкої варти",
+  "key": "649c289c3280"
+ },
+ {
+  "id": 62,
+  "where": "halberd_of_speed",
+  "cells": [
+   "32:3"
+  ],
+  "uk": "Алебарда Прудкої варти",
+  "key": "f40a6b05c2de"
+ },
+ {
+  "id": 63,
+  "where": "thunder_hammer",
+  "cells": [
+   "33:2"
+  ],
+  "uk": "Громовий молот",
+  "key": "9fee165a95f9"
+ },
+ {
+  "id": 64,
+  "where": "thunder_hammer",
+  "cells": [
+   "33:3"
+  ],
+  "uk": "Громовий молот",
+  "key": "956cea4dc5bd"
+ },
+ {
+  "id": 65,
+  "where": "crossbow",
+  "cells": [
+   "34:2"
+  ],
+  "uk": "Арбалет",
+  "key": "7160e30d7c85"
+ },
+ {
+  "id": 66,
+  "where": "crossbow",
+  "cells": [
+   "34:3"
+  ],
+  "uk": "Арбалет",
+  "key": "3d9e2e1a15be"
+ },
+ {
+  "id": 67,
+  "where": "longbow",
+  "cells": [
+   "35:2"
+  ],
+  "uk": "Довгий лук",
+  "key": "b1f6598c656d"
+ },
+ {
+  "id": 68,
+  "where": "longbow",
+  "cells": [
+   "35:3"
+  ],
+  "uk": "Довгий лук",
+  "key": "75e509b8f6de"
+ },
+ {
+  "id": 69,
+  "where": "centaurs_spear",
+  "cells": [
+   "36:2"
+  ],
+  "uk": "Спис кентавра",
+  "key": "2478f3e46d16"
+ },
+ {
+  "id": 70,
+  "where": "centaurs_spear",
+  "cells": [
+   "36:3"
+  ],
+  "uk": "Спис кентавра",
+  "key": "e75b2ad68d95"
+ },
+ {
+  "id": 71,
+  "where": "blowgun",
+  "cells": [
+   "37:2"
+  ],
+  "uk": "Духова трубка",
+  "key": "240187bb905d"
+ },
+ {
+  "id": 72,
+  "where": "blowgun",
+  "cells": [
+   "37:3"
+  ],
+  "uk": "Духова трубка",
+  "key": "a9a9f5d4d669"
+ },
+ {
+  "id": 73,
+  "where": "barbarian_throwing_club",
+  "cells": [
+   "38:2"
+  ],
+  "uk": "Варварська метальна палиця",
+  "key": "b396ea06d8dc"
+ },
+ {
+  "id": 74,
+  "where": "barbarian_throwing_club",
+  "cells": [
+   "38:3"
+  ],
+  "uk": "Варварська метальна палиця",
+  "key": "a9fadf3248e6"
+ },
+ {
+  "id": 75,
+  "where": "snipers_crossbow",
+  "cells": [
+   "39:2"
+  ],
+  "uk": "Арбалет снайпера",
+  "key": "1af8ac9fb917"
+ },
+ {
+  "id": 76,
+  "where": "snipers_crossbow",
+  "cells": [
+   "39:3"
+  ],
+  "uk": "Арбалет снайпера",
+  "key": "641189f63592"
+ },
+ {
+  "id": 77,
+  "where": "throwing_spear",
+  "cells": [
+   "40:2"
+  ],
+  "uk": "Метальний спис",
+  "key": "9c3f95c4bfca"
+ },
+ {
+  "id": 78,
+  "where": "throwing_spear",
+  "cells": [
+   "40:3"
+  ],
+  "uk": "Метальний спис",
+  "key": "02355f5a498d"
+ },
+ {
+  "id": 79,
+  "where": "valders_bow_of_sloth",
+  "cells": [
+   "41:2",
+   "41:3"
+  ],
+  "uk": "Арбалет лінощів Вальдера",
+  "key": "5156f7255dfd"
+ },
+ {
+  "id": 80,
+  "where": "hawkins_bow_of_speed",
+  "cells": [
+   "42:2"
+  ],
+  "uk": "Лук ельфійського короля",
+  "key": "d8530b3775d4"
+ },
+ {
+  "id": 81,
+  "where": "hawkins_bow_of_speed",
+  "cells": [
+   "42:3"
+  ],
+  "uk": "Лук ельфійського короля",
+  "key": "4d4d176b1d7d"
+ },
+ {
+  "id": 82,
+  "where": "davids_sling",
+  "cells": [
+   "43:2",
+   "43:3"
+  ],
+  "uk": "Праща Давида",
+  "key": "2d57501500b4"
+ },
+ {
+  "id": 83,
+  "where": "tavins_sling",
+  "cells": [
+   "44:2"
+  ],
+  "uk": "Бойова праща",
+  "key": "0c4f9bc07f34"
+ },
+ {
+  "id": 84,
+  "where": "tavins_sling",
+  "cells": [
+   "44:3"
+  ],
+  "uk": "Бойова праща",
+  "key": "0b162fef4537"
+ },
+ {
+  "id": 85,
+  "where": "nomad_blackbow",
+  "cells": [
+   "45:2"
+  ],
+  "uk": "Чорний лук кочівника",
+  "key": "7ff28016660f"
+ },
+ {
+  "id": 86,
+  "where": "nomad_blackbow",
+  "cells": [
+   "45:3"
+  ],
+  "uk": "Чорний лук кочівника",
+  "key": "785627e4f0e9"
+ },
+ {
+  "id": 87,
+  "where": "emerald_longbow",
+  "cells": [
+   "46:2"
+  ],
+  "uk": "Смарагдовий довгий лук",
+  "key": "dd1924944c82"
+ },
+ {
+  "id": 88,
+  "where": "emerald_longbow",
+  "cells": [
+   "46:3"
+  ],
+  "uk": "Смарагдовий довгий лук",
+  "key": "213682e92ac1"
+ },
+ {
+  "id": 89,
+  "where": "bow_of_the_white_stag",
+  "cells": [
+   "47:2"
+  ],
+  "uk": "Роговий лук",
+  "key": "6fa080116bab"
+ },
+ {
+  "id": 90,
+  "where": "bow_of_the_white_stag",
+  "cells": [
+   "47:3"
+  ],
+  "uk": "Роговий лук",
+  "key": "a9422e9493f3"
+ },
+ {
+  "id": 91,
+  "where": "mantle_of_spell_turning",
+  "cells": [
+   "48:2"
+  ],
+  "uk": "Мантія відбиття заклять",
+  "key": "c507b4f76da6"
+ },
+ {
+  "id": 92,
+  "where": "mantle_of_spell_turning",
+  "cells": [
+   "48:3"
+  ],
+  "uk": "Мантія відбиття заклять",
+  "key": "f58f5ec1b3e0"
+ },
+ {
+  "id": 93,
+  "where": "robe_of_the_guardian",
+  "cells": [
+   "49:2"
+  ],
+  "uk": "Мантія охоронця",
+  "key": "5bd2b04fc9f0"
+ },
+ {
+  "id": 94,
+  "where": "robe_of_the_guardian",
+  "cells": [
+   "49:3"
+  ],
+  "uk": "Мантія охоронця",
+  "key": "f2bde85ecb98"
+ },
+ {
+  "id": 95,
+  "where": "cape_of_protection",
+  "cells": [
+   "50:2"
+  ],
+  "uk": "Накидка захисту",
+  "key": "f303daad052b"
+ },
+ {
+  "id": 96,
+  "where": "cape_of_protection",
+  "cells": [
+   "50:3"
+  ],
+  "uk": "Накидка захисту",
+  "key": "4533c1b9dfc1"
+ },
+ {
+  "id": 97,
+  "where": "cloak_of_confusion",
+  "cells": [
+   "51:2"
+  ],
+  "uk": "Плащ відволікання",
+  "key": "9c24ec0be168"
+ },
+ {
+  "id": 98,
+  "where": "cloak_of_confusion",
+  "cells": [
+   "51:3"
+  ],
+  "uk": "Плащ відволікання",
+  "key": "b65c5c26c32b"
+ },
+ {
+  "id": 99,
+  "where": "cowl_of_resistance",
+  "cells": [
+   "52:2"
+  ],
+  "uk": "Каптур опору",
+  "key": "59983f7816ce"
+ },
+ {
+  "id": 100,
+  "where": "cowl_of_resistance",
+  "cells": [
+   "52:3"
+  ],
+  "uk": "Каптур опору",
+  "key": "97a1bf712358"
+ },
+ {
+  "id": 101,
+  "where": "mages_robe",
+  "cells": [
+   "53:2"
+  ],
+  "uk": "Мантія мага",
+  "key": "ee647132b007"
+ },
+ {
+  "id": 102,
+  "where": "mages_robe",
+  "cells": [
+   "53:3"
+  ],
+  "uk": "Мантія мага",
+  "key": "99a051e75e58"
+ },
+ {
+  "id": 103,
+  "where": "neeners_invulnerable_cloak",
+  "cells": [
+   "54:2",
+   "54:3"
+  ],
+  "uk": "Невразливий плащ Ніннера",
+  "key": "944ba54a867b"
+ },
+ {
+  "id": 104,
+  "where": "warding_robe",
+  "cells": [
+   "55:2"
+  ],
+  "uk": "Плащ оберегу",
+  "key": "dfc32d05be5f"
+ },
+ {
+  "id": 105,
+  "where": "warding_robe",
+  "cells": [
+   "55:3"
+  ],
+  "uk": "Плащ оберегу",
+  "key": "78e8a31f1428"
+ },
+ {
+  "id": 106,
+  "where": "boots_of_levitation",
+  "cells": [
+   "56:2"
+  ],
+  "uk": "Чоботи левітації",
+  "key": "b52e026cab3a"
+ },
+ {
+  "id": 107,
+  "where": "boots_of_levitation",
+  "cells": [
+   "56:3"
+  ],
+  "uk": "Чоботи левітації",
+  "key": "e4dbac613696"
+ },
+ {
+  "id": 108,
+  "where": "boots_of_speed",
+  "cells": [
+   "57:2"
+  ],
+  "uk": "Чоботи мандрівника",
+  "key": "6eb376f8b11a"
+ },
+ {
+  "id": 109,
+  "where": "boots_of_speed",
+  "cells": [
+   "57:3"
+  ],
+  "uk": "Чоботи мандрівника",
+  "key": "2405ac8ee369"
+ },
+ {
+  "id": 110,
+  "where": "surefooted_boots",
+  "cells": [
+   "58:2"
+  ],
+  "uk": "Чоботи дослідника",
+  "key": "7ffe03d5b6b2"
+ },
+ {
+  "id": 111,
+  "where": "surefooted_boots",
+  "cells": [
+   "58:3"
+  ],
+  "uk": "Чоботи дослідника",
+  "key": "24f3b790510c"
+ },
+ {
+  "id": 112,
+  "where": "winged_sandals",
+  "cells": [
+   "59:2"
+  ],
+  "uk": "Крилаті сандалі",
+  "key": "3f91372b413a"
+ },
+ {
+  "id": 113,
+  "where": "winged_sandals",
+  "cells": [
+   "59:3"
+  ],
+  "uk": "Крилаті сандалі",
+  "key": "cf4c8c8531db"
+ },
+ {
+  "id": 114,
+  "where": "fireproof_boots",
+  "cells": [
+   "60:2"
+  ],
+  "uk": "Вогнетривкі чоботи",
+  "key": "927b6e40bfd8"
+ },
+ {
+  "id": 115,
+  "where": "fireproof_boots",
+  "cells": [
+   "60:3"
+  ],
+  "uk": "Вогнетривкі чоботи",
+  "key": "47be6ae6f4e7"
+ },
+ {
+  "id": 116,
+  "where": "hiking_boots",
+  "cells": [
+   "61:2"
+  ],
+  "uk": "Похідні чоботи",
+  "key": "0ad0afac4ae0"
+ },
+ {
+  "id": 117,
+  "where": "hiking_boots",
+  "cells": [
+   "61:3"
+  ],
+  "uk": "Похідні чоботи",
+  "key": "f97cd3c8e262"
+ },
+ {
+  "id": 118,
+  "where": "ogs_sandals",
+  "cells": [
+   "62:2"
+  ],
+  "uk": "Чоботи твердої ходи",
+  "key": "5b7d9b83f0de"
+ },
+ {
+  "id": 119,
+  "where": "ogs_sandals",
+  "cells": [
+   "62:3"
+  ],
+  "uk": "Чоботи твердої ходи",
+  "key": "fb3a588b5d63"
+ },
+ {
+  "id": 120,
+  "where": "rangers_mocassins",
+  "cells": [
+   "63:2"
+  ],
+  "uk": "Мокасини рейнджера",
+  "key": "08e386ae1b00"
+ },
+ {
+  "id": 121,
+  "where": "rangers_mocassins",
+  "cells": [
+   "63:3"
+  ],
+  "uk": "Мокасини рейнджера",
+  "key": "f1bed96897e0"
+ },
+ {
+  "id": 122,
+  "where": "sandwalker_sandals",
+  "cells": [
+   "64:2"
+  ],
+  "uk": "Сандалі пісковика",
+  "key": "2b74c1c03de1"
+ },
+ {
+  "id": 123,
+  "where": "sandwalker_sandals",
+  "cells": [
+   "64:3"
+  ],
+  "uk": "Сандалі пісковика",
+  "key": "10da524eb846"
+ },
+ {
+  "id": 124,
+  "where": "snowshoes",
+  "cells": [
+   "65:2"
+  ],
+  "uk": "Снігоступи",
+  "key": "137e3e0b2294"
+ },
+ {
+  "id": 125,
+  "where": "snowshoes",
+  "cells": [
+   "65:3"
+  ],
+  "uk": "Снігоступи",
+  "key": "a319f8b428fb"
+ },
+ {
+  "id": 126,
+  "where": "swamp_boots",
+  "cells": [
+   "66:2"
+  ],
+  "uk": "Крокодилячі чоботи",
+  "key": "0719a996af51"
+ },
+ {
+  "id": 127,
+  "where": "swamp_boots",
+  "cells": [
+   "66:3"
+  ],
+  "uk": "Крокодилячі чоботи",
+  "key": "3663f398f6ce"
+ },
+ {
+  "id": 128,
+  "where": "helm_of_command",
+  "cells": [
+   "67:2"
+  ],
+  "uk": "Шолом командира",
+  "key": "fe36b0f021c5"
+ },
+ {
+  "id": 129,
+  "where": "helm_of_command",
+  "cells": [
+   "67:3"
+  ],
+  "uk": "Шолом командира",
+  "key": "d032813fd719"
+ },
+ {
+  "id": 130,
+  "where": "helm_of_power",
+  "cells": [
+   "68:2"
+  ],
+  "uk": "Шолом сили",
+  "key": "81836b035def"
+ },
+ {
+  "id": 131,
+  "where": "helm_of_power",
+  "cells": [
+   "68:3"
+  ],
+  "uk": "Шолом сили",
+  "key": "f2faab9c81b9"
+ },
+ {
+  "id": 132,
+  "where": "seamans_hat",
+  "cells": [
+   "69:2"
+  ],
+  "uk": "Капелюх моряка",
+  "key": "3d134e536cf7"
+ },
+ {
+  "id": 133,
+  "where": "seamans_hat",
+  "cells": [
+   "69:3"
+  ],
+  "uk": "Капелюх моряка",
+  "key": "60006e23628e"
+ },
+ {
+  "id": 134,
+  "where": "circlet_of_wisdom",
+  "cells": [
+   "70:2"
+  ],
+  "uk": "Обруч мудрості",
+  "key": "cdbe80267a39"
+ },
+ {
+  "id": 135,
+  "where": "circlet_of_wisdom",
+  "cells": [
+   "70:3"
+  ],
+  "uk": "Обруч мудрості",
+  "key": "b74150be82ff"
+ },
+ {
+  "id": 136,
+  "where": "crown_of_the_mind",
+  "cells": [
+   "71:2"
+  ],
+  "uk": "Корона зачарування",
+  "key": "2aefe7efee7f"
+ },
+ {
+  "id": 137,
+  "where": "crown_of_the_mind",
+  "cells": [
+   "71:3"
+  ],
+  "uk": "Корона зачарування",
+  "key": "22584c26c512"
+ },
+ {
+  "id": 138,
+  "where": "hideous_mask",
+  "cells": [
+   "72:2"
+  ],
+  "uk": "Жахлива маска",
+  "key": "80cacc6af542"
+ },
+ {
+  "id": 139,
+  "where": "hideous_mask",
+  "cells": [
+   "72:3"
+  ],
+  "uk": "Жахлива маска",
+  "key": "70089930af53"
+ },
+ {
+  "id": 140,
+  "where": "magic_amplifier",
+  "cells": [
+   "73:2"
+  ],
+  "uk": "Магічний підсилювач",
+  "key": "d4d698446357"
+ },
+ {
+  "id": 141,
+  "where": "magic_amplifier",
+  "cells": [
+   "73:3"
+  ],
+  "uk": "Магічний підсилювач",
+  "key": "f2d4781aecd1"
+ },
+ {
+  "id": 142,
+  "where": "mind_shield",
+  "cells": [
+   "74:2"
+  ],
+  "uk": "Щит розуму",
+  "key": "9a7d377885cb"
+ },
+ {
+  "id": 143,
+  "where": "mind_shield",
+  "cells": [
+   "74:3"
+  ],
+  "uk": "Щит розуму",
+  "key": "23f79d8afa71"
+ },
+ {
+  "id": 144,
+  "where": "mullichs_helm_of_leadership",
+  "cells": [
+   "75:2",
+   "75:3"
+  ],
+  "uk": "Шолом лідерства Малліка",
+  "key": "55e871a1e4eb"
+ },
+ {
+  "id": 145,
+  "where": "supreme_crown_of_the_magi",
+  "cells": [
+   "76:2"
+  ],
+  "uk": "Верховна корона магів",
+  "key": "36f053e6ea12"
+ },
+ {
+  "id": 146,
+  "where": "supreme_crown_of_the_magi",
+  "cells": [
+   "76:3"
+  ],
+  "uk": "Верховна корона магів",
+  "key": "258cd0348563"
+ },
+ {
+  "id": 147,
+  "where": "cap_of_knowledge",
+  "cells": [
+   "77:2"
+  ],
+  "uk": "Шапка знань",
+  "key": "cd2a191cffff"
+ },
+ {
+  "id": 148,
+  "where": "cap_of_knowledge",
+  "cells": [
+   "77:3"
+  ],
+  "uk": "Шапка знань",
+  "key": "7c7c828276a1"
+ },
+ {
+  "id": 149,
+  "where": "helm_of_vision",
+  "cells": [
+   "78:2"
+  ],
+  "uk": "Шолом прозріння",
+  "key": "0e1e131bf90f"
+ },
+ {
+  "id": 150,
+  "where": "helm_of_vision",
+  "cells": [
+   "78:3"
+  ],
+  "uk": "Шолом прозріння",
+  "key": "8104e21719d4"
+ },
+ {
+  "id": 151,
+  "where": "padded_helm",
+  "cells": [
+   "79:2"
+  ],
+  "uk": "Стьобаний шолом",
+  "key": "d8d76f9d3804"
+ },
+ {
+  "id": 152,
+  "where": "padded_helm",
+  "cells": [
+   "79:3"
+  ],
+  "uk": "Стьобаний шолом",
+  "key": "a39271c4356b"
+ },
+ {
+  "id": 153,
+  "where": "shield",
+  "cells": [
+   "80:2",
+   "227:2"
+  ],
+  "uk": "Щит",
+  "key": "08271419319f"
+ },
+ {
+  "id": 154,
+  "where": "shield",
+  "cells": [
+   "80:3",
+   "227:3"
+  ],
+  "uk": "Щит",
+  "key": "8baac225af4f"
+ },
+ {
+  "id": 155,
+  "where": "guildmasters_compendium",
+  "cells": [
+   "81:2"
+  ],
+  "uk": "Збірник магістра гільдії",
+  "key": "5c4ba8a268c8"
+ },
+ {
+  "id": 156,
+  "where": "guildmasters_compendium",
+  "cells": [
+   "81:3"
+  ],
+  "uk": "Збірник магістра гільдії",
+  "key": "a5503bd74163"
+ },
+ {
+  "id": 157,
+  "where": "lions_shield_of_courage",
+  "cells": [
+   "82:2"
+  ],
+  "uk": "Левовий щит мужності",
+  "key": "a0213e93de0d"
+ },
+ {
+  "id": 158,
+  "where": "lions_shield_of_courage",
+  "cells": [
+   "82:3"
+  ],
+  "uk": "Левовий щит мужності",
+  "key": "57d0504f461b"
+ },
+ {
+  "id": 159,
+  "where": "masters_journal",
+  "cells": [
+   "83:2"
+  ],
+  "uk": "Книга заклять майстра",
+  "key": "a8059f8bdd3f"
+ },
+ {
+  "id": 160,
+  "where": "masters_journal",
+  "cells": [
+   "83:3"
+  ],
+  "uk": "Книга заклять майстра",
+  "key": "7657645a5e50"
+ },
+ {
+  "id": 161,
+  "where": "shield_of_chaos",
+  "cells": [
+   "84:2"
+  ],
+  "uk": "Щит Хаосу",
+  "key": "c6fb76abd5ff"
+ },
+ {
+  "id": 162,
+  "where": "shield_of_chaos",
+  "cells": [
+   "84:3"
+  ],
+  "uk": "Щит Хаосу",
+  "key": "736056d22ec4"
+ },
+ {
+  "id": 163,
+  "where": "shield_of_darkness",
+  "cells": [
+   "85:2"
+  ],
+  "uk": "Щит Смерті",
+  "key": "d5bf2f36e562"
+ },
+ {
+  "id": 164,
+  "where": "shield_of_darkness",
+  "cells": [
+   "85:3"
+  ],
+  "uk": "Щит Смерті",
+  "key": "c20bb8e58535"
+ },
+ {
+  "id": 165,
+  "where": "shield_of_light",
+  "cells": [
+   "86:2"
+  ],
+  "uk": "Щит Життя",
+  "key": "72b5f3dfe789"
+ },
+ {
+  "id": 166,
+  "where": "shield_of_light",
+  "cells": [
+   "86:3"
+  ],
+  "uk": "Щит Життя",
+  "key": "6bffafcdbde1"
+ },
+ {
+  "id": 167,
+  "where": "shield_of_order",
+  "cells": [
+   "87:2"
+  ],
+  "uk": "Щит Порядку",
+  "key": "209cccb1250e"
+ },
+ {
+  "id": 168,
+  "where": "shield_of_order",
+  "cells": [
+   "87:3"
+  ],
+  "uk": "Щит Порядку",
+  "key": "0acc6022d628"
+ },
+ {
+  "id": 169,
+  "where": "tome_of_chaos",
+  "cells": [
+   "88:2"
+  ],
+  "uk": "Фоліант Хаосу",
+  "key": "88412c6fbecc"
+ },
+ {
+  "id": 170,
+  "where": "tome_of_chaos",
+  "cells": [
+   "88:3"
+  ],
+  "uk": "Фоліант Хаосу",
+  "key": "f85743fa5282"
+ },
+ {
+  "id": 171,
+  "where": "tome_of_death",
+  "cells": [
+   "89:2"
+  ],
+  "uk": "Фоліант Смерті",
+  "key": "4fc8271f50a9"
+ },
+ {
+  "id": 172,
+  "where": "tome_of_death",
+  "cells": [
+   "89:3"
+  ],
+  "uk": "Фоліант Смерті",
+  "key": "d59eefed2bcb"
+ },
+ {
+  "id": 173,
+  "where": "tome_of_nature",
+  "cells": [
+   "90:2"
+  ],
+  "uk": "Фоліант Природи",
+  "key": "d04b4102923d"
+ },
+ {
+  "id": 174,
+  "where": "tome_of_nature",
+  "cells": [
+   "90:3"
+  ],
+  "uk": "Фоліант Природи",
+  "key": "55faacfa83d5"
+ },
+ {
+  "id": 175,
+  "where": "tome_of_order",
+  "cells": [
+   "91:2"
+  ],
+  "uk": "Фоліант Порядку",
+  "key": "ad2d2bf21d30"
+ },
+ {
+  "id": 176,
+  "where": "tome_of_order",
+  "cells": [
+   "91:3"
+  ],
+  "uk": "Фоліант Порядку",
+  "key": "fda2958126a8"
+ },
+ {
+  "id": 177,
+  "where": "unnatural_shield",
+  "cells": [
+   "92:2"
+  ],
+  "uk": "Неприродний щит",
+  "key": "e4098e4a7839"
+ },
+ {
+  "id": 178,
+  "where": "unnatural_shield",
+  "cells": [
+   "92:3"
+  ],
+  "uk": "Неприродний щит",
+  "key": "f253475cd415"
+ },
+ {
+  "id": 179,
+  "where": "demonary",
+  "cells": [
+   "93:2"
+  ],
+  "uk": "Демонарій",
+  "key": "b6b6b8f3c770"
+ },
+ {
+  "id": 180,
+  "where": "demonary",
+  "cells": [
+   "93:3"
+  ],
+  "uk": "Демонарій",
+  "key": "a34ed12a4d85"
+ },
+ {
+  "id": 181,
+  "where": "dragon_scale_shield",
+  "cells": [
+   "94:2"
+  ],
+  "uk": "Щит із драконячої луски",
+  "key": "563253952d3e"
+ },
+ {
+  "id": 182,
+  "where": "dragon_scale_shield",
+  "cells": [
+   "94:3"
+  ],
+  "uk": "Щит із драконячої луски",
+  "key": "361dcdcdd94c"
+ },
+ {
+  "id": 183,
+  "where": "journeymans_notebook",
+  "cells": [
+   "95:2"
+  ],
+  "uk": "Записник підмайстра",
+  "key": "16a991d0e7f7"
+ },
+ {
+  "id": 184,
+  "where": "journeymans_notebook",
+  "cells": [
+   "95:3"
+  ],
+  "uk": "Записник підмайстра",
+  "key": "54b2452570ac"
+ },
+ {
+  "id": 185,
+  "where": "logbook_of_the_master_sailor",
+  "cells": [
+   "96:2"
+  ],
+  "uk": "Судновий журнал майстра-мореплавця",
+  "key": "1347f128a0d7"
+ },
+ {
+  "id": 186,
+  "where": "logbook_of_the_master_sailor",
+  "cells": [
+   "96:3"
+  ],
+  "uk": "Судновий журнал майстра-мореплавця",
+  "key": "4cb6983d4770"
+ },
+ {
+  "id": 187,
+  "where": "steadfast_shield",
+  "cells": [
+   "97:2"
+  ],
+  "uk": "Непохитний щит",
+  "key": "04c803263b9a"
+ },
+ {
+  "id": 188,
+  "where": "steadfast_shield",
+  "cells": [
+   "97:3"
+  ],
+  "uk": "Непохитний щит",
+  "key": "afa15049c1df"
+ },
+ {
+  "id": 189,
+  "where": "tome_of_life",
+  "cells": [
+   "98:2"
+  ],
+  "uk": "Фоліант Життя",
+  "key": "804d9b2ff335"
+ },
+ {
+  "id": 190,
+  "where": "tome_of_life",
+  "cells": [
+   "98:3"
+  ],
+  "uk": "Фоліант Життя",
+  "key": "5252cf4190ba"
+ },
+ {
+  "id": 191,
+  "where": "adamantine_shield",
+  "cells": [
+   "99:2"
+  ],
+  "uk": "Адамантовий щит",
+  "key": "275faf3f9eee"
+ },
+ {
+  "id": 192,
+  "where": "adamantine_shield",
+  "cells": [
+   "99:3"
+  ],
+  "uk": "Адамантовий щит",
+  "key": "baf633af9305"
+ },
+ {
+  "id": 193,
+  "where": "archmages_spellbook",
+  "cells": [
+   "100:2"
+  ],
+  "uk": "Кодекс архімага",
+  "key": "1dd9cf6005a5"
+ },
+ {
+  "id": 194,
+  "where": "archmages_spellbook",
+  "cells": [
+   "100:3"
+  ],
+  "uk": "Кодекс архімага",
+  "key": "90e955db1154"
+ },
+ {
+  "id": 195,
+  "where": "apprentices_handbook",
+  "cells": [
+   "101:2"
+  ],
+  "uk": "Посібник учня",
+  "key": "95ac8f0eff0b"
+ },
+ {
+  "id": 196,
+  "where": "apprentices_handbook",
+  "cells": [
+   "101:3"
+  ],
+  "uk": "Посібник учня",
+  "key": "85e983341583"
+ },
+ {
+  "id": 197,
+  "where": "dwarven_shield",
+  "cells": [
+   "102:2"
+  ],
+  "uk": "Гномський щит",
+  "key": "cc8f1cde695d"
+ },
+ {
+  "id": 198,
+  "where": "dwarven_shield",
+  "cells": [
+   "102:3"
+  ],
+  "uk": "Гномський щит",
+  "key": "c6f54a892d81"
+ },
+ {
+  "id": 199,
+  "where": "parchment",
+  "cells": [
+   "103:2"
+  ],
+  "uk": "Пергамент: %spell_name",
+  "key": "601486a5bd1a"
+ },
+ {
+  "id": 200,
+  "where": "parchment",
+  "cells": [
+   "103:3"
+  ],
+  "uk": "Пергамент: %spell_name",
+  "key": "e45585ba2a1c"
+ },
+ {
+  "id": 201,
+  "where": "scroll",
+  "cells": [
+   "104:2"
+  ],
+  "uk": "Сувій: %spell_name",
+  "key": "da6620dfbfe4"
+ },
+ {
+  "id": 202,
+  "where": "scroll",
+  "cells": [
+   "104:3"
+  ],
+  "uk": "Сувій: %spell_name",
+  "key": "71b7b4c27d87"
+ },
+ {
+  "id": 203,
+  "where": "telescope",
+  "cells": [
+   "105:2"
+  ],
+  "uk": "Підзорна труба",
+  "key": "e5b83a241ff8"
+ },
+ {
+  "id": 204,
+  "where": "telescope",
+  "cells": [
+   "105:3"
+  ],
+  "uk": "Підзорна труба",
+  "key": "1692391ad841"
+ },
+ {
+  "id": 205,
+  "where": "marantheas_mug",
+  "cells": [
+   "106:2",
+   "106:3"
+  ],
+  "uk": "Кухоль Маранфеї",
+  "key": "d0ffb6215734"
+ },
+ {
+  "id": 206,
+  "where": "shackles_of_war",
+  "cells": [
+   "107:2"
+  ],
+  "uk": "Кайдани війни",
+  "key": "716abb9390c0"
+ },
+ {
+  "id": 207,
+  "where": "shackles_of_war",
+  "cells": [
+   "107:3"
+  ],
+  "uk": "Кайдани війни",
+  "key": "7cf5ab1ee2eb"
+ },
+ {
+  "id": 208,
+  "where": "arrow_of_slaying",
+  "cells": [
+   "108:2"
+  ],
+  "uk": "Стріла вбивства",
+  "key": "b5ba4832aff7"
+ },
+ {
+  "id": 209,
+  "where": "arrow_of_slaying",
+  "cells": [
+   "108:3"
+  ],
+  "uk": "Стріла вбивства",
+  "key": "c84a660e1f35"
+ },
+ {
+  "id": 210,
+  "where": "brazier_of_sulfur",
+  "cells": [
+   "109:2"
+  ],
+  "uk": "Жаровня сірки",
+  "key": "84a7d1477e99"
+ },
+ {
+  "id": 211,
+  "where": "brazier_of_sulfur",
+  "cells": [
+   "109:3"
+  ],
+  "uk": "Жаровня сірки",
+  "key": "f6d69a39d9b1"
+ },
+ {
+  "id": 212,
+  "where": "cube_of_crystals",
+  "cells": [
+   "110:2"
+  ],
+  "uk": "Кришталева статуетка",
+  "key": "7f48e6779dc8"
+ },
+ {
+  "id": 213,
+  "where": "cube_of_crystals",
+  "cells": [
+   "110:3"
+  ],
+  "uk": "Кришталева статуетка",
+  "key": "273528740dcd"
+ },
+ {
+  "id": 214,
+  "where": "flask_of_mercury",
+  "cells": [
+   "111:2"
+  ],
+  "uk": "Фляга ртуті",
+  "key": "cdb5675b6639"
+ },
+ {
+  "id": 215,
+  "where": "flask_of_mercury",
+  "cells": [
+   "111:3"
+  ],
+  "uk": "Фляга ртуті",
+  "key": "09ecbabe7777"
+ },
+ {
+  "id": 216,
+  "where": "gias_gems",
+  "cells": [
+   "112:2"
+  ],
+  "uk": "Скринька самоцвітів",
+  "key": "ad8389833cda"
+ },
+ {
+  "id": 217,
+  "where": "gias_gems",
+  "cells": [
+   "112:3"
+  ],
+  "uk": "Скринька самоцвітів",
+  "key": "3a13a878b2de"
+ },
+ {
+  "id": 218,
+  "where": "poison_arrow",
+  "cells": [
+   "113:2"
+  ],
+  "uk": "Отруйна стріла",
+  "key": "4ddfc41c41bb"
+ },
+ {
+  "id": 219,
+  "where": "poison_arrow",
+  "cells": [
+   "113:3"
+  ],
+  "uk": "Отруйна стріла",
+  "key": "35b382c948dd"
+ },
+ {
+  "id": 220,
+  "where": "purse_of_pennypinching",
+  "cells": [
+   "114:2"
+  ],
+  "uk": "Гаманець скнари",
+  "key": "d4fc1af35382"
+ },
+ {
+  "id": 221,
+  "where": "purse_of_pennypinching",
+  "cells": [
+   "114:3"
+  ],
+  "uk": "Гаманець скнари",
+  "key": "5e7f3e4ff2a6"
+ },
+ {
+  "id": 222,
+  "where": "sack_of_gold",
+  "cells": [
+   "115:2"
+  ],
+  "uk": "Мішок золота",
+  "key": "9b50ba2aba88"
+ },
+ {
+  "id": 223,
+  "where": "sack_of_gold",
+  "cells": [
+   "115:3"
+  ],
+  "uk": "Мішок золота",
+  "key": "08f4be1af662"
+ },
+ {
+  "id": 224,
+  "where": "flaming_arrow",
+  "cells": [
+   "116:2"
+  ],
+  "uk": "Вогняна стріла",
+  "key": "034d782f8886"
+ },
+ {
+  "id": 225,
+  "where": "flaming_arrow",
+  "cells": [
+   "116:3"
+  ],
+  "uk": "Вогняна стріла",
+  "key": "7572eb406fd2"
+ },
+ {
+  "id": 226,
+  "where": "arrow_of_stunning",
+  "cells": [
+   "117:2"
+  ],
+  "uk": "Оглушлива стріла",
+  "key": "84be355c2a5a"
+ },
+ {
+  "id": 227,
+  "where": "arrow_of_stunning",
+  "cells": [
+   "117:3"
+  ],
+  "uk": "Оглушлива стріла",
+  "key": "86df86418b01"
+ },
+ {
+  "id": 228,
+  "where": "badge_of_courage",
+  "cells": [
+   "118:2"
+  ],
+  "uk": "Знак мужності",
+  "key": "52b5335854a2"
+ },
+ {
+  "id": 229,
+  "where": "badge_of_courage",
+  "cells": [
+   "118:3"
+  ],
+  "uk": "Знак мужності",
+  "key": "7bd2ddd22353"
+ },
+ {
+  "id": 230,
+  "where": "bag_of_gold",
+  "cells": [
+   "119:2"
+  ],
+  "uk": "Торба золота",
+  "key": "7725699096ae"
+ },
+ {
+  "id": 231,
+  "where": "bag_of_gold",
+  "cells": [
+   "119:3"
+  ],
+  "uk": "Торба золота",
+  "key": "e4fc9511de00"
+ },
+ {
+  "id": 232,
+  "where": "cart_of_lumber",
+  "cells": [
+   "120:2"
+  ],
+  "uk": "Віз деревини",
+  "key": "befaa6e6e23d"
+ },
+ {
+  "id": 233,
+  "where": "cart_of_lumber",
+  "cells": [
+   "120:3"
+  ],
+  "uk": "Віз деревини",
+  "key": "d7c042c95527"
+ },
+ {
+  "id": 234,
+  "where": "cart_of_ore",
+  "cells": [
+   "121:2"
+  ],
+  "uk": "Віз руди",
+  "key": "bf69f5471cbe"
+ },
+ {
+  "id": 235,
+  "where": "cart_of_ore",
+  "cells": [
+   "121:3"
+  ],
+  "uk": "Віз руди",
+  "key": "fda5a1ca8dda"
+ },
+ {
+  "id": 236,
+  "where": "compass",
+  "cells": [
+   "122:2"
+  ],
+  "uk": "Секстант",
+  "key": "908be497bbfe"
+ },
+ {
+  "id": 237,
+  "where": "compass",
+  "cells": [
+   "122:3"
+  ],
+  "uk": "Секстант",
+  "key": "ffd6182b7d35"
+ },
+ {
+  "id": 238,
+  "where": "crest_of_valor",
+  "cells": [
+   "123:2"
+  ],
+  "uk": "Герб звитяги",
+  "key": "0a95e083dcb0"
+ },
+ {
+  "id": 239,
+  "where": "crest_of_valor",
+  "cells": [
+   "123:3"
+  ],
+  "uk": "Герб звитяги",
+  "key": "8fcd57abab04"
+ },
+ {
+  "id": 240,
+  "where": "crystal_of_light",
+  "cells": [
+   "124:2"
+  ],
+  "uk": "Оглядовий кристал",
+  "key": "b5989ee87f5f"
+ },
+ {
+  "id": 241,
+  "where": "crystal_of_light",
+  "cells": [
+   "124:3"
+  ],
+  "uk": "Оглядовий кристал",
+  "key": "767bafa1f2b7"
+ },
+ {
+  "id": 242,
+  "where": "crystal_of_memory",
+  "cells": [
+   "125:2"
+  ],
+  "uk": "Кристал пам'яті",
+  "key": "edb439b54138"
+ },
+ {
+  "id": 243,
+  "where": "crystal_of_memory",
+  "cells": [
+   "125:3"
+  ],
+  "uk": "Кристал пам'яті",
+  "key": "3fc5605c9a93"
+ },
+ {
+  "id": 244,
+  "where": "four_leaf_clover",
+  "cells": [
+   "126:2"
+  ],
+  "uk": "Чотирилиста конюшина",
+  "key": "4ab98d03a727"
+ },
+ {
+  "id": 245,
+  "where": "four_leaf_clover",
+  "cells": [
+   "126:3"
+  ],
+  "uk": "Чотирилиста конюшина",
+  "key": "9fc08d0e70e9"
+ },
+ {
+  "id": 246,
+  "where": "gamblers_deck",
+  "cells": [
+   "127:2"
+  ],
+  "uk": "Колода гравця",
+  "key": "e35ec0d508b4"
+ },
+ {
+  "id": 247,
+  "where": "gamblers_deck",
+  "cells": [
+   "127:3"
+  ],
+  "uk": "Колода гравця",
+  "key": "b36f92a642aa"
+ },
+ {
+  "id": 248,
+  "where": "horseshoe",
+  "cells": [
+   "128:2"
+  ],
+  "uk": "Підкова",
+  "key": "8fdafe17d3c9"
+ },
+ {
+  "id": 249,
+  "where": "horseshoe",
+  "cells": [
+   "128:3"
+  ],
+  "uk": "Підкова",
+  "key": "2ecbeac736f6"
+ },
+ {
+  "id": 250,
+  "where": "purse_of_gold",
+  "cells": [
+   "129:2"
+  ],
+  "uk": "Гаманець золота",
+  "key": "5429cd9f313c"
+ },
+ {
+  "id": 251,
+  "where": "purse_of_gold",
+  "cells": [
+   "129:3"
+  ],
+  "uk": "Гаманець золота",
+  "key": "4e7ed8f08317"
+ },
+ {
+  "id": 252,
+  "where": "spiders_silk_arrow",
+  "cells": [
+   "130:2"
+  ],
+  "uk": "Стріли з павутиння",
+  "key": "9785a794b2f5"
+ },
+ {
+  "id": 253,
+  "where": "spiders_silk_arrow",
+  "cells": [
+   "130:3"
+  ],
+  "uk": "Стріли з павутиння",
+  "key": "0f8d668c2752"
+ },
+ {
+  "id": 254,
+  "where": "victory_banner",
+  "cells": [
+   "131:2"
+  ],
+  "uk": "Стяг перемоги",
+  "key": "b29f7d6662f5"
+ },
+ {
+  "id": 255,
+  "where": "victory_banner",
+  "cells": [
+   "131:3"
+  ],
+  "uk": "Стяг перемоги",
+  "key": "721628888fb4"
+ },
+ {
+  "id": 256,
+  "where": "fizbin_of_misfortune",
+  "cells": [
+   "132:2"
+  ],
+  "uk": "Фізбін невдачі",
+  "key": "3baa100a64e6"
+ },
+ {
+  "id": 257,
+  "where": "fizbin_of_misfortune",
+  "cells": [
+   "132:3"
+  ],
+  "uk": "Фізбін невдачі",
+  "key": "a822bb0bf4e5"
+ },
+ {
+  "id": 258,
+  "where": "mirror_of_spell_turning",
+  "cells": [
+   "133:2"
+  ],
+  "uk": "Дзеркало помсти",
+  "key": "eee5b4ae8961"
+ },
+ {
+  "id": 259,
+  "where": "mirror_of_spell_turning",
+  "cells": [
+   "133:3"
+  ],
+  "uk": "Дзеркало помсти",
+  "key": "ed987bc18c16"
+ },
+ {
+  "id": 260,
+  "where": "amulet_of_fear",
+  "cells": [
+   "134:2"
+  ],
+  "uk": "Амулет страху",
+  "key": "3f2518f960a3"
+ },
+ {
+  "id": 261,
+  "where": "amulet_of_fear",
+  "cells": [
+   "134:3"
+  ],
+  "uk": "Амулет страху",
+  "key": "52e22dab13ff"
+ },
+ {
+  "id": 262,
+  "where": "amulet_of_the_undertaker",
+  "cells": [
+   "135:2"
+  ],
+  "uk": "Амулет трунаря",
+  "key": "43ce0eeedca0"
+ },
+ {
+  "id": 263,
+  "where": "amulet_of_the_undertaker",
+  "cells": [
+   "135:3"
+  ],
+  "uk": "Амулет трунаря",
+  "key": "fae850a07273"
+ },
+ {
+  "id": 264,
+  "where": "ankh_of_life",
+  "cells": [
+   "136:2"
+  ],
+  "uk": "Анкх життя",
+  "key": "0d5d7a0cb5c8"
+ },
+ {
+  "id": 265,
+  "where": "ankh_of_life",
+  "cells": [
+   "136:3"
+  ],
+  "uk": "Анкх життя",
+  "key": "7f6d687f67d7"
+ },
+ {
+  "id": 266,
+  "where": "druids_chain",
+  "cells": [
+   "137:2"
+  ],
+  "uk": "Ланцюжок друїда",
+  "key": "6ccc598d05ed"
+ },
+ {
+  "id": 267,
+  "where": "druids_chain",
+  "cells": [
+   "137:3"
+  ],
+  "uk": "Ланцюжок друїда",
+  "key": "6404d499f620"
+ },
+ {
+  "id": 268,
+  "where": "medal_of_honor",
+  "cells": [
+   "138:2"
+  ],
+  "uk": "Медаль честі",
+  "key": "97962ddbb011"
+ },
+ {
+  "id": 269,
+  "where": "medal_of_honor",
+  "cells": [
+   "138:3"
+  ],
+  "uk": "Медаль честі",
+  "key": "8a97b351acea"
+ },
+ {
+  "id": 270,
+  "where": "necklace_of_charm",
+  "cells": [
+   "139:2"
+  ],
+  "uk": "Намисто чарівності",
+  "key": "3fca89529176"
+ },
+ {
+  "id": 271,
+  "where": "necklace_of_charm",
+  "cells": [
+   "139:3"
+  ],
+  "uk": "Намисто чарівності",
+  "key": "02a83975a1d2"
+ },
+ {
+  "id": 272,
+  "where": "statesmans_medal",
+  "cells": [
+   "140:2"
+  ],
+  "uk": "Медаль державника",
+  "key": "c352d6896335"
+ },
+ {
+  "id": 273,
+  "where": "statesmans_medal",
+  "cells": [
+   "140:3"
+  ],
+  "uk": "Медаль державника",
+  "key": "9f238fb5743e"
+ },
+ {
+  "id": 274,
+  "where": "staads_scarab_of_summoning",
+  "cells": [
+   "141:2"
+  ],
+  "uk": "Скарабей виклику",
+  "key": "f9839e947d24"
+ },
+ {
+  "id": 275,
+  "where": "staads_scarab_of_summoning",
+  "cells": [
+   "141:3"
+  ],
+  "uk": "Скарабей виклику",
+  "key": "5fa9e251a56f"
+ },
+ {
+  "id": 276,
+  "where": "axe",
+  "cells": [
+   "142:2"
+  ],
+  "uk": "Сокира",
+  "key": "7ed611de7d17"
+ },
+ {
+  "id": 277,
+  "where": "axe",
+  "cells": [
+   "142:3"
+  ],
+  "uk": "Сокира",
+  "key": "c4b6b63e9988"
+ },
+ {
+  "id": 278,
+  "where": "longsword",
+  "cells": [
+   "143:2"
+  ],
+  "uk": "Довгий меч",
+  "key": "e7f79931cf1c"
+ },
+ {
+  "id": 279,
+  "where": "longsword",
+  "cells": [
+   "143:3"
+  ],
+  "uk": "Довгий меч",
+  "key": "3db2bc03dc3e"
+ },
+ {
+  "id": 280,
+  "where": "axe_of_legends",
+  "cells": [
+   "144:2"
+  ],
+  "uk": "Легендарна сокира",
+  "key": "a079988e0d1a"
+ },
+ {
+  "id": 281,
+  "where": "axe_of_legends",
+  "cells": [
+   "144:3"
+  ],
+  "uk": "Легендарна сокира",
+  "key": "58981abe953b"
+ },
+ {
+  "id": 282,
+  "where": "flaming_sword",
+  "cells": [
+   "145:2"
+  ],
+  "uk": "Палаючий меч",
+  "key": "f32840ec0e29"
+ },
+ {
+  "id": 283,
+  "where": "flaming_sword",
+  "cells": [
+   "145:3"
+  ],
+  "uk": "Палаючий меч",
+  "key": "354527654c38"
+ },
+ {
+  "id": 284,
+  "where": "soul_stealer",
+  "cells": [
+   "146:2"
+  ],
+  "uk": "Викрадач душ",
+  "key": "c76bcd99d1ff"
+ },
+ {
+  "id": 285,
+  "where": "soul_stealer",
+  "cells": [
+   "146:3"
+  ],
+  "uk": "Викрадач душ",
+  "key": "39afce5ca0b9"
+ },
+ {
+  "id": 286,
+  "where": "sword_of_swiftness",
+  "cells": [
+   "147:2"
+  ],
+  "uk": "Меч прудкості",
+  "key": "ff06541a28dd"
+ },
+ {
+  "id": 287,
+  "where": "sword_of_swiftness",
+  "cells": [
+   "147:3"
+  ],
+  "uk": "Меч прудкості",
+  "key": "8146046646a7"
+ },
+ {
+  "id": 288,
+  "where": "tynans_dagger_of_despair",
+  "cells": [
+   "148:2",
+   "148:3"
+  ],
+  "uk": "Кинджал відчаю Тайнана",
+  "key": "ffa1775add3e"
+ },
+ {
+  "id": 289,
+  "where": "demon_slayer",
+  "cells": [
+   "149:2"
+  ],
+  "uk": "Янгольський клинок",
+  "key": "a9db5f7d92dc"
+ },
+ {
+  "id": 290,
+  "where": "demon_slayer",
+  "cells": [
+   "149:3"
+  ],
+  "uk": "Янгольський клинок",
+  "key": "93e8c206bff2"
+ },
+ {
+  "id": 291,
+  "where": "giant_slayer",
+  "cells": [
+   "150:2"
+  ],
+  "uk": "Убивця велетнів",
+  "key": "4192d35b9877"
+ },
+ {
+  "id": 292,
+  "where": "giant_slayer",
+  "cells": [
+   "150:3"
+  ],
+  "uk": "Убивця велетнів",
+  "key": "888830a8914d"
+ },
+ {
+  "id": 293,
+  "where": "monks_mace",
+  "cells": [
+   "151:2"
+  ],
+  "uk": "Булава хрестоносця",
+  "key": "2b65786ec93f"
+ },
+ {
+  "id": 294,
+  "where": "monks_mace",
+  "cells": [
+   "151:3"
+  ],
+  "uk": "Булава хрестоносця",
+  "key": "d6910a52e637"
+ },
+ {
+  "id": 295,
+  "where": "wand_of_animate_dead",
+  "cells": [
+   "152:2"
+  ],
+  "uk": "Жезл оживлення мертвих",
+  "key": "7586bc778a9e"
+ },
+ {
+  "id": 296,
+  "where": "wand_of_animate_dead",
+  "cells": [
+   "152:3"
+  ],
+  "uk": "Жезл оживлення мертвих",
+  "key": "e34d9ce87be7"
+ },
+ {
+  "id": 297,
+  "where": "wand_of_bless",
+  "cells": [
+   "153:2"
+  ],
+  "uk": "Жезл благословень",
+  "key": "12f54f9578fb"
+ },
+ {
+  "id": 298,
+  "where": "wand_of_bless",
+  "cells": [
+   "153:3"
+  ],
+  "uk": "Жезл благословень",
+  "key": "98e446d7b777"
+ },
+ {
+  "id": 299,
+  "where": "wand_of_curse",
+  "cells": [
+   "154:2"
+  ],
+  "uk": "Жезл прокльонів",
+  "key": "70f655c00633"
+ },
+ {
+  "id": 300,
+  "where": "wand_of_curse",
+  "cells": [
+   "154:3"
+  ],
+  "uk": "Жезл прокльонів",
+  "key": "fe16d689ffa6"
+ },
+ {
+  "id": 301,
+  "where": "wand_of_fire",
+  "cells": [
+   "155:2"
+  ],
+  "uk": "Жезл вогню",
+  "key": "a7e3d99f4d32"
+ },
+ {
+  "id": 302,
+  "where": "wand_of_fire",
+  "cells": [
+   "155:3"
+  ],
+  "uk": "Жезл вогню",
+  "key": "89e81c1ea0b9"
+ },
+ {
+  "id": 303,
+  "where": "wand_of_fireball",
+  "cells": [
+   "156:2"
+  ],
+  "uk": "Жезл вогняних куль",
+  "key": "48208f4aecb5"
+ },
+ {
+  "id": 304,
+  "where": "wand_of_fireball",
+  "cells": [
+   "156:3"
+  ],
+  "uk": "Жезл вогняних куль",
+  "key": "bfe9aaf39e99"
+ },
+ {
+  "id": 305,
+  "where": "wand_of_haste",
+  "cells": [
+   "157:2"
+  ],
+  "uk": "Жезл пришвидшення",
+  "key": "de3a62d9e1cf"
+ },
+ {
+  "id": 306,
+  "where": "wand_of_haste",
+  "cells": [
+   "157:3"
+  ],
+  "uk": "Жезл пришвидшення",
+  "key": "b6085fc08b4f"
+ },
+ {
+  "id": 307,
+  "where": "wand_of_healing",
+  "cells": [
+   "158:2"
+  ],
+  "uk": "Жезл зцілення",
+  "key": "425a9a86643c"
+ },
+ {
+  "id": 308,
+  "where": "wand_of_healing",
+  "cells": [
+   "158:3"
+  ],
+  "uk": "Жезл зцілення",
+  "key": "b81a5bd0dcc7"
+ },
+ {
+  "id": 309,
+  "where": "wand_of_ice",
+  "cells": [
+   "159:2"
+  ],
+  "uk": "Жезл криги",
+  "key": "4b38eeddda7d"
+ },
+ {
+  "id": 310,
+  "where": "wand_of_ice",
+  "cells": [
+   "159:3"
+  ],
+  "uk": "Жезл криги",
+  "key": "ede1e0e7938c"
+ },
+ {
+  "id": 311,
+  "where": "wand_of_illusion",
+  "cells": [
+   "160:2"
+  ],
+  "uk": "Жезл ілюзій",
+  "key": "d6c4b73ca25a"
+ },
+ {
+  "id": 312,
+  "where": "wand_of_illusion",
+  "cells": [
+   "160:3"
+  ],
+  "uk": "Жезл ілюзій",
+  "key": "181c162e0928"
+ },
+ {
+  "id": 313,
+  "where": "wand_of_weakness",
+  "cells": [
+   "161:2"
+  ],
+  "uk": "Жезл слабкості",
+  "key": "431c1322afe4"
+ },
+ {
+  "id": 314,
+  "where": "wand_of_weakness",
+  "cells": [
+   "161:3"
+  ],
+  "uk": "Жезл слабкості",
+  "key": "5076944538a4"
+ },
+ {
+  "id": 315,
+  "where": "minotaurs_battleax",
+  "cells": [
+   "162:2"
+  ],
+  "uk": "Бойова сокира з руною бика",
+  "key": "ed52c0b43c38"
+ },
+ {
+  "id": 316,
+  "where": "minotaurs_battleax",
+  "cells": [
+   "162:3"
+  ],
+  "uk": "Бойова сокира з руною бика",
+  "key": "5093aa6c14d2"
+ },
+ {
+  "id": 317,
+  "where": "sword_of_the_gods",
+  "cells": [
+   "163:2"
+  ],
+  "uk": "Меч богів",
+  "key": "09423dc91c60"
+ },
+ {
+  "id": 318,
+  "where": "sword_of_the_gods",
+  "cells": [
+   "163:3"
+  ],
+  "uk": "Меч богів",
+  "key": "2e90c9cc013f"
+ },
+ {
+  "id": 319,
+  "where": "dwarven_hammer",
+  "cells": [
+   "164:2"
+  ],
+  "uk": "Гномський молот",
+  "key": "037df311c740"
+ },
+ {
+  "id": 320,
+  "where": "dwarven_hammer",
+  "cells": [
+   "164:3"
+  ],
+  "uk": "Гномський молот",
+  "key": "9fd7903588d4"
+ },
+ {
+  "id": 321,
+  "where": "ring_of_regeneration",
+  "cells": [
+   "165:2"
+  ],
+  "uk": "Перстень регенерації",
+  "key": "783257d4b772"
+ },
+ {
+  "id": 322,
+  "where": "ring_of_regeneration",
+  "cells": [
+   "165:3"
+  ],
+  "uk": "Перстень регенерації",
+  "key": "893be2a1029f"
+ },
+ {
+  "id": 323,
+  "where": "equestrians_gloves",
+  "cells": [
+   "166:2"
+  ],
+  "uk": "Рукавиці вершника",
+  "key": "c0c73e3e3ad5"
+ },
+ {
+  "id": 324,
+  "where": "equestrians_gloves",
+  "cells": [
+   "166:3"
+  ],
+  "uk": "Рукавиці вершника",
+  "key": "e07cc9c285a0"
+ },
+ {
+  "id": 325,
+  "where": "leprechauns_ring",
+  "cells": [
+   "167:2"
+  ],
+  "uk": "Перстень лепрекона",
+  "key": "7076a2997243"
+ },
+ {
+  "id": 326,
+  "where": "leprechauns_ring",
+  "cells": [
+   "167:3"
+  ],
+  "uk": "Перстень лепрекона",
+  "key": "4c3c2269b413"
+ },
+ {
+  "id": 327,
+  "where": "lesser_ring_of_vulnerability",
+  "cells": [
+   "168:2"
+  ],
+  "uk": "Перстень малого заперечення",
+  "key": "57d693a9e35f"
+ },
+ {
+  "id": 328,
+  "where": "lesser_ring_of_vulnerability",
+  "cells": [
+   "168:3"
+  ],
+  "uk": "Перстень малого заперечення",
+  "key": "953895b99901"
+ },
+ {
+  "id": 329,
+  "where": "poison_ring",
+  "cells": [
+   "169:2"
+  ],
+  "uk": "Перстень ока кобри",
+  "key": "3315276cd79d"
+ },
+ {
+  "id": 330,
+  "where": "poison_ring",
+  "cells": [
+   "169:3"
+  ],
+  "uk": "Перстень ока кобри",
+  "key": "0c56bddffc49"
+ },
+ {
+  "id": 331,
+  "where": "ring_of_elementals",
+  "cells": [
+   "170:2"
+  ],
+  "uk": "Перстень елементалів",
+  "key": "55aae32ba507"
+ },
+ {
+  "id": 332,
+  "where": "ring_of_elementals",
+  "cells": [
+   "170:3"
+  ],
+  "uk": "Перстень елементалів",
+  "key": "7586850b34e3"
+ },
+ {
+  "id": 333,
+  "where": "ring_of_permanency",
+  "cells": [
+   "171:2"
+  ],
+  "uk": "Перстень сталості",
+  "key": "640e2ba334ef"
+ },
+ {
+  "id": 334,
+  "where": "ring_of_permanency",
+  "cells": [
+   "171:3"
+  ],
+  "uk": "Перстень сталості",
+  "key": "a69d1a9c3290"
+ },
+ {
+  "id": 335,
+  "where": "ring_of_speed",
+  "cells": [
+   "172:2"
+  ],
+  "uk": "Перстень швидкості",
+  "key": "308f3dd477f9"
+ },
+ {
+  "id": 336,
+  "where": "ring_of_speed",
+  "cells": [
+   "172:3"
+  ],
+  "uk": "Перстень швидкості",
+  "key": "4e164a64a290"
+ },
+ {
+  "id": 337,
+  "where": "greater_ring_of_vulnerability",
+  "cells": [
+   "173:2"
+  ],
+  "uk": "Перстень великого заперечення",
+  "key": "1a0cab6690b8"
+ },
+ {
+  "id": 338,
+  "where": "greater_ring_of_vulnerability",
+  "cells": [
+   "173:3"
+  ],
+  "uk": "Перстень великого заперечення",
+  "key": "9d560c0855ee"
+ },
+ {
+  "id": 339,
+  "where": "ring_of_health",
+  "cells": [
+   "174:2"
+  ],
+  "uk": "Перстень здоров'я",
+  "key": "ed3820e442ba"
+ },
+ {
+  "id": 340,
+  "where": "ring_of_health",
+  "cells": [
+   "174:3"
+  ],
+  "uk": "Перстень здоров'я",
+  "key": "9779c200eeb5"
+ },
+ {
+  "id": 341,
+  "where": "ring_of_protection",
+  "cells": [
+   "175:2"
+  ],
+  "uk": "Перстень захисту",
+  "key": "b41f887241ac"
+ },
+ {
+  "id": 342,
+  "where": "ring_of_protection",
+  "cells": [
+   "175:3"
+  ],
+  "uk": "Перстень захисту",
+  "key": "05fe99258c23"
+ },
+ {
+  "id": 343,
+  "where": "ring_of_strength",
+  "cells": [
+   "176:2"
+  ],
+  "uk": "Перстень сили",
+  "key": "afbe5f65ffbc"
+ },
+ {
+  "id": 344,
+  "where": "ring_of_strength",
+  "cells": [
+   "176:3"
+  ],
+  "uk": "Перстень сили",
+  "key": "6f2fceb0301f"
+ },
+ {
+  "id": 345,
+  "where": "warlords_ring",
+  "cells": [
+   "177:2"
+  ],
+  "uk": "Перстень воєводи",
+  "key": "cf6f26b11977"
+ },
+ {
+  "id": 346,
+  "where": "warlords_ring",
+  "cells": [
+   "177:3"
+  ],
+  "uk": "Перстень воєводи",
+  "key": "27677d4d432f"
+ },
+ {
+  "id": 347,
+  "where": "wizards_ring",
+  "cells": [
+   "178:2"
+  ],
+  "uk": "Перстень чарівника",
+  "key": "9b7a0ae4fc9e"
+ },
+ {
+  "id": 348,
+  "where": "wizards_ring",
+  "cells": [
+   "178:3"
+  ],
+  "uk": "Перстень чарівника",
+  "key": "1e653cdc1a71"
+ },
+ {
+  "id": 349,
+  "where": "chainmail",
+  "cells": [
+   "179:2"
+  ],
+  "uk": "Кольчуга",
+  "key": "877e5a7cec30"
+ },
+ {
+  "id": 350,
+  "where": "chainmail",
+  "cells": [
+   "179:3"
+  ],
+  "uk": "Кольчуга",
+  "key": "849051da19de"
+ },
+ {
+  "id": 351,
+  "where": "leather_armor",
+  "cells": [
+   "180:2"
+  ],
+  "uk": "Шкіряний обладунок",
+  "key": "6b0c0b7d6913"
+ },
+ {
+  "id": 352,
+  "where": "leather_armor",
+  "cells": [
+   "180:3"
+  ],
+  "uk": "Шкіряний обладунок",
+  "key": "a6c073274ff5"
+ },
+ {
+  "id": 353,
+  "where": "plate_mail",
+  "cells": [
+   "181:2"
+  ],
+  "uk": "Латний обладунок",
+  "key": "73c2014c7c03"
+ },
+ {
+  "id": 354,
+  "where": "plate_mail",
+  "cells": [
+   "181:3"
+  ],
+  "uk": "Латний обладунок",
+  "key": "69a58015c5eb"
+ },
+ {
+  "id": 355,
+  "where": "armor_of_chaos",
+  "cells": [
+   "182:2"
+  ],
+  "uk": "Обладунок Хаосу",
+  "key": "f642de63f9c0"
+ },
+ {
+  "id": 356,
+  "where": "armor_of_chaos",
+  "cells": [
+   "182:3"
+  ],
+  "uk": "Обладунок Хаосу",
+  "key": "8653c0ac368f"
+ },
+ {
+  "id": 357,
+  "where": "armor_of_darkness",
+  "cells": [
+   "183:2"
+  ],
+  "uk": "Обладунок Смерті",
+  "key": "061977970609"
+ },
+ {
+  "id": 358,
+  "where": "armor_of_darkness",
+  "cells": [
+   "183:3"
+  ],
+  "uk": "Обладунок Смерті",
+  "key": "45a7396e6813"
+ },
+ {
+  "id": 359,
+  "where": "armor_of_light",
+  "cells": [
+   "184:2"
+  ],
+  "uk": "Обладунок Життя",
+  "key": "2e9107d6b86b"
+ },
+ {
+  "id": 360,
+  "where": "armor_of_light",
+  "cells": [
+   "184:3"
+  ],
+  "uk": "Обладунок Життя",
+  "key": "e95319e5cc12"
+ },
+ {
+  "id": 361,
+  "where": "armor_of_order",
+  "cells": [
+   "185:2"
+  ],
+  "uk": "Обладунок Порядку",
+  "key": "2b45130fa98a"
+ },
+ {
+  "id": 362,
+  "where": "armor_of_order",
+  "cells": [
+   "185:3"
+  ],
+  "uk": "Обладунок Порядку",
+  "key": "fb52087fd7b7"
+ },
+ {
+  "id": 363,
+  "where": "breastplate_of_regeneration",
+  "cells": [
+   "186:2"
+  ],
+  "uk": "Нагрудник регенерації",
+  "key": "c042c05f985e"
+ },
+ {
+  "id": 364,
+  "where": "breastplate_of_regeneration",
+  "cells": [
+   "186:3"
+  ],
+  "uk": "Нагрудник регенерації",
+  "key": "570f2384572e"
+ },
+ {
+  "id": 365,
+  "where": "brimstone_breastplate",
+  "cells": [
+   "187:2"
+  ],
+  "uk": "Сірчаний нагрудник",
+  "key": "5484bda9315b"
+ },
+ {
+  "id": 366,
+  "where": "brimstone_breastplate",
+  "cells": [
+   "187:3"
+  ],
+  "uk": "Сірчаний нагрудник",
+  "key": "e1af49b3d252"
+ },
+ {
+  "id": 367,
+  "where": "dragon_scale_armor",
+  "cells": [
+   "188:2"
+  ],
+  "uk": "Обладунок із драконячої луски",
+  "key": "7ac7b9078ecf"
+ },
+ {
+  "id": 368,
+  "where": "dragon_scale_armor",
+  "cells": [
+   "188:3"
+  ],
+  "uk": "Обладунок із драконячої луски",
+  "key": "a874d1906a1e"
+ },
+ {
+  "id": 369,
+  "where": "gryphonhearts_plate_mail",
+  "cells": [
+   "189:2",
+   "189:3"
+  ],
+  "uk": "Лати Ґрифонового Серця",
+  "key": "40b3f3f545d1"
+ },
+ {
+  "id": 370,
+  "where": "scale_mail_of_strength",
+  "cells": [
+   "190:2"
+  ],
+  "uk": "Лускатий обладунок сили",
+  "key": "a8abc4983c60"
+ },
+ {
+  "id": 371,
+  "where": "scale_mail_of_strength",
+  "cells": [
+   "190:3"
+  ],
+  "uk": "Лускатий обладунок сили",
+  "key": "45d504cb0b3a"
+ },
+ {
+  "id": 372,
+  "where": "unnatural_armor",
+  "cells": [
+   "191:2"
+  ],
+  "uk": "Неприродний обладунок",
+  "key": "a1d39a0b06f5"
+ },
+ {
+  "id": 373,
+  "where": "unnatural_armor",
+  "cells": [
+   "191:3"
+  ],
+  "uk": "Неприродний обладунок",
+  "key": "f006f6ca3a3f"
+ },
+ {
+  "id": 374,
+  "where": "golden_plate_mail",
+  "cells": [
+   "192:2"
+  ],
+  "uk": "Золоті лати",
+  "key": "42d90a81ca1a"
+ },
+ {
+  "id": 375,
+  "where": "golden_plate_mail",
+  "cells": [
+   "192:3"
+  ],
+  "uk": "Золоті лати",
+  "key": "cffba1804c87"
+ },
+ {
+  "id": 376,
+  "where": "adamantine_armor",
+  "cells": [
+   "193:2"
+  ],
+  "uk": "Адамантовий обладунок",
+  "key": "2258876e3ac2"
+ },
+ {
+  "id": 377,
+  "where": "adamantine_armor",
+  "cells": [
+   "193:3"
+  ],
+  "uk": "Адамантовий обладунок",
+  "key": "ee2228dfb2e3"
+ },
+ {
+  "id": 378,
+  "where": "elven_chainmail",
+  "cells": [
+   "194:2"
+  ],
+  "uk": "Ельфійська кольчуга",
+  "key": "0be9f0255157"
+ },
+ {
+  "id": 379,
+  "where": "elven_chainmail",
+  "cells": [
+   "194:3"
+  ],
+  "uk": "Ельфійська кольчуга",
+  "key": "095c6d0d1f7f"
+ },
+ {
+  "id": 380,
+  "where": "holy_crown",
+  "cells": [
+   "196:2"
+  ],
+  "uk": "Свята корона",
+  "key": "d5acfe04866f"
+ },
+ {
+  "id": 381,
+  "where": "holy_crown",
+  "cells": [
+   "196:3"
+  ],
+  "uk": "Свята корона",
+  "key": "d4ce52edab91"
+ },
+ {
+  "id": 382,
+  "where": "crown",
+  "cells": [
+   "197:2"
+  ],
+  "uk": "Корона",
+  "key": "410494f2cf46"
+ },
+ {
+  "id": 383,
+  "where": "crown",
+  "cells": [
+   "197:3"
+  ],
+  "uk": "Корона",
+  "key": "f347188ce4a7"
+ },
+ {
+  "id": 384,
+  "where": "emerald",
+  "cells": [
+   "198:2"
+  ],
+  "uk": "Смарагд",
+  "key": "da32ecab00cd"
+ },
+ {
+  "id": 385,
+  "where": "emerald",
+  "cells": [
+   "198:3"
+  ],
+  "uk": "Смарагд",
+  "key": "8cdd25f4a550"
+ },
+ {
+  "id": 386,
+  "where": "ruby",
+  "cells": [
+   "199:2"
+  ],
+  "uk": "Рубін",
+  "key": "b217e98c3bf7"
+ },
+ {
+  "id": 387,
+  "where": "ruby",
+  "cells": [
+   "199:3"
+  ],
+  "uk": "Рубін",
+  "key": "08054b060a5c"
+ },
+ {
+  "id": 388,
+  "where": "sapphire",
+  "cells": [
+   "200:2"
+  ],
+  "uk": "Сапфір",
+  "key": "52086129a3b5"
+ },
+ {
+  "id": 389,
+  "where": "sapphire",
+  "cells": [
+   "200:3"
+  ],
+  "uk": "Сапфір",
+  "key": "f5c8470e138d"
+ },
+ {
+  "id": 390,
+  "where": "pearl",
+  "cells": [
+   "201:2"
+  ],
+  "uk": "Перлина",
+  "key": "7927d99fd832"
+ },
+ {
+  "id": 391,
+  "where": "pearl",
+  "cells": [
+   "201:3"
+  ],
+  "uk": "Перлина",
+  "key": "98429c064d7b"
+ },
+ {
+  "id": 392,
+  "where": "vampiric_amulet",
+  "cells": [
+   "202:2"
+  ],
+  "uk": "Вампірський амулет",
+  "key": "ee1cb806a5fa"
+ },
+ {
+  "id": 393,
+  "where": "vampiric_amulet",
+  "cells": [
+   "202:3"
+  ],
+  "uk": "Вампірський амулет",
+  "key": "79d1a9979df5"
+ },
+ {
+  "id": 394,
+  "where": "chain",
+  "cells": [
+   "203:2"
+  ],
+  "uk": "Ланцюжок",
+  "key": "d81f3692d7cd"
+ },
+ {
+  "id": 395,
+  "where": "chain",
+  "cells": [
+   "203:3"
+  ],
+  "uk": "Ланцюжок",
+  "key": "4ecb0797019a"
+ },
+ {
+  "id": 396,
+  "where": "setting",
+  "cells": [
+   "204:2"
+  ],
+  "uk": "Оправа",
+  "key": "fb449f71834c"
+ },
+ {
+  "id": 397,
+  "where": "setting",
+  "cells": [
+   "204:3"
+  ],
+  "uk": "Оправа",
+  "key": "da9c57a7e3c1"
+ },
+ {
+  "id": 398,
+  "where": "left_onyx",
+  "cells": [
+   "205:2",
+   "206:2"
+  ],
+  "uk": "Онікс",
+  "key": "67e5c74226af"
+ },
+ {
+  "id": 399,
+  "where": "left_onyx",
+  "cells": [
+   "205:3",
+   "206:3"
+  ],
+  "uk": "Онікс",
+  "key": "37411783cf48"
+ },
+ {
+  "id": 400,
+  "where": "dark_ruby",
+  "cells": [
+   "207:2"
+  ],
+  "uk": "Темний рубін",
+  "key": "936af85fdae0"
+ },
+ {
+  "id": 401,
+  "where": "dark_ruby",
+  "cells": [
+   "207:3"
+  ],
+  "uk": "Темний рубін",
+  "key": "f013d38f9876"
+ },
+ {
+  "id": 402,
+  "where": "book_of_enchantment",
+  "cells": [
+   "208:2"
+  ],
+  "uk": "Книга зачарування",
+  "key": "a6aa4ca4ad1a"
+ },
+ {
+  "id": 403,
+  "where": "book_of_enchantment",
+  "cells": [
+   "208:3"
+  ],
+  "uk": "Книга зачарування",
+  "key": "da272f71fbb0"
+ },
+ {
+  "id": 404,
+  "where": "chapter_one",
+  "cells": [
+   "209:2"
+  ],
+  "uk": "Розділ перший",
+  "key": "c56fd6016706"
+ },
+ {
+  "id": 405,
+  "where": "chapter_one",
+  "cells": [
+   "209:3"
+  ],
+  "uk": "Перший розділ Книги зачарування",
+  "key": "fda5593b711a"
+ },
+ {
+  "id": 406,
+  "where": "chapter_two",
+  "cells": [
+   "210:2"
+  ],
+  "uk": "Розділ другий",
+  "key": "55bed2db0fe5"
+ },
+ {
+  "id": 407,
+  "where": "chapter_two",
+  "cells": [
+   "210:3"
+  ],
+  "uk": "Другий розділ Книги зачарування",
+  "key": "9bb939c2e99e"
+ },
+ {
+  "id": 408,
+  "where": "chapter_three",
+  "cells": [
+   "211:2"
+  ],
+  "uk": "Розділ третій",
+  "key": "a21357aa154a"
+ },
+ {
+  "id": 409,
+  "where": "chapter_three",
+  "cells": [
+   "211:3"
+  ],
+  "uk": "Третій розділ Книги зачарування",
+  "key": "33472b673733"
+ },
+ {
+  "id": 410,
+  "where": "chapter_four",
+  "cells": [
+   "212:2"
+  ],
+  "uk": "Розділ четвертий",
+  "key": "a161af386119"
+ },
+ {
+  "id": 411,
+  "where": "chapter_four",
+  "cells": [
+   "212:3"
+  ],
+  "uk": "Четвертий розділ Книги зачарування",
+  "key": "b293a57b18dd"
+ },
+ {
+  "id": 412,
+  "where": "binding",
+  "cells": [
+   "213:2"
+  ],
+  "uk": "Розділ п'ятий",
+  "key": "85058b8f8b96"
+ },
+ {
+  "id": 413,
+  "where": "binding",
+  "cells": [
+   "213:3"
+  ],
+  "uk": "П'ятий розділ Книги зачарування",
+  "key": "69e55b313b13"
+ },
+ {
+  "id": 414,
+  "where": "rod_of_chaos",
+  "cells": [
+   "214:2"
+  ],
+  "uk": "Жезл Хаосу",
+  "key": "96e3dde222fd"
+ },
+ {
+  "id": 415,
+  "where": "rod_of_chaos",
+  "cells": [
+   "214:3"
+  ],
+  "uk": "Жезл Хаосу",
+  "key": "22d68607a0f6"
+ },
+ {
+  "id": 416,
+  "where": "rams_horn",
+  "cells": [
+   "215:2"
+  ],
+  "uk": "Баранячий ріг",
+  "key": "8b728c1c0587"
+ },
+ {
+  "id": 417,
+  "where": "rams_horn",
+  "cells": [
+   "215:3"
+  ],
+  "uk": "Баранячий ріг",
+  "key": "6af51f9d9073"
+ },
+ {
+  "id": 418,
+  "where": "crown_of_dragon_teeth",
+  "cells": [
+   "216:2"
+  ],
+  "uk": "Корона з драконячих зубів",
+  "key": "1d28154a1e95"
+ },
+ {
+  "id": 419,
+  "where": "crown_of_dragon_teeth",
+  "cells": [
+   "216:3"
+  ],
+  "uk": "Корона з драконячих зубів",
+  "key": "43d625b0ad87"
+ },
+ {
+  "id": 420,
+  "where": "infant_dragon_wings",
+  "cells": [
+   "217:2"
+  ],
+  "uk": "Крила драконеняти",
+  "key": "0f188992b64a"
+ },
+ {
+  "id": 421,
+  "where": "infant_dragon_wings",
+  "cells": [
+   "217:3"
+  ],
+  "uk": "Крила драконеняти",
+  "key": "a1de8332e2e6"
+ },
+ {
+  "id": 422,
+  "where": "vial_of_sulfur",
+  "cells": [
+   "218:2"
+  ],
+  "uk": "Флакон сірки",
+  "key": "09548eaf684f"
+ },
+ {
+  "id": 423,
+  "where": "vial_of_sulfur",
+  "cells": [
+   "218:3"
+  ],
+  "uk": "Флакон сірки",
+  "key": "5bf8c994dec1"
+ },
+ {
+  "id": 424,
+  "where": "fire_snake",
+  "cells": [
+   "219:2"
+  ],
+  "uk": "Вогняний змій",
+  "key": "9c2f53405123"
+ },
+ {
+  "id": 425,
+  "where": "fire_snake",
+  "cells": [
+   "219:3"
+  ],
+  "uk": "Вогняний змій",
+  "key": "327f36f613cf"
+ },
+ {
+  "id": 426,
+  "where": "orb_of_summoning",
+  "cells": [
+   "220:2"
+  ],
+  "uk": "Сфера виклику",
+  "key": "ec774014f6b1"
+ },
+ {
+  "id": 427,
+  "where": "orb_of_summoning",
+  "cells": [
+   "220:3"
+  ],
+  "uk": "Сфера виклику",
+  "key": "71f6a310ee92"
+ },
+ {
+  "id": 428,
+  "where": "box",
+  "cells": [
+   "221:2"
+  ],
+  "uk": "Замкнена скринька",
+  "key": "a7799b72b7f7"
+ },
+ {
+  "id": 429,
+  "where": "box",
+  "cells": [
+   "221:3"
+  ],
+  "uk": "Замкнена скринька",
+  "key": "5ad4690d2e55"
+ },
+ {
+  "id": 430,
+  "where": "sandalwood_key",
+  "cells": [
+   "222:2"
+  ],
+  "uk": "Сандаловий ключ",
+  "key": "a8ebcb9699ac"
+ },
+ {
+  "id": 431,
+  "where": "sandalwood_key",
+  "cells": [
+   "222:3"
+  ],
+  "uk": "Сандаловий ключ",
+  "key": "140f9394ba80"
+ },
+ {
+  "id": 432,
+  "where": "ebony_key",
+  "cells": [
+   "223:2"
+  ],
+  "uk": "Ебеновий ключ",
+  "key": "bf95b92121e4"
+ },
+ {
+  "id": 433,
+  "where": "ebony_key",
+  "cells": [
+   "223:3"
+  ],
+  "uk": "Ебеновий ключ",
+  "key": "141b19383421"
+ },
+ {
+  "id": 434,
+  "where": "ivory_key",
+  "cells": [
+   "224:2"
+  ],
+  "uk": "Ключ зі слонової кістки",
+  "key": "239d0d4da920"
+ },
+ {
+  "id": 435,
+  "where": "ivory_key",
+  "cells": [
+   "224:3"
+  ],
+  "uk": "Ключ зі слонової кістки",
+  "key": "44b1e316c076"
+ },
+ {
+  "id": 436,
+  "where": "mahogany_key",
+  "cells": [
+   "225:2"
+  ],
+  "uk": "Ключ із червоного дерева",
+  "key": "7cacdad9f714"
+ },
+ {
+  "id": 437,
+  "where": "mahogany_key",
+  "cells": [
+   "225:3"
+  ],
+  "uk": "Ключ із червоного дерева",
+  "key": "acc5b24fcea0"
+ },
+ {
+  "id": 438,
+  "where": "shield_of_resistance",
+  "cells": [
+   "226:2"
+  ],
+  "uk": "Щит опору",
+  "key": "021b7f7c41d0"
+ },
+ {
+  "id": 439,
+  "where": "shield_of_resistance",
+  "cells": [
+   "226:3"
+  ],
+  "uk": "Щит опору",
+  "key": "01b28e93002d"
+ },
+ {
+  "id": 440,
+  "where": "left_elephant_tusk",
+  "cells": [
+   "228:2",
+   "229:2"
+  ],
+  "uk": "Слонове ікло",
+  "key": "81ad65d1a9e1"
+ },
+ {
+  "id": 441,
+  "where": "left_elephant_tusk",
+  "cells": [
+   "228:3",
+   "229:3"
+  ],
+  "uk": "Слонове ікло",
+  "key": "46671674848d"
+ },
+ {
+  "id": 442,
+  "where": "rhino_horn",
+  "cells": [
+   "230:2"
+  ],
+  "uk": "Ріг носорога",
+  "key": "d0d995ad6c30"
+ },
+ {
+  "id": 443,
+  "where": "rhino_horn",
+  "cells": [
+   "230:3"
+  ],
+  "uk": "Ріг носорога",
+  "key": "f378d78718c3"
+ },
+ {
+  "id": 444,
+  "where": "rising_sun",
+  "cells": [
+   "231:2"
+  ],
+  "uk": "Висхідне сонце",
+  "key": "ffdabbe424de"
+ },
+ {
+  "id": 445,
+  "where": "rising_sun",
+  "cells": [
+   "231:3"
+  ],
+  "uk": "Висхідне сонце",
+  "key": "3aab2b9abba2"
+ },
+ {
+  "id": 446,
+  "where": "statue_of_legion",
+  "cells": [
+   "232:2"
+  ],
+  "uk": "Статуя Легіону",
+  "key": "adc1492b1b47"
+ },
+ {
+  "id": 447,
+  "where": "statue_of_legion",
+  "cells": [
+   "232:3"
+  ],
+  "uk": "Статуя Легіону",
+  "key": "382195bc1e3a"
+ },
+ {
+  "id": 448,
+  "where": "legs_of_legion",
+  "cells": [
+   "233:2"
+  ],
+  "uk": "Ноги Легіону",
+  "key": "37862e6aacdb"
+ },
+ {
+  "id": 449,
+  "where": "legs_of_legion",
+  "cells": [
+   "233:3"
+  ],
+  "uk": "Ноги Легіону",
+  "key": "1594cfc91080"
+ },
+ {
+  "id": 450,
+  "where": "torso_of_legion",
+  "cells": [
+   "234:2"
+  ],
+  "uk": "Тулуб Легіону",
+  "key": "22add617ca0d"
+ },
+ {
+  "id": 451,
+  "where": "torso_of_legion",
+  "cells": [
+   "234:3"
+  ],
+  "uk": "Тулуб Легіону",
+  "key": "75acd4e2650a"
+ },
+ {
+  "id": 452,
+  "where": "arms_of_legion",
+  "cells": [
+   "235:2"
+  ],
+  "uk": "Руки Легіону",
+  "key": "208c0fb4f4fc"
+ },
+ {
+  "id": 453,
+  "where": "arms_of_legion",
+  "cells": [
+   "235:3"
+  ],
+  "uk": "Руки Легіону",
+  "key": "7abf5c4224eb"
+ },
+ {
+  "id": 454,
+  "where": "head_of_legion",
+  "cells": [
+   "236:2"
+  ],
+  "uk": "Голова Легіону",
+  "key": "d8e04582a750"
+ },
+ {
+  "id": 455,
+  "where": "head_of_legion",
+  "cells": [
+   "236:3"
+  ],
+  "uk": "Голова Легіону",
+  "key": "fd25b643288d"
+ },
+ {
+  "id": 456,
+  "where": "breeze_the_falcon",
+  "cells": [
+   "237:2",
+   "237:3"
+  ],
+  "uk": "Сокіл Вітерець",
+  "key": "dea8b10da8ae"
+ },
+ {
+  "id": 457,
+  "where": "deadwood_staff",
+  "cells": [
+   "238:2"
+  ],
+  "uk": "Посох із мертвого дерева",
+  "key": "4396c3343589"
+ },
+ {
+  "id": 458,
+  "where": "deadwood_staff",
+  "cells": [
+   "238:3"
+  ],
+  "uk": "Посох із мертвого дерева",
+  "key": "205377f38976"
+ },
+ {
+  "id": 459,
+  "where": "true_gryphonheart_blade",
+  "cells": [
+   "239:2"
+  ],
+  "uk": "Справжній клинок Ґрифонового Серця",
+  "key": "afbb8785491b"
+ },
+ {
+  "id": 460,
+  "where": "true_gryphonheart_blade",
+  "cells": [
+   "239:3"
+  ],
+  "uk": "Справжній клинок Ґрифонового Серця",
+  "key": "04468647f0e3"
+ },
+ {
+  "id": 461,
+  "where": "false_gryphonheart_blade",
+  "cells": [
+   "240:2"
+  ],
+  "uk": "Фальшивий клинок Ґрифонового Серця",
+  "key": "1e328500ed50"
+ },
+ {
+  "id": 462,
+  "where": "false_gryphonheart_blade",
+  "cells": [
+   "240:3"
+  ],
+  "uk": "Фальшивий клинок Ґрифонового Серця",
+  "key": "bcc0db658872"
+ },
+ {
+  "id": 463,
+  "where": "grail",
+  "cells": [
+   "241:2"
+  ],
+  "uk": "Ґрааль",
+  "key": "1b33080873a3"
+ },
+ {
+  "id": 464,
+  "where": "grail",
+  "cells": [
+   "241:3"
+  ],
+  "uk": "Ґрааль",
+  "key": "fef7f6187ecd"
+ },
+ {
+  "id": 465,
+  "where": "cloak_of_darkness",
+  "cells": [
+   "245:2"
+  ],
+  "uk": "Плащ темряви",
+  "key": "670a47bb2443"
+ },
+ {
+  "id": 466,
+  "where": "cloak_of_darkness",
+  "cells": [
+   "245:3"
+  ],
+  "uk": "Плащ темряви",
+  "key": "62c2710ffb1d"
+ },
+ {
+  "id": 467,
+  "where": "ring_of_light",
+  "cells": [
+   "246:2"
+  ],
+  "uk": "Перстень світла",
+  "key": "fcf03d7af723"
+ },
+ {
+  "id": 468,
+  "where": "ring_of_light",
+  "cells": [
+   "246:3"
+  ],
+  "uk": "Перстень світла",
+  "key": "53a7c08b63c1"
+ },
+ {
+  "id": 469,
+  "where": "tiger_armor",
+  "cells": [
+   "247:2"
+  ],
+  "uk": "Тигровий обладунок",
+  "key": "120bdf7b6bc4"
+ },
+ {
+  "id": 470,
+  "where": "tiger_armor",
+  "cells": [
+   "247:3"
+  ],
+  "uk": "Тигровий обладунок",
+  "key": "e48e2e6f7144"
+ },
+ {
+  "id": 471,
+  "where": "tiger_helm",
+  "cells": [
+   "248:2"
+  ],
+  "uk": "Тигровий шолом",
+  "key": "370b548fba9c"
+ },
+ {
+  "id": 472,
+  "where": "tiger_helm",
+  "cells": [
+   "248:3"
+  ],
+  "uk": "Тигровий шолом",
+  "key": "a2fbbfc6a570"
+ },
+ {
+  "id": 473,
+  "where": "frost_hammer",
+  "cells": [
+   "249:2"
+  ],
+  "uk": "Морозний молот",
+  "key": "45ad38df0084"
+ },
+ {
+  "id": 474,
+  "where": "frost_hammer",
+  "cells": [
+   "249:3"
+  ],
+  "uk": "Морозний молот",
+  "key": "f2b68082b918"
+ },
+ {
+  "id": 475,
+  "where": "harmonic_chainmail",
+  "cells": [
+   "250:2"
+  ],
+  "uk": "Гармонійна кольчуга",
+  "key": "78407e28582e"
+ },
+ {
+  "id": 476,
+  "where": "harmonic_chainmail",
+  "cells": [
+   "250:3"
+  ],
+  "uk": "Гармонійна кольчуга",
+  "key": "043c319e8096"
+ },
+ {
+  "id": 477,
+  "where": "necklace_of_muses",
+  "cells": [
+   "251:2"
+  ],
+  "uk": "Намисто муз",
+  "key": "bca85f5341e2"
+ },
+ {
+  "id": 478,
+  "where": "necklace_of_muses",
+  "cells": [
+   "251:3"
+  ],
+  "uk": "Намисто муз",
+  "key": "52eb02fceb30"
+ },
+ {
+  "id": 479,
+  "where": "aiffes_mandolin",
+  "cells": [
+   "252:2"
+  ],
+  "uk": "Мандоліна Ейфи",
+  "key": "1b56df5b5f19"
+ },
+ {
+  "id": 480,
+  "where": "aiffes_mandolin",
+  "cells": [
+   "252:3"
+  ],
+  "uk": "Мандоліна Ейфи",
+  "key": "d7e79df05c37"
+ },
+ {
+  "id": 481,
+  "where": "necklace_of_balance",
+  "cells": [
+   "253:2"
+  ],
+  "uk": "Намисто рівноваги",
+  "key": "db220e629f66"
+ },
+ {
+  "id": 482,
+  "where": "necklace_of_balance",
+  "cells": [
+   "253:3"
+  ],
+  "uk": "Намисто рівноваги",
+  "key": "32fa80f0b91a"
+ },
+ {
+  "id": 483,
+  "where": "flame_of_chaos",
+  "cells": [
+   "254:2"
+  ],
+  "uk": "Полум'я Хаосу",
+  "key": "ade08842fb6d"
+ },
+ {
+  "id": 484,
+  "where": "flame_of_chaos",
+  "cells": [
+   "254:3"
+  ],
+  "uk": "Полум'я Хаосу",
+  "key": "2ea614175fd1"
+ },
+ {
+  "id": 485,
+  "where": "ice_scales",
+  "cells": [
+   "255:2"
+  ],
+  "uk": "Крижана луска",
+  "key": "5939919c3d05"
+ },
+ {
+  "id": 486,
+  "where": "ice_scales",
+  "cells": [
+   "255:3"
+  ],
+  "uk": "Крижана луска",
+  "key": "2b415416890c"
+ },
+ {
+  "id": 487,
+  "where": "archmages_hat",
+  "cells": [
+   "256:2"
+  ],
+  "uk": "Капелюх архімагів",
+  "key": "7e6efb0ec1e8"
+ },
+ {
+  "id": 488,
+  "where": "archmages_hat",
+  "cells": [
+   "256:3"
+  ],
+  "uk": "Капелюх архімагів",
+  "key": "2c37e4c869bc"
+ },
+ {
+  "id": 489,
+  "where": "staff_of_disruption",
+  "cells": [
+   "257:2"
+  ],
+  "uk": "Посох руйнування",
+  "key": "5b80d8c7955b"
+ },
+ {
+  "id": 490,
+  "where": "staff_of_disruption",
+  "cells": [
+   "257:3"
+  ],
+  "uk": "Посох руйнування",
+  "key": "6711e83670c7"
+ },
+ {
+  "id": 491,
+  "where": "wayfaring_boots",
+  "cells": [
+   "258:2"
+  ],
+  "uk": "Чоботи мандрів",
+  "key": "ef49d79fbc7a"
+ },
+ {
+  "id": 492,
+  "where": "wayfaring_boots",
+  "cells": [
+   "258:3"
+  ],
+  "uk": "Чоботи мандрів",
+  "key": "784923eba36c"
+ },
+ {
+  "id": 493,
+  "where": "ring_of_flares",
+  "cells": [
+   "259:2"
+  ],
+  "uk": "Перстень спалахів",
+  "key": "81a54132354b"
+ },
+ {
+  "id": 494,
+  "where": "ring_of_flares",
+  "cells": [
+   "259:3"
+  ],
+  "uk": "Перстень спалахів",
+  "key": "1d3030288a2d"
+ },
+ {
+  "id": 495,
+  "where": "angelfeather_cloak",
+  "cells": [
+   "260:2"
+  ],
+  "uk": "Плащ з янгольського пір'я",
+  "key": "3413b82a011b"
+ },
+ {
+  "id": 496,
+  "where": "angelfeather_cloak",
+  "cells": [
+   "260:3"
+  ],
+  "uk": "Плащ з янгольського пір'я",
+  "key": "0663d4527449"
+ }
+]

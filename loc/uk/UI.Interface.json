@@ -1,0 +1,9818 @@
+[
+ {
+  "id": 0,
+  "where": "Window/Item",
+  "cells": [
+   "0:2"
+  ],
+  "uk": "",
+  "key": "8fc990fb5409"
+ },
+ {
+  "id": 1,
+  "where": "Window/Item",
+  "cells": [
+   "0:3"
+  ],
+  "uk": "",
+  "key": "e2553bc00f05"
+ },
+ {
+  "id": 2,
+  "where": "shared/damage",
+  "cells": [
+   "3:2",
+   "194:2",
+   "301:2",
+   "388:2"
+  ],
+  "uk": "Шкода",
+  "key": "7bf6d1d3a58a"
+ },
+ {
+  "id": 3,
+  "where": "shared/damage",
+  "cells": [
+   "3:3",
+   "301:3",
+   "388:3"
+  ],
+  "uk": "Скільки шкоди завдає загін у бою.",
+  "key": "cb45bce65258"
+ },
+ {
+  "id": 4,
+  "where": "shared/hit_points",
+  "cells": [
+   "4:2",
+   "195:2",
+   "302:2",
+   "389:2"
+  ],
+  "uk": "Очки здоров'я",
+  "key": "125dcf82b273"
+ },
+ {
+  "id": 5,
+  "where": "shared/hit_points",
+  "cells": [
+   "4:3",
+   "302:3",
+   "389:3"
+  ],
+  "uk": "Скільки шкоди може витримати загін у бою.",
+  "key": "eeef9b47d0af"
+ },
+ {
+  "id": 6,
+  "where": "shared/hits_left",
+  "cells": [
+   "5:2"
+  ],
+  "uk": "Залишок здоров'я",
+  "key": "261fe0d54af1"
+ },
+ {
+  "id": 7,
+  "where": "shared/hits_left",
+  "cells": [
+   "5:3"
+  ],
+  "uk": "Скільки очок здоров'я лишилося в загону.",
+  "key": "d0b0ec850adf"
+ },
+ {
+  "id": 8,
+  "where": "shared/speed",
+  "cells": [
+   "6:2",
+   "196:2",
+   "303:2",
+   "390:2"
+  ],
+  "uk": "Швидкість",
+  "key": "2d2cb022bc3d"
+ },
+ {
+  "id": 9,
+  "where": "shared/speed",
+  "cells": [
+   "6:3"
+  ],
+  "uk": "Як швидко загін діє в бою. Загони з більшою швидкістю ходять раніше за повільніші. Проте ті, що чекають, діють у зворотному порядку: швидкий загін, що чекає, ходить лише після всіх повільніших, що теж чекають.",
+  "key": "68a8d17592de"
+ },
+ {
+  "id": 10,
+  "where": "shared/movement",
+  "cells": [
+   "7:2",
+   "8:2",
+   "199:2",
+   "304:2",
+   "391:2"
+  ],
+  "uk": "Рух",
+  "key": "dc812752b758"
+ },
+ {
+  "id": 11,
+  "where": "shared/movement",
+  "cells": [
+   "7:3"
+  ],
+  "uk": "Як далеко загін може пересунутися в бою.",
+  "key": "c64e253f52dd"
+ },
+ {
+  "id": 12,
+  "where": "shared/adventure_movement",
+  "cells": [
+   "8:3"
+  ],
+  "uk": "Як далеко загін може пересунутися мапою пригод.",
+  "key": "76bc8e55018f"
+ },
+ {
+  "id": 13,
+  "where": "shared/attack_skill",
+  "cells": [
+   "9:2"
+  ],
+  "uk": "Атака",
+  "key": "1b81f28b5afb"
+ },
+ {
+  "id": 14,
+  "where": "shared/attack_skill",
+  "cells": [
+   "9:3"
+  ],
+  "uk": "Вміння атаки загону в бою.",
+  "key": "60e8e60dacb5"
+ },
+ {
+  "id": 15,
+  "where": "shared/defense_skill",
+  "cells": [
+   "10:2"
+  ],
+  "uk": "Захист",
+  "key": "3c284a10d010"
+ },
+ {
+  "id": 16,
+  "where": "shared/defense_skill",
+  "cells": [
+   "10:3"
+  ],
+  "uk": "Вміння захисту загону в бою.",
+  "key": "8fc0d18e8da9"
+ },
+ {
+  "id": 17,
+  "where": "shared/luck",
+  "cells": [
+   "11:2",
+   "305:2"
+  ],
+  "uk": "Удача",
+  "key": "1c295a8aa571"
+ },
+ {
+  "id": 18,
+  "where": "shared/luck",
+  "cells": [
+   "11:3"
+  ],
+  "uk": "Добра удача означає, що загін отримує в бою менше шкоди. Погана — що більше.",
+  "key": "2d092bd5625a"
+ },
+ {
+  "id": 19,
+  "where": "shared/morale",
+  "cells": [
+   "12:2",
+   "306:2"
+  ],
+  "uk": "Бойовий дух",
+  "key": "6c37e68def22"
+ },
+ {
+  "id": 20,
+  "where": "shared/morale",
+  "cells": [
+   "12:3",
+   "306:3"
+  ],
+  "uk": "Високий бойовий дух означає, що загін діє раніше в раунді бою. Низький — що пізніше.",
+  "key": "9a33b9c9278d"
+ },
+ {
+  "id": 21,
+  "where": "shared/spell_points",
+  "cells": [
+   "13:2",
+   "197:2",
+   "307:2",
+   "332:2",
+   "392:2",
+   "672:2"
+  ],
+  "uk": "Очки магії",
+  "key": "3c6614c31d79"
+ },
+ {
+  "id": 22,
+  "where": "shared/spell_points",
+  "cells": [
+   "13:3"
+  ],
+  "uk": "Запас магічної снаги загону. Кожне закляття потребує очок магії (мани). Істоти відновлюють усі очки магії після кожного бою. Герої щодня відновлюють певну кількість очок магії залежно від своїх навичок.",
+  "key": "b108bcb70c27"
+ },
+ {
+  "id": 23,
+  "where": "shared/shots",
+  "cells": [
+   "14:2",
+   "198:2"
+  ],
+  "uk": "Постріли",
+  "key": "2179f8207fe6"
+ },
+ {
+  "id": 24,
+  "where": "shared/shots",
+  "cells": [
+   "14:3",
+   "198:3"
+  ],
+  "uk": "Скільки пострілів ця стрілецька істота може зробити в бою.",
+  "key": "db8e5a0f7289"
+ },
+ {
+  "id": 25,
+  "where": "shared/creature_experience",
+  "cells": [
+   "15:2",
+   "16:2",
+   "17:2",
+   "18:2",
+   "308:2"
+  ],
+  "uk": "Досвід",
+  "key": "5b5aafe6b9e2"
+ },
+ {
+  "id": 26,
+  "where": "shared/creature_experience",
+  "cells": [
+   "15:3",
+   "16:3",
+   "308:3"
+  ],
+  "uk": "Показує, скільки герой навчився. Що більше досвіду, то могутніший герой.",
+  "key": "9c866a3b8ac1"
+ },
+ {
+  "id": 27,
+  "where": "shared/show_experience",
+  "cells": [
+   "17:3"
+  ],
+  "uk": "Показує, скільки герой навчився. Що більше досвіду, то могутніший герой. До наступного рівня цьому героєві потрібно %amount досвіду.",
+  "key": "8211bdbb181f"
+ },
+ {
+  "id": 28,
+  "where": "shared/show_experience_full",
+  "cells": [
+   "18:3"
+  ],
+  "uk": "Показує, скільки герой навчився. Що більше досвіду, то могутніший герой. У цьому сценарії цей герой більше не може здобувати досвід.",
+  "key": "496369744a51"
+ },
+ {
+  "id": 29,
+  "where": "shared/gold",
+  "cells": [
+   "19:2",
+   "85:2",
+   "338:2",
+   "399:2",
+   "417:2",
+   "432:2",
+   "456:2"
+  ],
+  "uk": "Золото",
+  "key": "c57604db5869"
+ },
+ {
+  "id": 30,
+  "where": "shared/gold",
+  "cells": [
+   "19:3"
+  ],
+  "uk": "Скільки золота у вас зараз є.",
+  "key": "fd6fd360bc3e"
+ },
+ {
+  "id": 31,
+  "where": "shared/gems",
+  "cells": [
+   "20:2",
+   "91:2",
+   "344:2",
+   "423:2",
+   "438:2",
+   "462:2"
+  ],
+  "uk": "Самоцвіти",
+  "key": "029041565efb"
+ },
+ {
+  "id": 32,
+  "where": "shared/gems",
+  "cells": [
+   "20:3"
+  ],
+  "uk": "Скільки самоцвітів у вас зараз є.",
+  "key": "b58c54285c6f"
+ },
+ {
+  "id": 33,
+  "where": "shared/sulfur",
+  "cells": [
+   "21:2",
+   "89:2",
+   "342:2",
+   "421:2",
+   "436:2",
+   "460:2"
+  ],
+  "uk": "Сірка",
+  "key": "2d62df25edf8"
+ },
+ {
+  "id": 34,
+  "where": "shared/sulfur",
+  "cells": [
+   "21:3"
+  ],
+  "uk": "Скільки сірки у вас зараз є.",
+  "key": "8372d0acdad1"
+ },
+ {
+  "id": 35,
+  "where": "shared/mercury",
+  "cells": [
+   "22:2",
+   "90:2",
+   "343:2",
+   "422:2",
+   "437:2",
+   "461:2"
+  ],
+  "uk": "Ртуть",
+  "key": "606cb109e24d"
+ },
+ {
+  "id": 36,
+  "where": "shared/mercury",
+  "cells": [
+   "22:3"
+  ],
+  "uk": "Скільки ртуті у вас зараз є.",
+  "key": "c572e158675b"
+ },
+ {
+  "id": 37,
+  "where": "shared/crystal",
+  "cells": [
+   "23:2",
+   "88:2",
+   "341:2",
+   "420:2",
+   "435:2",
+   "459:2"
+  ],
+  "uk": "Кристали",
+  "key": "4d67d97c3e7a"
+ },
+ {
+  "id": 38,
+  "where": "shared/crystal",
+  "cells": [
+   "23:3"
+  ],
+  "uk": "Скільки кристалів у вас зараз є.",
+  "key": "9da0fe462a43"
+ },
+ {
+  "id": 39,
+  "where": "shared/wood",
+  "cells": [
+   "24:2",
+   "86:2",
+   "339:2",
+   "418:2",
+   "433:2",
+   "457:2"
+  ],
+  "uk": "Деревина",
+  "key": "b3b5a34500ef"
+ },
+ {
+  "id": 40,
+  "where": "shared/wood",
+  "cells": [
+   "24:3"
+  ],
+  "uk": "Скільки деревини у вас зараз є.",
+  "key": "365a0b83cb6b"
+ },
+ {
+  "id": 41,
+  "where": "shared/ore",
+  "cells": [
+   "25:2",
+   "87:2",
+   "340:2",
+   "419:2",
+   "434:2",
+   "458:2"
+  ],
+  "uk": "Руда",
+  "key": "fc36b77a2afe"
+ },
+ {
+  "id": 42,
+  "where": "shared/ore",
+  "cells": [
+   "25:3"
+  ],
+  "uk": "Скільки руди у вас зараз є.",
+  "key": "e7369a4249f2"
+ },
+ {
+  "id": 43,
+  "where": "shared/resource",
+  "cells": [
+   "26:2"
+  ],
+  "uk": "Ресурс",
+  "key": "021493f340d3"
+ },
+ {
+  "id": 44,
+  "where": "shared/resource",
+  "cells": [
+   "26:3"
+  ],
+  "uk": "Це ресурс.",
+  "key": "564684d32885"
+ },
+ {
+  "id": 45,
+  "where": "shared/ok",
+  "cells": [
+   "27:2",
+   "132:2",
+   "166:2",
+   "182:2",
+   "200:2",
+   "284:2",
+   "316:2",
+   "453:2",
+   "618:2",
+   "712:2",
+   "720:2",
+   "806:2"
+  ],
+  "uk": "Гаразд",
+  "key": "d5445583efac"
+ },
+ {
+  "id": 46,
+  "where": "shared/ok",
+  "cells": [
+   "27:3"
+  ],
+  "uk": "Натисніть, щоб продовжити.",
+  "key": "999ea4776d00"
+ },
+ {
+  "id": 47,
+  "where": "shared/accept",
+  "cells": [
+   "28:2"
+  ],
+  "uk": "Прийняти",
+  "key": "bb54db510a92"
+ },
+ {
+  "id": 48,
+  "where": "shared/accept",
+  "cells": [
+   "28:3"
+  ],
+  "uk": "Натисніть, щоб прийняти.",
+  "key": "19af77f3e5dc"
+ },
+ {
+  "id": 49,
+  "where": "shared/cancel",
+  "cells": [
+   "29:2",
+   "82:2",
+   "131:2",
+   "165:2",
+   "293:2",
+   "452:2",
+   "619:2",
+   "731:2",
+   "794:2",
+   "795:2",
+   "807:2"
+  ],
+  "uk": "Скасувати",
+  "key": "77dfd2135f4d"
+ },
+ {
+  "id": 50,
+  "where": "shared/cancel",
+  "cells": [
+   "29:3"
+  ],
+  "uk": "Натисніть «Скасувати», щоб перервати.",
+  "key": "4bccd7cb39e8"
+ },
+ {
+  "id": 51,
+  "where": "shared/buy",
+  "cells": [
+   "30:2",
+   "353:2",
+   "425:2"
+  ],
+  "uk": "Купити",
+  "key": "7ceca51fcafe"
+ },
+ {
+  "id": 52,
+  "where": "shared/buy",
+  "cells": [
+   "30:3"
+  ],
+  "uk": "Натисніть, щоб купити.",
+  "key": "ccbabcb36f8a"
+ },
+ {
+  "id": 53,
+  "where": "shared/learn",
+  "cells": [
+   "31:2"
+  ],
+  "uk": "Вивчити",
+  "key": "b048378ee8f5"
+ },
+ {
+  "id": 54,
+  "where": "shared/learn",
+  "cells": [
+   "31:3"
+  ],
+  "uk": "Натисніть, щоб вивчити.",
+  "key": "0ddc3841ee1e"
+ },
+ {
+  "id": 55,
+  "where": "shared/move_garrison_to_adjacent",
+  "cells": [
+   "32:2"
+  ],
+  "uk": "До сусіднього війська",
+  "key": "a677fd2978f3"
+ },
+ {
+  "id": 56,
+  "where": "shared/move_garrison_to_adjacent",
+  "cells": [
+   "32:3"
+  ],
+  "uk": "Об'єднати залогу із сусіднім військом.",
+  "key": "2042d25f7c22"
+ },
+ {
+  "id": 57,
+  "where": "shared/move_adjacent_to_garrison",
+  "cells": [
+   "33:2",
+   "173:2"
+  ],
+  "uk": "До залоги",
+  "key": "7625c83c69d9"
+ },
+ {
+  "id": 58,
+  "where": "shared/move_adjacent_to_garrison",
+  "cells": [
+   "33:3"
+  ],
+  "uk": "Об'єднати сусіднє військо із залогою.",
+  "key": "85de92b38608"
+ },
+ {
+  "id": 59,
+  "where": "shared/split",
+  "cells": [
+   "34:2",
+   "174:2",
+   "260:2"
+  ],
+  "uk": "Розділити військо",
+  "key": "7a0a978078fd"
+ },
+ {
+  "id": 60,
+  "where": "shared/split",
+  "cells": [
+   "34:3",
+   "260:3"
+  ],
+  "uk": "Дає змогу розділити групу істот на дві. Щоб розділити групу, натисніть цю кнопку й перетягніть істоту туди, де хочете створити нову групу. Розділити групу можна також, перетягуючи істоту з затиснутою клавішею Shift.",
+  "key": "89b7682f1e66"
+ },
+ {
+  "id": 61,
+  "where": "shared/difficulty_easy",
+  "cells": [
+   "35:2",
+   "544:2"
+  ],
+  "uk": "Новачок",
+  "key": "16ca44702a9b"
+ },
+ {
+  "id": 62,
+  "where": "shared/difficulty_easy",
+  "cells": [
+   "35:3"
+  ],
+  "uk": "На найлегшому рівні нейтральні війська менші, ви здобуваєте в боях більше досвіду, починаєте з більшим запасом золота, комп'ютерні гравці починають ні з чим, мають у бою менше можливостей і будують не так часто, як могли б.",
+  "key": "7958533d33f9"
+ },
+ {
+  "id": 63,
+  "where": "shared/difficulty_normal",
+  "cells": [
+   "36:2",
+   "545:2"
+  ],
+  "uk": "Середній",
+  "key": "b1cfe72fd271"
+ },
+ {
+  "id": 64,
+  "where": "shared/difficulty_normal",
+  "cells": [
+   "36:3"
+  ],
+  "uk": "На звичайному рівні нейтральні війська звичайні, ви здобуваєте в боях звичайний досвід, починаєте з більшим запасом золота, ніж комп'ютерний гравець, комп'ютерні гравці мають у бою більше можливостей і будують не так часто, як могли б.",
+  "key": "e1499bfa65b4"
+ },
+ {
+  "id": 65,
+  "where": "shared/difficulty_hard",
+  "cells": [
+   "37:2",
+   "546:2"
+  ],
+  "uk": "Досвідчений",
+  "key": "4d064726954a"
+ },
+ {
+  "id": 66,
+  "where": "shared/difficulty_hard",
+  "cells": [
+   "37:3"
+  ],
+  "uk": "На складнішому рівні нейтральні війська більші за звичайні, ви починаєте з тим самим запасом золота, що й комп'ютерні гравці, а вони не мають у бою жодних обмежень.",
+  "key": "657b1a880e9b"
+ },
+ {
+  "id": 67,
+  "where": "shared/difficulty_expert",
+  "cells": [
+   "38:2",
+   "547:2"
+  ],
+  "uk": "Експерт",
+  "key": "d7a501f83242"
+ },
+ {
+  "id": 68,
+  "where": "shared/difficulty_expert",
+  "cells": [
+   "38:3"
+  ],
+  "uk": "На важкому рівні нейтральні війська значно більші за звичайні, а ви починаєте з меншим запасом золота, ніж комп'ютерні гравці.",
+  "key": "b093633916c0"
+ },
+ {
+  "id": 69,
+  "where": "shared/difficulty_impossible",
+  "cells": [
+   "39:2",
+   "548:2"
+  ],
+  "uk": "Чемпіон",
+  "key": "7881bf71d2de"
+ },
+ {
+  "id": 70,
+  "where": "shared/difficulty_impossible",
+  "cells": [
+   "39:3"
+  ],
+  "uk": "На найважчому рівні нейтральні війська дуже великі, ви починаєте без золота, а комп'ютер — із додатковим золотом.",
+  "key": "13295b2a7484"
+ },
+ {
+  "id": 71,
+  "where": "shared/army_ring_distance",
+  "cells": [
+   "40:2"
+  ],
+  "uk": "Рух: %distance",
+  "key": "716c692361db"
+ },
+ {
+  "id": 72,
+  "where": "shared/army_ring_distance",
+  "cells": [
+   "40:3"
+  ],
+  "uk": "Скільки руху лишилося в цього війська.",
+  "key": "57a971686857"
+ },
+ {
+  "id": 73,
+  "where": "shared/army_ring_strength",
+  "cells": [
+   "41:2",
+   "403:2"
+  ],
+  "uk": "Сила війська",
+  "key": "ddf2c33f8926"
+ },
+ {
+  "id": 74,
+  "where": "shared/army_ring_strength",
+  "cells": [
+   "41:3"
+  ],
+  "uk": "Сила вашого війська порівняно з іншими.",
+  "key": "6811611d490b"
+ },
+ {
+  "id": 75,
+  "where": "shared/guards_pressed",
+  "cells": [
+   "42:2"
+  ],
+  "uk": "Рухома варта",
+  "key": "05bc5175011b"
+ },
+ {
+  "id": 76,
+  "where": "shared/guards_pressed",
+  "cells": [
+   "42:3"
+  ],
+  "uk": "Істоти-вартові пересуватимуться мапою.",
+  "key": "ac621e507029"
+ },
+ {
+  "id": 77,
+  "where": "shared/guards_released",
+  "cells": [
+   "43:2"
+  ],
+  "uk": "Нерухома варта",
+  "key": "45a586d339dd"
+ },
+ {
+  "id": 78,
+  "where": "shared/guards_released",
+  "cells": [
+   "43:3"
+  ],
+  "uk": "Істоти-вартові стоятимуть на місці.",
+  "key": "c177d4b1fd17"
+ },
+ {
+  "id": 79,
+  "where": "shared/next",
+  "cells": [
+   "44:2"
+  ],
+  "uk": "Далі",
+  "key": "bc981983e7f5"
+ },
+ {
+  "id": 80,
+  "where": "shared/next",
+  "cells": [
+   "44:3"
+  ],
+  "uk": "Натисніть, щоб перейти до наступного екрана.",
+  "key": "cb91be783634"
+ },
+ {
+  "id": 81,
+  "where": "main_menu/new_game",
+  "cells": [
+   "47:2",
+   "94:2",
+   "241:2",
+   "507:2",
+   "787:2"
+  ],
+  "uk": "Нова гра",
+  "key": "528fb1c4e5fb"
+ },
+ {
+  "id": 82,
+  "where": "main_menu/new_game",
+  "cells": [
+   "47:3"
+  ],
+  "uk": "Почати новий окремий сценарій, кампанію або навчання.",
+  "key": "22ba1dadc4fd"
+ },
+ {
+  "id": 83,
+  "where": "main_menu/load_game",
+  "cells": [
+   "48:2",
+   "95:2",
+   "242:2",
+   "508:2"
+  ],
+  "uk": "Завантажити",
+  "key": "802aa6576577"
+ },
+ {
+  "id": 84,
+  "where": "main_menu/load_game",
+  "cells": [
+   "48:3"
+  ],
+  "uk": "Завантажити збережену гру.",
+  "key": "ee5bf1d054d2"
+ },
+ {
+  "id": 85,
+  "where": "main_menu/options",
+  "cells": [
+   "49:2",
+   "98:2",
+   "535:2"
+  ],
+  "uk": "Параметри",
+  "key": "6bf5da9c080b"
+ },
+ {
+  "id": 86,
+  "where": "main_menu/options",
+  "cells": [
+   "49:3"
+  ],
+  "uk": "Змінити налаштування гри, переглянути титри, повторити вступний ролик або подивитися таблицю рекордів.",
+  "key": "0103df56114c"
+ },
+ {
+  "id": 87,
+  "where": "main_menu/multiplayer",
+  "cells": [
+   "50:2",
+   "515:2",
+   "629:2"
+  ],
+  "uk": "Мережева гра",
+  "key": "21bd0337ae79"
+ },
+ {
+  "id": 88,
+  "where": "main_menu/multiplayer",
+  "cells": [
+   "50:3"
+  ],
+  "uk": "Почати нову гру для кількох гравців.",
+  "key": "ba378c3d7e72"
+ },
+ {
+  "id": 89,
+  "where": "main_menu/quit",
+  "cells": [
+   "51:2"
+  ],
+  "uk": "Вихід",
+  "key": "1a2285d8881f"
+ },
+ {
+  "id": 90,
+  "where": "main_menu/quit",
+  "cells": [
+   "51:3",
+   "80:3"
+  ],
+  "uk": "Закриває гру й повертає на робочий стіл. Але навіщо б вам таке робити?",
+  "key": "2b48a79d5fd8"
+ },
+ {
+  "id": 91,
+  "where": "adventure_map/system_menu",
+  "cells": [
+   "54:2"
+  ],
+  "uk": "Системне меню",
+  "key": "dd0c98474234"
+ },
+ {
+  "id": 92,
+  "where": "adventure_map/system_menu",
+  "cells": [
+   "54:3"
+  ],
+  "uk": "Відкриває системні налаштування.",
+  "key": "399fa87dea27"
+ },
+ {
+  "id": 93,
+  "where": "adventure_map/game_menu",
+  "cells": [
+   "55:2"
+  ],
+  "uk": "Меню гри",
+  "key": "939150f1c3b4"
+ },
+ {
+  "id": 94,
+  "where": "adventure_map/game_menu",
+  "cells": [
+   "55:3"
+  ],
+  "uk": "Відкриває ігрові дії.",
+  "key": "d23beec78922"
+ },
+ {
+  "id": 95,
+  "where": "adventure_map/mini_map",
+  "cells": [
+   "56:2"
+  ],
+  "uk": "Мінімапа",
+  "key": "c6c00f4de0fd"
+ },
+ {
+  "id": 96,
+  "where": "adventure_map/mini_map",
+  "cells": [
+   "56:3"
+  ],
+  "uk": "Мінімапа показує мапу пригод у зменшеному вигляді.",
+  "key": "3b532ee48b10"
+ },
+ {
+  "id": 97,
+  "where": "adventure_map/kingdom_overview",
+  "cells": [
+   "57:2",
+   "136:2"
+  ],
+  "uk": "Огляд королівства",
+  "key": "ab1c62a35986"
+ },
+ {
+  "id": 98,
+  "where": "adventure_map/kingdom_overview",
+  "cells": [
+   "57:3"
+  ],
+  "uk": "Відкриває огляд королівства.",
+  "key": "5966d24ab419"
+ },
+ {
+  "id": 99,
+  "where": "adventure_map/surface",
+  "cells": [
+   "58:2",
+   "713:2"
+  ],
+  "uk": "Поверхня",
+  "key": "ba0b9899653d"
+ },
+ {
+  "id": 100,
+  "where": "adventure_map/surface",
+  "cells": [
+   "58:3",
+   "59:3"
+  ],
+  "uk": "Перемикає мапу пригод між поверхнею й підземеллям.",
+  "key": "e76e5118358d"
+ },
+ {
+  "id": 101,
+  "where": "adventure_map/underground",
+  "cells": [
+   "59:2",
+   "714:2"
+  ],
+  "uk": "Підземелля",
+  "key": "ad959c1fb3b9"
+ },
+ {
+  "id": 102,
+  "where": "adventure_map/army_list",
+  "cells": [
+   "60:2",
+   "297:2"
+  ],
+  "uk": "Список військ",
+  "key": "b4257b51cd05"
+ },
+ {
+  "id": 103,
+  "where": "adventure_map/army_list",
+  "cells": [
+   "60:3"
+  ],
+  "uk": "Показує список ваших військ.",
+  "key": "06170e1ad034"
+ },
+ {
+  "id": 104,
+  "where": "adventure_map/town_list",
+  "cells": [
+   "61:2",
+   "299:2"
+  ],
+  "uk": "Список міст",
+  "key": "4f2a46143564"
+ },
+ {
+  "id": 105,
+  "where": "adventure_map/town_list",
+  "cells": [
+   "61:3"
+  ],
+  "uk": "Показує список ваших міст.",
+  "key": "264764d51447"
+ },
+ {
+  "id": 106,
+  "where": "adventure_map/move_army",
+  "cells": [
+   "62:2"
+  ],
+  "uk": "Рушити",
+  "key": "3a4f68a1b2d7"
+ },
+ {
+  "id": 107,
+  "where": "adventure_map/move_army",
+  "cells": [
+   "62:3"
+  ],
+  "uk": "Відправляє вибране військо до раніше прокладеної точки.",
+  "key": "6b1da0a0ed6e"
+ },
+ {
+  "id": 108,
+  "where": "adventure_map/cast_spell",
+  "cells": [
+   "63:2",
+   "208:2"
+  ],
+  "uk": "Закляття",
+  "key": "5306e7d59454"
+ },
+ {
+  "id": 109,
+  "where": "adventure_map/cast_spell",
+  "cells": [
+   "63:3"
+  ],
+  "uk": "Відкриває книгу заклять чарівника, щоб вибрати закляття.",
+  "key": "8f0727486daf"
+ },
+ {
+  "id": 110,
+  "where": "adventure_map/next_army",
+  "cells": [
+   "64:2"
+  ],
+  "uk": "Наступне військо",
+  "key": "6c28cf7e2498"
+ },
+ {
+  "id": 111,
+  "where": "adventure_map/next_army",
+  "cells": [
+   "64:3"
+  ],
+  "uk": "Вибирає наступне доступне військо зі списку.",
+  "key": "a1f58a4f0608"
+ },
+ {
+  "id": 112,
+  "where": "adventure_map/end_turn",
+  "cells": [
+   "65:2"
+  ],
+  "uk": "Кінець ходу",
+  "key": "785c98f53c6b"
+ },
+ {
+  "id": 113,
+  "where": "adventure_map/end_turn",
+  "cells": [
+   "65:3"
+  ],
+  "uk": "Завершує ваш поточний хід.",
+  "key": "248369f05366"
+ },
+ {
+  "id": 114,
+  "where": "adventure_map/dig",
+  "cells": [
+   "66:2"
+  ],
+  "uk": "Копати",
+  "key": "294caf41828d"
+ },
+ {
+  "id": 115,
+  "where": "adventure_map/dig",
+  "cells": [
+   "66:3"
+  ],
+  "uk": "Вибране військо копає яму там, де стоїть.",
+  "key": "7df183246a56"
+ },
+ {
+  "id": 116,
+  "where": "adventure_map/view_puzzle",
+  "cells": [
+   "67:2"
+  ],
+  "uk": "Головоломка",
+  "key": "17000825ab1b"
+ },
+ {
+  "id": 117,
+  "where": "adventure_map/view_puzzle",
+  "cells": [
+   "67:3"
+  ],
+  "uk": "Показує поточні мапи-головоломки.",
+  "key": "136f516d347d"
+ },
+ {
+  "id": 118,
+  "where": "adventure_map/find_army",
+  "cells": [
+   "68:2",
+   "138:2"
+  ],
+  "uk": "Знайти військо",
+  "key": "c22b8145b99d"
+ },
+ {
+  "id": 119,
+  "where": "adventure_map/find_army",
+  "cells": [
+   "68:3"
+  ],
+  "uk": "Відкриває вікно з усіма вашими військами. Тут можна вибрати військо.",
+  "key": "d7cb8512a2f0"
+ },
+ {
+  "id": 120,
+  "where": "adventure_map/quest_log",
+  "cells": [
+   "69:2",
+   "265:2"
+  ],
+  "uk": "Журнал завдань",
+  "key": "ae736b51f397"
+ },
+ {
+  "id": 121,
+  "where": "adventure_map/quest_log",
+  "cells": [
+   "69:3"
+  ],
+  "uk": "Відкриває ваш журнал завдань.",
+  "key": "6871ef4ddd8e"
+ },
+ {
+  "id": 122,
+  "where": "adventure_map/find_hero",
+  "cells": [
+   "70:2",
+   "137:2"
+  ],
+  "uk": "Знайти героя",
+  "key": "f2525498152c"
+ },
+ {
+  "id": 123,
+  "where": "adventure_map/find_hero",
+  "cells": [
+   "70:3"
+  ],
+  "uk": "Відкриває вікно з усіма вашими героями. Тут можна вибрати героя.",
+  "key": "b03855ab29c3"
+ },
+ {
+  "id": 124,
+  "where": "adventure_map/thieves_guild",
+  "cells": [
+   "71:2",
+   "142:2"
+  ],
+  "uk": "Гільдія злодіїв",
+  "key": "1cba363415e3"
+ },
+ {
+  "id": 125,
+  "where": "adventure_map/thieves_guild",
+  "cells": [
+   "71:3"
+  ],
+  "uk": "Відкриває екран гільдії злодіїв.",
+  "key": "fc1ab3b8c3d8"
+ },
+ {
+  "id": 126,
+  "where": "adventure_map/marketplace",
+  "cells": [
+   "72:2",
+   "141:2"
+  ],
+  "uk": "Ринок",
+  "key": "983095c0ea49"
+ },
+ {
+  "id": 127,
+  "where": "adventure_map/marketplace",
+  "cells": [
+   "72:3"
+  ],
+  "uk": "Відкриває екран ринку.",
+  "key": "ca3dce97fdb4"
+ },
+ {
+  "id": 128,
+  "where": "adventure_map/next_town",
+  "cells": [
+   "73:2"
+  ],
+  "uk": "Наступне місто",
+  "key": "5f917e9bf60f"
+ },
+ {
+  "id": 129,
+  "where": "adventure_map/next_town",
+  "cells": [
+   "73:3"
+  ],
+  "uk": "Переходить до наступного міста зі списку.",
+  "key": "e10a99576ae6"
+ },
+ {
+  "id": 130,
+  "where": "adventure_map/find_town",
+  "cells": [
+   "74:2",
+   "139:2"
+  ],
+  "uk": "Знайти місто",
+  "key": "c2cde083faaa"
+ },
+ {
+  "id": 131,
+  "where": "adventure_map/find_town",
+  "cells": [
+   "74:3"
+  ],
+  "uk": "Відкриває вікно з усіма вашими містами. Тут можна вибрати місто.",
+  "key": "ea6fc10a8f95"
+ },
+ {
+  "id": 132,
+  "where": "adventure_map/view_world",
+  "cells": [
+   "75:2"
+  ],
+  "uk": "Огляд світу",
+  "key": "8f894023e2f6"
+ },
+ {
+  "id": 133,
+  "where": "adventure_map/view_world",
+  "cells": [
+   "75:3"
+  ],
+  "uk": "Показує мапу пригод на весь екран.",
+  "key": "5866d10fe88e"
+ },
+ {
+  "id": 134,
+  "where": "adventure_map/trade",
+  "cells": [
+   "76:2",
+   "143:2",
+   "484:2",
+   "502:2"
+  ],
+  "uk": "Торгівля",
+  "key": "b0811e470d6b"
+ },
+ {
+  "id": 135,
+  "where": "adventure_map/trade",
+  "cells": [
+   "76:3",
+   "143:3"
+  ],
+  "uk": "Відкриває екран торгівлі королівства.",
+  "key": "a057180b89ce"
+ },
+ {
+  "id": 136,
+  "where": "adventure_map/replay_turn",
+  "cells": [
+   "77:2",
+   "146:2"
+  ],
+  "uk": "Повтор ходу",
+  "key": "dee4b875c688"
+ },
+ {
+  "id": 137,
+  "where": "adventure_map/replay_turn",
+  "cells": [
+   "77:3"
+  ],
+  "uk": "Дає змогу переглянути дії, виконані під час попереднього ходу.",
+  "key": "58097e486b41"
+ },
+ {
+  "id": 138,
+  "where": "adventure_map/caravan",
+  "cells": [
+   "78:2"
+  ],
+  "uk": "Караван",
+  "key": "cd3e83905b10"
+ },
+ {
+  "id": 139,
+  "where": "adventure_map/caravan",
+  "cells": [
+   "78:3"
+  ],
+  "uk": "Відкриває екран караванів для вибраного міста.",
+  "key": "672969fe93f4"
+ },
+ {
+  "id": 140,
+  "where": "adventure_map/calendar",
+  "cells": [
+   "79:2"
+  ],
+  "uk": "Календар",
+  "key": "adab5090ac6a"
+ },
+ {
+  "id": 141,
+  "where": "adventure_map/calendar",
+  "cells": [
+   "79:3"
+  ],
+  "uk": "Показує, скільки ігрових днів минуло. У тижні сім днів, у місяці — чотири тижні.",
+  "key": "0095ff5836b9"
+ },
+ {
+  "id": 142,
+  "where": "adventure_map/quit",
+  "cells": [
+   "80:2",
+   "100:2"
+  ],
+  "uk": "Вийти з гри",
+  "key": "efb16d0df21a"
+ },
+ {
+  "id": 143,
+  "where": "adventure_map/save_on_quit",
+  "cells": [
+   "81:2",
+   "742:2"
+  ],
+  "uk": "Зберегти й вийти",
+  "key": "972ccfa3190d"
+ },
+ {
+  "id": 144,
+  "where": "adventure_map/save_on_quit",
+  "cells": [
+   "81:3"
+  ],
+  "uk": "Зберігає поточну гру й виходить на робочий стіл.",
+  "key": "2d14461719c8"
+ },
+ {
+  "id": 145,
+  "where": "adventure_map/cancel_quit",
+  "cells": [
+   "82:3"
+  ],
+  "uk": "Повертає до поточної гри.",
+  "key": "4620316203be"
+ },
+ {
+  "id": 146,
+  "where": "material_display/gold",
+  "cells": [
+   "85:3"
+  ],
+  "uk": "Золото потрібне, щоб наймати війська й зводити будівлі.",
+  "key": "63e8974ade2a"
+ },
+ {
+  "id": 147,
+  "where": "material_display/wood",
+  "cells": [
+   "86:3"
+  ],
+  "uk": "Деревина потрібна для зведення майже всіх будівель.",
+  "key": "2ae3c9180542"
+ },
+ {
+  "id": 148,
+  "where": "material_display/ore",
+  "cells": [
+   "87:3"
+  ],
+  "uk": "Руда потрібна для зведення більшості, але не всіх будівель.",
+  "key": "d5767ccff26b"
+ },
+ {
+  "id": 149,
+  "where": "material_display/crystal",
+  "cells": [
+   "88:3"
+  ],
+  "uk": "Кристали — цінний ресурс, рідший за деревину й руду.",
+  "key": "e355424fe5f8"
+ },
+ {
+  "id": 150,
+  "where": "material_display/sulfur",
+  "cells": [
+   "89:3"
+  ],
+  "uk": "Сірка — цінний ресурс, рідший за деревину й руду.",
+  "key": "e4fc19bc24c5"
+ },
+ {
+  "id": 151,
+  "where": "material_display/mercury",
+  "cells": [
+   "90:3"
+  ],
+  "uk": "Ртуть — цінний ресурс, рідший за деревину й руду.",
+  "key": "ac06a9fbe8bf"
+ },
+ {
+  "id": 152,
+  "where": "material_display/gems",
+  "cells": [
+   "91:3"
+  ],
+  "uk": "Самоцвіти — цінний ресурс, рідший за деревину й руду.",
+  "key": "db51b06cb319"
+ },
+ {
+  "id": 153,
+  "where": "system_menu/new_game",
+  "cells": [
+   "94:3"
+  ],
+  "uk": "Відкриває меню, де можна почати нову гру різних типів.",
+  "key": "891652be64f7"
+ },
+ {
+  "id": 154,
+  "where": "system_menu/load_game",
+  "cells": [
+   "95:3"
+  ],
+  "uk": "Завантажує гру.",
+  "key": "a321fe3cda54"
+ },
+ {
+  "id": 155,
+  "where": "system_menu/save_game",
+  "cells": [
+   "96:2",
+   "243:2"
+  ],
+  "uk": "Зберегти гру",
+  "key": "f760e3c2ce80"
+ },
+ {
+  "id": 156,
+  "where": "system_menu/save_game",
+  "cells": [
+   "96:3",
+   "732:3"
+  ],
+  "uk": "Зберігає поточну гру.",
+  "key": "127affdf51f5"
+ },
+ {
+  "id": 157,
+  "where": "system_menu/restart_game",
+  "cells": [
+   "97:2"
+  ],
+  "uk": "Почати знову",
+  "key": "cbd0990e3038"
+ },
+ {
+  "id": 158,
+  "where": "system_menu/restart_game",
+  "cells": [
+   "97:3"
+  ],
+  "uk": "Починає гру спочатку.",
+  "key": "85f212b9e47d"
+ },
+ {
+  "id": 159,
+  "where": "system_menu/options",
+  "cells": [
+   "98:3"
+  ],
+  "uk": "Відкриває меню параметрів.",
+  "key": "e00c29ba01c9"
+ },
+ {
+  "id": 160,
+  "where": "system_menu/main_menu",
+  "cells": [
+   "99:2"
+  ],
+  "uk": "Головне меню",
+  "key": "758da7453531"
+ },
+ {
+  "id": 161,
+  "where": "system_menu/main_menu",
+  "cells": [
+   "99:3"
+  ],
+  "uk": "Відкриває головне меню.",
+  "key": "9507b859e74f"
+ },
+ {
+  "id": 162,
+  "where": "system_menu/quit",
+  "cells": [
+   "100:3"
+  ],
+  "uk": "Закриває гру й повертає на робочий стіл.",
+  "key": "41bc2185f60d"
+ },
+ {
+  "id": 163,
+  "where": "options_menu/army_speed",
+  "cells": [
+   "103:2"
+  ],
+  "uk": "Швидкість війська",
+  "key": "08fd6473e17c"
+ },
+ {
+  "id": 164,
+  "where": "options_menu/army_speed",
+  "cells": [
+   "103:3"
+  ],
+  "uk": "Швидкість анімації вашого війська на мапі пригод.",
+  "key": "29329a01a790"
+ },
+ {
+  "id": 165,
+  "where": "options_menu/combat_speed",
+  "cells": [
+   "104:2"
+  ],
+  "uk": "Швидкість бою",
+  "key": "aa0f1b41fb14"
+ },
+ {
+  "id": 166,
+  "where": "options_menu/combat_speed",
+  "cells": [
+   "104:3"
+  ],
+  "uk": "Швидкість анімації в бою.",
+  "key": "e64d660e10a4"
+ },
+ {
+  "id": 167,
+  "where": "options_menu/animation",
+  "cells": [
+   "105:2"
+  ],
+  "uk": "Анімація",
+  "key": "581437e790d4"
+ },
+ {
+  "id": 168,
+  "where": "options_menu/animation",
+  "cells": [
+   "105:3"
+  ],
+  "uk": "Увімкнути або вимкнути анімацію на мапі пригод.",
+  "key": "ebd62ceae0f0"
+ },
+ {
+  "id": 169,
+  "where": "options_menu/enemy_speed",
+  "cells": [
+   "106:2"
+  ],
+  "uk": "Швидкість ворога",
+  "key": "b124088b28d1"
+ },
+ {
+  "id": 170,
+  "where": "options_menu/enemy_speed",
+  "cells": [
+   "106:3"
+  ],
+  "uk": "Швидкість анімації ворожих військ на мапі пригод.",
+  "key": "fde497614994"
+ },
+ {
+  "id": 171,
+  "where": "options_menu/slow",
+  "cells": [
+   "107:2",
+   "223:2"
+  ],
+  "uk": "Повільно",
+  "key": "33dcec9ce454"
+ },
+ {
+  "id": 172,
+  "where": "options_menu/slow",
+  "cells": [
+   "107:3"
+  ],
+  "uk": "Рух у повільному темпі.",
+  "key": "e811396ede85"
+ },
+ {
+  "id": 173,
+  "where": "options_menu/medium",
+  "cells": [
+   "108:2",
+   "224:2",
+   "557:2"
+  ],
+  "uk": "Помірно",
+  "key": "d404968ea90b"
+ },
+ {
+  "id": 174,
+  "where": "options_menu/medium",
+  "cells": [
+   "108:3"
+  ],
+  "uk": "Рух у помірному темпі.",
+  "key": "5d7086b16bcf"
+ },
+ {
+  "id": 175,
+  "where": "options_menu/fast",
+  "cells": [
+   "109:2",
+   "225:2"
+  ],
+  "uk": "Швидко",
+  "key": "8db6a2f1d3b7"
+ },
+ {
+  "id": 176,
+  "where": "options_menu/fast",
+  "cells": [
+   "109:3"
+  ],
+  "uk": "Рух у швидкому темпі.",
+  "key": "edb80417f23c"
+ },
+ {
+  "id": 177,
+  "where": "options_menu/jump",
+  "cells": [
+   "110:2"
+  ],
+  "uk": "Стрибок",
+  "key": "1eba140fdd9c"
+ },
+ {
+  "id": 178,
+  "where": "options_menu/jump",
+  "cells": [
+   "110:3"
+  ],
+  "uk": "Ваші війська пропускають анімацію й ніби «стрибають» з місця на місце.",
+  "key": "4c2977d4edf6"
+ },
+ {
+  "id": 179,
+  "where": "options_menu/none",
+  "cells": [
+   "111:2"
+  ],
+  "uk": "Не показувати",
+  "key": "6eef6648406c"
+ },
+ {
+  "id": 180,
+  "where": "options_menu/none",
+  "cells": [
+   "111:3"
+  ],
+  "uk": "Ви не бачитимете пересування ворогів.",
+  "key": "07b8633e225b"
+ },
+ {
+  "id": 181,
+  "where": "options_menu/video_quality",
+  "cells": [
+   "112:2"
+  ],
+  "uk": "Якість відео",
+  "key": "13c634ddf183"
+ },
+ {
+  "id": 182,
+  "where": "options_menu/video_quality",
+  "cells": [
+   "112:3"
+  ],
+  "uk": "Задає якість відеороликів.",
+  "key": "3d967566599a"
+ },
+ {
+  "id": 183,
+  "where": "options_menu/music_volume",
+  "cells": [
+   "113:2",
+   "226:2"
+  ],
+  "uk": "Гучність музики",
+  "key": "3d6052382b67"
+ },
+ {
+  "id": 184,
+  "where": "options_menu/music_volume",
+  "cells": [
+   "113:3"
+  ],
+  "uk": "Регулює гучність фонової музики.",
+  "key": "46e33a819fc9"
+ },
+ {
+  "id": 185,
+  "where": "options_menu/effects_volume",
+  "cells": [
+   "114:2",
+   "227:2"
+  ],
+  "uk": "Гучність ефектів",
+  "key": "3ea4aac7833b"
+ },
+ {
+  "id": 186,
+  "where": "options_menu/effects_volume",
+  "cells": [
+   "114:3"
+  ],
+  "uk": "Регулює гучність звукових ефектів гри.",
+  "key": "b1a6da48bc5e"
+ },
+ {
+  "id": 187,
+  "where": "options_menu/disable_keyboard_shortcuts",
+  "cells": [
+   "115:2"
+  ],
+  "uk": "Вимкнути гарячі клавіші",
+  "key": "a95dbf948f38"
+ },
+ {
+  "id": 188,
+  "where": "options_menu/disable_keyboard_shortcuts",
+  "cells": [
+   "115:3"
+  ],
+  "uk": "Дає змогу вимкнути гарячі клавіші.",
+  "key": "a82433d8bf34"
+ },
+ {
+  "id": 189,
+  "where": "options_menu/show_movement_path",
+  "cells": [
+   "116:2"
+  ],
+  "uk": "Показувати шлях",
+  "key": "df2033c2c7a0"
+ },
+ {
+  "id": 190,
+  "where": "options_menu/show_movement_path",
+  "cells": [
+   "116:3"
+  ],
+  "uk": "Увімкнути або вимкнути кольорові стрілки, що показують ваш шлях мапою пригод.",
+  "key": "d90ae56070b4"
+ },
+ {
+  "id": 191,
+  "where": "options_menu/show_army_reminder",
+  "cells": [
+   "117:2"
+  ],
+  "uk": "Нагадувати про рух",
+  "key": "883e8c2a7852"
+ },
+ {
+  "id": 192,
+  "where": "options_menu/show_army_reminder",
+  "cells": [
+   "117:3"
+  ],
+  "uk": "Увімкнути або вимкнути нагадування наприкінці ходу, що в якогось війська ще лишилися очки руху.",
+  "key": "765bffcfe939"
+ },
+ {
+  "id": 193,
+  "where": "options_menu/coordinates",
+  "cells": [
+   "118:2"
+  ],
+  "uk": "Показувати координати",
+  "key": "08ed0d9cc1b9"
+ },
+ {
+  "id": 194,
+  "where": "options_menu/coordinates",
+  "cells": [
+   "118:3"
+  ],
+  "uk": "Увімкнути або вимкнути віконце з вашими координатами на мапі пригод.",
+  "key": "e1f088d7756a"
+ },
+ {
+  "id": 195,
+  "where": "options_menu/skip_combat",
+  "cells": [
+   "119:2"
+  ],
+  "uk": "Пропускати бої",
+  "key": "e825a38f1fcd"
+ },
+ {
+  "id": 196,
+  "where": "options_menu/skip_combat",
+  "cells": [
+   "119:3"
+  ],
+  "uk": "Показує лише результати бою, в якому за обидві сторони грає комп'ютер.",
+  "key": "ec42d9ba8f8c"
+ },
+ {
+  "id": 197,
+  "where": "options_menu/quick_combat",
+  "cells": [
+   "120:2"
+  ],
+  "uk": "Швидкий бій",
+  "key": "504b01edf9a2"
+ },
+ {
+  "id": 198,
+  "where": "options_menu/quick_combat",
+  "cells": [
+   "120:3"
+  ],
+  "uk": "Увімкнути або вимкнути швидкий бій, що вирішує кожен бій одразу, без переходу на екран бою.",
+  "key": "68eef69ff9d9"
+ },
+ {
+  "id": 199,
+  "where": "options_menu/video_subtitles",
+  "cells": [
+   "121:2"
+  ],
+  "uk": "Субтитри",
+  "key": "069c705cd1b4"
+ },
+ {
+  "id": 200,
+  "where": "options_menu/video_subtitles",
+  "cells": [
+   "121:3"
+  ],
+  "uk": "Вимикає субтитри, що біжать по відеороликах.",
+  "key": "576c09e500e3"
+ },
+ {
+  "id": 201,
+  "where": "options_menu/town_building_outlines",
+  "cells": [
+   "122:2"
+  ],
+  "uk": "Контури будівель",
+  "key": "9ddf2f7f53eb"
+ },
+ {
+  "id": 202,
+  "where": "options_menu/town_building_outlines",
+  "cells": [
+   "122:3"
+  ],
+  "uk": "Підсвічує будівлі на екрані міста, коли наводите на них мишу.",
+  "key": "f0bb7100e18b"
+ },
+ {
+  "id": 203,
+  "where": "options_menu/spellbook_animation",
+  "cells": [
+   "123:2",
+   "221:2"
+  ],
+  "uk": "Анімація книги заклять",
+  "key": "658a84a2e5b0"
+ },
+ {
+  "id": 204,
+  "where": "options_menu/spellbook_animation",
+  "cells": [
+   "123:3"
+  ],
+  "uk": "Вмикає або вимикає анімацію книги заклять.",
+  "key": "6877f782c517"
+ },
+ {
+  "id": 205,
+  "where": "options_menu/return_to_game",
+  "cells": [
+   "124:2",
+   "235:2"
+  ],
+  "uk": "Повернутися до гри",
+  "key": "7a87b2a717c8"
+ },
+ {
+  "id": 206,
+  "where": "options_menu/return_to_game",
+  "cells": [
+   "124:3"
+  ],
+  "uk": "Ця кнопка повертає до поточної гри.",
+  "key": "4da06d44ad63"
+ },
+ {
+  "id": 207,
+  "where": "options_menu/screen_resolution",
+  "cells": [
+   "125:2"
+  ],
+  "uk": "Роздільність екрана",
+  "key": "390a92c4b486"
+ },
+ {
+  "id": 208,
+  "where": "options_menu/screen_resolution",
+  "cells": [
+   "125:3"
+  ],
+  "uk": "Виберіть роздільність екрана, що найкраще пасує вашій системі, або грайте на весь екран чи у вікні.",
+  "key": "45f5a8b5746a"
+ },
+ {
+  "id": 209,
+  "where": "options_menu/full_screen",
+  "cells": [
+   "126:2"
+  ],
+  "uk": "Повний екран",
+  "key": "cb715b87a2a7"
+ },
+ {
+  "id": 210,
+  "where": "options_menu/full_screen",
+  "cells": [
+   "126:3"
+  ],
+  "uk": "Перемикає на повноекранний режим.",
+  "key": "2e29e7624d14"
+ },
+ {
+  "id": 211,
+  "where": "options_menu/windowed",
+  "cells": [
+   "127:2"
+  ],
+  "uk": "У вікні",
+  "key": "7d22ecce0385"
+ },
+ {
+  "id": 212,
+  "where": "options_menu/windowed",
+  "cells": [
+   "127:3"
+  ],
+  "uk": "Перемикає на віконний режим.",
+  "key": "1171b61bd32e"
+ },
+ {
+  "id": 213,
+  "where": "options_menu/800_600",
+  "cells": [
+   "128:3"
+  ],
+  "uk": "Змінює роздільність екрана на 800x600.",
+  "key": "a73446a28f80"
+ },
+ {
+  "id": 214,
+  "where": "options_menu/1024_768",
+  "cells": [
+   "129:3"
+  ],
+  "uk": "Змінює роздільність екрана на 1024x768.",
+  "key": "da645792ed57"
+ },
+ {
+  "id": 215,
+  "where": "options_menu/1280_1024",
+  "cells": [
+   "130:3"
+  ],
+  "uk": "Змінює роздільність екрана на 1280x1024.",
+  "key": "34264f891f6f"
+ },
+ {
+  "id": 216,
+  "where": "options_menu/cancel",
+  "cells": [
+   "131:3"
+  ],
+  "uk": "Вийти, не зберігаючи цих налаштувань.",
+  "key": "14f40bc28ea2"
+ },
+ {
+  "id": 217,
+  "where": "options_menu/ok",
+  "cells": [
+   "132:3"
+  ],
+  "uk": "Зберігає поточні налаштування й повертає до гри.",
+  "key": "2bca9b9d271e"
+ },
+ {
+  "id": 218,
+  "where": "game_menu/scenario_information",
+  "cells": [
+   "135:2",
+   "701:2"
+  ],
+  "uk": "Про сценарій",
+  "key": "b2c366edde49"
+ },
+ {
+  "id": 219,
+  "where": "game_menu/scenario_information",
+  "cells": [
+   "135:3"
+  ],
+  "uk": "Показує основні відомості про поточний сценарій.",
+  "key": "d3b520789533"
+ },
+ {
+  "id": 220,
+  "where": "game_menu/kingdom_overview",
+  "cells": [
+   "136:3"
+  ],
+  "uk": "Відкриває екран огляду королівства.",
+  "key": "5fa4f6cc7cda"
+ },
+ {
+  "id": 221,
+  "where": "game_menu/find_hero",
+  "cells": [
+   "137:3"
+  ],
+  "uk": "Допомагає знайти ваших героїв.",
+  "key": "7cd13823e79c"
+ },
+ {
+  "id": 222,
+  "where": "game_menu/find_party",
+  "cells": [
+   "138:3"
+  ],
+  "uk": "Допомагає знайти одне з ваших військ.",
+  "key": "be18b49ff0df"
+ },
+ {
+  "id": 223,
+  "where": "game_menu/find_town",
+  "cells": [
+   "139:3"
+  ],
+  "uk": "Допомагає знайти одне з ваших міст.",
+  "key": "f3e2a4145dea"
+ },
+ {
+  "id": 224,
+  "where": "game_menu/quests",
+  "cells": [
+   "140:2",
+   "649:2"
+  ],
+  "uk": "Завдання",
+  "key": "eca701b5e1d8"
+ },
+ {
+  "id": 225,
+  "where": "game_menu/quests",
+  "cells": [
+   "140:3"
+  ],
+  "uk": "Відкриває журнал завдань.",
+  "key": "b3264c5e82ee"
+ },
+ {
+  "id": 226,
+  "where": "game_menu/marketplace",
+  "cells": [
+   "141:3"
+  ],
+  "uk": "Відкриває ринок.",
+  "key": "c998507ae707"
+ },
+ {
+  "id": 227,
+  "where": "game_menu/thieves_guild",
+  "cells": [
+   "142:3"
+  ],
+  "uk": "Відкриває гільдію злодіїв.",
+  "key": "0c1604fb140b"
+ },
+ {
+  "id": 228,
+  "where": "game_menu/view_world",
+  "cells": [
+   "144:2"
+  ],
+  "uk": "Огляд світу",
+  "key": "647745f99864"
+ },
+ {
+  "id": 229,
+  "where": "game_menu/view_world",
+  "cells": [
+   "144:3"
+  ],
+  "uk": "Показує всю мапу пригод.",
+  "key": "a2f683d3bbc8"
+ },
+ {
+  "id": 230,
+  "where": "game_menu/view_puzzle",
+  "cells": [
+   "145:2"
+  ],
+  "uk": "Головоломка",
+  "key": "ee25e49f50af"
+ },
+ {
+  "id": 231,
+  "where": "game_menu/view_puzzle",
+  "cells": [
+   "145:3"
+  ],
+  "uk": "Показує вже відкриті мапи-головоломки.",
+  "key": "66d759eccad9"
+ },
+ {
+  "id": 232,
+  "where": "game_menu/replay_turn",
+  "cells": [
+   "146:3"
+  ],
+  "uk": "Дає змогу повторно переглянути ваш попередній хід.",
+  "key": "f8c554a06718"
+ },
+ {
+  "id": 233,
+  "where": "campaign_screen/campaign_description",
+  "cells": [
+   "150:2",
+   "601:2"
+  ],
+  "uk": "Опис кампанії",
+  "key": "f6af23143817"
+ },
+ {
+  "id": 234,
+  "where": "campaign_screen/campaign_description",
+  "cells": [
+   "150:3"
+  ],
+  "uk": "Загальний опис кампанії.",
+  "key": "975943e1782d"
+ },
+ {
+  "id": 235,
+  "where": "campaign_screen/map_description",
+  "cells": [
+   "151:2",
+   "602:2",
+   "765:2"
+  ],
+  "uk": "Опис мапи",
+  "key": "949951977a54"
+ },
+ {
+  "id": 236,
+  "where": "campaign_screen/map_description",
+  "cells": [
+   "151:3"
+  ],
+  "uk": "Опис поточного сценарію.",
+  "key": "dd55b969157c"
+ },
+ {
+  "id": 237,
+  "where": "campaign_screen/game_statistics",
+  "cells": [
+   "152:2",
+   "603:2"
+  ],
+  "uk": "Статистика гри",
+  "key": "4b1af6da7782"
+ },
+ {
+  "id": 238,
+  "where": "campaign_screen/game_statistics",
+  "cells": [
+   "152:3"
+  ],
+  "uk": "Показує основні відомості про поточний сценарій.",
+  "key": "fea90443ef45"
+ },
+ {
+  "id": 239,
+  "where": "campaign_screen/scenario_name",
+  "cells": [
+   "153:2",
+   "604:2"
+  ],
+  "uk": "Назва сценарію",
+  "key": "a3d80c06d21e"
+ },
+ {
+  "id": 240,
+  "where": "campaign_screen/scenario_name",
+  "cells": [
+   "153:3"
+  ],
+  "uk": "Назва поточного сценарію.",
+  "key": "dff92b527806"
+ },
+ {
+  "id": 241,
+  "where": "campaign_screen/win_conditions",
+  "cells": [
+   "154:2"
+  ],
+  "uk": "Умови перемоги",
+  "key": "0f18fb260b95"
+ },
+ {
+  "id": 242,
+  "where": "campaign_screen/win_conditions",
+  "cells": [
+   "154:3"
+  ],
+  "uk": "Показує умови перемоги в сценарії. Їх може бути кілька, і вони можуть змінюватися посеред сценарію.",
+  "key": "42e7a601f502"
+ },
+ {
+  "id": 243,
+  "where": "campaign_screen/loss_conditions",
+  "cells": [
+   "155:2"
+  ],
+  "uk": "Умови поразки",
+  "key": "2c56c429637a"
+ },
+ {
+  "id": 244,
+  "where": "campaign_screen/loss_conditions",
+  "cells": [
+   "155:3"
+  ],
+  "uk": "Показує умови поразки в сценарії. Їх може бути кілька, і вони можуть змінюватися посеред сценарію.",
+  "key": "3d6c75a2732c"
+ },
+ {
+  "id": 245,
+  "where": "campaign_screen/map_difficulty",
+  "cells": [
+   "156:2",
+   "313:2",
+   "542:2",
+   "607:2",
+   "621:2",
+   "646:2",
+   "762:2"
+  ],
+  "uk": "Складність мапи",
+  "key": "74cc6dc47e9d"
+ },
+ {
+  "id": 246,
+  "where": "campaign_screen/map_difficulty",
+  "cells": [
+   "156:3"
+  ],
+  "uk": "Складність сценарію. Її задано наперед і змінити не можна.",
+  "key": "39cf5bff8c13"
+ },
+ {
+  "id": 247,
+  "where": "campaign_screen/player_difficulty",
+  "cells": [
+   "157:2",
+   "314:2",
+   "543:2",
+   "608:2",
+   "647:2"
+  ],
+  "uk": "Складність гравця",
+  "key": "eae45b3d1d79"
+ },
+ {
+  "id": 248,
+  "where": "campaign_screen/player_difficulty",
+  "cells": [
+   "157:3"
+  ],
+  "uk": "Рівень складності, який ви обрали для цього сценарію.",
+  "key": "8386ad74688d"
+ },
+ {
+  "id": 249,
+  "where": "campaign_screen/carryover",
+  "cells": [
+   "158:2",
+   "609:2"
+  ],
+  "uk": "Перехід",
+  "key": "60987b0b64de"
+ },
+ {
+  "id": 250,
+  "where": "campaign_screen/carryover",
+  "cells": [
+   "158:3"
+  ],
+  "uk": "Список героїв, артефактів тощо, які перейдуть із цього сценарію кампанії до наступного, якщо такі є.",
+  "key": "d6d609e4cd49"
+ },
+ {
+  "id": 251,
+  "where": "campaign_screen/map_size",
+  "cells": [
+   "159:2",
+   "555:2",
+   "610:2",
+   "620:2",
+   "709:2"
+  ],
+  "uk": "Розмір мапи",
+  "key": "7718f9d402db"
+ },
+ {
+  "id": 252,
+  "where": "campaign_screen/map_size",
+  "cells": [
+   "159:3",
+   "610:3"
+  ],
+  "uk": "Розмір мапи.",
+  "key": "d89c8a8e959d"
+ },
+ {
+  "id": 253,
+  "where": "caravan_create/mini_mini_map",
+  "cells": [
+   "162:2",
+   "296:2"
+  ],
+  "uk": "Мініатюра мапи",
+  "key": "9e286b6aa992"
+ },
+ {
+  "id": 254,
+  "where": "caravan_create/mini_mini_map",
+  "cells": [
+   "162:3"
+  ],
+  "uk": "Зменшена мапа пригод, на якій можна одразу знайти потрібні споруди.",
+  "key": "433705cd067f"
+ },
+ {
+  "id": 255,
+  "where": "caravan_create/creature_generator",
+  "cells": [
+   "163:2"
+  ],
+  "uk": "Оселі істот",
+  "key": "d306063b4a4c"
+ },
+ {
+  "id": 256,
+  "where": "caravan_create/creature_generator",
+  "cells": [
+   "163:3"
+  ],
+  "uk": "Ці споруди щотижня дають певну кількість істот одного виду.",
+  "key": "b2b8e36fee61"
+ },
+ {
+  "id": 257,
+  "where": "caravan_create/town",
+  "cells": [
+   "164:2",
+   "397:2",
+   "648:2"
+  ],
+  "uk": "Міста",
+  "key": "ec4adf8a85ba"
+ },
+ {
+  "id": 258,
+  "where": "caravan_create/town",
+  "cells": [
+   "164:3"
+  ],
+  "uk": "Каравани формують у містах, тож, щоб пересилати війська з місця на місце, потрібне місто.",
+  "key": "db1835922bb7"
+ },
+ {
+  "id": 259,
+  "where": "caravan_create/Cancel",
+  "cells": [
+   "165:3"
+  ],
+  "uk": "Закрити вікно й повернути караван до залоги.",
+  "key": "a71b13f9a922"
+ },
+ {
+  "id": 260,
+  "where": "caravan_create/OK",
+  "cells": [
+   "166:3"
+  ],
+  "uk": "Закрити вікно й відправити караван у дорогу.",
+  "key": "f90e31566cac"
+ },
+ {
+  "id": 261,
+  "where": "caravan_create/Transport",
+  "cells": [
+   "167:2"
+  ],
+  "uk": "Відправити",
+  "key": "c10d76c9a4b8"
+ },
+ {
+  "id": 262,
+  "where": "caravan_create/Transport",
+  "cells": [
+   "167:3"
+  ],
+  "uk": "Відправити поточний караван у дорогу, не закриваючи вікна.",
+  "key": "ffe87748e08d"
+ },
+ {
+  "id": 263,
+  "where": "caravan_create/From_Town",
+  "cells": [
+   "168:2"
+  ],
+  "uk": "З міста %town",
+  "key": "39bea86b9a65"
+ },
+ {
+  "id": 264,
+  "where": "caravan_create/From_Town",
+  "cells": [
+   "168:3"
+  ],
+  "uk": "Створити каравани з міста %town до іншого міста.",
+  "key": "ccd41b9dd37f"
+ },
+ {
+  "id": 265,
+  "where": "caravan_create/To_Town",
+  "cells": [
+   "169:2"
+  ],
+  "uk": "До міста %town",
+  "key": "718775469a9a"
+ },
+ {
+  "id": 266,
+  "where": "caravan_create/To_Town",
+  "cells": [
+   "169:3"
+  ],
+  "uk": "Створити каравани до міста %town з іншого місця.",
+  "key": "f3f3cccbfca7"
+ },
+ {
+  "id": 267,
+  "where": "caravan_create/Buy",
+  "cells": [
+   "170:2"
+  ],
+  "uk": "Купити істот",
+  "key": "b557714c300b"
+ },
+ {
+  "id": 268,
+  "where": "caravan_create/Buy",
+  "cells": [
+   "170:3"
+  ],
+  "uk": "Купити істот у цій оселі й відправити їх караваном до міста %town.",
+  "key": "64d5cc8fa17e"
+ },
+ {
+  "id": 269,
+  "where": "caravan_create/Move_Garrison_To_Caravan",
+  "cells": [
+   "171:2",
+   "172:2"
+  ],
+  "uk": "До каравану",
+  "key": "217c91d482a0"
+ },
+ {
+  "id": 270,
+  "where": "caravan_create/Move_Garrison_To_Caravan",
+  "cells": [
+   "171:3"
+  ],
+  "uk": "Перевести всіх істот залоги до каравану.",
+  "key": "86f0973e9efb"
+ },
+ {
+  "id": 271,
+  "where": "caravan_create/Move_Visiting_To_Caravan",
+  "cells": [
+   "172:3"
+  ],
+  "uk": "Перевести всіх істот війська-гостя до каравану.",
+  "key": "0cdd90141552"
+ },
+ {
+  "id": 272,
+  "where": "caravan_create/Move_Caravan",
+  "cells": [
+   "173:3"
+  ],
+  "uk": "Повернути всіх істот із каравану до залоги.",
+  "key": "1b3d0a15f7a9"
+ },
+ {
+  "id": 273,
+  "where": "caravan_create/Split",
+  "cells": [
+   "174:3"
+  ],
+  "uk": "Дає змогу розділити групу істот на дві. Розділити загін можна також, перетягуючи істоту з комірки в комірку з затиснутою клавішею Shift.",
+  "key": "e4bb7733be18"
+ },
+ {
+  "id": 274,
+  "where": "caravan_initial/Create",
+  "cells": [
+   "177:2"
+  ],
+  "uk": "Створити каравани",
+  "key": "420844bd10e4"
+ },
+ {
+  "id": 275,
+  "where": "caravan_initial/Create",
+  "cells": [
+   "177:3"
+  ],
+  "uk": "Створити каравани з цього міста або до нього. Щоб пересилати війська, на мапі пригод має бути ваше інше місто з караваном або оселя істот під вашим прапором.",
+  "key": "4b2eb4254d2e"
+ },
+ {
+  "id": 276,
+  "where": "caravan_initial/View",
+  "cells": [
+   "178:2"
+  ],
+  "uk": "Переглянути каравани",
+  "key": "a62d68b00dac"
+ },
+ {
+  "id": 277,
+  "where": "caravan_initial/View",
+  "cells": [
+   "178:3"
+  ],
+  "uk": "Переглянути всі каравани, що прямують до цього міста, зокрема й чужі.",
+  "key": "8ac5261ff458"
+ },
+ {
+  "id": 278,
+  "where": "caravan_initial/Arrived",
+  "cells": [
+   "179:2"
+  ],
+  "uk": "Каравани, що прибули",
+  "key": "732dfd68bdb5"
+ },
+ {
+  "id": 279,
+  "where": "caravan_initial/Arrived",
+  "cells": [
+   "179:3"
+  ],
+  "uk": "Якщо в залозі не вистачає місця для каравану, що прибув, тут можна вручну вирішити, що з ним робити.",
+  "key": "393319b92cdb"
+ },
+ {
+  "id": 280,
+  "where": "caravan_view/close",
+  "cells": [
+   "182:3",
+   "320:3",
+   "424:3"
+  ],
+  "uk": "Повертає на екран міста.",
+  "key": "4d7522d8eff5"
+ },
+ {
+  "id": 281,
+  "where": "caravan_view/flag",
+  "cells": [
+   "183:2"
+  ],
+  "uk": "Власник",
+  "key": "89ff31225c5f"
+ },
+ {
+  "id": 282,
+  "where": "caravan_view/flag",
+  "cells": [
+   "183:3"
+  ],
+  "uk": "Власник цього каравану. Ви бачите свої каравани й ворожі, що прямують до ваших міст.",
+  "key": "b4b7ee1489b4"
+ },
+ {
+  "id": 283,
+  "where": "caravan_view/location",
+  "cells": [
+   "184:2"
+  ],
+  "uk": "Маршрут",
+  "key": "e59e8f15f760"
+ },
+ {
+  "id": 284,
+  "where": "caravan_view/location",
+  "cells": [
+   "184:3"
+  ],
+  "uk": "Звідки й куди йде караван. Для ворожих караванів, що прямують до ваших міст, видно лише пункт призначення.",
+  "key": "bb0a286152be"
+ },
+ {
+  "id": 285,
+  "where": "caravan_arrival/move_caravan_to_garrison",
+  "cells": [
+   "187:2"
+  ],
+  "uk": "Караван до залоги",
+  "key": "0c6e345dd334"
+ },
+ {
+  "id": 286,
+  "where": "caravan_arrival/move_caravan_to_garrison",
+  "cells": [
+   "187:3"
+  ],
+  "uk": "Перевести всі війська з каравану до залоги міста.",
+  "key": "60f4c9231239"
+ },
+ {
+  "id": 287,
+  "where": "caravan_arrival/move_caravan_to_visiting",
+  "cells": [
+   "188:2"
+  ],
+  "uk": "Караван до сусіднього війська",
+  "key": "57bbd2b90336"
+ },
+ {
+  "id": 288,
+  "where": "caravan_arrival/move_caravan_to_visiting",
+  "cells": [
+   "188:3"
+  ],
+  "uk": "Перевести всі війська з каравану до сусіднього війська.",
+  "key": "75736d2d59d1"
+ },
+ {
+  "id": 289,
+  "where": "castle/maximum",
+  "cells": [
+   "191:2",
+   "444:2"
+  ],
+  "uk": "Купити всіх",
+  "key": "caa6913da709"
+ },
+ {
+  "id": 290,
+  "where": "castle/maximum",
+  "cells": [
+   "191:3"
+  ],
+  "uk": "Купити всіх доступних у місті істот, якщо вистачає ресурсів.",
+  "key": "2e32988fe595"
+ },
+ {
+  "id": 291,
+  "where": "castle/name",
+  "cells": [
+   "192:2"
+  ],
+  "uk": "Назва істоти",
+  "key": "bd750f27f257"
+ },
+ {
+  "id": 292,
+  "where": "castle/name",
+  "cells": [
+   "192:3"
+  ],
+  "uk": "Назва істоти.",
+  "key": "d57ee10d1b2a"
+ },
+ {
+  "id": 293,
+  "where": "castle/available",
+  "cells": [
+   "193:2"
+  ],
+  "uk": "Доступно",
+  "key": "45c803e452a0"
+ },
+ {
+  "id": 294,
+  "where": "castle/available",
+  "cells": [
+   "193:3"
+  ],
+  "uk": "Скільки істот можна найняти.",
+  "key": "0cae080a29b8"
+ },
+ {
+  "id": 295,
+  "where": "castle/damage",
+  "cells": [
+   "194:3"
+  ],
+  "uk": "Скільки шкоди істота може завдати в бою.",
+  "key": "a86b24a2f1ba"
+ },
+ {
+  "id": 296,
+  "where": "castle/hit_points",
+  "cells": [
+   "195:3"
+  ],
+  "uk": "Скільки шкоди істота може витримати в бою.",
+  "key": "7735e54f76cb"
+ },
+ {
+  "id": 297,
+  "where": "castle/speed",
+  "cells": [
+   "196:3"
+  ],
+  "uk": "Наскільки швидка істота в бою.",
+  "key": "f9eceb7de602"
+ },
+ {
+  "id": 298,
+  "where": "castle/spell_points",
+  "cells": [
+   "197:3"
+  ],
+  "uk": "Скільки очок магії має істота.",
+  "key": "954c56047e41"
+ },
+ {
+  "id": 299,
+  "where": "castle/movement",
+  "cells": [
+   "199:3"
+  ],
+  "uk": "Як далеко істота може пересунутися в бою.",
+  "key": "8679c2ed6178"
+ },
+ {
+  "id": 300,
+  "where": "castle/ok",
+  "cells": [
+   "200:3",
+   "376:3",
+   "381:3",
+   "590:3",
+   "600:3",
+   "712:3"
+  ],
+  "uk": "Повертає на попередній екран.",
+  "key": "ad39d1d668c1"
+ },
+ {
+  "id": 301,
+  "where": "blacksmith/item_up",
+  "cells": [
+   "203:2"
+  ],
+  "uk": "Більше",
+  "key": "4bab2d8fe13f"
+ },
+ {
+  "id": 302,
+  "where": "blacksmith/item_up",
+  "cells": [
+   "203:3"
+  ],
+  "uk": "Натисніть, щоб збільшити кількість предметів для купівлі.",
+  "key": "66a07b6772b9"
+ },
+ {
+  "id": 303,
+  "where": "blacksmith/item_down",
+  "cells": [
+   "204:2"
+  ],
+  "uk": "Менше",
+  "key": "526cb7425ab8"
+ },
+ {
+  "id": 304,
+  "where": "blacksmith/item_down",
+  "cells": [
+   "204:3"
+  ],
+  "uk": "Натисніть, щоб зменшити кількість предметів для купівлі.",
+  "key": "e99c9612d37f"
+ },
+ {
+  "id": 305,
+  "where": "combat_screen/options",
+  "cells": [
+   "207:2"
+  ],
+  "uk": "Налаштування бою",
+  "key": "49c4b93dced3"
+ },
+ {
+  "id": 306,
+  "where": "combat_screen/options",
+  "cells": [
+   "207:3"
+  ],
+  "uk": "Дає змогу змінити гучність музики й ефектів, а також швидкість анімації в бою.",
+  "key": "c0085ceef846"
+ },
+ {
+  "id": 307,
+  "where": "combat_screen/cast_spell",
+  "cells": [
+   "208:3"
+  ],
+  "uk": "Відкриває книгу заклять, щоб загін міг сотворити закляття.",
+  "key": "dc84acd36b45"
+ },
+ {
+  "id": 308,
+  "where": "combat_screen/wait",
+  "cells": [
+   "209:2"
+  ],
+  "uk": "Чекати",
+  "key": "34dbd5c4c8a6"
+ },
+ {
+  "id": 309,
+  "where": "combat_screen/wait",
+  "cells": [
+   "209:3"
+  ],
+  "uk": "Вибраний загін чекає, доки походять усі інші, і лише тоді діє. Якщо чекають кілька загонів, вони діють від найповільнішого до найшвидшого.",
+  "key": "8fc6b08571cf"
+ },
+ {
+  "id": 310,
+  "where": "combat_screen/defend",
+  "cells": [
+   "210:2"
+  ],
+  "uk": "Захищатися",
+  "key": "da6bb78c4cbc"
+ },
+ {
+  "id": 311,
+  "where": "combat_screen/defend",
+  "cells": [
+   "210:3"
+  ],
+  "uk": "Вибраний загін нічого не робить, лише захищається. Захист від ближнього й дальнього бою в загону, що захищається, зростає на 25%.",
+  "key": "4446e2f55055"
+ },
+ {
+  "id": 312,
+  "where": "combat_screen/surrender",
+  "cells": [
+   "211:2"
+  ],
+  "uk": "Здатися",
+  "key": "0aa676cba3fc"
+ },
+ {
+  "id": 313,
+  "where": "combat_screen/surrender",
+  "cells": [
+   "211:3"
+  ],
+  "uk": "Дає змогу підкупити ворога, щоб він дозволив вашому війську відступити до найближчого міста.",
+  "key": "26f40e82c617"
+ },
+ {
+  "id": 314,
+  "where": "combat_screen/retreat",
+  "cells": [
+   "212:2"
+  ],
+  "uk": "Відступити",
+  "key": "81d8d99ea2c4"
+ },
+ {
+  "id": 315,
+  "where": "combat_screen/retreat",
+  "cells": [
+   "212:3"
+  ],
+  "uk": "Дає вашим героям змогу втекти з бою до найближчого міста. Проте всі ваші істоти загинуть, а герої будуть тяжко поранені.",
+  "key": "c091b0d7e8fa"
+ },
+ {
+  "id": 316,
+  "where": "combat_screen/auto_combat",
+  "cells": [
+   "213:2"
+  ],
+  "uk": "Автобій",
+  "key": "a02594edb208"
+ },
+ {
+  "id": 317,
+  "where": "combat_screen/auto_combat",
+  "cells": [
+   "213:3"
+  ],
+  "uk": "Комп'ютер веде бій за обидві сторони.",
+  "key": "83f61a406814"
+ },
+ {
+  "id": 318,
+  "where": "combat_screen/melee_mode",
+  "cells": [
+   "214:2"
+  ],
+  "uk": "Ближній бій",
+  "key": "423f838a4389"
+ },
+ {
+  "id": 319,
+  "where": "combat_screen/melee_mode",
+  "cells": [
+   "214:3"
+  ],
+  "uk": "Змінює бажану дію при натисканні на ворога в бою. Зараз цей загін, якщо зможе, атакуватиме ворога врукопаш, а не рухатиметься, чаруватиме чи стрілятиме.",
+  "key": "a2550de25416"
+ },
+ {
+  "id": 320,
+  "where": "combat_screen/ranged_mode",
+  "cells": [
+   "215:2"
+  ],
+  "uk": "Стрільба",
+  "key": "dd09e0ef03d1"
+ },
+ {
+  "id": 321,
+  "where": "combat_screen/ranged_mode",
+  "cells": [
+   "215:3"
+  ],
+  "uk": "Змінює бажану дію при натисканні на ворога в бою. Зараз цей загін, якщо зможе, стрілятиме у ворога, а не рухатиметься, чаруватиме чи атакуватиме врукопаш.",
+  "key": "fd297153f7a0"
+ },
+ {
+  "id": 322,
+  "where": "combat_screen/spell_mode",
+  "cells": [
+   "216:2"
+  ],
+  "uk": "Закляття",
+  "key": "166bf1f6ff99"
+ },
+ {
+  "id": 323,
+  "where": "combat_screen/spell_mode",
+  "cells": [
+   "216:3"
+  ],
+  "uk": "Змінює бажану дію при натисканні на ворога в бою. Зараз цей загін, якщо зможе, творитиме закляття, а не рухатиметься, атакуватиме врукопаш чи стрілятиме.",
+  "key": "ccd6dcc796ad"
+ },
+ {
+  "id": 324,
+  "where": "combat_screen/cursor_mode",
+  "cells": [
+   "217:2"
+  ],
+  "uk": "Рух",
+  "key": "6e4f2ea89fa8"
+ },
+ {
+  "id": 325,
+  "where": "combat_screen/cursor_mode",
+  "cells": [
+   "217:3"
+  ],
+  "uk": "Змінює бажану дію при натисканні на ворога в бою. Зараз цей загін, якщо зможе, рухатиметься до вказаного місця, а не атакуватиме врукопаш, чаруватиме чи стрілятиме.",
+  "key": "3a75fa164cc3"
+ },
+ {
+  "id": 326,
+  "where": "combat_screen/view_grid",
+  "cells": [
+   "218:2"
+  ],
+  "uk": "Показати сітку",
+  "key": "008b2df3a1e9"
+ },
+ {
+  "id": 327,
+  "where": "combat_screen/view_grid",
+  "cells": [
+   "218:3"
+  ],
+  "uk": "Вмикає або вимикає сітку.",
+  "key": "0b94cadbd269"
+ },
+ {
+  "id": 328,
+  "where": "combat_screen/movement_shadow",
+  "cells": [
+   "219:2"
+  ],
+  "uk": "Тінь руху",
+  "key": "cf7a56dadde6"
+ },
+ {
+  "id": 329,
+  "where": "combat_screen/movement_shadow",
+  "cells": [
+   "219:3"
+  ],
+  "uk": "Вмикає або вимикає тінь руху.",
+  "key": "456bbdba9136"
+ },
+ {
+  "id": 330,
+  "where": "combat_screen/cursor_shadow",
+  "cells": [
+   "220:2"
+  ],
+  "uk": "Тінь курсора",
+  "key": "52ef901f5bf4"
+ },
+ {
+  "id": 331,
+  "where": "combat_screen/cursor_shadow",
+  "cells": [
+   "220:3"
+  ],
+  "uk": "Вмикає або вимикає тінь курсора.",
+  "key": "0516ebe38db5"
+ },
+ {
+  "id": 332,
+  "where": "combat_screen/spellbook_animation",
+  "cells": [
+   "221:3"
+  ],
+  "uk": "Вмикає або вимикає анімацію книги заклять.",
+  "key": "50970adfc3e3"
+ },
+ {
+  "id": 333,
+  "where": "combat_screen/animation speed",
+  "cells": [
+   "222:2"
+  ],
+  "uk": "Швидкість анімації",
+  "key": "2bb22b1a1b8e"
+ },
+ {
+  "id": 334,
+  "where": "combat_screen/animation speed",
+  "cells": [
+   "222:3"
+  ],
+  "uk": "Дає змогу вибрати швидкість анімації.",
+  "key": "4c2d350d1026"
+ },
+ {
+  "id": 335,
+  "where": "combat_screen/slow",
+  "cells": [
+   "223:3"
+  ],
+  "uk": "Повільна анімація.",
+  "key": "1db7e44de9f6"
+ },
+ {
+  "id": 336,
+  "where": "combat_screen/medium",
+  "cells": [
+   "224:3"
+  ],
+  "uk": "Помірна анімація.",
+  "key": "275e70309746"
+ },
+ {
+  "id": 337,
+  "where": "combat_screen/fast",
+  "cells": [
+   "225:3"
+  ],
+  "uk": "Швидка анімація.",
+  "key": "50c8cc82e015"
+ },
+ {
+  "id": 338,
+  "where": "combat_screen/music_effects",
+  "cells": [
+   "226:3"
+  ],
+  "uk": "Цей повзунок робить музику гучнішою, тихішою або вимикає її.",
+  "key": "90dff98224f7"
+ },
+ {
+  "id": 339,
+  "where": "combat_screen/sound_effects",
+  "cells": [
+   "227:3"
+  ],
+  "uk": "Цей повзунок робить звукові ефекти гучнішими, тихішими або вимикає їх.",
+  "key": "d59213eb3393"
+ },
+ {
+  "id": 340,
+  "where": "combat_screen/creatures",
+  "cells": [
+   "228:2"
+  ],
+  "uk": "Істоти",
+  "key": "48f77eb754f0"
+ },
+ {
+  "id": 341,
+  "where": "combat_screen/creatures",
+  "cells": [
+   "228:3"
+  ],
+  "uk": "Хто керуватиме вашими загонами під час автобою — ви чи комп'ютер.",
+  "key": "3636fcc8660d"
+ },
+ {
+  "id": 342,
+  "where": "combat_screen/spells",
+  "cells": [
+   "229:2"
+  ],
+  "uk": "Закляття",
+  "key": "6b99d4032e86"
+ },
+ {
+  "id": 343,
+  "where": "combat_screen/spells",
+  "cells": [
+   "229:3"
+  ],
+  "uk": "Хто творитиме закляття під час автобою — ви чи комп'ютер.",
+  "key": "b4742c68fab4"
+ },
+ {
+  "id": 344,
+  "where": "combat_screen/heroes",
+  "cells": [
+   "230:2"
+  ],
+  "uk": "Герої",
+  "key": "765759c52c9e"
+ },
+ {
+  "id": 345,
+  "where": "combat_screen/heroes",
+  "cells": [
+   "230:3"
+  ],
+  "uk": "Хто керуватиме вашими героями під час автобою — ви чи комп'ютер.",
+  "key": "1ae0bf712042"
+ },
+ {
+  "id": 346,
+  "where": "combat_screen/troop_information",
+  "cells": [
+   "231:2"
+  ],
+  "uk": "Відомості про загін",
+  "key": "0b45a0688c73"
+ },
+ {
+  "id": 347,
+  "where": "combat_screen/troop_information",
+  "cells": [
+   "231:3"
+  ],
+  "uk": "Показує віконце з основними відомостями, коли наводите мишу на загін.",
+  "key": "8093eac641ce"
+ },
+ {
+  "id": 348,
+  "where": "combat_screen/all_statistics",
+  "cells": [
+   "232:2"
+  ],
+  "uk": "Уся статистика",
+  "key": "10239dae191b"
+ },
+ {
+  "id": 349,
+  "where": "combat_screen/all_statistics",
+  "cells": [
+   "232:3"
+  ],
+  "uk": "Показує всі важливі відомості про героїв та істот під час бою.",
+  "key": "7f86c3c28530"
+ },
+ {
+  "id": 350,
+  "where": "combat_screen/spells_only",
+  "cells": [
+   "233:2"
+  ],
+  "uk": "Лише закляття",
+  "key": "87f5b4739ec9"
+ },
+ {
+  "id": 351,
+  "where": "combat_screen/spells_only",
+  "cells": [
+   "233:3"
+  ],
+  "uk": "Показує лише відомості про закляття героїв та істот.",
+  "key": "4d7251d0d7d7"
+ },
+ {
+  "id": 352,
+  "where": "combat_screen/default",
+  "cells": [
+   "234:2"
+  ],
+  "uk": "За замовчуванням",
+  "key": "808d7dca8a74"
+ },
+ {
+  "id": 353,
+  "where": "combat_screen/default",
+  "cells": [
+   "234:3"
+  ],
+  "uk": "Відновлює стандартні налаштування бою.",
+  "key": "8c95131db3e2"
+ },
+ {
+  "id": 354,
+  "where": "combat_screen/back",
+  "cells": [
+   "235:3"
+  ],
+  "uk": "Повертає до бою.",
+  "key": "4173d916ad1a"
+ },
+ {
+  "id": 355,
+  "where": "combat_screen/hits_left",
+  "cells": [
+   "236:2"
+  ],
+  "uk": "Залишок здоров'я",
+  "key": "266962eb80e0"
+ },
+ {
+  "id": 356,
+  "where": "combat_screen/hits_left",
+  "cells": [
+   "236:3"
+  ],
+  "uk": "Скільки шкоди вибраний загін може витримати, перш ніж загине.",
+  "key": "d92f63751ce1"
+ },
+ {
+  "id": 357,
+  "where": "combat_screen/spell_points_left",
+  "cells": [
+   "237:2"
+  ],
+  "uk": "Залишок мани",
+  "key": "7cc005a9603f"
+ },
+ {
+  "id": 358,
+  "where": "combat_screen/spell_points_left",
+  "cells": [
+   "237:3"
+  ],
+  "uk": "Скільки очок магії вибраний загін може використати до кінця цього бою. Після бою істоти відновлюють усі очки магії.",
+  "key": "935d44baf42d"
+ },
+ {
+  "id": 359,
+  "where": "combat_screen/shots_left",
+  "cells": [
+   "238:2"
+  ],
+  "uk": "Залишок пострілів",
+  "key": "8ad94a7c8ce1"
+ },
+ {
+  "id": 360,
+  "where": "combat_screen/shots_left",
+  "cells": [
+   "238:3"
+  ],
+  "uk": "Скільки разів стрілецький загін ще може стріляти до кінця цього бою.",
+  "key": "60834d5ed085"
+ },
+ {
+  "id": 361,
+  "where": "combat_options/new",
+  "cells": [
+   "241:3"
+  ],
+  "uk": "Дає змогу почати нову гру.",
+  "key": "74d866903331"
+ },
+ {
+  "id": 362,
+  "where": "combat_options/load",
+  "cells": [
+   "242:3"
+  ],
+  "uk": "Дає змогу завантажити раніше збережену гру чи бій.",
+  "key": "2db4da786e94"
+ },
+ {
+  "id": 363,
+  "where": "combat_options/save",
+  "cells": [
+   "243:3"
+  ],
+  "uk": "Дає змогу зберегти поточну битву.",
+  "key": "8b232c1c8a5f"
+ },
+ {
+  "id": 364,
+  "where": "combat_creature/cursed_spells",
+  "cells": [
+   "246:2"
+  ],
+  "uk": "Негативні ефекти",
+  "key": "8a670db7390e"
+ },
+ {
+  "id": 365,
+  "where": "combat_creature/cursed_spells",
+  "cells": [
+   "246:3"
+  ],
+  "uk": "На цей загін діють такі негативні ефекти заклять чи здібностей істот.",
+  "key": "b4ad543f64bc"
+ },
+ {
+  "id": 366,
+  "where": "combat_creature/blessed_spells",
+  "cells": [
+   "247:2"
+  ],
+  "uk": "Позитивні ефекти",
+  "key": "99015e9a395b"
+ },
+ {
+  "id": 367,
+  "where": "combat_creature/blessed_spells",
+  "cells": [
+   "247:3"
+  ],
+  "uk": "На цей загін діють такі позитивні ефекти заклять чи здібностей істот.",
+  "key": "0b751c78116b"
+ },
+ {
+  "id": 368,
+  "where": "garrison_button/button",
+  "cells": [
+   "251:2"
+  ],
+  "uk": "Вибрати всі загони",
+  "key": "3ceea61f1441"
+ },
+ {
+  "id": 369,
+  "where": "garrison_button/button",
+  "cells": [
+   "251:3"
+  ],
+  "uk": "Перетягніть цей значок до іншого рядка, щоб усі загони одного війська приєдналися до іншого.",
+  "key": "8ea8005a28c5"
+ },
+ {
+  "id": 370,
+  "where": "army_screen/melee_attack",
+  "cells": [
+   "254:2"
+  ],
+  "uk": "Атака врукопаш",
+  "key": "f92570a0fd8e"
+ },
+ {
+  "id": 371,
+  "where": "army_screen/melee_attack",
+  "cells": [
+   "254:3"
+  ],
+  "uk": "Модифікатор шкоди для атак у ближньому бою.",
+  "key": "d118859a64e1"
+ },
+ {
+  "id": 372,
+  "where": "army_screen/melee_defense",
+  "cells": [
+   "255:2"
+  ],
+  "uk": "Захист врукопаш",
+  "key": "6402b780ee1a"
+ },
+ {
+  "id": 373,
+  "where": "army_screen/melee_defense",
+  "cells": [
+   "255:3"
+  ],
+  "uk": "Модифікатор шкоди від атак у ближньому бою.",
+  "key": "6d3a0f641dc3"
+ },
+ {
+  "id": 374,
+  "where": "army_screen/ranged_attack",
+  "cells": [
+   "256:2"
+  ],
+  "uk": "Стрілецька атака",
+  "key": "76ce52e1c14b"
+ },
+ {
+  "id": 375,
+  "where": "army_screen/ranged_attack",
+  "cells": [
+   "256:3"
+  ],
+  "uk": "Модифікатор шкоди для дальніх атак.",
+  "key": "b32d9845cf37"
+ },
+ {
+  "id": 376,
+  "where": "army_screen/ranged_defense",
+  "cells": [
+   "257:2"
+  ],
+  "uk": "Захист від стріл",
+  "key": "862191a4fa03"
+ },
+ {
+  "id": 377,
+  "where": "army_screen/ranged_defense",
+  "cells": [
+   "257:3"
+  ],
+  "uk": "Модифікатор шкоди від дальніх атак.",
+  "key": "bb1e031b9e33"
+ },
+ {
+  "id": 378,
+  "where": "army_screen/backpack",
+  "cells": [
+   "258:2",
+   "501:2"
+  ],
+  "uk": "Наплічник",
+  "key": "0ccf90eb09d6"
+ },
+ {
+  "id": 379,
+  "where": "army_screen/backpack",
+  "cells": [
+   "258:3"
+  ],
+  "uk": "Сюди кладуть артефакти, яких герой не носить. Зайві артефакти потрапляють сюди автоматично.",
+  "key": "4a4ca7793cc2"
+ },
+ {
+  "id": 380,
+  "where": "army_screen/backpack_scroll",
+  "cells": [
+   "259:2"
+  ],
+  "uk": "Гортати наплічник",
+  "key": "0a53fc399109"
+ },
+ {
+  "id": 381,
+  "where": "army_screen/backpack_scroll",
+  "cells": [
+   "259:3"
+  ],
+  "uk": "Дає змогу переглянути всі артефакти в наплічнику.",
+  "key": "a38e2c8a3a1a"
+ },
+ {
+  "id": 382,
+  "where": "army_screen/tight",
+  "cells": [
+   "261:2"
+  ],
+  "uk": "Щільний стрій",
+  "key": "cb76aa176835"
+ },
+ {
+  "id": 383,
+  "where": "army_screen/tight",
+  "cells": [
+   "261:3"
+  ],
+  "uk": "У щільному строю ваше військо починає бій зімкнутими лавами. Щільний стрій захищає задні ряди від ворожих атак, але вразливий до заклять, що б'ють по площі, як-от «Вогняна куля».",
+  "key": "a7a063575988"
+ },
+ {
+  "id": 384,
+  "where": "army_screen/spread",
+  "cells": [
+   "262:2"
+  ],
+  "uk": "Розсипний стрій",
+  "key": "730d8cb88c8f"
+ },
+ {
+  "id": 385,
+  "where": "army_screen/spread",
+  "cells": [
+   "262:3"
+  ],
+  "uk": "У розсипному строю ваше військо починає бій на відстані одне від одного. Закляття, що б'ють по площі, навряд чи зачеплять більше одного-двох загонів, але задні ряди погано захищені від атак.",
+  "key": "4f11c6ba52e7"
+ },
+ {
+  "id": 386,
+  "where": "army_screen/square",
+  "cells": [
+   "263:2"
+  ],
+  "uk": "Каре",
+  "key": "fc84271203eb"
+ },
+ {
+  "id": 387,
+  "where": "army_screen/square",
+  "cells": [
+   "263:3"
+  ],
+  "uk": "У каре ваше військо стоїть ще щільніше, ніж у щільному строю, оточуючи й захищаючи один загін посередині. Як і щільний стрій, вразливе до заклять, що б'ють по площі, як-от «Вогняна куля».",
+  "key": "782ab436febb"
+ },
+ {
+  "id": 388,
+  "where": "army_screen/dismiss",
+  "cells": [
+   "264:2"
+  ],
+  "uk": "Розпустити",
+  "key": "70afe9eff3f2"
+ },
+ {
+  "id": 389,
+  "where": "army_screen/dismiss",
+  "cells": [
+   "264:3"
+  ],
+  "uk": "Назавжди прибирає вибраний загін із вашого війська.",
+  "key": "99d9befc7c64"
+ },
+ {
+  "id": 390,
+  "where": "army_screen/quest_log",
+  "cells": [
+   "265:3"
+  ],
+  "uk": "Запис усіх ваших завдань.",
+  "key": "e8f50ee0c063"
+ },
+ {
+  "id": 391,
+  "where": "army_screen/head",
+  "cells": [
+   "266:2",
+   "491:2"
+  ],
+  "uk": "Голова",
+  "key": "e5ffd15be706"
+ },
+ {
+  "id": 392,
+  "where": "army_screen/head",
+  "cells": [
+   "266:3",
+   "491:3"
+  ],
+  "uk": "Сюди можна вдягнути шоломи, корони тощо.",
+  "key": "0ed08270c8ac"
+ },
+ {
+  "id": 393,
+  "where": "army_screen/neck",
+  "cells": [
+   "267:2",
+   "492:2"
+  ],
+  "uk": "Шия",
+  "key": "35a237daa11d"
+ },
+ {
+  "id": 394,
+  "where": "army_screen/neck",
+  "cells": [
+   "267:3",
+   "492:3"
+  ],
+  "uk": "Сюди можна вдягнути намиста, медалі тощо.",
+  "key": "0f83585106b1"
+ },
+ {
+  "id": 395,
+  "where": "army_screen/torso",
+  "cells": [
+   "268:2",
+   "493:2"
+  ],
+  "uk": "Тулуб",
+  "key": "0ca5e454100d"
+ },
+ {
+  "id": 396,
+  "where": "army_screen/torso",
+  "cells": [
+   "268:3",
+   "493:3"
+  ],
+  "uk": "Сюди можна вдягнути обладунки, нагрудники тощо.",
+  "key": "9079a566791a"
+ },
+ {
+  "id": 397,
+  "where": "army_screen/shoulders",
+  "cells": [
+   "269:2",
+   "494:2"
+  ],
+  "uk": "Плечі",
+  "key": "ba0717a2bc19"
+ },
+ {
+  "id": 398,
+  "where": "army_screen/shoulders",
+  "cells": [
+   "269:3",
+   "494:3"
+  ],
+  "uk": "Сюди можна вдягнути плащі тощо.",
+  "key": "ad3afdd042e0"
+ },
+ {
+  "id": 399,
+  "where": "army_screen/feet",
+  "cells": [
+   "270:2",
+   "495:2"
+  ],
+  "uk": "Ноги",
+  "key": "7037c84e3199"
+ },
+ {
+  "id": 400,
+  "where": "army_screen/feet",
+  "cells": [
+   "270:3",
+   "495:3"
+  ],
+  "uk": "Сюди можна вдягнути чоботи, сандалі тощо.",
+  "key": "e0531b9a4c01"
+ },
+ {
+  "id": 401,
+  "where": "army_screen/left_hand",
+  "cells": [
+   "271:2",
+   "496:2"
+  ],
+  "uk": "Ліва рука",
+  "key": "25cc1e3b577c"
+ },
+ {
+  "id": 402,
+  "where": "army_screen/left_hand",
+  "cells": [
+   "271:3"
+  ],
+  "uk": "Сюди можна взяти щити тощо. Деякі артефакти, як-от дворучний меч, потребують обох рук і займають і цю комірку.",
+  "key": "3a5e364621e0"
+ },
+ {
+  "id": 403,
+  "where": "army_screen/right_hand",
+  "cells": [
+   "272:2",
+   "497:2"
+  ],
+  "uk": "Права рука",
+  "key": "e4166bfca5dc"
+ },
+ {
+  "id": 404,
+  "where": "army_screen/right_hand",
+  "cells": [
+   "272:3"
+  ],
+  "uk": "Сюди можна взяти мечі, жезли тощо. Деякі артефакти, як-от дворучний меч, потребують обох рук і займають і цю комірку.",
+  "key": "9e7c65125690"
+ },
+ {
+  "id": 405,
+  "where": "army_screen/bow",
+  "cells": [
+   "273:2",
+   "498:2"
+  ],
+  "uk": "Лук",
+  "key": "a17942232101"
+ },
+ {
+  "id": 406,
+  "where": "army_screen/bow",
+  "cells": [
+   "273:3",
+   "498:3"
+  ],
+  "uk": "Сюди можна взяти луки, арбалети тощо.",
+  "key": "c2577a6c913a"
+ },
+ {
+  "id": 407,
+  "where": "army_screen/ring",
+  "cells": [
+   "274:2",
+   "499:2"
+  ],
+  "uk": "Перстень",
+  "key": "96ddaccf581f"
+ },
+ {
+  "id": 408,
+  "where": "army_screen/ring",
+  "cells": [
+   "274:3",
+   "499:3"
+  ],
+  "uk": "Сюди можна вдягнути персні.",
+  "key": "0f676d2b6767"
+ },
+ {
+  "id": 409,
+  "where": "army_screen/miscellaneous",
+  "cells": [
+   "275:2",
+   "500:2"
+  ],
+  "uk": "Різне",
+  "key": "5f2cbd107037"
+ },
+ {
+  "id": 410,
+  "where": "army_screen/miscellaneous",
+  "cells": [
+   "275:3",
+   "500:3"
+  ],
+  "uk": "У ці комірки можна покласти будь-який артефакт, що не пасує до інших.",
+  "key": "363400e9408f"
+ },
+ {
+  "id": 411,
+  "where": "army_screen/biography",
+  "cells": [
+   "276:2"
+  ],
+  "uk": "Біографія героя",
+  "key": "09bc07894ee6"
+ },
+ {
+  "id": 412,
+  "where": "army_screen/biography",
+  "cells": [
+   "276:3"
+  ],
+  "uk": "Коротко про вдачу й минуле героя.",
+  "key": "5c04c6aa96cc"
+ },
+ {
+  "id": 413,
+  "where": "army_screen/spellbook",
+  "cells": [
+   "277:2",
+   "319:2"
+  ],
+  "uk": "Книга заклять",
+  "key": "93818b3cead3"
+ },
+ {
+  "id": 414,
+  "where": "army_screen/spellbook",
+  "cells": [
+   "277:3"
+  ],
+  "uk": "Тут усі закляття загону. Звідси можна творити закляття і в бою, і на мапі пригод.",
+  "key": "6d3f05a48147"
+ },
+ {
+  "id": 415,
+  "where": "army_screen/hide_potions",
+  "cells": [
+   "278:2"
+  ],
+  "uk": "Зілля вниз",
+  "key": "7ef729ade8fb"
+ },
+ {
+  "id": 416,
+  "where": "army_screen/hide_potions",
+  "cells": [
+   "278:3"
+  ],
+  "uk": "Складати зілля в кінець наплічника.",
+  "key": "442034d0055e"
+ },
+ {
+  "id": 417,
+  "where": "army_screen/undo_hide_potions",
+  "cells": [
+   "279:2"
+  ],
+  "uk": "Зілля як було",
+  "key": "ef5f006178fd"
+ },
+ {
+  "id": 418,
+  "where": "army_screen/undo_hide_potions",
+  "cells": [
+   "279:3"
+  ],
+  "uk": "Зілля більше не складаються в кінець наплічника.",
+  "key": "ffd2a4acd622"
+ },
+ {
+  "id": 419,
+  "where": "army_screen/click_army_up",
+  "cells": [
+   "280:2"
+  ],
+  "uk": "Гортати війська вгору",
+  "key": "c8b21900ce6e"
+ },
+ {
+  "id": 420,
+  "where": "army_screen/click_army_up",
+  "cells": [
+   "280:3",
+   "281:3"
+  ],
+  "uk": "Гортає портрети всіх ваших військ.",
+  "key": "f4c7ef6e118e"
+ },
+ {
+  "id": 421,
+  "where": "army_screen/click_army_down",
+  "cells": [
+   "281:2"
+  ],
+  "uk": "Гортати війська вниз",
+  "key": "18dac196899e"
+ },
+ {
+  "id": 422,
+  "where": "army_screen/move_army_up",
+  "cells": [
+   "282:2"
+  ],
+  "uk": "Військо вгору",
+  "key": "94ad038d77cd"
+ },
+ {
+  "id": 423,
+  "where": "army_screen/move_army_up",
+  "cells": [
+   "282:3"
+  ],
+  "uk": "Переміщує всі загони з нижніх комірок у верхні.",
+  "key": "c7c1757062b4"
+ },
+ {
+  "id": 424,
+  "where": "army_screen/move_army_down",
+  "cells": [
+   "283:2"
+  ],
+  "uk": "Військо вниз",
+  "key": "e897a97f7fad"
+ },
+ {
+  "id": 425,
+  "where": "army_screen/move_army_down",
+  "cells": [
+   "283:3"
+  ],
+  "uk": "Переміщує всі загони з верхніх комірок у нижні.",
+  "key": "a63904aa6093"
+ },
+ {
+  "id": 426,
+  "where": "army_screen/ok",
+  "cells": [
+   "284:3"
+  ],
+  "uk": "Закриває екран війська.",
+  "key": "5020a891c94a"
+ },
+ {
+  "id": 427,
+  "where": "creature_purchase/hire_all",
+  "cells": [
+   "287:2"
+  ],
+  "uk": "Найняти всіх",
+  "key": "64908778467a"
+ },
+ {
+  "id": 428,
+  "where": "creature_purchase/hire_all",
+  "cells": [
+   "287:3"
+  ],
+  "uk": "Купити всіх доступних в оселі істот, якщо вистачає ресурсів.",
+  "key": "09b2ba184c0a"
+ },
+ {
+  "id": 429,
+  "where": "creature_purchase/available",
+  "cells": [
+   "288:2"
+  ],
+  "uk": "Доступно",
+  "key": "7c62a1424469"
+ },
+ {
+  "id": 430,
+  "where": "creature_purchase/available",
+  "cells": [
+   "288:3"
+  ],
+  "uk": "Скільки істот можна купити.",
+  "key": "bec640a6cd68"
+ },
+ {
+  "id": 431,
+  "where": "creature_purchase/recruit",
+  "cells": [
+   "289:2"
+  ],
+  "uk": "Найнято",
+  "key": "27c43c5d63b4"
+ },
+ {
+  "id": 432,
+  "where": "creature_purchase/recruit",
+  "cells": [
+   "289:3"
+  ],
+  "uk": "Скільки істот ви вже найняли.",
+  "key": "a9865ecb2480"
+ },
+ {
+  "id": 433,
+  "where": "creature_purchase/total_cost",
+  "cells": [
+   "290:2"
+  ],
+  "uk": "Загальна вартість",
+  "key": "b5d8da40f3ed"
+ },
+ {
+  "id": 434,
+  "where": "creature_purchase/total_cost",
+  "cells": [
+   "290:3"
+  ],
+  "uk": "Загальна вартість істот, яких ви купуєте (%material).",
+  "key": "2ec4db24544c"
+ },
+ {
+  "id": 435,
+  "where": "creature_purchase/unit_cost",
+  "cells": [
+   "291:2"
+  ],
+  "uk": "Ціна",
+  "key": "64ae43e8fe76"
+ },
+ {
+  "id": 436,
+  "where": "creature_purchase/unit_cost",
+  "cells": [
+   "291:3"
+  ],
+  "uk": "Ціна однієї істоти вибраного виду (%material).",
+  "key": "9ff312fc8b45"
+ },
+ {
+  "id": 437,
+  "where": "creature_purchase/pay",
+  "cells": [
+   "292:2"
+  ],
+  "uk": "Найняти",
+  "key": "d0fc26de0286"
+ },
+ {
+  "id": 438,
+  "where": "creature_purchase/pay",
+  "cells": [
+   "292:3"
+  ],
+  "uk": "Завершує угоду.",
+  "key": "c47b85111757"
+ },
+ {
+  "id": 439,
+  "where": "creature_purchase/cancel",
+  "cells": [
+   "293:3"
+  ],
+  "uk": "Скасовує угоду.",
+  "key": "af63bebab85e"
+ },
+ {
+  "id": 440,
+  "where": "kingdom_overview/mini_mini_map",
+  "cells": [
+   "296:3"
+  ],
+  "uk": "Зменшена мінімапа, на якій можна приблизно визначити, де стоїть певна споруда.",
+  "key": "b7d7c173617a"
+ },
+ {
+  "id": 441,
+  "where": "kingdom_overview/army_list",
+  "cells": [
+   "297:3"
+  ],
+  "uk": "Перемикає огляд королівства на список ваших військ.",
+  "key": "573ea2878152"
+ },
+ {
+  "id": 442,
+  "where": "kingdom_overview/hero_list",
+  "cells": [
+   "298:2"
+  ],
+  "uk": "Список героїв",
+  "key": "43e22382a7fc"
+ },
+ {
+  "id": 443,
+  "where": "kingdom_overview/hero_list",
+  "cells": [
+   "298:3"
+  ],
+  "uk": "Перемикає огляд королівства на список ваших героїв.",
+  "key": "9629635a4b1b"
+ },
+ {
+  "id": 444,
+  "where": "kingdom_overview/town_list",
+  "cells": [
+   "299:3"
+  ],
+  "uk": "Перемикає огляд королівства на список ваших міст. Звідси доступні каравани.",
+  "key": "c60382e89a92"
+ },
+ {
+  "id": 445,
+  "where": "kingdom_overview/creature_dwelling_list",
+  "cells": [
+   "300:2"
+  ],
+  "uk": "Список осель",
+  "key": "cb4821f96e60"
+ },
+ {
+  "id": 446,
+  "where": "kingdom_overview/creature_dwelling_list",
+  "cells": [
+   "300:3"
+  ],
+  "uk": "Перемикає огляд королівства на список осель істот. Звідси доступні каравани.",
+  "key": "712baefb1a78"
+ },
+ {
+  "id": 447,
+  "where": "kingdom_overview/speed",
+  "cells": [
+   "303:3",
+   "390:3"
+  ],
+  "uk": "Як швидко загін діє в бою. Загони з більшою швидкістю ходять раніше за повільніші. Проте ті, що чекають, діють у зворотному порядку: швидкий загін, що чекає, ходить після всіх повільніших, що теж чекають.",
+  "key": "2ab6d8352a14"
+ },
+ {
+  "id": 448,
+  "where": "kingdom_overview/movement",
+  "cells": [
+   "304:3",
+   "391:3"
+  ],
+  "uk": "Як далеко загін може пересунутися мапою пригод.",
+  "key": "d6e48939fe24"
+ },
+ {
+  "id": 449,
+  "where": "kingdom_overview/luck",
+  "cells": [
+   "305:3"
+  ],
+  "uk": "Загін із доброю удачею отримує в бою менше шкоди. Із поганою — більше.",
+  "key": "fe0a06cced0e"
+ },
+ {
+  "id": 450,
+  "where": "kingdom_overview/spell_points",
+  "cells": [
+   "307:3",
+   "392:3"
+  ],
+  "uk": "Запас магічної снаги загону. Кожне закляття потребує очок магії, тобто мани. Істоти відновлюють усі очки магії після кожного бою. Герої щодня відновлюють певну кількість очок магії залежно від своїх навичок.",
+  "key": "9fdee838ab7c"
+ },
+ {
+  "id": 451,
+  "where": "kingdom_overview/close",
+  "cells": [
+   "309:2",
+   "320:2",
+   "671:2"
+  ],
+  "uk": "Закрити",
+  "key": "bbfa773e5a63"
+ },
+ {
+  "id": 452,
+  "where": "kingdom_overview/close",
+  "cells": [
+   "309:3",
+   "316:3",
+   "394:3",
+   "440:3"
+  ],
+  "uk": "Повертає на попередній екран.",
+  "key": "2d43112a59d6"
+ },
+ {
+  "id": 453,
+  "where": "scenario_information/map_difficulty",
+  "cells": [
+   "313:3"
+  ],
+  "uk": "Складність мапи: %difficulty",
+  "key": "aa42ddc9ad80"
+ },
+ {
+  "id": 454,
+  "where": "scenario_information/player_difficulty",
+  "cells": [
+   "314:3"
+  ],
+  "uk": "Складність гравця: %difficulty",
+  "key": "a5408800bfca"
+ },
+ {
+  "id": 455,
+  "where": "scenario_information/team_id",
+  "cells": [
+   "315:2",
+   "553:2",
+   "775:2"
+  ],
+  "uk": "Номер команди",
+  "key": "dc2d619ac90a"
+ },
+ {
+  "id": 456,
+  "where": "scenario_information/team_id",
+  "cells": [
+   "315:3"
+  ],
+  "uk": "Номер команди.",
+  "key": "4965d65ddffd"
+ },
+ {
+  "id": 457,
+  "where": "mage_guild/spellbook",
+  "cells": [
+   "319:3"
+  ],
+  "uk": "Закляття, доступні зараз.",
+  "key": "d036f22c8b2e"
+ },
+ {
+  "id": 458,
+  "where": "mage_guild/back_to_index",
+  "cells": [
+   "321:2"
+  ],
+  "uk": "До змісту заклять",
+  "key": "fdf902d833ff"
+ },
+ {
+  "id": 459,
+  "where": "mage_guild/back_to_index",
+  "cells": [
+   "321:3"
+  ],
+  "uk": "Повертає до змісту заклять.",
+  "key": "26a1e239efbf"
+ },
+ {
+  "id": 460,
+  "where": "spellbook/life",
+  "cells": [
+   "324:2",
+   "662:2",
+   "681:2"
+  ],
+  "uk": "Закляття Життя",
+  "key": "71d7c3048da0"
+ },
+ {
+  "id": 461,
+  "where": "spellbook/life",
+  "cells": [
+   "324:3"
+  ],
+  "uk": "Тут показано всі закляття магії Життя, відомі вибраному загону.",
+  "key": "1c98697a8561"
+ },
+ {
+  "id": 462,
+  "where": "spellbook/death",
+  "cells": [
+   "325:2",
+   "664:2",
+   "683:2"
+  ],
+  "uk": "Закляття Смерті",
+  "key": "061f46bc7f20"
+ },
+ {
+  "id": 463,
+  "where": "spellbook/death",
+  "cells": [
+   "325:3"
+  ],
+  "uk": "Тут показано всі закляття магії Смерті, відомі вибраному загону.",
+  "key": "a3dfb2059796"
+ },
+ {
+  "id": 464,
+  "where": "spellbook/order",
+  "cells": [
+   "326:2",
+   "663:2",
+   "682:2"
+  ],
+  "uk": "Закляття Порядку",
+  "key": "5aff64881dc8"
+ },
+ {
+  "id": 465,
+  "where": "spellbook/order",
+  "cells": [
+   "326:3"
+  ],
+  "uk": "Тут показано всі закляття магії Порядку, відомі вибраному загону.",
+  "key": "7ba51eb72ea5"
+ },
+ {
+  "id": 466,
+  "where": "spellbook/chaos",
+  "cells": [
+   "327:2",
+   "665:2",
+   "684:2"
+  ],
+  "uk": "Закляття Хаосу",
+  "key": "1907306dc265"
+ },
+ {
+  "id": 467,
+  "where": "spellbook/chaos",
+  "cells": [
+   "327:3"
+  ],
+  "uk": "Тут показано всі закляття магії Хаосу, відомі вибраному загону.",
+  "key": "ee31ca1f5c04"
+ },
+ {
+  "id": 468,
+  "where": "spellbook/nature",
+  "cells": [
+   "328:2",
+   "666:2",
+   "685:2"
+  ],
+  "uk": "Закляття Природи",
+  "key": "823d5b78709d"
+ },
+ {
+  "id": 469,
+  "where": "spellbook/nature",
+  "cells": [
+   "328:3"
+  ],
+  "uk": "Тут показано всі закляття магії Природи, відомі вибраному загону.",
+  "key": "6f8fc60046f6"
+ },
+ {
+  "id": 470,
+  "where": "spellbook/all",
+  "cells": [
+   "329:2",
+   "668:2",
+   "687:2"
+  ],
+  "uk": "Усі закляття",
+  "key": "c791a216d5ec"
+ },
+ {
+  "id": 471,
+  "where": "spellbook/all",
+  "cells": [
+   "329:3"
+  ],
+  "uk": "Показує всі закляття, відомі вибраному загону.",
+  "key": "b905238723a1"
+ },
+ {
+  "id": 472,
+  "where": "spellbook/combat",
+  "cells": [
+   "330:2",
+   "670:2"
+  ],
+  "uk": "Бойові закляття",
+  "key": "b13e8d092cf2"
+ },
+ {
+  "id": 473,
+  "where": "spellbook/combat",
+  "cells": [
+   "330:3"
+  ],
+  "uk": "Показує всі бойові закляття, відомі вибраному загону.",
+  "key": "3be75fec743d"
+ },
+ {
+  "id": 474,
+  "where": "spellbook/adventure",
+  "cells": [
+   "331:2",
+   "669:2",
+   "688:2"
+  ],
+  "uk": "Закляття пригод",
+  "key": "e0369435aefc"
+ },
+ {
+  "id": 475,
+  "where": "spellbook/adventure",
+  "cells": [
+   "331:3"
+  ],
+  "uk": "Показує всі закляття пригод, відомі вибраному загону.",
+  "key": "a580a306f108"
+ },
+ {
+  "id": 476,
+  "where": "spellbook/spell_points",
+  "cells": [
+   "332:3"
+  ],
+  "uk": "Запас магії загону. Перше число — поточні очки магії, друге — найбільша їх кількість.",
+  "key": "2d0a4b8e5265"
+ },
+ {
+  "id": 477,
+  "where": "spellbook/items",
+  "cells": [
+   "333:2",
+   "402:2",
+   "650:2",
+   "667:2",
+   "686:2"
+  ],
+  "uk": "Артефакти",
+  "key": "a5b79f5961a2"
+ },
+ {
+  "id": 478,
+  "where": "spellbook/items",
+  "cells": [
+   "333:3",
+   "667:3"
+  ],
+  "uk": "Показує всі артефакти (наприклад, зілля) з магічною дією. Щоб ними користуватися, героєві не потрібні жодні магічні навички.",
+  "key": "f8ee8fe80801"
+ },
+ {
+  "id": 479,
+  "where": "marketplace/sell",
+  "cells": [
+   "336:2"
+  ],
+  "uk": "Продаж",
+  "key": "94c5371e48ca"
+ },
+ {
+  "id": 480,
+  "where": "marketplace/sell",
+  "cells": [
+   "336:3"
+  ],
+  "uk": "Скільки ресурсу ви хочете продати.",
+  "key": "49cbf335c76d"
+ },
+ {
+  "id": 481,
+  "where": "marketplace/buy",
+  "cells": [
+   "337:2"
+  ],
+  "uk": "Купівля",
+  "key": "0ece2a8d19ec"
+ },
+ {
+  "id": 482,
+  "where": "marketplace/buy",
+  "cells": [
+   "337:3"
+  ],
+  "uk": "Скільки ресурсу ви хочете купити.",
+  "key": "e0f171a8bc1e"
+ },
+ {
+  "id": 483,
+  "where": "marketplace/gold",
+  "cells": [
+   "338:3",
+   "417:3",
+   "432:3",
+   "456:3"
+  ],
+  "uk": "Скільки золота у вашому королівстві.",
+  "key": "b25a02eca31e"
+ },
+ {
+  "id": 484,
+  "where": "marketplace/wood",
+  "cells": [
+   "339:3",
+   "418:3",
+   "433:3",
+   "457:3"
+  ],
+  "uk": "Скільки деревини у вашому королівстві.",
+  "key": "046b37a662bd"
+ },
+ {
+  "id": 485,
+  "where": "marketplace/ore",
+  "cells": [
+   "340:3",
+   "419:3",
+   "434:3",
+   "458:3"
+  ],
+  "uk": "Скільки руди у вашому королівстві.",
+  "key": "65ab6d67c147"
+ },
+ {
+  "id": 486,
+  "where": "marketplace/crystal",
+  "cells": [
+   "341:3",
+   "420:3",
+   "435:3",
+   "459:3"
+  ],
+  "uk": "Скільки кристалів у вашому королівстві.",
+  "key": "d0536dbf321c"
+ },
+ {
+  "id": 487,
+  "where": "marketplace/sulfur",
+  "cells": [
+   "342:3",
+   "421:3",
+   "436:3",
+   "460:3"
+  ],
+  "uk": "Скільки сірки у вашому королівстві.",
+  "key": "8eb22ed9955c"
+ },
+ {
+  "id": 488,
+  "where": "marketplace/mercury",
+  "cells": [
+   "343:3",
+   "422:3",
+   "437:3",
+   "461:3"
+  ],
+  "uk": "Скільки ртуті у вашому королівстві.",
+  "key": "7f9d54cb2ea0"
+ },
+ {
+  "id": 489,
+  "where": "marketplace/gems",
+  "cells": [
+   "344:3",
+   "423:3",
+   "438:3",
+   "462:3"
+  ],
+  "uk": "Скільки самоцвітів у вашому королівстві.",
+  "key": "fe3de093c024"
+ },
+ {
+  "id": 490,
+  "where": "marketplace/available_gold",
+  "cells": [
+   "345:2"
+  ],
+  "uk": "Золото для обміну",
+  "key": "75a60c261eae"
+ },
+ {
+  "id": 491,
+  "where": "marketplace/available_gold",
+  "cells": [
+   "345:3"
+  ],
+  "uk": "Скільки золота можна отримати в обмін.",
+  "key": "fcb049828315"
+ },
+ {
+  "id": 492,
+  "where": "marketplace/available_wood",
+  "cells": [
+   "346:2"
+  ],
+  "uk": "Деревина для обміну",
+  "key": "cedf130bbcba"
+ },
+ {
+  "id": 493,
+  "where": "marketplace/available_wood",
+  "cells": [
+   "346:3"
+  ],
+  "uk": "Скільки деревини можна отримати в обмін.",
+  "key": "565173a46dd1"
+ },
+ {
+  "id": 494,
+  "where": "marketplace/available_ore",
+  "cells": [
+   "347:2"
+  ],
+  "uk": "Руда для обміну",
+  "key": "5436818b32c6"
+ },
+ {
+  "id": 495,
+  "where": "marketplace/available_ore",
+  "cells": [
+   "347:3"
+  ],
+  "uk": "Скільки руди можна отримати в обмін.",
+  "key": "bdb389758e6f"
+ },
+ {
+  "id": 496,
+  "where": "marketplace/available_crystal",
+  "cells": [
+   "348:2"
+  ],
+  "uk": "Кристали для обміну",
+  "key": "0a5b31b039d4"
+ },
+ {
+  "id": 497,
+  "where": "marketplace/available_crystal",
+  "cells": [
+   "348:3"
+  ],
+  "uk": "Скільки кристалів можна отримати в обмін.",
+  "key": "994f5c7089a8"
+ },
+ {
+  "id": 498,
+  "where": "marketplace/available_sulfur",
+  "cells": [
+   "349:2"
+  ],
+  "uk": "Сірка для обміну",
+  "key": "ccaadaf6582a"
+ },
+ {
+  "id": 499,
+  "where": "marketplace/available_sulfur",
+  "cells": [
+   "349:3"
+  ],
+  "uk": "Скільки сірки можна отримати в обмін.",
+  "key": "ed60f2113291"
+ },
+ {
+  "id": 500,
+  "where": "marketplace/available_mercury",
+  "cells": [
+   "350:2"
+  ],
+  "uk": "Ртуть для обміну",
+  "key": "8a944e9ee224"
+ },
+ {
+  "id": 501,
+  "where": "marketplace/available_mercury",
+  "cells": [
+   "350:3"
+  ],
+  "uk": "Скільки ртуті можна отримати в обмін.",
+  "key": "92c89af75bf0"
+ },
+ {
+  "id": 502,
+  "where": "marketplace/available_gems",
+  "cells": [
+   "351:2"
+  ],
+  "uk": "Самоцвіти для обміну",
+  "key": "0f9a5f9f3d80"
+ },
+ {
+  "id": 503,
+  "where": "marketplace/available_gems",
+  "cells": [
+   "351:3"
+  ],
+  "uk": "Скільки самоцвітів можна отримати в обмін.",
+  "key": "a4c7e2b3fc3e"
+ },
+ {
+  "id": 504,
+  "where": "marketplace/maximum",
+  "cells": [
+   "352:2"
+  ],
+  "uk": "Обміняти все",
+  "key": "a441b3dfba6e"
+ },
+ {
+  "id": 505,
+  "where": "marketplace/maximum",
+  "cells": [
+   "352:3"
+  ],
+  "uk": "Вибирає весь доступний ресурс для обміну на інший ресурс на ваш вибір.",
+  "key": "c057f19f7de9"
+ },
+ {
+  "id": 506,
+  "where": "marketplace/purchase",
+  "cells": [
+   "353:3"
+  ],
+  "uk": "Завершує угоду.",
+  "key": "eeb43b494eba"
+ },
+ {
+  "id": 507,
+  "where": "marketplace/trade",
+  "cells": [
+   "354:2"
+  ],
+  "uk": "Екран торгівлі",
+  "key": "a950205ffac3"
+ },
+ {
+  "id": 508,
+  "where": "marketplace/trade",
+  "cells": [
+   "354:3"
+  ],
+  "uk": "Відкриває екран торгівлі.",
+  "key": "e0f27bee4fbf"
+ },
+ {
+  "id": 509,
+  "where": "marketplace/ok",
+  "cells": [
+   "355:2",
+   "358:2",
+   "376:2",
+   "381:2",
+   "394:2",
+   "408:2",
+   "424:2",
+   "426:2",
+   "440:2",
+   "488:2",
+   "504:2",
+   "511:2",
+   "642:2"
+  ],
+  "uk": "Вийти",
+  "key": "f83b6fe3aebf"
+ },
+ {
+  "id": 510,
+  "where": "marketplace/ok",
+  "cells": [
+   "355:3"
+  ],
+  "uk": "Виходить із ринку й повертає на мапу пригод.",
+  "key": "aae49ec75418"
+ },
+ {
+  "id": 511,
+  "where": "prison/ok",
+  "cells": [
+   "358:3"
+  ],
+  "uk": "Вийти з в'язниці",
+  "key": "52328b6bca07"
+ },
+ {
+  "id": 512,
+  "where": "prison/transfer",
+  "cells": [
+   "359:2"
+  ],
+  "uk": "Перевести в'язня",
+  "key": "aec084489df5"
+ },
+ {
+  "id": 513,
+  "where": "prison/transfer",
+  "cells": [
+   "359:3"
+  ],
+  "uk": "Переводить в'язня з одного міста до іншого.",
+  "key": "63af825a54d4"
+ },
+ {
+  "id": 514,
+  "where": "prison/free",
+  "cells": [
+   "360:2"
+  ],
+  "uk": "Звільнити",
+  "key": "9d81d6211fd5"
+ },
+ {
+  "id": 515,
+  "where": "prison/free",
+  "cells": [
+   "360:3"
+  ],
+  "uk": "Відпускає в'язня на волю.",
+  "key": "040e373518d2"
+ },
+ {
+  "id": 516,
+  "where": "prison/unhappy_hero",
+  "cells": [
+   "361:2"
+  ],
+  "uk": "Нещасний герой",
+  "key": "5145792a33ee"
+ },
+ {
+  "id": 517,
+  "where": "prison/unhappy_hero",
+  "cells": [
+   "361:3"
+  ],
+  "uk": "Цей жалюгідний герой дуже нещасний, бо сидить у вашій темній, сирій, мерзенній в'язниці. Він їсть черствий хліб, п'є теплу воду й не має жодних розваг.",
+  "key": "8e9b55418623"
+ },
+ {
+  "id": 518,
+  "where": "puzzle_map/gold",
+  "cells": [
+   "364:2"
+  ],
+  "uk": "Золотий оракул",
+  "key": "fe2a5e38a22a"
+ },
+ {
+  "id": 519,
+  "where": "puzzle_map/gold",
+  "cells": [
+   "364:3"
+  ],
+  "uk": "Показує мапу-головоломку Золотого оракула.",
+  "key": "1ea031b3f35d"
+ },
+ {
+  "id": 520,
+  "where": "puzzle_map/red",
+  "cells": [
+   "365:2"
+  ],
+  "uk": "Червоний оракул",
+  "key": "0d84323490bc"
+ },
+ {
+  "id": 521,
+  "where": "puzzle_map/red",
+  "cells": [
+   "365:3"
+  ],
+  "uk": "Показує мапу-головоломку Червоного оракула.",
+  "key": "18f9a9f1066c"
+ },
+ {
+  "id": 522,
+  "where": "puzzle_map/blue",
+  "cells": [
+   "366:2"
+  ],
+  "uk": "Синій оракул",
+  "key": "08e064424ffd"
+ },
+ {
+  "id": 523,
+  "where": "puzzle_map/blue",
+  "cells": [
+   "366:3"
+  ],
+  "uk": "Показує мапу-головоломку Синього оракула.",
+  "key": "2d7519827488"
+ },
+ {
+  "id": 524,
+  "where": "puzzle_map/white",
+  "cells": [
+   "367:2"
+  ],
+  "uk": "Білий оракул",
+  "key": "42e38e7a9c41"
+ },
+ {
+  "id": 525,
+  "where": "puzzle_map/white",
+  "cells": [
+   "367:3"
+  ],
+  "uk": "Показує мапу-головоломку Білого оракула.",
+  "key": "ccaaa42e1f5b"
+ },
+ {
+  "id": 526,
+  "where": "puzzle_map/black",
+  "cells": [
+   "368:2"
+  ],
+  "uk": "Чорний оракул",
+  "key": "21835ca050f9"
+ },
+ {
+  "id": 527,
+  "where": "puzzle_map/black",
+  "cells": [
+   "368:3"
+  ],
+  "uk": "Показує мапу-головоломку Чорного оракула.",
+  "key": "a51f227529f3"
+ },
+ {
+  "id": 528,
+  "where": "puzzle_map/green",
+  "cells": [
+   "369:2"
+  ],
+  "uk": "Зелений оракул",
+  "key": "5d17262fc4be"
+ },
+ {
+  "id": 529,
+  "where": "puzzle_map/green",
+  "cells": [
+   "369:3"
+  ],
+  "uk": "Показує мапу-головоломку Зеленого оракула.",
+  "key": "89c1a06a2451"
+ },
+ {
+  "id": 530,
+  "where": "puzzle_map/silver",
+  "cells": [
+   "370:2"
+  ],
+  "uk": "Срібний оракул",
+  "key": "b07d73f56a84"
+ },
+ {
+  "id": 531,
+  "where": "puzzle_map/silver",
+  "cells": [
+   "370:3"
+  ],
+  "uk": "Показує мапу-головоломку Срібного оракула.",
+  "key": "1c4e60af5049"
+ },
+ {
+  "id": 532,
+  "where": "puzzle_map/bronze",
+  "cells": [
+   "371:2"
+  ],
+  "uk": "Бронзовий оракул",
+  "key": "60566b55e08f"
+ },
+ {
+  "id": 533,
+  "where": "puzzle_map/bronze",
+  "cells": [
+   "371:3"
+  ],
+  "uk": "Показує мапу-головоломку Бронзового оракула.",
+  "key": "bcd15d44f9f9"
+ },
+ {
+  "id": 534,
+  "where": "puzzle_map/purple",
+  "cells": [
+   "372:2"
+  ],
+  "uk": "Пурпуровий оракул",
+  "key": "76e0d1d987f9"
+ },
+ {
+  "id": 535,
+  "where": "puzzle_map/purple",
+  "cells": [
+   "372:3"
+  ],
+  "uk": "Показує мапу-головоломку Пурпурового оракула.",
+  "key": "b2a840547033"
+ },
+ {
+  "id": 536,
+  "where": "puzzle_map/yellow",
+  "cells": [
+   "373:2"
+  ],
+  "uk": "Жовтий оракул",
+  "key": "13c146869bdc"
+ },
+ {
+  "id": 537,
+  "where": "puzzle_map/yellow",
+  "cells": [
+   "373:3"
+  ],
+  "uk": "Показує мапу-головоломку Жовтого оракула.",
+  "key": "9fc8c3be6021"
+ },
+ {
+  "id": 538,
+  "where": "puzzle_map/orange",
+  "cells": [
+   "374:2"
+  ],
+  "uk": "Помаранчевий оракул",
+  "key": "66e512823be0"
+ },
+ {
+  "id": 539,
+  "where": "puzzle_map/orange",
+  "cells": [
+   "374:3"
+  ],
+  "uk": "Показує мапу-головоломку Помаранчевого оракула.",
+  "key": "a3a1fdbe98ae"
+ },
+ {
+  "id": 540,
+  "where": "puzzle_map/brown",
+  "cells": [
+   "375:2"
+  ],
+  "uk": "Брунатний оракул",
+  "key": "1f6699896645"
+ },
+ {
+  "id": 541,
+  "where": "puzzle_map/brown",
+  "cells": [
+   "375:3"
+  ],
+  "uk": "Показує мапу-головоломку Брунатного оракула.",
+  "key": "80b49f2972c9"
+ },
+ {
+  "id": 542,
+  "where": "puzzle_map/progress",
+  "cells": [
+   "377:3"
+  ],
+  "uk": "Ви відвідали %s з %s оракулів; лишилося ще %s, щоб знайти: %s.",
+  "key": "d1041246bd73"
+ },
+ {
+  "id": 543,
+  "where": "puzzle_map/empty",
+  "cells": [
+   "378:3"
+  ],
+  "uk": "У цьому краї немає оракулів.",
+  "key": "34f26be9f091"
+ },
+ {
+  "id": 544,
+  "where": "tavern/name",
+  "cells": [
+   "384:2",
+   "449:2"
+  ],
+  "uk": "Ім'я героя",
+  "key": "27f7a9ff3d84"
+ },
+ {
+  "id": 545,
+  "where": "tavern/name",
+  "cells": [
+   "384:3"
+  ],
+  "uk": "Ім'я героя.",
+  "key": "002a752dcebb"
+ },
+ {
+  "id": 546,
+  "where": "tavern/biography",
+  "cells": [
+   "385:2"
+  ],
+  "uk": "Біографія героя",
+  "key": "f345de16aaef"
+ },
+ {
+  "id": 547,
+  "where": "tavern/biography",
+  "cells": [
+   "385:3"
+  ],
+  "uk": "Коротко про минуле героя.",
+  "key": "4f20e8be6a23"
+ },
+ {
+  "id": 548,
+  "where": "tavern/portrait",
+  "cells": [
+   "386:2"
+  ],
+  "uk": "Портрет героя",
+  "key": "40b32937fbeb"
+ },
+ {
+  "id": 549,
+  "where": "tavern/portrait",
+  "cells": [
+   "386:3"
+  ],
+  "uk": "Портрет героя.",
+  "key": "73256122bf1f"
+ },
+ {
+  "id": 550,
+  "where": "tavern/gender",
+  "cells": [
+   "387:2"
+  ],
+  "uk": "Стать",
+  "key": "8a754c61c2ce"
+ },
+ {
+  "id": 551,
+  "where": "tavern/gender",
+  "cells": [
+   "387:3"
+  ],
+  "uk": "Стать героя.",
+  "key": "95b9f7e10839"
+ },
+ {
+  "id": 552,
+  "where": "tavern/purchase",
+  "cells": [
+   "393:2"
+  ],
+  "uk": "Найняти героя",
+  "key": "95bf7747fa77"
+ },
+ {
+  "id": 553,
+  "where": "tavern/purchase",
+  "cells": [
+   "393:3"
+  ],
+  "uk": "Найняти вибраного героя.",
+  "key": "ef5456233554"
+ },
+ {
+  "id": 554,
+  "where": "thieves_guild/towns",
+  "cells": [
+   "397:3"
+  ],
+  "uk": "Рейтинг гравців за кількістю міст.",
+  "key": "55fb9798ebd6"
+ },
+ {
+  "id": 555,
+  "where": "thieves_guild/armies",
+  "cells": [
+   "398:2"
+  ],
+  "uk": "Війська",
+  "key": "bd57fb94c0ff"
+ },
+ {
+  "id": 556,
+  "where": "thieves_guild/armies",
+  "cells": [
+   "398:3"
+  ],
+  "uk": "Рейтинг гравців за кількістю військ.",
+  "key": "8c3eefac06f1"
+ },
+ {
+  "id": 557,
+  "where": "thieves_guild/gold",
+  "cells": [
+   "399:3"
+  ],
+  "uk": "Рейтинг гравців за кількістю золота.",
+  "key": "73581096cf5c"
+ },
+ {
+  "id": 558,
+  "where": "thieves_guild/wood_ore",
+  "cells": [
+   "400:2"
+  ],
+  "uk": "Деревина й руда",
+  "key": "1f10c09e3de0"
+ },
+ {
+  "id": 559,
+  "where": "thieves_guild/wood_ore",
+  "cells": [
+   "400:3"
+  ],
+  "uk": "Рейтинг гравців за кількістю деревини й руди.",
+  "key": "56975aee1d2b"
+ },
+ {
+  "id": 560,
+  "where": "thieves_guild/precious_resources",
+  "cells": [
+   "401:2"
+  ],
+  "uk": "Цінні ресурси",
+  "key": "bfdacc28d502"
+ },
+ {
+  "id": 561,
+  "where": "thieves_guild/precious_resources",
+  "cells": [
+   "401:3"
+  ],
+  "uk": "Рейтинг гравців за кількістю цінних ресурсів.",
+  "key": "4ec059b87873"
+ },
+ {
+  "id": 562,
+  "where": "thieves_guild/artifacts",
+  "cells": [
+   "402:3"
+  ],
+  "uk": "Рейтинг гравців за кількістю артефактів.",
+  "key": "2be22b74ba13"
+ },
+ {
+  "id": 563,
+  "where": "thieves_guild/army_strength",
+  "cells": [
+   "403:3"
+  ],
+  "uk": "Рейтинг гравців за силою військ.",
+  "key": "eb0bac9e9d98"
+ },
+ {
+  "id": 564,
+  "where": "thieves_guild/income",
+  "cells": [
+   "404:2"
+  ],
+  "uk": "Прибуток",
+  "key": "1c89b1f2aaab"
+ },
+ {
+  "id": 565,
+  "where": "thieves_guild/income",
+  "cells": [
+   "404:3"
+  ],
+  "uk": "Рейтинг гравців за загальним прибутком.",
+  "key": "4b9611e2fe91"
+ },
+ {
+  "id": 566,
+  "where": "thieves_guild/best hero",
+  "cells": [
+   "405:2"
+  ],
+  "uk": "Найкращий герой",
+  "key": "53e3e4bdd40b"
+ },
+ {
+  "id": 567,
+  "where": "thieves_guild/best hero",
+  "cells": [
+   "405:3"
+  ],
+  "uk": "Показує найкращого героя кожного гравця.",
+  "key": "891b02206053"
+ },
+ {
+  "id": 568,
+  "where": "thieves_guild/best army",
+  "cells": [
+   "406:2"
+  ],
+  "uk": "Найкраще військо",
+  "key": "881e132553f2"
+ },
+ {
+  "id": 569,
+  "where": "thieves_guild/best army",
+  "cells": [
+   "406:3"
+  ],
+  "uk": "Показує найкраще військо кожного гравця.",
+  "key": "ad69f1a2e17d"
+ },
+ {
+  "id": 570,
+  "where": "thieves_guild/best creature",
+  "cells": [
+   "407:2"
+  ],
+  "uk": "Найкраща істота",
+  "key": "c6511c2cd6cc"
+ },
+ {
+  "id": 571,
+  "where": "thieves_guild/best creature",
+  "cells": [
+   "407:3"
+  ],
+  "uk": "Показує найкращу істоту кожного гравця.",
+  "key": "4dad64bd3f57"
+ },
+ {
+  "id": 572,
+  "where": "thieves_guild/ok",
+  "cells": [
+   "408:3",
+   "488:3",
+   "523:3"
+  ],
+  "uk": "Повертає на попередній екран.",
+  "key": "d37c20fb9887"
+ },
+ {
+  "id": 573,
+  "where": "town_hall/green_bar",
+  "cells": [
+   "411:2"
+  ],
+  "uk": "Можна збудувати",
+  "key": "80f1ca86d053"
+ },
+ {
+  "id": 574,
+  "where": "town_hall/green_bar",
+  "cells": [
+   "411:3"
+  ],
+  "uk": "У вас є потрібні ресурси, і всіх вимог дотримано, тож цю споруду можна збудувати вже зараз.",
+  "key": "bcf07797227c"
+ },
+ {
+  "id": 575,
+  "where": "town_hall/gold_bar",
+  "cells": [
+   "412:2"
+  ],
+  "uk": "Збудовано повністю",
+  "key": "c08ffa858399"
+ },
+ {
+  "id": 576,
+  "where": "town_hall/gold_bar",
+  "cells": [
+   "412:3"
+  ],
+  "uk": "Цю споруду збудовано до останнього ступеня.",
+  "key": "989188d65de7"
+ },
+ {
+  "id": 577,
+  "where": "town_hall/gray_bar",
+  "cells": [
+   "413:2"
+  ],
+  "uk": "Недоступно",
+  "key": "2c9c1f79142d"
+ },
+ {
+  "id": 578,
+  "where": "town_hall/gray_bar",
+  "cells": [
+   "413:3"
+  ],
+  "uk": "Ця споруда недоступна в цьому сценарії. У цьому місті її не можна збудувати.",
+  "key": "c4d3fa4f6d1a"
+ },
+ {
+  "id": 579,
+  "where": "town_hall/red_bar_x",
+  "cells": [
+   "414:2"
+  ],
+  "uk": "Зараз не можна",
+  "key": "efaee3e32857"
+ },
+ {
+  "id": 580,
+  "where": "town_hall/red_bar_x",
+  "cells": [
+   "414:3"
+  ],
+  "uk": "Цю споруду зараз не можна збудувати. Або ви вже будували сьогодні в цьому місті, або не вистачає ресурсів, або не виконано вимог до цієї споруди.",
+  "key": "6af0d1c0c8a6"
+ },
+ {
+  "id": 581,
+  "where": "town_hall/red_bar_$",
+  "cells": [
+   "415:2"
+  ],
+  "uk": "Бракує ресурсів",
+  "key": "9b45b0152979"
+ },
+ {
+  "id": 582,
+  "where": "town_hall/red_bar_$",
+  "cells": [
+   "415:3"
+  ],
+  "uk": "Вам бракує ресурсів, щоб звести цю споруду. Порівняйте вимоги до неї з ресурсами вашого королівства.",
+  "key": "d3d993830105"
+ },
+ {
+  "id": 583,
+  "where": "town_hall/red_bar_owner",
+  "cells": [
+   "416:2"
+  ],
+  "uk": "Не ваше місто",
+  "key": "84a6aa0cca04"
+ },
+ {
+  "id": 584,
+  "where": "town_hall/red_bar_owner",
+  "cells": [
+   "416:3"
+  ],
+  "uk": "Будувати можна лише у власних містах.",
+  "key": "a9ac8146a551"
+ },
+ {
+  "id": 585,
+  "where": "town_hall/buy",
+  "cells": [
+   "425:3"
+  ],
+  "uk": "Купити цю будівлю.",
+  "key": "f070d373e7e0"
+ },
+ {
+  "id": 586,
+  "where": "town_hall/cancel",
+  "cells": [
+   "426:3"
+  ],
+  "uk": "Вийти з цього екрана.",
+  "key": "2d5bae6fbdd5"
+ },
+ {
+  "id": 587,
+  "where": "town_screen/gold_income",
+  "cells": [
+   "429:2"
+  ],
+  "uk": "Прибуток золота",
+  "key": "0b759c9a3cfd"
+ },
+ {
+  "id": 588,
+  "where": "town_screen/gold_income",
+  "cells": [
+   "429:3"
+  ],
+  "uk": "Скільки золота місто дає за день.",
+  "key": "1dbb02891be7"
+ },
+ {
+  "id": 589,
+  "where": "town_screen/split",
+  "cells": [
+   "430:2"
+  ],
+  "uk": "Розділити",
+  "key": "3cf778299845"
+ },
+ {
+  "id": 590,
+  "where": "town_screen/split",
+  "cells": [
+   "430:3"
+  ],
+  "uk": "Дає змогу розділити одну комірку істот на дві групи.",
+  "key": "5c471bab44db"
+ },
+ {
+  "id": 591,
+  "where": "town_screen/town_menu",
+  "cells": [
+   "431:2",
+   "443:2"
+  ],
+  "uk": "Меню міста",
+  "key": "2103162023fd"
+ },
+ {
+  "id": 592,
+  "where": "town_screen/town_menu",
+  "cells": [
+   "431:3"
+  ],
+  "uk": "Короткий список усіх споруд, збудованих у цьому місті.",
+  "key": "bb8ce763d909"
+ },
+ {
+  "id": 593,
+  "where": "town_screen/time",
+  "cells": [
+   "439:2",
+   "645:2"
+  ],
+  "uk": "Час",
+  "key": "6c82e6dd8680"
+ },
+ {
+  "id": 594,
+  "where": "town_screen/time",
+  "cells": [
+   "439:3"
+  ],
+  "uk": "Показує день, тиждень і місяць поточної гри.",
+  "key": "ab90b8d50986"
+ },
+ {
+  "id": 595,
+  "where": "town_screen/stats_button",
+  "cells": [
+   "441:2"
+  ],
+  "uk": "Характеристики істот",
+  "key": "eca823a7b631"
+ },
+ {
+  "id": 596,
+  "where": "town_screen/stats_button",
+  "cells": [
+   "441:3"
+  ],
+  "uk": "Показати характеристики істот.",
+  "key": "9383c3d010eb"
+ },
+ {
+  "id": 597,
+  "where": "town_screen/skills_button",
+  "cells": [
+   "442:2"
+  ],
+  "uk": "Вміння істот",
+  "key": "0d7b5ab3fbfe"
+ },
+ {
+  "id": 598,
+  "where": "town_screen/skills_button",
+  "cells": [
+   "442:3"
+  ],
+  "uk": "Показати вміння істот.",
+  "key": "10e782b4957f"
+ },
+ {
+  "id": 599,
+  "where": "town_screen/main_menu",
+  "cells": [
+   "443:3"
+  ],
+  "uk": "Відкриває меню міста.",
+  "key": "ebde7f4127a2"
+ },
+ {
+  "id": 600,
+  "where": "town_screen/maximum",
+  "cells": [
+   "444:3"
+  ],
+  "uk": "Купити одразу всіх доступних в оселях істот, якщо вистачає ресурсів.",
+  "key": "677c9a425f72"
+ },
+ {
+  "id": 601,
+  "where": "town_screen/governer",
+  "cells": [
+   "445:2"
+  ],
+  "uk": "Намісник міста",
+  "key": "ab8c50ba0609"
+ },
+ {
+  "id": 602,
+  "where": "town_screen/governer",
+  "cells": [
+   "445:3"
+  ],
+  "uk": "Портрет поточного намісника — героя, чия навичка «Шляхетність» підсилює оселі істот у місті. Натисніть, щоб вибрати намісника з-поміж героїв у цьому місті, які мають навичку «Шляхетність».",
+  "key": "a4285cda6e90"
+ },
+ {
+  "id": 603,
+  "where": "choose_lord/portrait",
+  "cells": [
+   "448:2"
+  ],
+  "uk": "%hero_name",
+  "key": "3f0566a9cb65"
+ },
+ {
+  "id": 604,
+  "where": "choose_lord/portrait",
+  "cells": [
+   "448:3"
+  ],
+  "uk": "Призначити %hero_name новим намісником.",
+  "key": "c0a6cec997ca"
+ },
+ {
+  "id": 605,
+  "where": "choose_lord/name",
+  "cells": [
+   "449:3"
+  ],
+  "uk": "Ім'я цього героя.",
+  "key": "168a7a5006af"
+ },
+ {
+  "id": 606,
+  "where": "choose_lord/skill_level",
+  "cells": [
+   "450:2"
+  ],
+  "uk": "Шляхетність",
+  "key": "d9813aeb5615"
+ },
+ {
+  "id": 607,
+  "where": "choose_lord/skill_level",
+  "cells": [
+   "450:3"
+  ],
+  "uk": "Рівень навички «Шляхетність» цього героя.",
+  "key": "8793c9d2db4a"
+ },
+ {
+  "id": 608,
+  "where": "choose_lord/current_town",
+  "cells": [
+   "451:2"
+  ],
+  "uk": "Поточне місто",
+  "key": "10151507e466"
+ },
+ {
+  "id": 609,
+  "where": "choose_lord/current_town",
+  "cells": [
+   "451:3"
+  ],
+  "uk": "Місто, яким герой зараз править або може правити.",
+  "key": "9da75c75b05a"
+ },
+ {
+  "id": 610,
+  "where": "choose_lord/cancel",
+  "cells": [
+   "452:3"
+  ],
+  "uk": "Залишити поточного намісника.",
+  "key": "36e386501d22"
+ },
+ {
+  "id": 611,
+  "where": "choose_lord/ok",
+  "cells": [
+   "453:3"
+  ],
+  "uk": "Призначити вибраного героя намісником.",
+  "key": "83d3cbcd0cf8"
+ },
+ {
+  "id": 612,
+  "where": "kingdom_trade/wood_mine",
+  "cells": [
+   "463:2"
+  ],
+  "uk": "Тартак",
+  "key": "e890e0b35859"
+ },
+ {
+  "id": 613,
+  "where": "kingdom_trade/wood_mine",
+  "cells": [
+   "463:3"
+  ],
+  "uk": "Скільки тартаків під вашою владою.",
+  "key": "c8a3f18b3418"
+ },
+ {
+  "id": 614,
+  "where": "kingdom_trade/ore_mine",
+  "cells": [
+   "464:2"
+  ],
+  "uk": "Рудня",
+  "key": "fe0d59809870"
+ },
+ {
+  "id": 615,
+  "where": "kingdom_trade/ore_mine",
+  "cells": [
+   "464:3"
+  ],
+  "uk": "Скільки рудень під вашою владою.",
+  "key": "e40273a84f09"
+ },
+ {
+  "id": 616,
+  "where": "kingdom_trade/gold_mine",
+  "cells": [
+   "465:2"
+  ],
+  "uk": "Золота копальня",
+  "key": "3de949ba0cec"
+ },
+ {
+  "id": 617,
+  "where": "kingdom_trade/gold_mine",
+  "cells": [
+   "465:3"
+  ],
+  "uk": "Скільки золотих копалень під вашою владою.",
+  "key": "f35403fd189a"
+ },
+ {
+  "id": 618,
+  "where": "kingdom_trade/sulfur_mine",
+  "cells": [
+   "466:2"
+  ],
+  "uk": "Сірчана копальня",
+  "key": "55d20ea8d3f4"
+ },
+ {
+  "id": 619,
+  "where": "kingdom_trade/sulfur_mine",
+  "cells": [
+   "466:3"
+  ],
+  "uk": "Скільки сірчаних копалень під вашою владою.",
+  "key": "403ea0ebf415"
+ },
+ {
+  "id": 620,
+  "where": "kingdom_trade/crystal_mine",
+  "cells": [
+   "467:2"
+  ],
+  "uk": "Кришталева копальня",
+  "key": "8def120c7311"
+ },
+ {
+  "id": 621,
+  "where": "kingdom_trade/crystal_mine",
+  "cells": [
+   "467:3"
+  ],
+  "uk": "Скільки кришталевих копалень під вашою владою.",
+  "key": "0a3118724acb"
+ },
+ {
+  "id": 622,
+  "where": "kingdom_trade/gem_mine",
+  "cells": [
+   "468:2"
+  ],
+  "uk": "Копальня самоцвітів",
+  "key": "17bcb545e731"
+ },
+ {
+  "id": 623,
+  "where": "kingdom_trade/gem_mine",
+  "cells": [
+   "468:3"
+  ],
+  "uk": "Скільки копалень самоцвітів під вашою владою.",
+  "key": "eb8246005747"
+ },
+ {
+  "id": 624,
+  "where": "kingdom_trade/mercury_mine",
+  "cells": [
+   "469:2"
+  ],
+  "uk": "Лабораторія алхіміка",
+  "key": "327509733210"
+ },
+ {
+  "id": 625,
+  "where": "kingdom_trade/mercury_mine",
+  "cells": [
+   "469:3"
+  ],
+  "uk": "Скільки лабораторій алхіміка під вашою владою.",
+  "key": "04560925be25"
+ },
+ {
+  "id": 626,
+  "where": "kingdom_trade/haven",
+  "cells": [
+   "470:2"
+  ],
+  "uk": "Притулок",
+  "key": "cd69bd42b596"
+ },
+ {
+  "id": 627,
+  "where": "kingdom_trade/haven",
+  "cells": [
+   "470:3"
+  ],
+  "uk": "Скільки Притулків під вашою владою.",
+  "key": "a9e3afe26774"
+ },
+ {
+  "id": 628,
+  "where": "kingdom_trade/academy",
+  "cells": [
+   "471:2"
+  ],
+  "uk": "Академія",
+  "key": "4ea584b7f75c"
+ },
+ {
+  "id": 629,
+  "where": "kingdom_trade/academy",
+  "cells": [
+   "471:3"
+  ],
+  "uk": "Скільки Академій під вашою владою.",
+  "key": "ac789e0f50ab"
+ },
+ {
+  "id": 630,
+  "where": "kingdom_trade/necropolis",
+  "cells": [
+   "472:2"
+  ],
+  "uk": "Некрополь",
+  "key": "8a283a716d59"
+ },
+ {
+  "id": 631,
+  "where": "kingdom_trade/necropolis",
+  "cells": [
+   "472:3"
+  ],
+  "uk": "Скільки Некрополів під вашою владою.",
+  "key": "2c801ba39d5b"
+ },
+ {
+  "id": 632,
+  "where": "kingdom_trade/asylum",
+  "cells": [
+   "473:2"
+  ],
+  "uk": "Прихисток",
+  "key": "9db236aa6ceb"
+ },
+ {
+  "id": 633,
+  "where": "kingdom_trade/asylum",
+  "cells": [
+   "473:3"
+  ],
+  "uk": "Скільки Прихистків під вашою владою.",
+  "key": "8d976acab1f6"
+ },
+ {
+  "id": 634,
+  "where": "kingdom_trade/preserve",
+  "cells": [
+   "474:2"
+  ],
+  "uk": "Заповідник",
+  "key": "50813fc4893e"
+ },
+ {
+  "id": 635,
+  "where": "kingdom_trade/preserve",
+  "cells": [
+   "474:3"
+  ],
+  "uk": "Скільки Заповідників під вашою владою.",
+  "key": "c04630498cc8"
+ },
+ {
+  "id": 636,
+  "where": "kingdom_trade/stronghold",
+  "cells": [
+   "475:2"
+  ],
+  "uk": "Твердиня",
+  "key": "f6d3c9c3b20e"
+ },
+ {
+  "id": 637,
+  "where": "kingdom_trade/stronghold",
+  "cells": [
+   "475:3"
+  ],
+  "uk": "Скільки Твердинь під вашою владою.",
+  "key": "ad0ab014b0a8"
+ },
+ {
+  "id": 638,
+  "where": "kingdom_trade/windmill",
+  "cells": [
+   "476:2"
+  ],
+  "uk": "Вітряк",
+  "key": "45cc86f2bfdb"
+ },
+ {
+  "id": 639,
+  "where": "kingdom_trade/windmill",
+  "cells": [
+   "476:3"
+  ],
+  "uk": "Скільки вітряків під вашою владою.",
+  "key": "ba503bde1f0f"
+ },
+ {
+  "id": 640,
+  "where": "kingdom_trade/leprechaun",
+  "cells": [
+   "477:2"
+  ],
+  "uk": "Лепрекон",
+  "key": "e3f363b5a9e8"
+ },
+ {
+  "id": 641,
+  "where": "kingdom_trade/leprechaun",
+  "cells": [
+   "477:3"
+  ],
+  "uk": "Скільки лепреконів під вашою владою.",
+  "key": "5dd9f858b25c"
+ },
+ {
+  "id": 642,
+  "where": "kingdom_trade/water_wheel",
+  "cells": [
+   "478:2"
+  ],
+  "uk": "Водяне колесо",
+  "key": "96db86598422"
+ },
+ {
+  "id": 643,
+  "where": "kingdom_trade/water_wheel",
+  "cells": [
+   "478:3"
+  ],
+  "uk": "Скільки водяних коліс під вашою владою.",
+  "key": "ca294feafc41"
+ },
+ {
+  "id": 644,
+  "where": "kingdom_trade/imp_pit",
+  "cells": [
+   "479:2"
+  ],
+  "uk": "Яма бісенят",
+  "key": "ad0a1bd6a297"
+ },
+ {
+  "id": 645,
+  "where": "kingdom_trade/imp_pit",
+  "cells": [
+   "479:3"
+  ],
+  "uk": "Скільки ям бісенят під вашою владою.",
+  "key": "9531b371b703"
+ },
+ {
+  "id": 646,
+  "where": "kingdom_trade/apprentice's_lab",
+  "cells": [
+   "480:2"
+  ],
+  "uk": "Лабораторія учня",
+  "key": "d928ba874e84"
+ },
+ {
+  "id": 647,
+  "where": "kingdom_trade/apprentice's_lab",
+  "cells": [
+   "480:3"
+  ],
+  "uk": "Скільки лабораторій учнів під вашою владою.",
+  "key": "c62b06fa8dc5"
+ },
+ {
+  "id": 648,
+  "where": "kingdom_trade/crystal_garden",
+  "cells": [
+   "481:2"
+  ],
+  "uk": "Кришталеве озерце",
+  "key": "115c2b39efa1"
+ },
+ {
+  "id": 649,
+  "where": "kingdom_trade/crystal_garden",
+  "cells": [
+   "481:3"
+  ],
+  "uk": "Скільки кришталевих озерець під вашою владою.",
+  "key": "a3e7e4d3be1f"
+ },
+ {
+  "id": 650,
+  "where": "kingdom_trade/woodcutter's_lodge",
+  "cells": [
+   "482:2"
+  ],
+  "uk": "Хата лісоруба",
+  "key": "d99b4e5c3921"
+ },
+ {
+  "id": 651,
+  "where": "kingdom_trade/woodcutter's_lodge",
+  "cells": [
+   "482:3"
+  ],
+  "uk": "Скільки хат лісорубів під вашою владою.",
+  "key": "a42356666148"
+ },
+ {
+  "id": 652,
+  "where": "kingdom_trade/miner's_guild",
+  "cells": [
+   "483:2"
+  ],
+  "uk": "Гільдія рудокопів",
+  "key": "e97b34eda444"
+ },
+ {
+  "id": 653,
+  "where": "kingdom_trade/miner's_guild",
+  "cells": [
+   "483:3"
+  ],
+  "uk": "Скільки гільдій рудокопів під вашою владою.",
+  "key": "d15b4157d030"
+ },
+ {
+  "id": 654,
+  "where": "kingdom_trade/trade",
+  "cells": [
+   "484:3"
+  ],
+  "uk": "Завершує обмін.",
+  "key": "c2efcfa58c31"
+ },
+ {
+  "id": 655,
+  "where": "kingdom_trade/clear",
+  "cells": [
+   "485:2"
+  ],
+  "uk": "Очистити",
+  "key": "719ea396ad92"
+ },
+ {
+  "id": 656,
+  "where": "kingdom_trade/clear",
+  "cells": [
+   "485:3"
+  ],
+  "uk": "Очищує екран торгівлі.",
+  "key": "61cf74d4b9e5"
+ },
+ {
+  "id": 657,
+  "where": "kingdom_trade/accept",
+  "cells": [
+   "486:2"
+  ],
+  "uk": "Прийняти пропозицію",
+  "key": "9d062cd9229e"
+ },
+ {
+  "id": 658,
+  "where": "kingdom_trade/accept",
+  "cells": [
+   "486:3"
+  ],
+  "uk": "Приймає запропонований обмін.",
+  "key": "cc974c0c2279"
+ },
+ {
+  "id": 659,
+  "where": "kingdom_trade/reject",
+  "cells": [
+   "487:2"
+  ],
+  "uk": "Відхилити пропозицію",
+  "key": "4368692f61c5"
+ },
+ {
+  "id": 660,
+  "where": "kingdom_trade/reject",
+  "cells": [
+   "487:3"
+  ],
+  "uk": "Відхиляє запропонований обмін.",
+  "key": "95be2bbb7f79"
+ },
+ {
+  "id": 661,
+  "where": "party_trade/left_hand",
+  "cells": [
+   "496:3"
+  ],
+  "uk": "Сюди можна взяти сувої, щити тощо. Деякі артефакти, як-от дворучний меч, потребують обох рук і займають і цю комірку.",
+  "key": "33ccbfb32255"
+ },
+ {
+  "id": 662,
+  "where": "party_trade/right_hand",
+  "cells": [
+   "497:3"
+  ],
+  "uk": "Сюди можна взяти мечі, жезли тощо. Деякі артефакти, як-от дворучний меч, потребують обох рук і займають і цю комірку.",
+  "key": "40556eaa2cd7"
+ },
+ {
+  "id": 663,
+  "where": "party_trade/backpack",
+  "cells": [
+   "501:3"
+  ],
+  "uk": "Сюди кладуть артефакти, яких герой не носить. Істоти не можуть носити артефакти, але можуть нести їх у наплічнику. Зайві артефакти потрапляють сюди автоматично.",
+  "key": "8448cf4d5ad9"
+ },
+ {
+  "id": 664,
+  "where": "party_trade/trade",
+  "cells": [
+   "502:3"
+  ],
+  "uk": "Завершує обмін.",
+  "key": "a5d58a193f7b"
+ },
+ {
+  "id": 665,
+  "where": "party_trade/combine",
+  "cells": [
+   "503:2"
+  ],
+  "uk": "Об'єднати",
+  "key": "30d04e0fa977"
+ },
+ {
+  "id": 666,
+  "where": "party_trade/combine",
+  "cells": [
+   "503:3"
+  ],
+  "uk": "Дає змогу об'єднати два війська в одне велике.",
+  "key": "5c5627bec013"
+ },
+ {
+  "id": 667,
+  "where": "party_trade/exit",
+  "cells": [
+   "504:3"
+  ],
+  "uk": "Завершує обмін і повертає на мапу пригод.",
+  "key": "f3bb4038cdb8"
+ },
+ {
+  "id": 668,
+  "where": "main_menu/new_game",
+  "cells": [
+   "507:3"
+  ],
+  "uk": "Відкриває меню, де можна почати новий сценарій, кампанію або навчання.",
+  "key": "b083117f7d08"
+ },
+ {
+  "id": 669,
+  "where": "main_menu/load_game",
+  "cells": [
+   "508:3"
+  ],
+  "uk": "Дає змогу завантажити збережений сценарій, кампанію чи мережеву гру.",
+  "key": "c7fdfe007e27"
+ },
+ {
+  "id": 670,
+  "where": "main_menu/high_score",
+  "cells": [
+   "509:2"
+  ],
+  "uk": "Рекорди",
+  "key": "410ddae927b8"
+ },
+ {
+  "id": 671,
+  "where": "main_menu/high_score",
+  "cells": [
+   "509:3"
+  ],
+  "uk": "Показує таблицю рекордів сценаріїв і кампаній.",
+  "key": "22afd277730e"
+ },
+ {
+  "id": 672,
+  "where": "main_menu/credits",
+  "cells": [
+   "510:2"
+  ],
+  "uk": "Титри",
+  "key": "bfac50d6424b"
+ },
+ {
+  "id": 673,
+  "where": "main_menu/credits",
+  "cells": [
+   "510:3"
+  ],
+  "uk": "Список усіх, хто створював Heroes of Might & Magic IV.",
+  "key": "f8da6cdd5c84"
+ },
+ {
+  "id": 674,
+  "where": "main_menu/exit",
+  "cells": [
+   "511:3"
+  ],
+  "uk": "Закриває гру й повертає на робочий стіл.",
+  "key": "8f7f405043a6"
+ },
+ {
+  "id": 675,
+  "where": "new_game/single_scenario",
+  "cells": [
+   "514:2",
+   "628:2"
+  ],
+  "uk": "Окремий сценарій",
+  "key": "9ce5043699c6"
+ },
+ {
+  "id": 676,
+  "where": "new_game/single_scenario",
+  "cells": [
+   "514:3"
+  ],
+  "uk": "Почати новий сценарій.",
+  "key": "311153b13c1a"
+ },
+ {
+  "id": 677,
+  "where": "new_game/multiplayer",
+  "cells": [
+   "515:3"
+  ],
+  "uk": "Почати нову гру для кількох гравців.",
+  "key": "8df890c0281b"
+ },
+ {
+  "id": 678,
+  "where": "new_game/campaign",
+  "cells": [
+   "516:2",
+   "630:2",
+   "634:2"
+  ],
+  "uk": "Кампанія",
+  "key": "69390e166570"
+ },
+ {
+  "id": 679,
+  "where": "new_game/campaign",
+  "cells": [
+   "516:3"
+  ],
+  "uk": "Почати нову кампанію.",
+  "key": "ca7ae5b94201"
+ },
+ {
+  "id": 680,
+  "where": "new_game/back",
+  "cells": [
+   "517:2",
+   "523:2",
+   "590:2",
+   "600:2",
+   "631:2"
+  ],
+  "uk": "Назад",
+  "key": "b52b36b7269f"
+ },
+ {
+  "id": 681,
+  "where": "new_game/back",
+  "cells": [
+   "517:3"
+  ],
+  "uk": "Повернутися до головного меню.",
+  "key": "771a6a5ef200"
+ },
+ {
+  "id": 682,
+  "where": "file_open/scenarios",
+  "cells": [
+   "520:2"
+  ],
+  "uk": "Сценарії",
+  "key": "2dd4a83d012a"
+ },
+ {
+  "id": 683,
+  "where": "file_open/scenarios",
+  "cells": [
+   "520:3"
+  ],
+  "uk": "Список доступних сценаріїв.",
+  "key": "a03c78bf3d44"
+ },
+ {
+  "id": 684,
+  "where": "file_open/map_name",
+  "cells": [
+   "521:2",
+   "759:2",
+   "778:2"
+  ],
+  "uk": "Назва мапи",
+  "key": "503e549299d7"
+ },
+ {
+  "id": 685,
+  "where": "file_open/map_name",
+  "cells": [
+   "521:3"
+  ],
+  "uk": "Назва вибраної мапи.",
+  "key": "106311a0bd5f"
+ },
+ {
+  "id": 686,
+  "where": "file_open/parent_folder",
+  "cells": [
+   "522:2"
+  ],
+  "uk": "Вгору",
+  "key": "b9cb4db9d546"
+ },
+ {
+  "id": 687,
+  "where": "file_open/parent_folder",
+  "cells": [
+   "522:3"
+  ],
+  "uk": "Відкриває теку, в якій лежать ці файли й теки.",
+  "key": "83fc7d2faae1"
+ },
+ {
+  "id": 688,
+  "where": "file_open/begin",
+  "cells": [
+   "524:2"
+  ],
+  "uk": "Почати",
+  "key": "c3651ab2341e"
+ },
+ {
+  "id": 689,
+  "where": "file_open/begin",
+  "cells": [
+   "524:3"
+  ],
+  "uk": "Починає вибраний сценарій.",
+  "key": "eedccab0691e"
+ },
+ {
+  "id": 690,
+  "where": "file_open/details",
+  "cells": [
+   "525:2"
+  ],
+  "uk": "Подробиці",
+  "key": "dc3decbb9384"
+ },
+ {
+  "id": 691,
+  "where": "file_open/details",
+  "cells": [
+   "525:3"
+  ],
+  "uk": "Відкриває меню, де можна вибрати спосіб сортування мап.",
+  "key": "7feebd0393ff"
+ },
+ {
+  "id": 692,
+  "where": "file_open/size",
+  "cells": [
+   "526:2"
+  ],
+  "uk": "Розмір",
+  "key": "b7152342a267"
+ },
+ {
+  "id": 693,
+  "where": "file_open/size",
+  "cells": [
+   "526:3"
+  ],
+  "uk": "Сортувати мапи за розміром.",
+  "key": "5235aea3a436"
+ },
+ {
+  "id": 694,
+  "where": "file_open/difficulty",
+  "cells": [
+   "527:2"
+  ],
+  "uk": "Складність",
+  "key": "7945d3c8f7a0"
+ },
+ {
+  "id": 695,
+  "where": "file_open/difficulty",
+  "cells": [
+   "527:3"
+  ],
+  "uk": "Сортувати мапи за рівнем складності.",
+  "key": "3d49a04472e4"
+ },
+ {
+  "id": 696,
+  "where": "file_open/players",
+  "cells": [
+   "528:2"
+  ],
+  "uk": "Гравці",
+  "key": "392feef07c53"
+ },
+ {
+  "id": 697,
+  "where": "file_open/players",
+  "cells": [
+   "528:3"
+  ],
+  "uk": "Сортувати мапи за загальною кількістю гравців.",
+  "key": "80806cd8e00e"
+ },
+ {
+  "id": 698,
+  "where": "file_open/human players",
+  "cells": [
+   "529:2"
+  ],
+  "uk": "Люди",
+  "key": "c2828e23f1dc"
+ },
+ {
+  "id": 699,
+  "where": "file_open/human players",
+  "cells": [
+   "529:3"
+  ],
+  "uk": "Сортувати мапи за кількістю гравців-людей.",
+  "key": "68c0cce31ea7"
+ },
+ {
+  "id": 700,
+  "where": "file_open/allied",
+  "cells": [
+   "530:2"
+  ],
+  "uk": "Союзи",
+  "key": "81f1b69d0740"
+ },
+ {
+  "id": 701,
+  "where": "file_open/allied",
+  "cells": [
+   "530:3"
+  ],
+  "uk": "Сортувати мапи за тим, чи є на них союзи.",
+  "key": "12f4ba58274d"
+ },
+ {
+  "id": 702,
+  "where": "file_open/victory condition",
+  "cells": [
+   "531:2",
+   "605:2"
+  ],
+  "uk": "Умова перемоги",
+  "key": "aa48fe6a8b4e"
+ },
+ {
+  "id": 703,
+  "where": "file_open/victory condition",
+  "cells": [
+   "531:3"
+  ],
+  "uk": "Сортувати мапи за умовою перемоги.",
+  "key": "5b2ad45d0135"
+ },
+ {
+  "id": 704,
+  "where": "file_open/loss condition",
+  "cells": [
+   "532:2",
+   "606:2"
+  ],
+  "uk": "Умова поразки",
+  "key": "d5405b0180b6"
+ },
+ {
+  "id": 705,
+  "where": "file_open/loss condition",
+  "cells": [
+   "532:3"
+  ],
+  "uk": "Сортувати мапи за умовою поразки.",
+  "key": "aa88bbb656fe"
+ },
+ {
+  "id": 706,
+  "where": "file_open/brawl/puzzle",
+  "cells": [
+   "533:2"
+  ],
+  "uk": "Бійка чи головоломка",
+  "key": "852584537d16"
+ },
+ {
+  "id": 707,
+  "where": "file_open/brawl/puzzle",
+  "cells": [
+   "533:3"
+  ],
+  "uk": "Сортувати мапи за тим, чи вони для бійки, чи головоломки.",
+  "key": "cd7c55c41cff"
+ },
+ {
+  "id": 708,
+  "where": "file_open/scenario_description",
+  "cells": [
+   "534:2"
+  ],
+  "uk": "Опис сценарію",
+  "key": "339c34a19b68"
+ },
+ {
+  "id": 709,
+  "where": "file_open/scenario_description",
+  "cells": [
+   "534:3"
+  ],
+  "uk": "Огляд сюжету чи цілей мапи.",
+  "key": "dd0023d85b6b"
+ },
+ {
+  "id": 710,
+  "where": "file_open/options_tab",
+  "cells": [
+   "535:3"
+  ],
+  "uk": "Різні параметри й налаштування, які можна вибрати для сценарію.",
+  "key": "b49291390b8c"
+ },
+ {
+  "id": 711,
+  "where": "file_open/player_color",
+  "cells": [
+   "536:2",
+   "537:2",
+   "771:2"
+  ],
+  "uk": "Колір гравця",
+  "key": "2dae63ace226"
+ },
+ {
+  "id": 712,
+  "where": "file_open/player_color",
+  "cells": [
+   "536:3"
+  ],
+  "uk": "Натисніть стрілки, щоб вибрати інший колір.",
+  "key": "245e3acfb125"
+ },
+ {
+  "id": 713,
+  "where": "file_open/player_color_banner",
+  "cells": [
+   "537:3"
+  ],
+  "uk": "Колір гравця. Натисніть стрілки ліворуч, щоб вибрати колір, яким хочете грати.",
+  "key": "fef20a483ede"
+ },
+ {
+  "id": 714,
+  "where": "file_open/player_name",
+  "cells": [
+   "538:2",
+   "773:2"
+  ],
+  "uk": "Ім'я гравця",
+  "key": "ef7556463a8c"
+ },
+ {
+  "id": 715,
+  "where": "file_open/player_name",
+  "cells": [
+   "538:3"
+  ],
+  "uk": "Ім'я гравця. Можна стерти стандартне ім'я й вписати своє.",
+  "key": "f638723a1eb8"
+ },
+ {
+  "id": 716,
+  "where": "file_open/handicap",
+  "cells": [
+   "539:2"
+  ],
+  "uk": "Гандикап",
+  "key": "c58132004ffc"
+ },
+ {
+  "id": 717,
+  "where": "file_open/handicap",
+  "cells": [
+   "539:3"
+  ],
+  "uk": "Дає змогу задати гандикап собі або комусь із комп'ютерних гравців.",
+  "key": "4a56485f38f0"
+ },
+ {
+  "id": 718,
+  "where": "file_open/starting_town",
+  "cells": [
+   "540:2"
+  ],
+  "uk": "Початкове місто",
+  "key": "2771bebef08b"
+ },
+ {
+  "id": 719,
+  "where": "file_open/starting_town",
+  "cells": [
+   "540:3"
+  ],
+  "uk": "Початкове місто в цьому сценарії. Якщо його не вибрано за вас, можна прогорнути список міст і вибрати самому. У деяких сценаріях початкових міст немає.",
+  "key": "fda557f953fc"
+ },
+ {
+  "id": 720,
+  "where": "file_open/starting_hero",
+  "cells": [
+   "541:2"
+  ],
+  "uk": "Початковий герой",
+  "key": "bd25a71aa575"
+ },
+ {
+  "id": 721,
+  "where": "file_open/starting_hero",
+  "cells": [
+   "541:3"
+  ],
+  "uk": "Початковий герой або військо в цьому сценарії. Якщо героя не вибрано за вас, іноді його можна вибрати самому. У деяких сценаріях немає початкового героя чи війська.",
+  "key": "97ad4ed4cedf"
+ },
+ {
+  "id": 722,
+  "where": "file_open/map_difficulty",
+  "cells": [
+   "542:3"
+  ],
+  "uk": "Рівень складності мапи. Його не можна змінити.",
+  "key": "55f48caba7d4"
+ },
+ {
+  "id": 723,
+  "where": "file_open/player_difficulty",
+  "cells": [
+   "543:3"
+  ],
+  "uk": "Рівень складності для гравця. Його можна змінити на свій смак.",
+  "key": "1832b067d4c3"
+ },
+ {
+  "id": 724,
+  "where": "file_open/easy",
+  "cells": [
+   "544:3"
+  ],
+  "uk": "Найлегший рівень складності. Комп'ютер має суттєвий гандикап, а гравець — чималу допомогу.",
+  "key": "432fa9fad57b"
+ },
+ {
+  "id": 725,
+  "where": "file_open/normal",
+  "cells": [
+   "545:3"
+  ],
+  "uk": "Звичайний рівень складності.",
+  "key": "53ac4d5f9c17"
+ },
+ {
+  "id": 726,
+  "where": "file_open/hard",
+  "cells": [
+   "546:3"
+  ],
+  "uk": "Підвищений рівень складності. Комп'ютер грає розумніше.",
+  "key": "72fef13745f6"
+ },
+ {
+  "id": 727,
+  "where": "file_open/expert",
+  "cells": [
+   "547:3"
+  ],
+  "uk": "Рівень складності для експертів. Комп'ютер отримує трохи допомоги й грає значно розумніше.",
+  "key": "34ee66739309"
+ },
+ {
+  "id": 728,
+  "where": "file_open/impossible",
+  "cells": [
+   "548:3"
+  ],
+  "uk": "Неймовірно складний рівень. Гравець має суттєвий гандикап, а комп'ютер — чималу допомогу.",
+  "key": "4c18ac489c56"
+ },
+ {
+  "id": 729,
+  "where": "file_open/map_rating",
+  "cells": [
+   "549:2"
+  ],
+  "uk": "Рейтинг мапи",
+  "key": "3de8477599b3"
+ },
+ {
+  "id": 730,
+  "where": "file_open/map_rating",
+  "cells": [
+   "549:3"
+  ],
+  "uk": "Яка частка ваших очок увійде до підсумкового рахунку. Вона залежить від складності гравця: що вища складність, то більша частка.",
+  "key": "6b0c82c85432"
+ },
+ {
+  "id": 731,
+  "where": "file_open/turn_duration",
+  "cells": [
+   "550:2"
+  ],
+  "uk": "Тривалість ходу",
+  "key": "93bca3b00ce2"
+ },
+ {
+  "id": 732,
+  "where": "file_open/turn_duration",
+  "cells": [
+   "550:3"
+  ],
+  "uk": "Дає змогу вибрати, скільки часу має гравець на хід: від однієї хвилини до необмеженого. Здебільшого використовують у мережевих іграх.",
+  "key": "24dfc3f33c93"
+ },
+ {
+  "id": 733,
+  "where": "file_open/alignment",
+  "cells": [
+   "551:2",
+   "552:2"
+  ],
+  "uk": "Світогляд",
+  "key": "7f8c5176c3f0"
+ },
+ {
+  "id": 734,
+  "where": "file_open/alignment",
+  "cells": [
+   "551:3"
+  ],
+  "uk": "Натисніть стрілки, щоб вибрати інший світогляд.",
+  "key": "7133a732e7c5"
+ },
+ {
+  "id": 735,
+  "where": "file_open/alignment_banner",
+  "cells": [
+   "552:3"
+  ],
+  "uk": "Світогляд гравця.",
+  "key": "c7e1ee836c3c"
+ },
+ {
+  "id": 736,
+  "where": "file_open/team_id",
+  "cells": [
+   "553:3"
+  ],
+  "uk": "Номер команди гравця.",
+  "key": "ef0a1ef5b281"
+ },
+ {
+  "id": 737,
+  "where": "file_open/random_map_tab",
+  "cells": [
+   "554:2"
+  ],
+  "uk": "Випадкова мапа",
+  "key": "0efe0015affc"
+ },
+ {
+  "id": 738,
+  "where": "file_open/random_map_tab",
+  "cells": [
+   "554:3"
+  ],
+  "uk": "Дає змогу налаштувати випадкову мапу.",
+  "key": "46dbbb37ba83"
+ },
+ {
+  "id": 739,
+  "where": "file_open/map_size",
+  "cells": [
+   "555:3"
+  ],
+  "uk": "Дає змогу вибрати розмір мапи, а також чи буде підземний рівень.",
+  "key": "1131f64a21dd"
+ },
+ {
+  "id": 740,
+  "where": "file_open/small",
+  "cells": [
+   "556:2"
+  ],
+  "uk": "Мала",
+  "key": "c74fd9714e38"
+ },
+ {
+  "id": 741,
+  "where": "file_open/large",
+  "cells": [
+   "558:2"
+  ],
+  "uk": "Велика",
+  "key": "738fd1d2452f"
+ },
+ {
+  "id": 742,
+  "where": "file_open/extra_large",
+  "cells": [
+   "559:2"
+  ],
+  "uk": "Величезна",
+  "key": "6857dd8e354d"
+ },
+ {
+  "id": 743,
+  "where": "file_open/subteranean",
+  "cells": [
+   "560:2"
+  ],
+  "uk": "Підземелля",
+  "key": "64c6ff868bac"
+ },
+ {
+  "id": 744,
+  "where": "file_open/subteranean",
+  "cells": [
+   "560:3"
+  ],
+  "uk": "Дає змогу вибрати, чи буде підземний рівень.",
+  "key": "d59357cb3fa3"
+ },
+ {
+  "id": 745,
+  "where": "file_open/human_computer_players",
+  "cells": [
+   "561:2"
+  ],
+  "uk": "Гравці-люди чи комп'ютер",
+  "key": "265e92906b76"
+ },
+ {
+  "id": 746,
+  "where": "file_open/human_computer_players",
+  "cells": [
+   "561:3"
+  ],
+  "uk": "Дає змогу вибрати загальну кількість гравців.",
+  "key": "f821b008a276"
+ },
+ {
+  "id": 747,
+  "where": "file_open/human_computer_teams",
+  "cells": [
+   "562:2"
+  ],
+  "uk": "Команди людей чи комп'ютера",
+  "key": "0cfa9900dcac"
+ },
+ {
+  "id": 748,
+  "where": "file_open/human_computer_teams",
+  "cells": [
+   "562:3"
+  ],
+  "uk": "Дає змогу вибрати загальну кількість команд.",
+  "key": "561b2446c007"
+ },
+ {
+  "id": 749,
+  "where": "file_open/computer_players",
+  "cells": [
+   "563:2"
+  ],
+  "uk": "Лише комп'ютерні гравці",
+  "key": "ef835329565f"
+ },
+ {
+  "id": 750,
+  "where": "file_open/computer_players",
+  "cells": [
+   "563:3"
+  ],
+  "uk": "Дає змогу вибрати, скількома гравцями керуватиме лише комп'ютер.",
+  "key": "848d705ceeac"
+ },
+ {
+  "id": 751,
+  "where": "file_open/computer_teams",
+  "cells": [
+   "564:2"
+  ],
+  "uk": "Лише комп'ютерні команди",
+  "key": "70406021ae20"
+ },
+ {
+  "id": 752,
+  "where": "file_open/computer_teams",
+  "cells": [
+   "564:3"
+  ],
+  "uk": "Дає змогу вибрати, скільки команд буде лише комп'ютерними.",
+  "key": "c867491384fc"
+ },
+ {
+  "id": 753,
+  "where": "file_open/water_content",
+  "cells": [
+   "565:2"
+  ],
+  "uk": "Кількість води",
+  "key": "f470b2fcb5a6"
+ },
+ {
+  "id": 754,
+  "where": "file_open/water_content",
+  "cells": [
+   "565:3"
+  ],
+  "uk": "Дає змогу вибрати, скільки води буде на мапі.",
+  "key": "3c6433fe7bf3"
+ },
+ {
+  "id": 755,
+  "where": "file_open/no_water",
+  "cells": [
+   "566:2"
+  ],
+  "uk": "Без води",
+  "key": "e580c2b3d792"
+ },
+ {
+  "id": 756,
+  "where": "file_open/no_water",
+  "cells": [
+   "566:3"
+  ],
+  "uk": "На мапі не буде води.",
+  "key": "0c8d388dc427"
+ },
+ {
+  "id": 757,
+  "where": "file_open/normal_water",
+  "cells": [
+   "567:2",
+   "571:2"
+  ],
+  "uk": "Звичайно",
+  "key": "45e118d0563e"
+ },
+ {
+  "id": 758,
+  "where": "file_open/normal_water",
+  "cells": [
+   "567:3"
+  ],
+  "uk": "На мапі буде помірна кількість води.",
+  "key": "a41cef43a2c0"
+ },
+ {
+  "id": 759,
+  "where": "file_open/islands",
+  "cells": [
+   "568:2"
+  ],
+  "uk": "Острови",
+  "key": "afa70d90f551"
+ },
+ {
+  "id": 760,
+  "where": "file_open/islands",
+  "cells": [
+   "568:3"
+  ],
+  "uk": "На мапі буде багато води з невеликими острівцями.",
+  "key": "3cbdeb7d821b"
+ },
+ {
+  "id": 761,
+  "where": "file_open/monster_strength",
+  "cells": [
+   "569:2"
+  ],
+  "uk": "Сила чудовиськ",
+  "key": "9916667f21bb"
+ },
+ {
+  "id": 762,
+  "where": "file_open/monster_strength",
+  "cells": [
+   "569:3"
+  ],
+  "uk": "Дає змогу вибрати, наскільки сильні й численні випадкові загони істот на мапі.",
+  "key": "d79de2aa757a"
+ },
+ {
+  "id": 763,
+  "where": "file_open/weak_monsters",
+  "cells": [
+   "570:2"
+  ],
+  "uk": "Слабкі",
+  "key": "8bfada821419"
+ },
+ {
+  "id": 764,
+  "where": "file_open/weak_monsters",
+  "cells": [
+   "570:3"
+  ],
+  "uk": "Порівняно мало загонів істот нижчих рівнів.",
+  "key": "76dcdd81469b"
+ },
+ {
+  "id": 765,
+  "where": "file_open/normal_monsters",
+  "cells": [
+   "571:3"
+  ],
+  "uk": "Середня кількість істот середніх рівнів.",
+  "key": "3c64e73b9564"
+ },
+ {
+  "id": 766,
+  "where": "file_open/strong_monsters",
+  "cells": [
+   "572:2"
+  ],
+  "uk": "Сильні",
+  "key": "cf8468705371"
+ },
+ {
+  "id": 767,
+  "where": "file_open/strong_monsters",
+  "cells": [
+   "572:3"
+  ],
+  "uk": "Багато істот вищих рівнів.",
+  "key": "0a2bcb3e1adb"
+ },
+ {
+  "id": 768,
+  "where": "file_open/show_random_map",
+  "cells": [
+   "573:2"
+  ],
+  "uk": "Випадкові мапи",
+  "key": "8d3a659da456"
+ },
+ {
+  "id": 769,
+  "where": "file_open/show_random_map",
+  "cells": [
+   "573:3"
+  ],
+  "uk": "Показує список раніше створених випадкових мап.",
+  "key": "aaa7a960972e"
+ },
+ {
+  "id": 770,
+  "where": "file_open/one",
+  "cells": [
+   "574:2"
+  ],
+  "uk": "Один",
+  "key": "b58b5a8ced9d"
+ },
+ {
+  "id": 771,
+  "where": "file_open/two",
+  "cells": [
+   "575:2"
+  ],
+  "uk": "Два",
+  "key": "16e018ece5a1"
+ },
+ {
+  "id": 772,
+  "where": "file_open/three",
+  "cells": [
+   "576:2"
+  ],
+  "uk": "Три",
+  "key": "f3cd4632fcbc"
+ },
+ {
+  "id": 773,
+  "where": "file_open/four",
+  "cells": [
+   "577:2"
+  ],
+  "uk": "Чотири",
+  "key": "c5d87b23f24e"
+ },
+ {
+  "id": 774,
+  "where": "file_open/five",
+  "cells": [
+   "578:2"
+  ],
+  "uk": "П'ять",
+  "key": "f8ed82841b9b"
+ },
+ {
+  "id": 775,
+  "where": "file_open/six",
+  "cells": [
+   "579:2"
+  ],
+  "uk": "Шість",
+  "key": "b10d6634633e"
+ },
+ {
+  "id": 776,
+  "where": "file_open/random",
+  "cells": [
+   "580:2"
+  ],
+  "uk": "Випадково",
+  "key": "58d888c08aa5"
+ },
+ {
+  "id": 777,
+  "where": "file_open/random",
+  "cells": [
+   "580:3"
+  ],
+  "uk": "Генерує випадкове число.",
+  "key": "72644bfd82ea"
+ },
+ {
+  "id": 778,
+  "where": "file_open/number_of_maps",
+  "cells": [
+   "581:2",
+   "625:2"
+  ],
+  "uk": "Кількість мап",
+  "key": "1c5afb89cdaf"
+ },
+ {
+  "id": 779,
+  "where": "file_open/number_of_maps",
+  "cells": [
+   "581:3"
+  ],
+  "uk": "Кількість мап у вибраній кампанії.",
+  "key": "f1644be65117"
+ },
+ {
+  "id": 780,
+  "where": "new_multiplayer/hot_seat",
+  "cells": [
+   "584:2"
+  ],
+  "uk": "Гаряче крісло",
+  "key": "afe739fdaef4"
+ },
+ {
+  "id": 781,
+  "where": "new_multiplayer/hot_seat",
+  "cells": [
+   "584:3"
+  ],
+  "uk": "Дає змогу почати гру «гаряче крісло» на одному комп'ютері.",
+  "key": "1e43a27f8489"
+ },
+ {
+  "id": 782,
+  "where": "new_multiplayer/ipx",
+  "cells": [
+   "585:2"
+  ],
+  "uk": "IPX",
+  "key": "beb917e04c8b"
+ },
+ {
+  "id": 783,
+  "where": "new_multiplayer/ipx",
+  "cells": [
+   "585:3"
+  ],
+  "uk": "Дає змогу почати мережеву гру через IPX.",
+  "key": "f7d35663eb07"
+ },
+ {
+  "id": 784,
+  "where": "new_multiplayer/tcp_ip",
+  "cells": [
+   "586:2"
+  ],
+  "uk": "TCP IP",
+  "key": "56cb530e1e8f"
+ },
+ {
+  "id": 785,
+  "where": "new_multiplayer/tcp_ip",
+  "cells": [
+   "586:3"
+  ],
+  "uk": "Дає змогу почати мережеву гру через TCP/IP.",
+  "key": "4c3d8b59d512"
+ },
+ {
+  "id": 786,
+  "where": "new_multiplayer/e_mail",
+  "cells": [
+   "587:2"
+  ],
+  "uk": "Гра поштою",
+  "key": "ebdda8190946"
+ },
+ {
+  "id": 787,
+  "where": "new_multiplayer/e_mail",
+  "cells": [
+   "587:3"
+  ],
+  "uk": "Дає змогу почати гру для кількох гравців електронною поштою.",
+  "key": "8f3048e79f1e"
+ },
+ {
+  "id": 788,
+  "where": "new_multiplayer/name",
+  "cells": [
+   "588:2"
+  ],
+  "uk": "Введіть ім'я",
+  "key": "c571d3ec6ec7"
+ },
+ {
+  "id": 789,
+  "where": "new_multiplayer/name",
+  "cells": [
+   "588:3"
+  ],
+  "uk": "Введіть ім'я гравця.",
+  "key": "b6200df17dbe"
+ },
+ {
+  "id": 790,
+  "where": "new_multiplayer/ok",
+  "cells": [
+   "589:2"
+  ],
+  "uk": "Гаразд",
+  "key": "9ce3bd4224c8"
+ },
+ {
+  "id": 791,
+  "where": "new_multiplayer/session_name",
+  "cells": [
+   "591:2"
+  ],
+  "uk": "Назва сесії",
+  "key": "c78beda2851b"
+ },
+ {
+  "id": 792,
+  "where": "new_multiplayer/session_name",
+  "cells": [
+   "591:3"
+  ],
+  "uk": "Показує всі доступні сесії.",
+  "key": "5290f3143f51"
+ },
+ {
+  "id": 793,
+  "where": "new_multiplayer/user_name",
+  "cells": [
+   "592:2"
+  ],
+  "uk": "Ім'я користувача",
+  "key": "a951840b9198"
+ },
+ {
+  "id": 794,
+  "where": "new_multiplayer/user_name",
+  "cells": [
+   "592:3"
+  ],
+  "uk": "Ім'я господаря гри.",
+  "key": "91f33e4a5013"
+ },
+ {
+  "id": 795,
+  "where": "new_multiplayer/players",
+  "cells": [
+   "593:2",
+   "622:2",
+   "761:2"
+  ],
+  "uk": "Кількість гравців",
+  "key": "36a9dc36f777"
+ },
+ {
+  "id": 796,
+  "where": "new_multiplayer/players",
+  "cells": [
+   "593:3"
+  ],
+  "uk": "Скільки гравців може приєднатися до сесії.",
+  "key": "c30e9faa66ab"
+ },
+ {
+  "id": 797,
+  "where": "new_multiplayer/join",
+  "cells": [
+   "594:2"
+  ],
+  "uk": "Приєднатися",
+  "key": "e0d73143de80"
+ },
+ {
+  "id": 798,
+  "where": "new_multiplayer/join",
+  "cells": [
+   "594:3"
+  ],
+  "uk": "Дає змогу приєднатися до наявної гри.",
+  "key": "33292c17d1cf"
+ },
+ {
+  "id": 799,
+  "where": "new_multiplayer/search",
+  "cells": [
+   "595:2"
+  ],
+  "uk": "Шукати гру",
+  "key": "7a837b68d10b"
+ },
+ {
+  "id": 800,
+  "where": "new_multiplayer/search",
+  "cells": [
+   "595:3"
+  ],
+  "uk": "Тут вводять конкретну IP-адресу.",
+  "key": "e4d109f788eb"
+ },
+ {
+  "id": 801,
+  "where": "new_multiplayer/host",
+  "cells": [
+   "596:2"
+  ],
+  "uk": "Створити",
+  "key": "3960ec4ca5fb"
+ },
+ {
+  "id": 802,
+  "where": "new_multiplayer/host",
+  "cells": [
+   "596:3"
+  ],
+  "uk": "Дає змогу створити мережеву гру.",
+  "key": "0e36f06e784a"
+ },
+ {
+  "id": 803,
+  "where": "new_multiplayer/password",
+  "cells": [
+   "597:2"
+  ],
+  "uk": "Пароль",
+  "key": "8be3c943b160"
+ },
+ {
+  "id": 804,
+  "where": "new_multiplayer/password",
+  "cells": [
+   "597:3"
+  ],
+  "uk": "Якщо задати для гри пароль, кожен, хто захоче приєднатися, мусить ввести його точно так само.",
+  "key": "bd9cae3fcf80"
+ },
+ {
+  "id": 805,
+  "where": "campaign/campaign_description",
+  "cells": [
+   "601:3"
+  ],
+  "uk": "Огляд сюжету кампанії.",
+  "key": "d621460bc6c2"
+ },
+ {
+  "id": 806,
+  "where": "campaign/map_description",
+  "cells": [
+   "602:3"
+  ],
+  "uk": "Огляд сюжету поточної мапи.",
+  "key": "456640f948d3"
+ },
+ {
+  "id": 807,
+  "where": "campaign/game_statistics",
+  "cells": [
+   "603:3"
+  ],
+  "uk": "Показує важливі відомості про сценарій, у який ви збираєтеся грати.",
+  "key": "420c08924827"
+ },
+ {
+  "id": 808,
+  "where": "campaign/scenario_name",
+  "cells": [
+   "604:3"
+  ],
+  "uk": "Назва мапи.",
+  "key": "5037f2ed08f9"
+ },
+ {
+  "id": 809,
+  "where": "campaign/win_condition",
+  "cells": [
+   "605:3"
+  ],
+  "uk": "Умова перемоги на мапі. Їх може бути кілька, і вони можуть змінюватися під час гри.",
+  "key": "d9dc1dbe2c78"
+ },
+ {
+  "id": 810,
+  "where": "campaign/loss_condition",
+  "cells": [
+   "606:3"
+  ],
+  "uk": "Умова поразки на мапі. Їх може бути кілька, і вони можуть змінюватися під час гри.",
+  "key": "6201c030f597"
+ },
+ {
+  "id": 811,
+  "where": "campaign/map_difficulty",
+  "cells": [
+   "607:3"
+  ],
+  "uk": "Рівень складності мапи. Його не можна змінити.",
+  "key": "8254e73cfee0"
+ },
+ {
+  "id": 812,
+  "where": "campaign/player_difficulty",
+  "cells": [
+   "608:3"
+  ],
+  "uk": "Рівень складності для гравця. Є рекомендований рівень, але ви можете змінити його відповідно до свого стилю гри.",
+  "key": "ae3de618be71"
+ },
+ {
+  "id": 813,
+  "where": "campaign/carryover",
+  "cells": [
+   "609:3"
+  ],
+  "uk": "Список героїв, артефактів та інших важливих для сюжету кампанії речей, які перейдуть до наступного сценарію кампанії.",
+  "key": "0ddb583ffea8"
+ },
+ {
+  "id": 814,
+  "where": "campaign/begin",
+  "cells": [
+   "611:2"
+  ],
+  "uk": "Почати кампанію",
+  "key": "e114d07e0d57"
+ },
+ {
+  "id": 815,
+  "where": "campaign/begin",
+  "cells": [
+   "611:3"
+  ],
+  "uk": "Натисніть, щоб грати в цю кампанію.",
+  "key": "5175f9b49a77"
+ },
+ {
+  "id": 816,
+  "where": "campaign/small_map",
+  "cells": [
+   "612:2"
+  ],
+  "uk": "Розмір мапи: малий",
+  "key": "62da73ce763e"
+ },
+ {
+  "id": 817,
+  "where": "campaign/small_map",
+  "cells": [
+   "612:3"
+  ],
+  "uk": "Це мала мапа.",
+  "key": "e6485844703f"
+ },
+ {
+  "id": 818,
+  "where": "campaign/medium_map",
+  "cells": [
+   "613:2"
+  ],
+  "uk": "Розмір мапи: середній",
+  "key": "70586aea5742"
+ },
+ {
+  "id": 819,
+  "where": "campaign/medium_map",
+  "cells": [
+   "613:3"
+  ],
+  "uk": "Це середня мапа.",
+  "key": "cee1fcab1ba7"
+ },
+ {
+  "id": 820,
+  "where": "campaign/large_map",
+  "cells": [
+   "614:2"
+  ],
+  "uk": "Розмір мапи: великий",
+  "key": "8174b6bf8c01"
+ },
+ {
+  "id": 821,
+  "where": "campaign/large_map",
+  "cells": [
+   "614:3"
+  ],
+  "uk": "Це велика мапа.",
+  "key": "28498768a7f8"
+ },
+ {
+  "id": 822,
+  "where": "campaign/extra_large_map",
+  "cells": [
+   "615:2"
+  ],
+  "uk": "Розмір мапи: величезний",
+  "key": "f8bb34207537"
+ },
+ {
+  "id": 823,
+  "where": "campaign/extra_large_map",
+  "cells": [
+   "615:3"
+  ],
+  "uk": "Це величезна мапа.",
+  "key": "014a6ebe86d4"
+ },
+ {
+  "id": 824,
+  "where": "map_details/ok",
+  "cells": [
+   "618:3"
+  ],
+  "uk": "Прийняти ці налаштування.",
+  "key": "fc48f57fe7ab"
+ },
+ {
+  "id": 825,
+  "where": "map_details/cancel",
+  "cells": [
+   "619:3"
+  ],
+  "uk": "Закриває цей екран.",
+  "key": "fbcad54861f5"
+ },
+ {
+  "id": 826,
+  "where": "map_details/size",
+  "cells": [
+   "620:3"
+  ],
+  "uk": "Розмір мап.",
+  "key": "3451044091ec"
+ },
+ {
+  "id": 827,
+  "where": "map_details/difficulty",
+  "cells": [
+   "621:3"
+  ],
+  "uk": "Рівень складності мапи, заданий її автором.",
+  "key": "4c03885e8f4a"
+ },
+ {
+  "id": 828,
+  "where": "map_details/players",
+  "cells": [
+   "622:3"
+  ],
+  "uk": "Загальна кількість гравців на мапі.",
+  "key": "610d94ba8e1e"
+ },
+ {
+  "id": 829,
+  "where": "map_details/humans",
+  "cells": [
+   "623:2"
+  ],
+  "uk": "Люди",
+  "key": "49609307701a"
+ },
+ {
+  "id": 830,
+  "where": "map_details/humans",
+  "cells": [
+   "623:3"
+  ],
+  "uk": "Скільки гравців-людей може бути на цій мапі.",
+  "key": "b89488149851"
+ },
+ {
+  "id": 831,
+  "where": "map_details/allies",
+  "cells": [
+   "624:2"
+  ],
+  "uk": "Союзники",
+  "key": "871c96a5e2ff"
+ },
+ {
+  "id": 832,
+  "where": "map_details/allies",
+  "cells": [
+   "624:3"
+  ],
+  "uk": "Чи є на мапі гравці-союзники.",
+  "key": "41c6be709528"
+ },
+ {
+  "id": 833,
+  "where": "map_details/maps",
+  "cells": [
+   "625:3"
+  ],
+  "uk": "Загальна кількість мап у кампанії.",
+  "key": "720509c730d9"
+ },
+ {
+  "id": 834,
+  "where": "load_game/single_scenario",
+  "cells": [
+   "628:3"
+  ],
+  "uk": "Завантажити збережений сценарій.",
+  "key": "82660b60343b"
+ },
+ {
+  "id": 835,
+  "where": "load_game/multiplayer",
+  "cells": [
+   "629:3"
+  ],
+  "uk": "Завантажити збережену мережеву гру.",
+  "key": "dba8ef3fab36"
+ },
+ {
+  "id": 836,
+  "where": "load_game/campaign",
+  "cells": [
+   "630:3"
+  ],
+  "uk": "Завантажити збережену кампанію.",
+  "key": "3e50430eef22"
+ },
+ {
+  "id": 837,
+  "where": "load_game/back",
+  "cells": [
+   "631:3",
+   "642:3"
+  ],
+  "uk": "Повертає до головного меню.",
+  "key": "a3e838f3cee8"
+ },
+ {
+  "id": 838,
+  "where": "high_score/campaign",
+  "cells": [
+   "634:3"
+  ],
+  "uk": "Таблиця рекордів кампаній.",
+  "key": "0c7f58b2e356"
+ },
+ {
+  "id": 839,
+  "where": "high_score/standard",
+  "cells": [
+   "635:2"
+  ],
+  "uk": "Сценарії",
+  "key": "2dfa66079d9b"
+ },
+ {
+  "id": 840,
+  "where": "high_score/standard",
+  "cells": [
+   "635:3"
+  ],
+  "uk": "Таблиця рекордів сценаріїв.",
+  "key": "ddd1017fabd9"
+ },
+ {
+  "id": 841,
+  "where": "high_score/rank",
+  "cells": [
+   "636:2"
+  ],
+  "uk": "Місце",
+  "key": "dd48a1149548"
+ },
+ {
+  "id": 842,
+  "where": "high_score/rank",
+  "cells": [
+   "636:3"
+  ],
+  "uk": "Місце в таблиці рекордів.",
+  "key": "0a004d4dc89e"
+ },
+ {
+  "id": 843,
+  "where": "high_score/player",
+  "cells": [
+   "637:2"
+  ],
+  "uk": "Гравець",
+  "key": "e53407cfe1a5"
+ },
+ {
+  "id": 844,
+  "where": "high_score/player",
+  "cells": [
+   "637:3"
+  ],
+  "uk": "Ім'я гравця, який установив рекорд.",
+  "key": "93696518f977"
+ },
+ {
+  "id": 845,
+  "where": "high_score/land",
+  "cells": [
+   "638:2"
+  ],
+  "uk": "Край",
+  "key": "d9df90d8002f"
+ },
+ {
+  "id": 846,
+  "where": "high_score/land",
+  "cells": [
+   "638:3"
+  ],
+  "uk": "Назва сценарію чи мапи кампанії, де встановлено рекорд.",
+  "key": "f6db5e7a5add"
+ },
+ {
+  "id": 847,
+  "where": "high_score/days",
+  "cells": [
+   "639:2"
+  ],
+  "uk": "Дні",
+  "key": "f6bb0f468a85"
+ },
+ {
+  "id": 848,
+  "where": "high_score/days",
+  "cells": [
+   "639:3"
+  ],
+  "uk": "За скільки днів установлено рекорд.",
+  "key": "4d24f967d60b"
+ },
+ {
+  "id": 849,
+  "where": "high_score/score_standard",
+  "cells": [
+   "640:2"
+  ],
+  "uk": "Рахунок",
+  "key": "489f4877244a"
+ },
+ {
+  "id": 850,
+  "where": "high_score/score_standard",
+  "cells": [
+   "640:3"
+  ],
+  "uk": "Підсумковий рахунок.",
+  "key": "6a27aec43770"
+ },
+ {
+  "id": 851,
+  "where": "high_score/reset",
+  "cells": [
+   "641:2"
+  ],
+  "uk": "Скинути",
+  "key": "44c57abd888a"
+ },
+ {
+  "id": 852,
+  "where": "high_score/reset",
+  "cells": [
+   "641:3"
+  ],
+  "uk": "Скидає таблицю рекордів до початкового стану.",
+  "key": "830cfbd9eb25"
+ },
+ {
+  "id": 853,
+  "where": "win_game/time",
+  "cells": [
+   "645:3"
+  ],
+  "uk": "За який час пройдено сценарій.",
+  "key": "291d3df0c0d9"
+ },
+ {
+  "id": 854,
+  "where": "win_game/map_difficulty",
+  "cells": [
+   "646:3"
+  ],
+  "uk": "Складність мапи, задана її автором.",
+  "key": "6fa68c13c368"
+ },
+ {
+  "id": 855,
+  "where": "win_game/player_difficulty",
+  "cells": [
+   "647:3"
+  ],
+  "uk": "Складність, яку обрав гравець.",
+  "key": "9bb19d4d50b5"
+ },
+ {
+  "id": 856,
+  "where": "win_game/castles",
+  "cells": [
+   "648:3"
+  ],
+  "uk": "Скільки міст ви мали наприкінці сценарію.",
+  "key": "d452b4d3f554"
+ },
+ {
+  "id": 857,
+  "where": "win_game/quests",
+  "cells": [
+   "649:3"
+  ],
+  "uk": "Скільки завдань ви виконали до кінця сценарію.",
+  "key": "859f958732e9"
+ },
+ {
+  "id": 858,
+  "where": "win_game/artifacts",
+  "cells": [
+   "650:3"
+  ],
+  "uk": "Скільки артефактів гравець знайшов і мав наприкінці сценарію.",
+  "key": "d8fb4f2e16f8"
+ },
+ {
+  "id": 859,
+  "where": "win_game/hero_level",
+  "cells": [
+   "651:2"
+  ],
+  "uk": "Рівень героя",
+  "key": "d20da9197c5a"
+ },
+ {
+  "id": 860,
+  "where": "win_game/hero_level",
+  "cells": [
+   "651:3"
+  ],
+  "uk": "Найвищий рівень, якого досяг котрийсь із героїв гравця до кінця сценарію.",
+  "key": "c64e15c99e19"
+ },
+ {
+  "id": 861,
+  "where": "win_game/battles_won",
+  "cells": [
+   "652:2"
+  ],
+  "uk": "Виграні битви",
+  "key": "d03412f4627e"
+ },
+ {
+  "id": 862,
+  "where": "win_game/battles_won",
+  "cells": [
+   "652:3"
+  ],
+  "uk": "Скільки битв ви виграли і скільки програли.",
+  "key": "b6de87e714ba"
+ },
+ {
+  "id": 863,
+  "where": "win_game/wealth",
+  "cells": [
+   "653:2"
+  ],
+  "uk": "Багатство",
+  "key": "9205f45e8fa1"
+ },
+ {
+  "id": 864,
+  "where": "win_game/wealth",
+  "cells": [
+   "653:3"
+  ],
+  "uk": "Загальне багатство, здобуте до кінця сценарію.",
+  "key": "dda40d4087a7"
+ },
+ {
+  "id": 865,
+  "where": "win_game/army_size",
+  "cells": [
+   "654:2"
+  ],
+  "uk": "Розмір війська",
+  "key": "6a1261192c01"
+ },
+ {
+  "id": 866,
+  "where": "win_game/army_size",
+  "cells": [
+   "654:3"
+  ],
+  "uk": "Загальний розмір вашого війська.",
+  "key": "6714811b6d02"
+ },
+ {
+  "id": 867,
+  "where": "win_game/exploration",
+  "cells": [
+   "655:2"
+  ],
+  "uk": "Дослідження",
+  "key": "957464a0f91c"
+ },
+ {
+  "id": 868,
+  "where": "win_game/exploration",
+  "cells": [
+   "655:3"
+  ],
+  "uk": "Яку частину світу ви дослідили до кінця сценарію.",
+  "key": "1686fea4efed"
+ },
+ {
+  "id": 869,
+  "where": "spellbook/damage_button",
+  "cells": [
+   "658:2",
+   "677:2"
+  ],
+  "uk": "Ударні закляття",
+  "key": "61e1bfd85159"
+ },
+ {
+  "id": 870,
+  "where": "spellbook/damage_button",
+  "cells": [
+   "658:3"
+  ],
+  "uk": "Закляття, що завдають прямої шкоди ворогам.",
+  "key": "9dc8913cd5a4"
+ },
+ {
+  "id": 871,
+  "where": "spellbook/curse_button",
+  "cells": [
+   "659:2",
+   "678:2"
+  ],
+  "uk": "Прокляття",
+  "key": "9a99c65fb65a"
+ },
+ {
+  "id": 872,
+  "where": "spellbook/curse_button",
+  "cells": [
+   "659:3"
+  ],
+  "uk": "Закляття, які можна накласти на ворожих істот.",
+  "key": "77f5667ce491"
+ },
+ {
+  "id": 873,
+  "where": "spellbook/blessings_button",
+  "cells": [
+   "660:2",
+   "679:2"
+  ],
+  "uk": "Благословення",
+  "key": "680a7c43fdaf"
+ },
+ {
+  "id": 874,
+  "where": "spellbook/blessings_button",
+  "cells": [
+   "660:3"
+  ],
+  "uk": "Закляття, які можна накласти на дружніх істот.",
+  "key": "ac71da78dfeb"
+ },
+ {
+  "id": 875,
+  "where": "spellbook/summoning_button",
+  "cells": [
+   "661:2"
+  ],
+  "uk": "Закляття виклику",
+  "key": "fef6ad54799c"
+ },
+ {
+  "id": 876,
+  "where": "spellbook/summoning_button",
+  "cells": [
+   "661:3"
+  ],
+  "uk": "Закляття, що викликають або підіймають інших істот.",
+  "key": "32093e628a9f"
+ },
+ {
+  "id": 877,
+  "where": "spellbook/life_button",
+  "cells": [
+   "662:3"
+  ],
+  "uk": "Усі закляття магії Життя, відомі вибраному загону.",
+  "key": "94841911c38c"
+ },
+ {
+  "id": 878,
+  "where": "spellbook/order_button",
+  "cells": [
+   "663:3"
+  ],
+  "uk": "Усі закляття магії Порядку, відомі вибраному загону.",
+  "key": "00ea5437b271"
+ },
+ {
+  "id": 879,
+  "where": "spellbook/death_button",
+  "cells": [
+   "664:3"
+  ],
+  "uk": "Усі закляття магії Смерті, відомі вибраному загону.",
+  "key": "1f66e02ab2bd"
+ },
+ {
+  "id": 880,
+  "where": "spellbook/chaos_button",
+  "cells": [
+   "665:3"
+  ],
+  "uk": "Усі закляття магії Хаосу, відомі вибраному загону.",
+  "key": "ef0d86817d54"
+ },
+ {
+  "id": 881,
+  "where": "spellbook/nature_button",
+  "cells": [
+   "666:3"
+  ],
+  "uk": "Усі закляття магії Природи, відомі вибраному загону.",
+  "key": "f61b12632061"
+ },
+ {
+  "id": 882,
+  "where": "spellbook/all_button",
+  "cells": [
+   "668:3"
+  ],
+  "uk": "Усі закляття, відомі вибраному загону.",
+  "key": "520d9c6dc622"
+ },
+ {
+  "id": 883,
+  "where": "spellbook/adventure_button",
+  "cells": [
+   "669:3"
+  ],
+  "uk": "Закляття, які можна творити на мапі пригод.",
+  "key": "69e5d2b062af"
+ },
+ {
+  "id": 884,
+  "where": "spellbook/combat_button",
+  "cells": [
+   "670:3"
+  ],
+  "uk": "Закляття, які можна творити в бою.",
+  "key": "d5270db12ffe"
+ },
+ {
+  "id": 885,
+  "where": "spellbook/close_button",
+  "cells": [
+   "671:3"
+  ],
+  "uk": "Закриває книгу заклять.",
+  "key": "555a355e5405"
+ },
+ {
+  "id": 886,
+  "where": "spellbook/spell_points",
+  "cells": [
+   "672:3"
+  ],
+  "uk": "Скільки очок магії лишилося для заклять.",
+  "key": "504c30c2cc5c"
+ },
+ {
+  "id": 887,
+  "where": "spellbook/last_spell_button",
+  "cells": [
+   "673:2"
+  ],
+  "uk": "Попередня сторінка",
+  "key": "27e16676ef1c"
+ },
+ {
+  "id": 888,
+  "where": "spellbook/last_spell_button",
+  "cells": [
+   "673:3"
+  ],
+  "uk": "Відкриває попередню сторінку.",
+  "key": "d77dc87552d1"
+ },
+ {
+  "id": 889,
+  "where": "spellbook/next_spell_button",
+  "cells": [
+   "674:2"
+  ],
+  "uk": "Наступна сторінка",
+  "key": "5e92f5f19e85"
+ },
+ {
+  "id": 890,
+  "where": "spellbook/next_spell_button",
+  "cells": [
+   "674:3"
+  ],
+  "uk": "Відкриває наступну сторінку.",
+  "key": "da700ce43292"
+ },
+ {
+  "id": 891,
+  "where": "spellbook/index_button",
+  "cells": [
+   "675:2"
+  ],
+  "uk": "До змісту",
+  "key": "d097a0ebfeb4"
+ },
+ {
+  "id": 892,
+  "where": "spellbook/index_button",
+  "cells": [
+   "675:3"
+  ],
+  "uk": "Повертає до змісту заклять.",
+  "key": "8d3d42b07f4e"
+ },
+ {
+  "id": 893,
+  "where": "spellbook/cast_spell",
+  "cells": [
+   "676:2"
+  ],
+  "uk": "Сотворити: %spell_name",
+  "key": "7ba54cff07de"
+ },
+ {
+  "id": 894,
+  "where": "spellbook/summoning",
+  "cells": [
+   "680:2"
+  ],
+  "uk": "Виклик",
+  "key": "c9e037fea306"
+ },
+ {
+  "id": 895,
+  "where": "spellbook/combat",
+  "cells": [
+   "689:2"
+  ],
+  "uk": "Бій",
+  "key": "af169bb89cfb"
+ },
+ {
+  "id": 896,
+  "where": "campaign_selection/order",
+  "cells": [
+   "692:2"
+  ],
+  "uk": "Ціна миру",
+  "key": "aa0749cc6ff4"
+ },
+ {
+  "id": 897,
+  "where": "campaign_selection/order",
+  "cells": [
+   "692:3"
+  ],
+  "uk": "Емілія проходить шлях від доньки склодува до учениці старої чарівниці, а згодом — до королеви Великого Аркану. Та Безсмертний король зазіхає на її трон і з неохочою допомогою свого джина-слуги Солміра виношує жахливий задум принести мир усьому світові.",
+  "key": "ac1efbb026e8"
+ },
+ {
+  "id": 898,
+  "where": "campaign_selection/might",
+  "cells": [
+   "693:2"
+  ],
+  "uk": "Слава минулих днів",
+  "key": "9cbfbe336393"
+ },
+ {
+  "id": 899,
+  "where": "campaign_selection/might",
+  "cells": [
+   "693:3"
+  ],
+  "uk": "Кара й нескінченні століття війн поставили варварський народ на межу вимирання. Лише одна людина наважується його врятувати — змусити змінитися й повернутися до давно забутих цінностей. Щоб вижити, варвари мусять поставити громаду понад усе й повернутися до старих звичаїв. Але чи встигне Ваерджак їх переконати?",
+  "key": "192c6a36e18c"
+ },
+ {
+  "id": 900,
+  "where": "campaign_selection/life",
+  "cells": [
+   "694:2"
+  ],
+  "uk": "Справжній клинок",
+  "key": "489adbddb155"
+ },
+ {
+  "id": 901,
+  "where": "campaign_selection/life",
+  "cells": [
+   "694:3"
+  ],
+  "uk": "Лорд Лісандр зібрав рештки королівства Ератія й заснував нове королівство Паледра, але найбільша загроза для нього — лицар, що називає себе останнім нащадком роду Ґрифонового Серця. Лісандр серцем знає, що той бреше, тож разом із новими друзями вирушає з'ясувати правду про походження узурпатора.",
+  "key": "8f3917c165d7"
+ },
+ {
+  "id": 902,
+  "where": "campaign_selection/death",
+  "cells": [
+   "695:2"
+  ],
+  "uk": "Напівмертвий",
+  "key": "b8e27d06716a"
+ },
+ {
+  "id": 903,
+  "where": "campaign_selection/death",
+  "cells": [
+   "695:3"
+  ],
+  "uk": "Коли світ загинув, Ґолдот утратив усе, зокрема й більшу частину своєї людяності. Невдале могутнє закляття лишає його у стані вічної суперечності: одна половина його тіла жива, друга — нежить. Коли нужда змушує Ґолдота вибороти собі клаптик нового світу, його доля сплітається з долею злостивої істоти з іншого виміру, що прагне знищити все живе у Всесвіті.",
+  "key": "8449c1fc45f6"
+ },
+ {
+  "id": 904,
+  "where": "campaign_selection/nature",
+  "cells": [
+   "696:2"
+  ],
+  "uk": "Елвін і Шаера",
+  "key": "185bf51df9ab"
+ },
+ {
+  "id": 905,
+  "where": "campaign_selection/nature",
+  "cells": [
+   "696:3"
+  ],
+  "uk": "Елвін і Шаера кохають одне одного з першого погляду, але є ще один, хто кохає Шаеру, і він ні перед чим не зупиниться, щоб її здобути. Так починається трагічна історія кохання, що кидає ельфійський народ Аранорну в громадянську війну й загрожує знищити все, що ельфи відбудували після Кари.",
+  "key": "462bffd68cdc"
+ },
+ {
+  "id": 906,
+  "where": "campaign_selection/chaos",
+  "cells": [
+   "697:2"
+  ],
+  "uk": "Донька пірата",
+  "key": "b5a733b38d6f"
+ },
+ {
+  "id": 907,
+  "where": "campaign_selection/chaos",
+  "cells": [
+   "697:3"
+  ],
+  "uk": "Перевершуючи звершення свого сумнозвісного батька, Тоні Бальфур вирушає в мандри, сповнені битв і хаосу, щоб захопити важливі водні шляхи Золотого моря. Їй доведеться зіткнутися не лише з піратами й істотами з морського дна, а й із власним темним минулим на шляху до титулу Піратської королеви Золотого моря.",
+  "key": "7d30a182291f"
+ },
+ {
+  "id": 908,
+  "where": "campaign/campaign_info_tab",
+  "cells": [
+   "700:2"
+  ],
+  "uk": "Про кампанію",
+  "key": "b2ef0ea85ba3"
+ },
+ {
+  "id": 909,
+  "where": "campaign/campaign_info_tab",
+  "cells": [
+   "700:3"
+  ],
+  "uk": "Відомості про вибрану кампанію.",
+  "key": "3d75ad8d2c96"
+ },
+ {
+  "id": 910,
+  "where": "campaign/scenario_info_tab",
+  "cells": [
+   "701:3"
+  ],
+  "uk": "Відомості про поточну мапу.",
+  "key": "a547a8872c10"
+ },
+ {
+  "id": 911,
+  "where": "campaign/scenario_details_tab",
+  "cells": [
+   "702:2"
+  ],
+  "uk": "Подробиці сценарію",
+  "key": "c1d298e1e09c"
+ },
+ {
+  "id": 912,
+  "where": "campaign/scenario_details_tab",
+  "cells": [
+   "702:3"
+  ],
+  "uk": "Подробиці поточної мапи кампанії.",
+  "key": "8b5adbdb1606"
+ },
+ {
+  "id": 913,
+  "where": "campaign/player_difficulty",
+  "cells": [
+   "703:2"
+  ],
+  "uk": "Поточна складність",
+  "key": "81c3eb917216"
+ },
+ {
+  "id": 914,
+  "where": "campaign/player_difficulty",
+  "cells": [
+   "703:3"
+  ],
+  "uk": "Вибрана зараз складність гравця.",
+  "key": "e76e4696f2a4"
+ },
+ {
+  "id": 915,
+  "where": "campaign/player_difficulty_left",
+  "cells": [
+   "704:2"
+  ],
+  "uk": "Легше",
+  "key": "ad627daef66b"
+ },
+ {
+  "id": 916,
+  "where": "campaign/player_difficulty_left",
+  "cells": [
+   "704:3"
+  ],
+  "uk": "Вибирає легшу складність гравця.",
+  "key": "e8385fed84da"
+ },
+ {
+  "id": 917,
+  "where": "campaign/player_difficulty_right",
+  "cells": [
+   "705:2"
+  ],
+  "uk": "Складніше",
+  "key": "a0d3f7e4a889"
+ },
+ {
+  "id": 918,
+  "where": "campaign/player_difficulty_right",
+  "cells": [
+   "705:3"
+  ],
+  "uk": "Вибирає складнішу складність гравця.",
+  "key": "2c51ceee923d"
+ },
+ {
+  "id": 919,
+  "where": "campaign/map_difficulty",
+  "cells": [
+   "706:2"
+  ],
+  "uk": "Складність сценарію",
+  "key": "345ed0c6afed"
+ },
+ {
+  "id": 920,
+  "where": "campaign/map_difficulty",
+  "cells": [
+   "706:3"
+  ],
+  "uk": "Складність поточного сценарію, задана автором мапи.",
+  "key": "940c03b9e12b"
+ },
+ {
+  "id": 921,
+  "where": "campaign/replay_button",
+  "cells": [
+   "707:2"
+  ],
+  "uk": "Повторити опис",
+  "key": "759403aebf4e"
+ },
+ {
+  "id": 922,
+  "where": "campaign/replay_button",
+  "cells": [
+   "707:3"
+  ],
+  "uk": "Повторює озвучений опис сценарію.",
+  "key": "fcf9a0212b0a"
+ },
+ {
+  "id": 923,
+  "where": "campaign/pause_button",
+  "cells": [
+   "708:2"
+  ],
+  "uk": "Пауза опису",
+  "key": "479106b027e3"
+ },
+ {
+  "id": 924,
+  "where": "campaign/pause_button",
+  "cells": [
+   "708:3"
+  ],
+  "uk": "Призупиняє озвучений опис сценарію.",
+  "key": "4335deea3bc0"
+ },
+ {
+  "id": 925,
+  "where": "campaign/map_size",
+  "cells": [
+   "709:3"
+  ],
+  "uk": "Розмір мапи поточного сценарію.",
+  "key": "acce3b1c5499"
+ },
+ {
+  "id": 926,
+  "where": "view_world/surface",
+  "cells": [
+   "713:3",
+   "714:3"
+  ],
+  "uk": "Ця кнопка перемикає мапу пригод між поверхнею й підземеллям.",
+  "key": "49565e0f18d7"
+ },
+ {
+  "id": 927,
+  "where": "view_world/magnify_1",
+  "cells": [
+   "715:2"
+  ],
+  "uk": "Найменше збільшення",
+  "key": "6cb7caf279bd"
+ },
+ {
+  "id": 928,
+  "where": "view_world/magnify_1",
+  "cells": [
+   "715:3",
+   "716:3",
+   "717:3"
+  ],
+  "uk": "Змінює масштаб мапи пригод.",
+  "key": "1b05fef24423"
+ },
+ {
+  "id": 929,
+  "where": "view_world/magnify_2",
+  "cells": [
+   "716:2"
+  ],
+  "uk": "Середнє збільшення",
+  "key": "9cc97ee6ce38"
+ },
+ {
+  "id": 930,
+  "where": "view_world/magnify_4",
+  "cells": [
+   "717:2"
+  ],
+  "uk": "Найбільше збільшення",
+  "key": "98e6986ec593"
+ },
+ {
+  "id": 931,
+  "where": "booty/ok",
+  "cells": [
+   "720:3"
+  ],
+  "uk": "Віддати решту артефактів першому героєві чи істоті й закрити вікно.",
+  "key": "9aee8f7cad56"
+ },
+ {
+  "id": 932,
+  "where": "booty/left",
+  "cells": [
+   "721:2"
+  ],
+  "uk": "Гортати ліворуч",
+  "key": "8e3cf97f1af2"
+ },
+ {
+  "id": 933,
+  "where": "booty/left",
+  "cells": [
+   "721:3"
+  ],
+  "uk": "Попередній артефакт у списку.",
+  "key": "13e949352bd0"
+ },
+ {
+  "id": 934,
+  "where": "booty/right",
+  "cells": [
+   "722:2"
+  ],
+  "uk": "Гортати праворуч",
+  "key": "907684e92755"
+ },
+ {
+  "id": 935,
+  "where": "booty/right",
+  "cells": [
+   "722:3"
+  ],
+  "uk": "Наступний артефакт у списку.",
+  "key": "4cd7d6fac262"
+ },
+ {
+  "id": 936,
+  "where": "army_info/open_army",
+  "cells": [
+   "725:2"
+  ],
+  "uk": "Вікно війська",
+  "key": "cf79438c74b8"
+ },
+ {
+  "id": 937,
+  "where": "army_info/open_army",
+  "cells": [
+   "725:3"
+  ],
+  "uk": "Відкрити вікно війська.",
+  "key": "071478fb09b3"
+ },
+ {
+  "id": 938,
+  "where": "army_info/open_town",
+  "cells": [
+   "726:2"
+  ],
+  "uk": "Вікно міста",
+  "key": "8d446c8b0a7b"
+ },
+ {
+  "id": 939,
+  "where": "army_info/open_town",
+  "cells": [
+   "726:3"
+  ],
+  "uk": "Відкрити вікно міста.",
+  "key": "3b5a4925f17d"
+ },
+ {
+  "id": 940,
+  "where": "army_info/open_garrison",
+  "cells": [
+   "727:2"
+  ],
+  "uk": "Вікно залоги",
+  "key": "abf6a1fb12d2"
+ },
+ {
+  "id": 941,
+  "where": "army_info/open_garrison",
+  "cells": [
+   "727:3"
+  ],
+  "uk": "Відкрити вікно залоги.",
+  "key": "bd52234f217c"
+ },
+ {
+  "id": 942,
+  "where": "load_game/load",
+  "cells": [
+   "730:2"
+  ],
+  "uk": "Завантажити",
+  "key": "ddcb77ff769e"
+ },
+ {
+  "id": 943,
+  "where": "load_game/load",
+  "cells": [
+   "730:3"
+  ],
+  "uk": "Завантажує вибрану збережену гру.",
+  "key": "58cc65c61fc3"
+ },
+ {
+  "id": 944,
+  "where": "shared/cancel",
+  "cells": [
+   "731:3"
+  ],
+  "uk": "Закриває цей екран і повертає на попередній.",
+  "key": "1ca65333f8cc"
+ },
+ {
+  "id": 945,
+  "where": "save_game/save",
+  "cells": [
+   "732:2"
+  ],
+  "uk": "Зберегти",
+  "key": "efc007a393f6"
+ },
+ {
+  "id": 946,
+  "where": "spellbook/information",
+  "cells": [
+   "733:2"
+  ],
+  "uk": "Про закляття",
+  "key": "0bdb33ab32a0"
+ },
+ {
+  "id": 947,
+  "where": "spellbook/information",
+  "cells": [
+   "733:3"
+  ],
+  "uk": "Відкриває сторінку з докладнішими відомостями про це закляття.",
+  "key": "d6e1bd8fa934"
+ },
+ {
+  "id": 948,
+  "where": "spellbook/cast",
+  "cells": [
+   "734:2"
+  ],
+  "uk": "Сотворити",
+  "key": "60745aef336b"
+ },
+ {
+  "id": 949,
+  "where": "spellbook/cast",
+  "cells": [
+   "734:3"
+  ],
+  "uk": "Натисніть цю кнопку, щоб сотворити закляття.",
+  "key": "580576f95442"
+ },
+ {
+  "id": 950,
+  "where": "combat_screen/strike_and_return",
+  "cells": [
+   "735:2"
+  ],
+  "uk": "Удар і повернення",
+  "key": "44073edf1417"
+ },
+ {
+  "id": 951,
+  "where": "combat_screen/strike_and_return",
+  "cells": [
+   "735:3"
+  ],
+  "uk": "Особлива дія в бою, доступна лише гарпіям. Уміння «Удар і повернення» дає змогу після атаки відлетіти на початкове місце.",
+  "key": "c29dfc616e1c"
+ },
+ {
+  "id": 952,
+  "where": "combat_options/show_movement_grid",
+  "cells": [
+   "738:2"
+  ],
+  "uk": "Тінь руху",
+  "key": "bdcff3886c4a"
+ },
+ {
+  "id": 953,
+  "where": "combat_options/show_movement_grid",
+  "cells": [
+   "738:3"
+  ],
+  "uk": "Якщо позначено, підсвічується область, куди активна істота може дійти за один хід. Тоді ж, натиснувши правою кнопкою на інших істот, можна побачити й їхню область руху. (Перемикається також клавішею F10.)",
+  "key": "32550213edb7"
+ },
+ {
+  "id": 954,
+  "where": "combat_options/show_grid",
+  "cells": [
+   "739:2"
+  ],
+  "uk": "Бойова сітка",
+  "key": "12afaf388e9f"
+ },
+ {
+  "id": 955,
+  "where": "combat_options/show_grid",
+  "cells": [
+   "739:3"
+  ],
+  "uk": "Якщо позначено, на поле бою накладається шахова сітка, щоб точніше пересувати істот і націлювати закляття. (Перемикається також клавішею G.)",
+  "key": "7264a1ff2f3e"
+ },
+ {
+  "id": 956,
+  "where": "combat_options/quit",
+  "cells": [
+   "740:2"
+  ],
+  "uk": "Вийти з гри",
+  "key": "dd3db92fa79e"
+ },
+ {
+  "id": 957,
+  "where": "combat_options/quit",
+  "cells": [
+   "740:3"
+  ],
+  "uk": "Вийти з Heroes IV на робочий стіл. Спершу вам запропонують зберегти гру.",
+  "key": "c6268edbd86f"
+ },
+ {
+  "id": 958,
+  "where": "combat_options/quit_dialog_quit",
+  "cells": [
+   "741:2"
+  ],
+  "uk": "Вийти без збереження",
+  "key": "fc54bfb17dab"
+ },
+ {
+  "id": 959,
+  "where": "combat_options/quit_dialog_quit",
+  "cells": [
+   "741:3"
+  ],
+  "uk": "Вийти з Heroes IV без збереження.",
+  "key": "9c6327b3bde8"
+ },
+ {
+  "id": 960,
+  "where": "combat_options/quit_dialog_save_and_quit",
+  "cells": [
+   "742:3"
+  ],
+  "uk": "Зберегти гру й вийти на робочий стіл.",
+  "key": "05d31e90a655"
+ },
+ {
+  "id": 961,
+  "where": "combat_options/quit_dialog_cancel",
+  "cells": [
+   "743:2"
+  ],
+  "uk": "Не виходити",
+  "key": "016f30acce4f"
+ },
+ {
+  "id": 962,
+  "where": "combat_options/quit_dialog_cancel",
+  "cells": [
+   "743:3"
+  ],
+  "uk": "Повернутися до вікна налаштувань бою.",
+  "key": "5523f4fbd667"
+ },
+ {
+  "id": 963,
+  "where": "multiplayer_host/create",
+  "cells": [
+   "746:2"
+  ],
+  "uk": "Нова гра",
+  "key": "f26634eba888"
+ },
+ {
+  "id": 964,
+  "where": "multiplayer_host/create",
+  "cells": [
+   "746:3"
+  ],
+  "uk": "Виберіть, щоб почати нову гру.",
+  "key": "2fafe6447ade"
+ },
+ {
+  "id": 965,
+  "where": "multiplayer_host/load_saved",
+  "cells": [
+   "747:2"
+  ],
+  "uk": "Збережена гра",
+  "key": "caa150ca7dd5"
+ },
+ {
+  "id": 966,
+  "where": "multiplayer_host/load_saved",
+  "cells": [
+   "747:3"
+  ],
+  "uk": "Виберіть, щоб завантажити раніше збережену гру.",
+  "key": "4cc5ef22e499"
+ },
+ {
+  "id": 967,
+  "where": "multiplayer_host/server_name",
+  "cells": [
+   "748:2"
+  ],
+  "uk": "Назва сервера",
+  "key": "2bb73ef9762d"
+ },
+ {
+  "id": 968,
+  "where": "multiplayer_host/server_name",
+  "cells": [
+   "748:3"
+  ],
+  "uk": "Введіть назву цієї ігрової сесії. Її бачитимуть гравці, що підключаються.",
+  "key": "31948ad9b28b"
+ },
+ {
+  "id": 969,
+  "where": "multiplayer_host/player_name",
+  "cells": [
+   "749:2",
+   "754:2"
+  ],
+  "uk": "Ім'я гравця",
+  "key": "e9d61a90c10b"
+ },
+ {
+  "id": 970,
+  "where": "multiplayer_host/player_name",
+  "cells": [
+   "749:3",
+   "754:3"
+  ],
+  "uk": "Введіть ім'я, під яким вас знатимуть у цій сесії.",
+  "key": "ba5bbcdde847"
+ },
+ {
+  "id": 971,
+  "where": "multiplayer_host/password",
+  "cells": [
+   "750:2"
+  ],
+  "uk": "Пароль (необов'язково)",
+  "key": "12efa02e3af4"
+ },
+ {
+  "id": 972,
+  "where": "multiplayer_host/password",
+  "cells": [
+   "750:3"
+  ],
+  "uk": "За бажання можна задати пароль для гри. Приєднатися зможуть лише гравці, що знають пароль.",
+  "key": "8df931945307"
+ },
+ {
+  "id": 973,
+  "where": "multiplayer_host/num_players",
+  "cells": [
+   "751:2"
+  ],
+  "uk": "Макс. гравців",
+  "key": "721c0e8ebee6"
+ },
+ {
+  "id": 974,
+  "where": "multiplayer_host/num_players",
+  "cells": [
+   "751:3"
+  ],
+  "uk": "Найбільша кількість гравців, що можуть підключитися до сесії. Якщо підключиться більше, ніж дозволяє сценарій, гравців, не призначених на початок гри, буде вилучено із сесії.",
+  "key": "2806531cd9eb"
+ },
+ {
+  "id": 975,
+  "where": "multiplayer_host/game_port",
+  "cells": [
+   "752:2"
+  ],
+  "uk": "Ігровий порт",
+  "key": "a0d097bb5427"
+ },
+ {
+  "id": 976,
+  "where": "multiplayer_host/game_port",
+  "cells": [
+   "752:3"
+  ],
+  "uk": "За потреби можна вказати інший ігровий порт.",
+  "key": "298ab43b9517"
+ },
+ {
+  "id": 977,
+  "where": "multiplayer_join/lan",
+  "cells": [
+   "755:2"
+  ],
+  "uk": "Локальна мережа",
+  "key": "434b98d8d39d"
+ },
+ {
+  "id": 978,
+  "where": "multiplayer_join/lan",
+  "cells": [
+   "755:3"
+  ],
+  "uk": "Виберіть, щоб шукати доступні ігри в локальній мережі (IPX).",
+  "key": "92c838ffa674"
+ },
+ {
+  "id": 979,
+  "where": "multiplayer_join/tcp_ip",
+  "cells": [
+   "756:2"
+  ],
+  "uk": "Пряме з'єднання",
+  "key": "5195671dff34"
+ },
+ {
+  "id": 980,
+  "where": "multiplayer_join/tcp_ip",
+  "cells": [
+   "756:3"
+  ],
+  "uk": "Виберіть, щоб підключитися до конкретного комп'ютера. Потрібно знати його IP-адресу.",
+  "key": "88a5756114b1"
+ },
+ {
+  "id": 981,
+  "where": "multiplayer_join/gamespy",
+  "cells": [
+   "757:2"
+  ],
+  "uk": "Грати на GameSpy",
+  "key": "d0d4ef3eb847"
+ },
+ {
+  "id": 982,
+  "where": "multiplayer_join/gamespy",
+  "cells": [
+   "757:3"
+  ],
+  "uk": "Виберіть, щоб підключитися до GameSpy (потрібен установлений GameSpy Arcade).",
+  "key": "f553025dfdb6"
+ },
+ {
+  "id": 983,
+  "where": "multiplayer_join/server",
+  "cells": [
+   "758:2"
+  ],
+  "uk": "Список серверів",
+  "key": "e087b23c04d1"
+ },
+ {
+  "id": 984,
+  "where": "multiplayer_join/server",
+  "cells": [
+   "758:3"
+  ],
+  "uk": "Назви доступних ігрових серверів.",
+  "key": "e769e862f23e"
+ },
+ {
+  "id": 985,
+  "where": "multiplayer_join/map",
+  "cells": [
+   "759:3"
+  ],
+  "uk": "Сценарій, у який гратимуть.",
+  "key": "4309c05e5a93"
+ },
+ {
+  "id": 986,
+  "where": "multiplayer_join/ping",
+  "cells": [
+   "760:2"
+  ],
+  "uk": "Пінг",
+  "key": "3a6e0f79d8ad"
+ },
+ {
+  "id": 987,
+  "where": "multiplayer_join/ping",
+  "cells": [
+   "760:3"
+  ],
+  "uk": "Час відгуку ігрового сервера. Що менше, то краще.",
+  "key": "2a85a6e553d3"
+ },
+ {
+  "id": 988,
+  "where": "multiplayer_join/players",
+  "cells": [
+   "761:3"
+  ],
+  "uk": "Скільки гравців підключено зараз і скільки дозволено. Якщо підключиться більше, ніж дозволяє сценарій, гравців, не призначених на початок гри, буде вилучено із сесії.",
+  "key": "a0edb66308e3"
+ },
+ {
+  "id": 989,
+  "where": "multiplayer_join/difficulty",
+  "cells": [
+   "762:3"
+  ],
+  "uk": "Рівень складності сценарію, в який гратимуть.",
+  "key": "cb6ff153ea0a"
+ },
+ {
+  "id": 990,
+  "where": "multiplayer_join/refresh",
+  "cells": [
+   "763:2"
+  ],
+  "uk": "Оновити список",
+  "key": "7a91c857f809"
+ },
+ {
+  "id": 991,
+  "where": "multiplayer_join/refresh",
+  "cells": [
+   "763:3"
+  ],
+  "uk": "Виберіть, щоб побачити найсвіжіший список серверів.",
+  "key": "edf7cfac3d49"
+ },
+ {
+  "id": 992,
+  "where": "multiplayer_join/join",
+  "cells": [
+   "764:2"
+  ],
+  "uk": "Приєднатися",
+  "key": "47723be39221"
+ },
+ {
+  "id": 993,
+  "where": "multiplayer_join/join",
+  "cells": [
+   "764:3"
+  ],
+  "uk": "Виберіть, щоб підключитися до вибраного сервера.",
+  "key": "bddca97f4371"
+ },
+ {
+  "id": 994,
+  "where": "multiplayer_join/description",
+  "cells": [
+   "765:3"
+  ],
+  "uk": "Опис вибраного сценарію.",
+  "key": "f237cd647db0"
+ },
+ {
+  "id": 995,
+  "where": "multiplayer_join/password",
+  "cells": [
+   "766:2",
+   "796:2"
+  ],
+  "uk": "Введіть пароль",
+  "key": "21ae00b975ec"
+ },
+ {
+  "id": 996,
+  "where": "multiplayer_join/password",
+  "cells": [
+   "766:3"
+  ],
+  "uk": "Ця ігрова сесія захищена паролем. Введіть пароль, щоб продовжити.",
+  "key": "c9ae5674a159"
+ },
+ {
+  "id": 997,
+  "where": "multiplayer_directconnect/ip_address",
+  "cells": [
+   "768:2"
+  ],
+  "uk": "Введіть IP-адресу",
+  "key": "2822dc48ae98"
+ },
+ {
+  "id": 998,
+  "where": "multiplayer_directconnect/ip_address",
+  "cells": [
+   "768:3"
+  ],
+  "uk": "Введіть IP-адресу комп'ютера, до якого хочете підключитися.",
+  "key": "81447591f7d1"
+ },
+ {
+  "id": 999,
+  "where": "multiplayer_setup/ready",
+  "cells": [
+   "770:2"
+  ],
+  "uk": "Позначте, коли готові",
+  "key": "d6957b9e8651"
+ },
+ {
+  "id": 1000,
+  "where": "multiplayer_setup/ready",
+  "cells": [
+   "770:3"
+  ],
+  "uk": "Позначте, коли будете готові грати. Гра почнеться лише тоді, коли готові всі гравці.",
+  "key": "9062c5c37444"
+ },
+ {
+  "id": 1001,
+  "where": "multiplayer_setup/player_color",
+  "cells": [
+   "771:3"
+  ],
+  "uk": "Колір гравця в грі.",
+  "key": "d3583b057b51"
+ },
+ {
+  "id": 1002,
+  "where": "multiplayer_setup/alignment",
+  "cells": [
+   "772:2"
+  ],
+  "uk": "Світогляд міста",
+  "key": "f571f37f5ae3"
+ },
+ {
+  "id": 1003,
+  "where": "multiplayer_setup/alignment",
+  "cells": [
+   "772:3"
+  ],
+  "uk": "Якщо сценарій дозволяє, цими стрілками можна вибрати початкове місто.",
+  "key": "b0a92308c2d5"
+ },
+ {
+  "id": 1004,
+  "where": "multiplayer_setup/player_name",
+  "cells": [
+   "773:3"
+  ],
+  "uk": "Ім'я гравця, якому призначено цей колір.",
+  "key": "2eee8cb397b2"
+ },
+ {
+  "id": 1005,
+  "where": "multiplayer_setup/human",
+  "cells": [
+   "774:2"
+  ],
+  "uk": "Людина",
+  "key": "e31663b107b9"
+ },
+ {
+  "id": 1006,
+  "where": "multiplayer_setup/human",
+  "cells": [
+   "774:3"
+  ],
+  "uk": "Цим кольором може грати людина. Незайнятими місцями людей на початку сценарію керуватиме комп'ютер.",
+  "key": "ac6439d20555"
+ },
+ {
+  "id": 1007,
+  "where": "multiplayer_setup/team",
+  "cells": [
+   "775:3"
+  ],
+  "uk": "До якої команди належить цей колір.",
+  "key": "e01a4b025bd9"
+ },
+ {
+  "id": 1008,
+  "where": "multiplayer_setup/chat_text",
+  "cells": [
+   "776:2",
+   "790:2"
+  ],
+  "uk": "Повідомлення чату",
+  "key": "47f825469678"
+ },
+ {
+  "id": 1009,
+  "where": "multiplayer_setup/chat_text",
+  "cells": [
+   "776:3",
+   "790:3"
+  ],
+  "uk": "Показує повідомлення, надіслані будь-яким гравцем.",
+  "key": "36c70a80e73a"
+ },
+ {
+  "id": 1010,
+  "where": "multiplayer_setup/chat_input",
+  "cells": [
+   "777:2",
+   "791:2"
+  ],
+  "uk": "Введення в чат",
+  "key": "98f61f0c706d"
+ },
+ {
+  "id": 1011,
+  "where": "multiplayer_setup/chat_input",
+  "cells": [
+   "777:3",
+   "791:3"
+  ],
+  "uk": "Тут вводять власні повідомлення.",
+  "key": "3a3bc747c490"
+ },
+ {
+  "id": 1012,
+  "where": "multiplayer_setup/map_name",
+  "cells": [
+   "778:3"
+  ],
+  "uk": "Назва вибраного сценарію.",
+  "key": "15c1bc13da7f"
+ },
+ {
+  "id": 1013,
+  "where": "multiplayer_setup/win_loss",
+  "cells": [
+   "779:2"
+  ],
+  "uk": "Умови перемоги й поразки",
+  "key": "edc6ec02b007"
+ },
+ {
+  "id": 1014,
+  "where": "multiplayer_setup/win_loss",
+  "cells": [
+   "779:3"
+  ],
+  "uk": "Умови перемоги у вибраному сценарії.",
+  "key": "2be0c8368c52"
+ },
+ {
+  "id": 1015,
+  "where": "multiplayer_setup/kick_players",
+  "cells": [
+   "780:2"
+  ],
+  "uk": "Вилучити гравця",
+  "key": "c7bbe3c0c652"
+ },
+ {
+  "id": 1016,
+  "where": "multiplayer_setup/kick_players",
+  "cells": [
+   "780:3"
+  ],
+  "uk": "Натисніть, щоб вилучити цього гравця з гри",
+  "key": "6f11b4665155"
+ },
+ {
+  "id": 1017,
+  "where": "multiplayer_setup/other_players",
+  "cells": [
+   "781:2"
+  ],
+  "uk": "Список гравців",
+  "key": "ff278bae07a4"
+ },
+ {
+  "id": 1018,
+  "where": "multiplayer_setup/other_players",
+  "cells": [
+   "781:3"
+  ],
+  "uk": "Список гравців, підключених до цієї гри.",
+  "key": "ee4ed84bb081"
+ },
+ {
+  "id": 1019,
+  "where": "multiplayer_setup/difficulty_easier",
+  "cells": [
+   "782:2"
+  ],
+  "uk": "Зменшити складність",
+  "key": "103808dbe5fe"
+ },
+ {
+  "id": 1020,
+  "where": "multiplayer_setup/difficulty_easier",
+  "cells": [
+   "782:3"
+  ],
+  "uk": "Натисніть, щоб зменшити складність сценарію.",
+  "key": "f1f4d95ac10e"
+ },
+ {
+  "id": 1021,
+  "where": "multiplayer_setup/difficulty_harder",
+  "cells": [
+   "783:2"
+  ],
+  "uk": "Збільшити складність",
+  "key": "81d511c7c592"
+ },
+ {
+  "id": 1022,
+  "where": "multiplayer_setup/difficulty_harder",
+  "cells": [
+   "783:3"
+  ],
+  "uk": "Натисніть, щоб збільшити складність сценарію.",
+  "key": "44329d97fbdd"
+ },
+ {
+  "id": 1023,
+  "where": "multiplayer_setup/turn_time",
+  "cells": [
+   "784:2"
+  ],
+  "uk": "Ліміт часу на хід",
+  "key": "0405d9c629ed"
+ },
+ {
+  "id": 1024,
+  "where": "multiplayer_setup/turn_time",
+  "cells": [
+   "784:3"
+  ],
+  "uk": "Обмеження часу на хід кожного гравця. Змінювати його може лише господар гри.",
+  "key": "94d399664f3b"
+ },
+ {
+  "id": 1025,
+  "where": "multiplayer_setup/begin_game",
+  "cells": [
+   "785:2"
+  ],
+  "uk": "Почати гру",
+  "key": "a34981a73425"
+ },
+ {
+  "id": 1026,
+  "where": "multiplayer_setup/begin_game",
+  "cells": [
+   "785:3"
+  ],
+  "uk": "Коли всі гравці готові, натисніть, щоб почати гру.",
+  "key": "03e51b1ac99b"
+ },
+ {
+  "id": 1027,
+  "where": "multiplayer_setup/save_file_password",
+  "cells": [
+   "786:2"
+  ],
+  "uk": "Пароль збереження",
+  "key": "92239ed348ad"
+ },
+ {
+  "id": 1028,
+  "where": "multiplayer_setup/save_file_password",
+  "cells": [
+   "786:3"
+  ],
+  "uk": "Пароль, з яким гравець зможе завантажити збережену гру.",
+  "key": "91fd496ecb42"
+ },
+ {
+  "id": 1029,
+  "where": "multiplayer_setup/new_game",
+  "cells": [
+   "787:3"
+  ],
+  "uk": "Це нова гра.",
+  "key": "2723ce83e377"
+ },
+ {
+  "id": 1030,
+  "where": "multiplayer_setup/loaded_game",
+  "cells": [
+   "788:2"
+  ],
+  "uk": "Завантажена гра",
+  "key": "341cbc2216ce"
+ },
+ {
+  "id": 1031,
+  "where": "multiplayer_setup/loaded_game",
+  "cells": [
+   "788:3"
+  ],
+  "uk": "Це завантажена збережена гра.",
+  "key": "957f12f3c04a"
+ },
+ {
+  "id": 1032,
+  "where": "multiplayer_chat/chat_target",
+  "cells": [
+   "792:2"
+  ],
+  "uk": "Адресат",
+  "key": "9e3b19063bc5"
+ },
+ {
+  "id": 1033,
+  "where": "multiplayer_chat/chat_target",
+  "cells": [
+   "792:3"
+  ],
+  "uk": "Дає змогу надіслати повідомлення конкретному гравцеві.",
+  "key": "2f6a45f3a6fc"
+ },
+ {
+  "id": 1034,
+  "where": "password/cancel_new",
+  "cells": [
+   "794:3"
+  ],
+  "uk": "Натисніть «Скасувати», щоб не вводити пароль. Тоді інші гравці зможуть завантажувати збереження без пароля для вашої позиції.",
+  "key": "103d620304e6"
+ },
+ {
+  "id": 1035,
+  "where": "password/cancel_existing",
+  "cells": [
+   "795:3"
+  ],
+  "uk": "Скасувати завантаження збереженої гри й повернутися до головного меню.",
+  "key": "bfa684e00a3e"
+ },
+ {
+  "id": 1036,
+  "where": "password/password",
+  "cells": [
+   "796:3"
+  ],
+  "uk": "Щоб продовжити, треба ввести пароль.",
+  "key": "71a12637b9dd"
+ },
+ {
+  "id": 1037,
+  "where": "map_details/map_type",
+  "cells": [
+   "798:2",
+   "799:2"
+  ],
+  "uk": "Тип мапи",
+  "key": "fece87f09e5a"
+ },
+ {
+  "id": 1038,
+  "where": "map_details/map_type",
+  "cells": [
+   "798:3"
+  ],
+  "uk": "Показує, яке доповнення Heroes IV потрібне для цієї мапи і чи задумав її автор для мережевої гри.",
+  "key": "309615462f68"
+ },
+ {
+  "id": 1039,
+  "where": "file_open/map_type",
+  "cells": [
+   "799:3"
+  ],
+  "uk": "Показує, яке доповнення Heroes IV потрібне для цієї мапи і чи задумав її автор для мережевої гри. Натисніть, щоб сортувати мапи за типом.",
+  "key": "a619bd523633"
+ },
+ {
+  "id": 1040,
+  "where": "file_open/map_type_original",
+  "cells": [
+   "800:2"
+  ],
+  "uk": "Мапа Heroes IV",
+  "key": "6326e8d381cc"
+ },
+ {
+  "id": 1041,
+  "where": "file_open/map_type_original",
+  "cells": [
+   "800:3"
+  ],
+  "uk": "У цю мапу може грати будь-хто з Heroes IV. Автор не позначив її як мапу для мережевої гри.",
+  "key": "8290af3095d7"
+ },
+ {
+  "id": 1042,
+  "where": "file_open/map_type_original_multiplayer",
+  "cells": [
+   "801:2"
+  ],
+  "uk": "Мапа Heroes IV (мережева)",
+  "key": "49aa11f8090a"
+ },
+ {
+  "id": 1043,
+  "where": "file_open/map_type_original_multiplayer",
+  "cells": [
+   "801:3"
+  ],
+  "uk": "У цю мапу може грати будь-хто з Heroes IV. Автор задумав її для мережевої гри, але в неї можна грати й самому.",
+  "key": "cad3f152193b"
+ },
+ {
+  "id": 1044,
+  "where": "file_open/map_type_expansion",
+  "cells": [
+   "802:2"
+  ],
+  "uk": "Мапа Heroes IV: The Gathering Storm",
+  "key": "954d05b36368"
+ },
+ {
+  "id": 1045,
+  "where": "file_open/map_type_expansion",
+  "cells": [
+   "802:3"
+  ],
+  "uk": "Для цієї мапи потрібне доповнення Heroes IV: The Gathering Storm. Автор не позначив її як мапу для мережевої гри.",
+  "key": "dd761bc3e48d"
+ },
+ {
+  "id": 1046,
+  "where": "file_open/map_type_expansion_multiplayer",
+  "cells": [
+   "803:2"
+  ],
+  "uk": "Мапа Heroes IV: The Gathering Storm (мережева)",
+  "key": "ff3aa310bbce"
+ },
+ {
+  "id": 1047,
+  "where": "file_open/map_type_expansion_multiplayer",
+  "cells": [
+   "803:3"
+  ],
+  "uk": "Для цієї мапи потрібне доповнення Heroes IV: The Gathering Storm. Автор задумав її для мережевої гри, але в неї можна грати й самому.",
+  "key": "4986e3a97d6c"
+ },
+ {
+  "id": 1048,
+  "where": "coliseum/ok",
+  "cells": [
+   "806:3"
+  ],
+  "uk": "Натисніть, щоб вибраний герой вступив у бій із драконами.",
+  "key": "54cb51605bd2"
+ },
+ {
+  "id": 1049,
+  "where": "coliseum/cancel",
+  "cells": [
+   "807:3"
+  ],
+  "uk": "Натисніть, щоб відмовитися від бою.",
+  "key": "3c38510506b4"
+ },
+ {
+  "id": 1050,
+  "where": "coliseum/creature",
+  "cells": [
+   "808:2"
+  ],
+  "uk": "Супротивники",
+  "key": "d47de992ad08"
+ },
+ {
+  "id": 1051,
+  "where": "coliseum/creature",
+  "cells": [
+   "808:3"
+  ],
+  "uk": "Істоти, з якими битиметься вибраний герой.",
+  "key": "b91b2d3a9e8c"
+ },
+ {
+  "id": 1052,
+  "where": "Second Expansion strings/",
+  "cells": [
+   "810:2",
+   "810:3"
+  ],
+  "uk": "",
+  "key": "92e821f9adef"
+ },
+ {
+  "id": 1053,
+  "where": "file_open/map_type_expansion_2",
+  "cells": [
+   "811:2"
+  ],
+  "uk": "Мапа Heroes IV: Winds of War",
+  "key": "5860f8c263c7"
+ },
+ {
+  "id": 1054,
+  "where": "file_open/map_type_expansion_2",
+  "cells": [
+   "811:3"
+  ],
+  "uk": "Для цієї мапи потрібне доповнення Heroes IV: Winds of War. Автор не позначив її як мапу для мережевої гри.",
+  "key": "bfa6355be895"
+ },
+ {
+  "id": 1055,
+  "where": "file_open/map_type_expansion_2_multiplayer",
+  "cells": [
+   "812:2"
+  ],
+  "uk": "Мапа Heroes IV: Winds of War (мережева)",
+  "key": "df14bb685bcd"
+ },
+ {
+  "id": 1056,
+  "where": "file_open/map_type_expansion_2_multiplayer",
+  "cells": [
+   "812:3"
+  ],
+  "uk": "Для цієї мапи потрібне доповнення Heroes IV: Winds of War. Автор задумав її для мережевої гри, але в неї можна грати й самому.",
+  "key": "218c3cda8f97"
+ }
+]

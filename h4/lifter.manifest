@@ -1,0 +1,72 @@
+# h4 manifest: per-binary overrides for heroes4.exe
+# (GOG Complete 3.0 win11 gog 0.2, SHA-256 b7c2f6ca...ffaec87). Line based:
+#
+#   entry <hexva> [name]   extra function entry point
+#   name  <hexva> <name>   name a function (comments in generated code)
+#   probe <hexva> [name]   log on entry
+#   resume <hexva>         this call/jmp abandons the current call chain
+#                          (SEH): throw GuestResume to the owning frame
+#   replace <hexva> [name] src/ defines f_<VA>; the lifted body becomes
+#                          f_<VA>_lifted
+
+name  008E3981 entry
+
+# SEH (static MSVC 6 CRT, same code as Dungeon Siege's): __except_handler3
+# *calls* the __except block, which starts with `mov esp, [ebp-18h]` and
+# never returns. Resume instead of calling. Ghidra misses the entry.
+entry  008E3ADC __except_handler3
+name   008DFA98 _global_unwind2
+name   008DFADA _local_unwind2
+resume 008E3B5F
+
+# C++ exceptions: _JumpToContinuation (VC6 frame.cpp) restores the catching
+# frame's ebp/esp and jumps to the code after the catch block.
+name   008DF7B0 _JumpToContinuation
+resume 008DF7DB
+# The same for structured exceptions translated by _set_se_translator:
+# TranslatorGuardHandler restores _CallSETranslator's esp/ebp and jumps on.
+name   008DF9A6 TranslatorGuardHandler
+resume 008DFA10
+
+# The screen size and wide screens (src/resolution.cpp).
+replace 008D3750 set_mode
+replace 008D2E20 screen_rect
+replace 008D22D0 on_size
+replace 008D1360 main_loop_pass
+replace 00598170 bitmap_layer_paint
+replace 004ACBB0 adventure_frame_layout
+replace 004A3450 screen_ctor_a
+replace 004A37C0 screen_ctor_b
+replace 0062B6A0 screen_ctor_c
+replace 0069FB50 screen_ctor_d
+replace 008AC0C0 screen_ctor_e
+replace 0076D9B0 main_menu_layout
+replace 0076DEB0 main_menu_ctor
+replace 007CA0D0 options_dialog_ctor
+replace 008D0C70 present
+replace 00720530 paint_dirty
+replace 0071E6D0 window_ctor
+replace 0063B840 read_setting
+
+# Dev instrumentation (src/debug_hooks.cpp; uncomment together with
+# H4_DEBUG_HOOKS=ON):
+# replace 008D0F20 modal_pump
+# replace 008D14E0 wndproc
+# replace 007212E0 window_at
+# replace 00748970 run_timers   (conflicts with smooth.cpp: move its body there)
+# replace 00590330 set_frame
+# replace 005A0DD0 menu_button_down
+# replace 005A0EE0 menu_button_up
+# replace 008E0001 cxx_throw
+# replace 008E3C8D find_handler
+
+# Smoother motion at 60 updates a second (src/smooth.cpp).
+replace 004BE240 scroll_tick
+replace 00748970 run_timers
+replace 005438F0 army_mover_dtor
+replace 007DEB60 combat_walk_dtor
+replace 007DEFD0 combat_walk_tick
+replace 007A3B00 missile_tick
+replace 007A3A40 missile_dtor
+replace 007DD8D0 flight_tick
+replace 007DD690 flight_dtor

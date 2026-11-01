@@ -1,0 +1,2686 @@
+[
+ {
+  "id": 0,
+  "where": "Keyword",
+  "cells": [
+   "1:1"
+  ],
+  "uk": "",
+  "key": "709a23220f2c"
+ },
+ {
+  "id": 1,
+  "where": "Keyword",
+  "cells": [
+   "1:2"
+  ],
+  "uk": "",
+  "key": "9393641eca49"
+ },
+ {
+  "id": 2,
+  "where": "Keyword",
+  "cells": [
+   "1:3"
+  ],
+  "uk": "",
+  "key": "123d3e7be395"
+ },
+ {
+  "id": 3,
+  "where": "Keyword",
+  "cells": [
+   "1:4"
+  ],
+  "uk": "",
+  "key": "27bad09e1401"
+ },
+ {
+  "id": 4,
+  "where": "bandit",
+  "cells": [
+   "2:1"
+  ],
+  "uk": "бандит",
+  "key": "0a66e107bb05"
+ },
+ {
+  "id": 5,
+  "where": "bandit",
+  "cells": [
+   "2:2"
+  ],
+  "uk": "бандит",
+  "key": "787f855626a0"
+ },
+ {
+  "id": 6,
+  "where": "bandit",
+  "cells": [
+   "2:3"
+  ],
+  "uk": "бандити",
+  "key": "5d196d3aa2bf"
+ },
+ {
+  "id": 7,
+  "where": "bandit",
+  "cells": [
+   "2:4"
+  ],
+  "uk": "бандити",
+  "key": "5d07b607477e"
+ },
+ {
+  "id": 8,
+  "where": "orc",
+  "cells": [
+   "3:1"
+  ],
+  "uk": "орк",
+  "key": "58a1e1b609be"
+ },
+ {
+  "id": 9,
+  "where": "orc",
+  "cells": [
+   "3:2"
+  ],
+  "uk": "орк",
+  "key": "3f4de1f26497"
+ },
+ {
+  "id": 10,
+  "where": "orc",
+  "cells": [
+   "3:3"
+  ],
+  "uk": "орки",
+  "key": "33fbfe89a4f7"
+ },
+ {
+  "id": 11,
+  "where": "orc",
+  "cells": [
+   "3:4"
+  ],
+  "uk": "орки",
+  "key": "0838f6781637"
+ },
+ {
+  "id": 12,
+  "where": "Pirate",
+  "cells": [
+   "4:1"
+  ],
+  "uk": "пірат",
+  "key": "466f24c90181"
+ },
+ {
+  "id": 13,
+  "where": "Pirate",
+  "cells": [
+   "4:2"
+  ],
+  "uk": "пірат",
+  "key": "f7de8fd4de3c"
+ },
+ {
+  "id": 14,
+  "where": "Pirate",
+  "cells": [
+   "4:3"
+  ],
+  "uk": "пірати",
+  "key": "3a9fc2fd105b"
+ },
+ {
+  "id": 15,
+  "where": "Pirate",
+  "cells": [
+   "4:4"
+  ],
+  "uk": "пірати",
+  "key": "e234e4ed9949"
+ },
+ {
+  "id": 16,
+  "where": "Troglodyte",
+  "cells": [
+   "5:1"
+  ],
+  "uk": "троглодит",
+  "key": "4b0e65bad0d1"
+ },
+ {
+  "id": 17,
+  "where": "Troglodyte",
+  "cells": [
+   "5:2"
+  ],
+  "uk": "троглодит",
+  "key": "2d43707a6cf6"
+ },
+ {
+  "id": 18,
+  "where": "Troglodyte",
+  "cells": [
+   "5:3"
+  ],
+  "uk": "троглодити",
+  "key": "44eea27f0cbe"
+ },
+ {
+  "id": 19,
+  "where": "Troglodyte",
+  "cells": [
+   "5:4"
+  ],
+  "uk": "троглодити",
+  "key": "438e571f152a"
+ },
+ {
+  "id": 20,
+  "where": "beholder",
+  "cells": [
+   "6:1"
+  ],
+  "uk": "лихе око",
+  "key": "fb1cf4b7c110"
+ },
+ {
+  "id": 21,
+  "where": "beholder",
+  "cells": [
+   "6:2"
+  ],
+  "uk": "лихе око",
+  "key": "6420033acb60"
+ },
+ {
+  "id": 22,
+  "where": "beholder",
+  "cells": [
+   "6:3"
+  ],
+  "uk": "лихі очі",
+  "key": "3182431e66a8"
+ },
+ {
+  "id": 23,
+  "where": "beholder",
+  "cells": [
+   "6:4"
+  ],
+  "uk": "лихі очі",
+  "key": "2c4f634b2293"
+ },
+ {
+  "id": 24,
+  "where": "Medusa",
+  "cells": [
+   "7:1"
+  ],
+  "uk": "медуза",
+  "key": "7209e12ecf01"
+ },
+ {
+  "id": 25,
+  "where": "Medusa",
+  "cells": [
+   "7:2"
+  ],
+  "uk": "медуза",
+  "key": "8ae4fdb46570"
+ },
+ {
+  "id": 26,
+  "where": "Medusa",
+  "cells": [
+   "7:3"
+  ],
+  "uk": "медузи",
+  "key": "9459a6016bef"
+ },
+ {
+  "id": 27,
+  "where": "Medusa",
+  "cells": [
+   "7:4"
+  ],
+  "uk": "медузи",
+  "key": "f09ab62ecc56"
+ },
+ {
+  "id": 28,
+  "where": "Minotaur",
+  "cells": [
+   "8:1"
+  ],
+  "uk": "мінотавр",
+  "key": "dcb561296664"
+ },
+ {
+  "id": 29,
+  "where": "Minotaur",
+  "cells": [
+   "8:2"
+  ],
+  "uk": "мінотавр",
+  "key": "fa5c937251e3"
+ },
+ {
+  "id": 30,
+  "where": "Minotaur",
+  "cells": [
+   "8:3"
+  ],
+  "uk": "мінотаври",
+  "key": "2744a2acef67"
+ },
+ {
+  "id": 31,
+  "where": "Minotaur",
+  "cells": [
+   "8:4"
+  ],
+  "uk": "мінотаври",
+  "key": "2312584de10e"
+ },
+ {
+  "id": 32,
+  "where": "Troll",
+  "cells": [
+   "9:1"
+  ],
+  "uk": "троль",
+  "key": "24b86618cfdf"
+ },
+ {
+  "id": 33,
+  "where": "Troll",
+  "cells": [
+   "9:2"
+  ],
+  "uk": "троль",
+  "key": "5748a692e263"
+ },
+ {
+  "id": 34,
+  "where": "Troll",
+  "cells": [
+   "9:3"
+  ],
+  "uk": "тролі",
+  "key": "6af56b678996"
+ },
+ {
+  "id": 35,
+  "where": "Troll",
+  "cells": [
+   "9:4"
+  ],
+  "uk": "тролі",
+  "key": "025ec1f8bbc7"
+ },
+ {
+  "id": 36,
+  "where": "Efreet",
+  "cells": [
+   "10:1"
+  ],
+  "uk": "іфрит",
+  "key": "3a6cf1cf80c1"
+ },
+ {
+  "id": 37,
+  "where": "Efreet",
+  "cells": [
+   "10:2"
+  ],
+  "uk": "іфрит",
+  "key": "793c3fb7c977"
+ },
+ {
+  "id": 38,
+  "where": "Efreet",
+  "cells": [
+   "10:3"
+  ],
+  "uk": "іфрити",
+  "key": "2d99e9685e9a"
+ },
+ {
+  "id": 39,
+  "where": "Efreet",
+  "cells": [
+   "10:4"
+  ],
+  "uk": "іфрити",
+  "key": "0e36b7efdeee"
+ },
+ {
+  "id": 40,
+  "where": "Nightmare",
+  "cells": [
+   "11:1"
+  ],
+  "uk": "кошмар",
+  "key": "0ffa93269022"
+ },
+ {
+  "id": 41,
+  "where": "Nightmare",
+  "cells": [
+   "11:2"
+  ],
+  "uk": "кошмар",
+  "key": "5fb7945c25fd"
+ },
+ {
+  "id": 42,
+  "where": "Nightmare",
+  "cells": [
+   "11:3"
+  ],
+  "uk": "кошмари",
+  "key": "34cb26862305"
+ },
+ {
+  "id": 43,
+  "where": "Nightmare",
+  "cells": [
+   "11:4"
+  ],
+  "uk": "кошмари",
+  "key": "fdba37bf510e"
+ },
+ {
+  "id": 44,
+  "where": "Black Dragon",
+  "cells": [
+   "12:1"
+  ],
+  "uk": "чорний дракон",
+  "key": "392c7e63ac3c"
+ },
+ {
+  "id": 45,
+  "where": "Black Dragon",
+  "cells": [
+   "12:2"
+  ],
+  "uk": "чорний дракон",
+  "key": "f451872c040d"
+ },
+ {
+  "id": 46,
+  "where": "Black Dragon",
+  "cells": [
+   "12:3"
+  ],
+  "uk": "чорні дракони",
+  "key": "3550961a762f"
+ },
+ {
+  "id": 47,
+  "where": "Black Dragon",
+  "cells": [
+   "12:4"
+  ],
+  "uk": "чорні дракони",
+  "key": "8bf6c0779d58"
+ },
+ {
+  "id": 48,
+  "where": "hydra",
+  "cells": [
+   "13:1"
+  ],
+  "uk": "гідра",
+  "key": "a9bb669e8681"
+ },
+ {
+  "id": 49,
+  "where": "hydra",
+  "cells": [
+   "13:2"
+  ],
+  "uk": "гідра",
+  "key": "cbaa5d87e664"
+ },
+ {
+  "id": 50,
+  "where": "hydra",
+  "cells": [
+   "13:3"
+  ],
+  "uk": "гідри",
+  "key": "f483cb51f3d5"
+ },
+ {
+  "id": 51,
+  "where": "hydra",
+  "cells": [
+   "13:4"
+  ],
+  "uk": "гідри",
+  "key": "4f52b3138e46"
+ },
+ {
+  "id": 52,
+  "where": "imp",
+  "cells": [
+   "14:1"
+  ],
+  "uk": "біс",
+  "key": "7ebbccbf2a9e"
+ },
+ {
+  "id": 53,
+  "where": "imp",
+  "cells": [
+   "14:2"
+  ],
+  "uk": "біс",
+  "key": "8ddb057e10c7"
+ },
+ {
+  "id": 54,
+  "where": "imp",
+  "cells": [
+   "14:3"
+  ],
+  "uk": "біси",
+  "key": "0d26273a585d"
+ },
+ {
+  "id": 55,
+  "where": "imp",
+  "cells": [
+   "14:4"
+  ],
+  "uk": "біси",
+  "key": "d9d101963bb2"
+ },
+ {
+  "id": 56,
+  "where": "skeleton",
+  "cells": [
+   "15:1"
+  ],
+  "uk": "скелет",
+  "key": "260916a2dcc5"
+ },
+ {
+  "id": 57,
+  "where": "skeleton",
+  "cells": [
+   "15:2"
+  ],
+  "uk": "скелет",
+  "key": "41cacdf612eb"
+ },
+ {
+  "id": 58,
+  "where": "skeleton",
+  "cells": [
+   "15:3"
+  ],
+  "uk": "скелети",
+  "key": "daac619e08d3"
+ },
+ {
+  "id": 59,
+  "where": "skeleton",
+  "cells": [
+   "15:4"
+  ],
+  "uk": "скелети",
+  "key": "98d1d8f618c2"
+ },
+ {
+  "id": 60,
+  "where": "zombie",
+  "cells": [
+   "16:1"
+  ],
+  "uk": "зомбі",
+  "key": "0d956d4190c2"
+ },
+ {
+  "id": 61,
+  "where": "zombie",
+  "cells": [
+   "16:2"
+  ],
+  "uk": "зомбі",
+  "key": "dd69ab58c164"
+ },
+ {
+  "id": 62,
+  "where": "zombie",
+  "cells": [
+   "16:3"
+  ],
+  "uk": "зомбі",
+  "key": "e3792cdded60"
+ },
+ {
+  "id": 63,
+  "where": "zombie",
+  "cells": [
+   "16:4"
+  ],
+  "uk": "зомбі",
+  "key": "cd658713fc41"
+ },
+ {
+  "id": 64,
+  "where": "cerberus",
+  "cells": [
+   "17:1"
+  ],
+  "uk": "цербер",
+  "key": "b7e73576cd25"
+ },
+ {
+  "id": 65,
+  "where": "cerberus",
+  "cells": [
+   "17:2"
+  ],
+  "uk": "цербер",
+  "key": "dae7e03369eb"
+ },
+ {
+  "id": 66,
+  "where": "cerberus",
+  "cells": [
+   "17:3"
+  ],
+  "uk": "цербери",
+  "key": "ce40f88fff13"
+ },
+ {
+  "id": 67,
+  "where": "cerberus",
+  "cells": [
+   "17:4"
+  ],
+  "uk": "цербери",
+  "key": "10739666aa9c"
+ },
+ {
+  "id": 68,
+  "where": "gargoyle",
+  "cells": [
+   "18:1"
+  ],
+  "uk": "гаргуйля",
+  "key": "23714d5cdd29"
+ },
+ {
+  "id": 69,
+  "where": "gargoyle",
+  "cells": [
+   "18:2"
+  ],
+  "uk": "гаргуйля",
+  "key": "6ca9949900a3"
+ },
+ {
+  "id": 70,
+  "where": "gargoyle",
+  "cells": [
+   "18:3"
+  ],
+  "uk": "гаргуйлі",
+  "key": "46e364ac12b4"
+ },
+ {
+  "id": 71,
+  "where": "gargoyle",
+  "cells": [
+   "18:4"
+  ],
+  "uk": "гаргуйлі",
+  "key": "1e1779cf1d51"
+ },
+ {
+  "id": 72,
+  "where": "ghost",
+  "cells": [
+   "19:1"
+  ],
+  "uk": "привид",
+  "key": "c4745785181d"
+ },
+ {
+  "id": 73,
+  "where": "ghost",
+  "cells": [
+   "19:2"
+  ],
+  "uk": "привид",
+  "key": "c7e0eb587c13"
+ },
+ {
+  "id": 74,
+  "where": "ghost",
+  "cells": [
+   "19:3"
+  ],
+  "uk": "привиди",
+  "key": "8fbb2ebf4bd6"
+ },
+ {
+  "id": 75,
+  "where": "ghost",
+  "cells": [
+   "19:4"
+  ],
+  "uk": "привиди",
+  "key": "5ec0be9273a2"
+ },
+ {
+  "id": 76,
+  "where": "mummy",
+  "cells": [
+   "20:1"
+  ],
+  "uk": "мумія",
+  "key": "687656f6a192"
+ },
+ {
+  "id": 77,
+  "where": "mummy",
+  "cells": [
+   "20:2"
+  ],
+  "uk": "мумія",
+  "key": "ac11b28feefa"
+ },
+ {
+  "id": 78,
+  "where": "mummy",
+  "cells": [
+   "20:3"
+  ],
+  "uk": "мумії",
+  "key": "5b5e7fb73777"
+ },
+ {
+  "id": 79,
+  "where": "mummy",
+  "cells": [
+   "20:4"
+  ],
+  "uk": "мумії",
+  "key": "97514ea3c123"
+ },
+ {
+  "id": 80,
+  "where": "ice demon",
+  "cells": [
+   "21:1"
+  ],
+  "uk": "крижаний демон",
+  "key": "530ee78cae01"
+ },
+ {
+  "id": 81,
+  "where": "ice demon",
+  "cells": [
+   "21:2"
+  ],
+  "uk": "крижаний демон",
+  "key": "23c1365490c3"
+ },
+ {
+  "id": 82,
+  "where": "ice demon",
+  "cells": [
+   "21:3"
+  ],
+  "uk": "крижані демони",
+  "key": "46f6e8e23d4b"
+ },
+ {
+  "id": 83,
+  "where": "ice demon",
+  "cells": [
+   "21:4"
+  ],
+  "uk": "крижані демони",
+  "key": "a1aa0ae54955"
+ },
+ {
+  "id": 84,
+  "where": "vampire",
+  "cells": [
+   "22:1"
+  ],
+  "uk": "вампір",
+  "key": "d30d77bc8442"
+ },
+ {
+  "id": 85,
+  "where": "vampire",
+  "cells": [
+   "22:2"
+  ],
+  "uk": "вампір",
+  "key": "998a8e805d4d"
+ },
+ {
+  "id": 86,
+  "where": "vampire",
+  "cells": [
+   "22:3"
+  ],
+  "uk": "вампіри",
+  "key": "13a293063cff"
+ },
+ {
+  "id": 87,
+  "where": "vampire",
+  "cells": [
+   "22:4"
+  ],
+  "uk": "вампіри",
+  "key": "cfc1a56ba28a"
+ },
+ {
+  "id": 88,
+  "where": "venom spawn",
+  "cells": [
+   "23:1",
+   "23:3"
+  ],
+  "uk": "отруйне поріддя",
+  "key": "e70da452af2c"
+ },
+ {
+  "id": 89,
+  "where": "venom spawn",
+  "cells": [
+   "23:2",
+   "23:4"
+  ],
+  "uk": "отруйне поріддя",
+  "key": "b6482e0e1821"
+ },
+ {
+  "id": 90,
+  "where": "archdevil",
+  "cells": [
+   "24:1"
+  ],
+  "uk": "диявол",
+  "key": "49108effdde3"
+ },
+ {
+  "id": 91,
+  "where": "archdevil",
+  "cells": [
+   "24:2"
+  ],
+  "uk": "диявол",
+  "key": "bdc4a7d9108f"
+ },
+ {
+  "id": 92,
+  "where": "archdevil",
+  "cells": [
+   "24:3"
+  ],
+  "uk": "дияволи",
+  "key": "0789633ac69e"
+ },
+ {
+  "id": 93,
+  "where": "archdevil",
+  "cells": [
+   "24:4"
+  ],
+  "uk": "дияволи",
+  "key": "8fd0c585f85c"
+ },
+ {
+  "id": 94,
+  "where": "bone dragon",
+  "cells": [
+   "25:1"
+  ],
+  "uk": "кістяний дракон",
+  "key": "e7c606e8f572"
+ },
+ {
+  "id": 95,
+  "where": "bone dragon",
+  "cells": [
+   "25:2"
+  ],
+  "uk": "кістяний дракон",
+  "key": "bc4983476b48"
+ },
+ {
+  "id": 96,
+  "where": "bone dragon",
+  "cells": [
+   "25:3"
+  ],
+  "uk": "кістяні дракони",
+  "key": "41ac2e7bdf58"
+ },
+ {
+  "id": 97,
+  "where": "bone dragon",
+  "cells": [
+   "25:4"
+  ],
+  "uk": "кістяні дракони",
+  "key": "ffcd1592be9a"
+ },
+ {
+  "id": 98,
+  "where": "crossbowman",
+  "cells": [
+   "26:1"
+  ],
+  "uk": "арбалетник",
+  "key": "9de47ff6a403"
+ },
+ {
+  "id": 99,
+  "where": "crossbowman",
+  "cells": [
+   "26:2"
+  ],
+  "uk": "арбалетник",
+  "key": "b186576f7bde"
+ },
+ {
+  "id": 100,
+  "where": "crossbowman",
+  "cells": [
+   "26:3"
+  ],
+  "uk": "арбалетники",
+  "key": "a47f587d85c4"
+ },
+ {
+  "id": 101,
+  "where": "crossbowman",
+  "cells": [
+   "26:4"
+  ],
+  "uk": "арбалетники",
+  "key": "2e3cb84f3821"
+ },
+ {
+  "id": 102,
+  "where": "peasant",
+  "cells": [
+   "27:1"
+  ],
+  "uk": "селянин",
+  "key": "cc81a90c628c"
+ },
+ {
+  "id": 103,
+  "where": "peasant",
+  "cells": [
+   "27:2"
+  ],
+  "uk": "селянин",
+  "key": "3f6d79a9f2de"
+ },
+ {
+  "id": 104,
+  "where": "peasant",
+  "cells": [
+   "27:3"
+  ],
+  "uk": "селяни",
+  "key": "a0ea477c037c"
+ },
+ {
+  "id": 105,
+  "where": "peasant",
+  "cells": [
+   "27:4"
+  ],
+  "uk": "селяни",
+  "key": "773fa700f850"
+ },
+ {
+  "id": 106,
+  "where": "squire",
+  "cells": [
+   "28:1"
+  ],
+  "uk": "зброєносець",
+  "key": "79ab90463461"
+ },
+ {
+  "id": 107,
+  "where": "squire",
+  "cells": [
+   "28:2"
+  ],
+  "uk": "зброєносець",
+  "key": "b1a5fb9141b5"
+ },
+ {
+  "id": 108,
+  "where": "squire",
+  "cells": [
+   "28:3"
+  ],
+  "uk": "зброєносці",
+  "key": "cb67e6cabbe7"
+ },
+ {
+  "id": 109,
+  "where": "squire",
+  "cells": [
+   "28:4"
+  ],
+  "uk": "зброєносці",
+  "key": "d74b863cac7e"
+ },
+ {
+  "id": 110,
+  "where": "ballista",
+  "cells": [
+   "29:1"
+  ],
+  "uk": "баліста",
+  "key": "0b1ae5878b49"
+ },
+ {
+  "id": 111,
+  "where": "ballista",
+  "cells": [
+   "29:2"
+  ],
+  "uk": "баліста",
+  "key": "2d4715e22cb8"
+ },
+ {
+  "id": 112,
+  "where": "ballista",
+  "cells": [
+   "29:3"
+  ],
+  "uk": "балісти",
+  "key": "52a250dabba6"
+ },
+ {
+  "id": 113,
+  "where": "ballista",
+  "cells": [
+   "29:4"
+  ],
+  "uk": "балісти",
+  "key": "7128b20c773c"
+ },
+ {
+  "id": 114,
+  "where": "pikeman",
+  "cells": [
+   "30:1"
+  ],
+  "uk": "списник",
+  "key": "d331ae394f70"
+ },
+ {
+  "id": 115,
+  "where": "pikeman",
+  "cells": [
+   "30:2"
+  ],
+  "uk": "списник",
+  "key": "bb58c08da4f9"
+ },
+ {
+  "id": 116,
+  "where": "pikeman",
+  "cells": [
+   "30:3"
+  ],
+  "uk": "списники",
+  "key": "b427b3ba480d"
+ },
+ {
+  "id": 117,
+  "where": "pikeman",
+  "cells": [
+   "30:4"
+  ],
+  "uk": "списники",
+  "key": "6b357c5a2ab1"
+ },
+ {
+  "id": 118,
+  "where": "crusader",
+  "cells": [
+   "31:1"
+  ],
+  "uk": "хрестоносець",
+  "key": "e1dad596b1ad"
+ },
+ {
+  "id": 119,
+  "where": "crusader",
+  "cells": [
+   "31:2"
+  ],
+  "uk": "хрестоносець",
+  "key": "163b3e5c156d"
+ },
+ {
+  "id": 120,
+  "where": "crusader",
+  "cells": [
+   "31:3"
+  ],
+  "uk": "хрестоносці",
+  "key": "9e6075e9474b"
+ },
+ {
+  "id": 121,
+  "where": "crusader",
+  "cells": [
+   "31:4"
+  ],
+  "uk": "хрестоносці",
+  "key": "e6d4662b766c"
+ },
+ {
+  "id": 122,
+  "where": "monk",
+  "cells": [
+   "32:1"
+  ],
+  "uk": "чернець",
+  "key": "6257b55733da"
+ },
+ {
+  "id": 123,
+  "where": "monk",
+  "cells": [
+   "32:2"
+  ],
+  "uk": "чернець",
+  "key": "7d0bc2469edf"
+ },
+ {
+  "id": 124,
+  "where": "monk",
+  "cells": [
+   "32:3"
+  ],
+  "uk": "ченці",
+  "key": "f5fa3ab931aa"
+ },
+ {
+  "id": 125,
+  "where": "monk",
+  "cells": [
+   "32:4"
+  ],
+  "uk": "ченці",
+  "key": "11b7982e1f5f"
+ },
+ {
+  "id": 126,
+  "where": "archangel",
+  "cells": [
+   "33:1"
+  ],
+  "uk": "янгол",
+  "key": "c8a50f632c3c"
+ },
+ {
+  "id": 127,
+  "where": "archangel",
+  "cells": [
+   "33:2"
+  ],
+  "uk": "янгол",
+  "key": "446ef3e2bb3c"
+ },
+ {
+  "id": 128,
+  "where": "archangel",
+  "cells": [
+   "33:3"
+  ],
+  "uk": "янголи",
+  "key": "275e5d5f064b"
+ },
+ {
+  "id": 129,
+  "where": "archangel",
+  "cells": [
+   "33:4"
+  ],
+  "uk": "янголи",
+  "key": "fb4daeaf7af3"
+ },
+ {
+  "id": 130,
+  "where": "champion",
+  "cells": [
+   "34:1"
+  ],
+  "uk": "чемпіон",
+  "key": "e79efc4520fb"
+ },
+ {
+  "id": 131,
+  "where": "champion",
+  "cells": [
+   "34:2"
+  ],
+  "uk": "чемпіон",
+  "key": "e9b861da4839"
+ },
+ {
+  "id": 132,
+  "where": "champion",
+  "cells": [
+   "34:3"
+  ],
+  "uk": "чемпіони",
+  "key": "c58d8da7c7e0"
+ },
+ {
+  "id": 133,
+  "where": "champion",
+  "cells": [
+   "34:4"
+  ],
+  "uk": "чемпіони",
+  "key": "43d67f7383af"
+ },
+ {
+  "id": 134,
+  "where": "berserker",
+  "cells": [
+   "35:1"
+  ],
+  "uk": "берсерк",
+  "key": "c2923a9dc154"
+ },
+ {
+  "id": 135,
+  "where": "berserker",
+  "cells": [
+   "35:2"
+  ],
+  "uk": "берсерк",
+  "key": "d98396949aa6"
+ },
+ {
+  "id": 136,
+  "where": "berserker",
+  "cells": [
+   "35:3"
+  ],
+  "uk": "берсерки",
+  "key": "c4079d1f965f"
+ },
+ {
+  "id": 137,
+  "where": "berserker",
+  "cells": [
+   "35:4"
+  ],
+  "uk": "берсерки",
+  "key": "f7b70c5b61e9"
+ },
+ {
+  "id": 138,
+  "where": "Centaur",
+  "cells": [
+   "36:1"
+  ],
+  "uk": "кентавр",
+  "key": "c830af96b1da"
+ },
+ {
+  "id": 139,
+  "where": "Centaur",
+  "cells": [
+   "36:2"
+  ],
+  "uk": "кентавр",
+  "key": "2b2173777e2a"
+ },
+ {
+  "id": 140,
+  "where": "Centaur",
+  "cells": [
+   "36:3"
+  ],
+  "uk": "кентаври",
+  "key": "350efaa97f40"
+ },
+ {
+  "id": 141,
+  "where": "Centaur",
+  "cells": [
+   "36:4"
+  ],
+  "uk": "кентаври",
+  "key": "67e249448787"
+ },
+ {
+  "id": 142,
+  "where": "harpy",
+  "cells": [
+   "37:1"
+  ],
+  "uk": "гарпія",
+  "key": "29e2ef5cceba"
+ },
+ {
+  "id": 143,
+  "where": "harpy",
+  "cells": [
+   "37:2"
+  ],
+  "uk": "гарпія",
+  "key": "c1ff88d9eaa2"
+ },
+ {
+  "id": 144,
+  "where": "harpy",
+  "cells": [
+   "37:3"
+  ],
+  "uk": "гарпії",
+  "key": "d2d668b76e24"
+ },
+ {
+  "id": 145,
+  "where": "harpy",
+  "cells": [
+   "37:4"
+  ],
+  "uk": "гарпії",
+  "key": "ca57c0c64a4a"
+ },
+ {
+  "id": 146,
+  "where": "mermaid",
+  "cells": [
+   "38:1"
+  ],
+  "uk": "русалка",
+  "key": "77e6a9baa61f"
+ },
+ {
+  "id": 147,
+  "where": "mermaid",
+  "cells": [
+   "38:2"
+  ],
+  "uk": "русалка",
+  "key": "cca040b588d5"
+ },
+ {
+  "id": 148,
+  "where": "mermaid",
+  "cells": [
+   "38:3"
+  ],
+  "uk": "русалки",
+  "key": "f340fd01c6ed"
+ },
+ {
+  "id": 149,
+  "where": "mermaid",
+  "cells": [
+   "38:4"
+  ],
+  "uk": "русалки",
+  "key": "4c25510340b0"
+ },
+ {
+  "id": 150,
+  "where": "nomad",
+  "cells": [
+   "39:1"
+  ],
+  "uk": "кочівник",
+  "key": "6db9c36df39f"
+ },
+ {
+  "id": 151,
+  "where": "nomad",
+  "cells": [
+   "39:2"
+  ],
+  "uk": "кочівник",
+  "key": "2abf07d89358"
+ },
+ {
+  "id": 152,
+  "where": "nomad",
+  "cells": [
+   "39:3"
+  ],
+  "uk": "кочівники",
+  "key": "1d96ea9e5708"
+ },
+ {
+  "id": 153,
+  "where": "nomad",
+  "cells": [
+   "39:4"
+  ],
+  "uk": "кочівники",
+  "key": "745bfe897d60"
+ },
+ {
+  "id": 154,
+  "where": "cyclops",
+  "cells": [
+   "40:1"
+  ],
+  "uk": "циклоп",
+  "key": "e24546f5f6b3"
+ },
+ {
+  "id": 155,
+  "where": "cyclops",
+  "cells": [
+   "40:2"
+  ],
+  "uk": "циклоп",
+  "key": "2d57d3a0b6fb"
+ },
+ {
+  "id": 156,
+  "where": "cyclops",
+  "cells": [
+   "40:3"
+  ],
+  "uk": "циклопи",
+  "key": "db52ff7c3e34"
+ },
+ {
+  "id": 157,
+  "where": "cyclops",
+  "cells": [
+   "40:4"
+  ],
+  "uk": "циклопи",
+  "key": "0e47c9069712"
+ },
+ {
+  "id": 158,
+  "where": "ogre mage",
+  "cells": [
+   "41:1"
+  ],
+  "uk": "огр-маг",
+  "key": "d2ab309953aa"
+ },
+ {
+  "id": 159,
+  "where": "ogre mage",
+  "cells": [
+   "41:2"
+  ],
+  "uk": "огр-маг",
+  "key": "4c4dc96329ea"
+ },
+ {
+  "id": 160,
+  "where": "ogre mage",
+  "cells": [
+   "41:3"
+  ],
+  "uk": "огри-маги",
+  "key": "f9206c3699e7"
+ },
+ {
+  "id": 161,
+  "where": "ogre mage",
+  "cells": [
+   "41:4"
+  ],
+  "uk": "огри-маги",
+  "key": "cb4ade2bbb10"
+ },
+ {
+  "id": 162,
+  "where": "behemoth",
+  "cells": [
+   "42:1"
+  ],
+  "uk": "бегемот",
+  "key": "803fe6527cb2"
+ },
+ {
+  "id": 163,
+  "where": "behemoth",
+  "cells": [
+   "42:2"
+  ],
+  "uk": "бегемот",
+  "key": "84ebd1036c63"
+ },
+ {
+  "id": 164,
+  "where": "behemoth",
+  "cells": [
+   "42:3"
+  ],
+  "uk": "бегемоти",
+  "key": "b9af3266385b"
+ },
+ {
+  "id": 165,
+  "where": "behemoth",
+  "cells": [
+   "42:4"
+  ],
+  "uk": "бегемоти",
+  "key": "176ab413dfac"
+ },
+ {
+  "id": 166,
+  "where": "sea monster",
+  "cells": [
+   "43:1"
+  ],
+  "uk": "морське чудовисько",
+  "key": "54400b6f220c"
+ },
+ {
+  "id": 167,
+  "where": "sea monster",
+  "cells": [
+   "43:2"
+  ],
+  "uk": "морське чудовисько",
+  "key": "49e5583cb99e"
+ },
+ {
+  "id": 168,
+  "where": "sea monster",
+  "cells": [
+   "43:3"
+  ],
+  "uk": "морські чудовиська",
+  "key": "a85878d0c183"
+ },
+ {
+  "id": 169,
+  "where": "sea monster",
+  "cells": [
+   "43:4"
+  ],
+  "uk": "морські чудовиська",
+  "key": "0325e5ec7a24"
+ },
+ {
+  "id": 170,
+  "where": "thunderbird",
+  "cells": [
+   "44:1"
+  ],
+  "uk": "громовий птах",
+  "key": "674bd6bda981"
+ },
+ {
+  "id": 171,
+  "where": "thunderbird",
+  "cells": [
+   "44:2"
+  ],
+  "uk": "громовий птах",
+  "key": "d17969557ab3"
+ },
+ {
+  "id": 172,
+  "where": "thunderbird",
+  "cells": [
+   "44:3"
+  ],
+  "uk": "громові птахи",
+  "key": "698229473335"
+ },
+ {
+  "id": 173,
+  "where": "thunderbird",
+  "cells": [
+   "44:4"
+  ],
+  "uk": "громові птахи",
+  "key": "89c7e9bc8738"
+ },
+ {
+  "id": 174,
+  "where": "leprechaun",
+  "cells": [
+   "45:1"
+  ],
+  "uk": "лепрекон",
+  "key": "779eab1ab094"
+ },
+ {
+  "id": 175,
+  "where": "leprechaun",
+  "cells": [
+   "45:2"
+  ],
+  "uk": "лепрекон",
+  "key": "875c21b43dda"
+ },
+ {
+  "id": 176,
+  "where": "leprechaun",
+  "cells": [
+   "45:3"
+  ],
+  "uk": "лепрекони",
+  "key": "ba779f91d5d4"
+ },
+ {
+  "id": 177,
+  "where": "leprechaun",
+  "cells": [
+   "45:4"
+  ],
+  "uk": "лепрекони",
+  "key": "2f1ec42e9c29"
+ },
+ {
+  "id": 178,
+  "where": "sprite",
+  "cells": [
+   "46:1"
+  ],
+  "uk": "фея",
+  "key": "ee63a809561a"
+ },
+ {
+  "id": 179,
+  "where": "sprite",
+  "cells": [
+   "46:2"
+  ],
+  "uk": "фея",
+  "key": "69164bd70f79"
+ },
+ {
+  "id": 180,
+  "where": "sprite",
+  "cells": [
+   "46:3"
+  ],
+  "uk": "феї",
+  "key": "3fb792f4a345"
+ },
+ {
+  "id": 181,
+  "where": "sprite",
+  "cells": [
+   "46:4"
+  ],
+  "uk": "феї",
+  "key": "b1ccb97337ee"
+ },
+ {
+  "id": 182,
+  "where": "wolf",
+  "cells": [
+   "47:1"
+  ],
+  "uk": "вовк",
+  "key": "a3cb738850fa"
+ },
+ {
+  "id": 183,
+  "where": "wolf",
+  "cells": [
+   "47:2"
+  ],
+  "uk": "вовк",
+  "key": "48bbefa42ea2"
+ },
+ {
+  "id": 184,
+  "where": "wolf",
+  "cells": [
+   "47:3"
+  ],
+  "uk": "вовки",
+  "key": "a5f518af7f31"
+ },
+ {
+  "id": 185,
+  "where": "wolf",
+  "cells": [
+   "47:4"
+  ],
+  "uk": "вовки",
+  "key": "18c82c5a732d"
+ },
+ {
+  "id": 186,
+  "where": "elf",
+  "cells": [
+   "48:1"
+  ],
+  "uk": "ельф",
+  "key": "0761330c0681"
+ },
+ {
+  "id": 187,
+  "where": "elf",
+  "cells": [
+   "48:2"
+  ],
+  "uk": "ельф",
+  "key": "64389d78a6fb"
+ },
+ {
+  "id": 188,
+  "where": "elf",
+  "cells": [
+   "48:3"
+  ],
+  "uk": "ельфи",
+  "key": "1fa484b3ca03"
+ },
+ {
+  "id": 189,
+  "where": "elf",
+  "cells": [
+   "48:4"
+  ],
+  "uk": "ельфи",
+  "key": "5c082f8e40c8"
+ },
+ {
+  "id": 190,
+  "where": "satyr",
+  "cells": [
+   "49:1"
+  ],
+  "uk": "сатир",
+  "key": "9e119e407b96"
+ },
+ {
+  "id": 191,
+  "where": "satyr",
+  "cells": [
+   "49:2"
+  ],
+  "uk": "сатир",
+  "key": "2950061a3422"
+ },
+ {
+  "id": 192,
+  "where": "satyr",
+  "cells": [
+   "49:3"
+  ],
+  "uk": "сатири",
+  "key": "bebce9bd4794"
+ },
+ {
+  "id": 193,
+  "where": "satyr",
+  "cells": [
+   "49:4"
+  ],
+  "uk": "сатири",
+  "key": "dab0cb9099da"
+ },
+ {
+  "id": 194,
+  "where": "white tiger",
+  "cells": [
+   "50:1"
+  ],
+  "uk": "білий тигр",
+  "key": "ee545deca3fa"
+ },
+ {
+  "id": 195,
+  "where": "white tiger",
+  "cells": [
+   "50:2"
+  ],
+  "uk": "білий тигр",
+  "key": "37ec462f6340"
+ },
+ {
+  "id": 196,
+  "where": "white tiger",
+  "cells": [
+   "50:3"
+  ],
+  "uk": "білі тигри",
+  "key": "ecf9075513da"
+ },
+ {
+  "id": 197,
+  "where": "white tiger",
+  "cells": [
+   "50:4"
+  ],
+  "uk": "білі тигри",
+  "key": "c8ddc2265cf6"
+ },
+ {
+  "id": 198,
+  "where": "air elemental",
+  "cells": [
+   "51:1"
+  ],
+  "uk": "повітряний елементаль",
+  "key": "ce90e9679cd4"
+ },
+ {
+  "id": 199,
+  "where": "air elemental",
+  "cells": [
+   "51:2"
+  ],
+  "uk": "повітряний елементаль",
+  "key": "d8b2d96af90c"
+ },
+ {
+  "id": 200,
+  "where": "air elemental",
+  "cells": [
+   "51:3"
+  ],
+  "uk": "повітряні елементалі",
+  "key": "3c054fe2ae69"
+ },
+ {
+  "id": 201,
+  "where": "air elemental",
+  "cells": [
+   "51:4"
+  ],
+  "uk": "повітряні елементалі",
+  "key": "0a4447751672"
+ },
+ {
+  "id": 202,
+  "where": "earth elemental",
+  "cells": [
+   "52:1"
+  ],
+  "uk": "земляний елементаль",
+  "key": "5b364cae94ac"
+ },
+ {
+  "id": 203,
+  "where": "earth elemental",
+  "cells": [
+   "52:2"
+  ],
+  "uk": "земляний елементаль",
+  "key": "95e43580ceb5"
+ },
+ {
+  "id": 204,
+  "where": "earth elemental",
+  "cells": [
+   "52:3"
+  ],
+  "uk": "земляні елементалі",
+  "key": "9658dd0405cc"
+ },
+ {
+  "id": 205,
+  "where": "earth elemental",
+  "cells": [
+   "52:4"
+  ],
+  "uk": "земляні елементалі",
+  "key": "c4ba7c9dcc48"
+ },
+ {
+  "id": 206,
+  "where": "fire elemental",
+  "cells": [
+   "53:1"
+  ],
+  "uk": "вогняний елементаль",
+  "key": "bd726c51af7f"
+ },
+ {
+  "id": 207,
+  "where": "fire elemental",
+  "cells": [
+   "53:2"
+  ],
+  "uk": "вогняний елементаль",
+  "key": "73f86a0831b1"
+ },
+ {
+  "id": 208,
+  "where": "fire elemental",
+  "cells": [
+   "53:3"
+  ],
+  "uk": "вогняні елементалі",
+  "key": "ba9f3d048fe4"
+ },
+ {
+  "id": 209,
+  "where": "fire elemental",
+  "cells": [
+   "53:4"
+  ],
+  "uk": "вогняні елементалі",
+  "key": "a0f6a2be8de3"
+ },
+ {
+  "id": 210,
+  "where": "water elemental",
+  "cells": [
+   "54:1"
+  ],
+  "uk": "водяний елементаль",
+  "key": "fc3d13e2eea8"
+ },
+ {
+  "id": 211,
+  "where": "water elemental",
+  "cells": [
+   "54:2"
+  ],
+  "uk": "водяний елементаль",
+  "key": "72d72b33c283"
+ },
+ {
+  "id": 212,
+  "where": "water elemental",
+  "cells": [
+   "54:3"
+  ],
+  "uk": "водяні елементалі",
+  "key": "9b3555b864c3"
+ },
+ {
+  "id": 213,
+  "where": "water elemental",
+  "cells": [
+   "54:4"
+  ],
+  "uk": "водяні елементалі",
+  "key": "4757179c5378"
+ },
+ {
+  "id": 214,
+  "where": "griffin",
+  "cells": [
+   "55:1"
+  ],
+  "uk": "ґрифон",
+  "key": "38d889b4f12e"
+ },
+ {
+  "id": 215,
+  "where": "griffin",
+  "cells": [
+   "55:2"
+  ],
+  "uk": "ґрифон",
+  "key": "24f4f869cf03"
+ },
+ {
+  "id": 216,
+  "where": "griffin",
+  "cells": [
+   "55:3"
+  ],
+  "uk": "ґрифони",
+  "key": "f253bf5e1a72"
+ },
+ {
+  "id": 217,
+  "where": "griffin",
+  "cells": [
+   "55:4"
+  ],
+  "uk": "ґрифони",
+  "key": "ea528f2a8a48"
+ },
+ {
+  "id": 218,
+  "where": "unicorn",
+  "cells": [
+   "56:1"
+  ],
+  "uk": "єдиноріг",
+  "key": "84de6753b298"
+ },
+ {
+  "id": 219,
+  "where": "unicorn",
+  "cells": [
+   "56:2"
+  ],
+  "uk": "єдиноріг",
+  "key": "29246779193a"
+ },
+ {
+  "id": 220,
+  "where": "unicorn",
+  "cells": [
+   "56:3"
+  ],
+  "uk": "єдинороги",
+  "key": "e0d592768d7c"
+ },
+ {
+  "id": 221,
+  "where": "unicorn",
+  "cells": [
+   "56:4"
+  ],
+  "uk": "єдинороги",
+  "key": "fed141a04947"
+ },
+ {
+  "id": 222,
+  "where": "waspwort",
+  "cells": [
+   "57:1"
+  ],
+  "uk": "осокрут",
+  "key": "4213a2670de6"
+ },
+ {
+  "id": 223,
+  "where": "waspwort",
+  "cells": [
+   "57:2"
+  ],
+  "uk": "осокрут",
+  "key": "07e413265237"
+ },
+ {
+  "id": 224,
+  "where": "waspwort",
+  "cells": [
+   "57:3"
+  ],
+  "uk": "осокрути",
+  "key": "4c6cfd9f97ad"
+ },
+ {
+  "id": 225,
+  "where": "waspwort",
+  "cells": [
+   "57:4"
+  ],
+  "uk": "осокрути",
+  "key": "5240ea6b70cd"
+ },
+ {
+  "id": 226,
+  "where": "faerie dragon",
+  "cells": [
+   "58:1"
+  ],
+  "uk": "чарівний дракон",
+  "key": "8acdc7f27f50"
+ },
+ {
+  "id": 227,
+  "where": "faerie dragon",
+  "cells": [
+   "58:2"
+  ],
+  "uk": "чарівний дракон",
+  "key": "f40c6ad52bd1"
+ },
+ {
+  "id": 228,
+  "where": "faerie dragon",
+  "cells": [
+   "58:3"
+  ],
+  "uk": "чарівні дракони",
+  "key": "041f9652e83d"
+ },
+ {
+  "id": 229,
+  "where": "faerie dragon",
+  "cells": [
+   "58:4"
+  ],
+  "uk": "чарівні дракони",
+  "key": "14f663fa4342"
+ },
+ {
+  "id": 230,
+  "where": "mantis",
+  "cells": [
+   "59:1"
+  ],
+  "uk": "богомол",
+  "key": "82f2923433d3"
+ },
+ {
+  "id": 231,
+  "where": "mantis",
+  "cells": [
+   "59:2"
+  ],
+  "uk": "богомол",
+  "key": "02aad4c866e2"
+ },
+ {
+  "id": 232,
+  "where": "mantis",
+  "cells": [
+   "59:3"
+  ],
+  "uk": "богомоли",
+  "key": "49af7dd9d0f0"
+ },
+ {
+  "id": 233,
+  "where": "mantis",
+  "cells": [
+   "59:4"
+  ],
+  "uk": "богомоли",
+  "key": "07f6141f25b2"
+ },
+ {
+  "id": 234,
+  "where": "phoenix",
+  "cells": [
+   "60:1"
+  ],
+  "uk": "фенікс",
+  "key": "41880ee3438c"
+ },
+ {
+  "id": 235,
+  "where": "phoenix",
+  "cells": [
+   "60:2"
+  ],
+  "uk": "фенікс",
+  "key": "90a2032be9e5"
+ },
+ {
+  "id": 236,
+  "where": "phoenix",
+  "cells": [
+   "60:3"
+  ],
+  "uk": "фенікси",
+  "key": "454aeb91c5ce"
+ },
+ {
+  "id": 237,
+  "where": "phoenix",
+  "cells": [
+   "60:4"
+  ],
+  "uk": "фенікси",
+  "key": "b25ac0aa4664"
+ },
+ {
+  "id": 238,
+  "where": "dwarf",
+  "cells": [
+   "61:1"
+  ],
+  "uk": "гном",
+  "key": "12cb96e51653"
+ },
+ {
+  "id": 239,
+  "where": "dwarf",
+  "cells": [
+   "61:2"
+  ],
+  "uk": "гном",
+  "key": "604f3b60ec74"
+ },
+ {
+  "id": 240,
+  "where": "dwarf",
+  "cells": [
+   "61:3"
+  ],
+  "uk": "гноми",
+  "key": "c867f16af903"
+ },
+ {
+  "id": 241,
+  "where": "dwarf",
+  "cells": [
+   "61:4"
+  ],
+  "uk": "гноми",
+  "key": "af828024f693"
+ },
+ {
+  "id": 242,
+  "where": "halfling",
+  "cells": [
+   "62:1"
+  ],
+  "uk": "напіврослик",
+  "key": "5d579c288ebb"
+ },
+ {
+  "id": 243,
+  "where": "halfling",
+  "cells": [
+   "62:2"
+  ],
+  "uk": "напіврослик",
+  "key": "a2bc55cef778"
+ },
+ {
+  "id": 244,
+  "where": "halfling",
+  "cells": [
+   "62:3"
+  ],
+  "uk": "напіврослики",
+  "key": "46403891413f"
+ },
+ {
+  "id": 245,
+  "where": "halfling",
+  "cells": [
+   "62:4"
+  ],
+  "uk": "напіврослики",
+  "key": "7f31ef5753a5"
+ },
+ {
+  "id": 246,
+  "where": "gold golem",
+  "cells": [
+   "63:1"
+  ],
+  "uk": "золотий голем",
+  "key": "9cd0cdbebb46"
+ },
+ {
+  "id": 247,
+  "where": "gold golem",
+  "cells": [
+   "63:2"
+  ],
+  "uk": "золотий голем",
+  "key": "b73dcd9b8045"
+ },
+ {
+  "id": 248,
+  "where": "gold golem",
+  "cells": [
+   "63:3"
+  ],
+  "uk": "золоті големи",
+  "key": "0e73c12777db"
+ },
+ {
+  "id": 249,
+  "where": "gold golem",
+  "cells": [
+   "63:4"
+  ],
+  "uk": "золоті големи",
+  "key": "1a3530ff1428"
+ },
+ {
+  "id": 250,
+  "where": "mage",
+  "cells": [
+   "64:1"
+  ],
+  "uk": "маг",
+  "key": "5066eb27e26c"
+ },
+ {
+  "id": 251,
+  "where": "mage",
+  "cells": [
+   "64:2"
+  ],
+  "uk": "маг",
+  "key": "6979cdf3278c"
+ },
+ {
+  "id": 252,
+  "where": "mage",
+  "cells": [
+   "64:3"
+  ],
+  "uk": "маги",
+  "key": "605e91b88252"
+ },
+ {
+  "id": 253,
+  "where": "mage",
+  "cells": [
+   "64:4"
+  ],
+  "uk": "маги",
+  "key": "bb6b80126c18"
+ },
+ {
+  "id": 254,
+  "where": "genie",
+  "cells": [
+   "65:1"
+  ],
+  "uk": "джин",
+  "key": "84fa5fc48ae3"
+ },
+ {
+  "id": 255,
+  "where": "genie",
+  "cells": [
+   "65:2"
+  ],
+  "uk": "джин",
+  "key": "4f2229a8c247"
+ },
+ {
+  "id": 256,
+  "where": "genie",
+  "cells": [
+   "65:3"
+  ],
+  "uk": "джини",
+  "key": "4e9c2b835b4d"
+ },
+ {
+  "id": 257,
+  "where": "genie",
+  "cells": [
+   "65:4"
+  ],
+  "uk": "джини",
+  "key": "760fc34f02cb"
+ },
+ {
+  "id": 258,
+  "where": "naga",
+  "cells": [
+   "66:1"
+  ],
+  "uk": "наґа",
+  "key": "331db18887cf"
+ },
+ {
+  "id": 259,
+  "where": "naga",
+  "cells": [
+   "66:2"
+  ],
+  "uk": "наґа",
+  "key": "5a50aa620f71"
+ },
+ {
+  "id": 260,
+  "where": "naga",
+  "cells": [
+   "66:3"
+  ],
+  "uk": "наґи",
+  "key": "07e469cbd835"
+ },
+ {
+  "id": 261,
+  "where": "naga",
+  "cells": [
+   "66:4"
+  ],
+  "uk": "наґи",
+  "key": "e226a661cc14"
+ },
+ {
+  "id": 262,
+  "where": "dragon golem",
+  "cells": [
+   "67:1"
+  ],
+  "uk": "голем-дракон",
+  "key": "36b59e006ea7"
+ },
+ {
+  "id": 263,
+  "where": "dragon golem",
+  "cells": [
+   "67:2"
+  ],
+  "uk": "голем-дракон",
+  "key": "89938cfe00bc"
+ },
+ {
+  "id": 264,
+  "where": "dragon golem",
+  "cells": [
+   "67:3"
+  ],
+  "uk": "големи-дракони",
+  "key": "1cc1904deb33"
+ },
+ {
+  "id": 265,
+  "where": "dragon golem",
+  "cells": [
+   "67:4"
+  ],
+  "uk": "големи-дракони",
+  "key": "555d19495dcb"
+ },
+ {
+  "id": 266,
+  "where": "titan",
+  "cells": [
+   "68:1"
+  ],
+  "uk": "титан",
+  "key": "5b88ae9be6fb"
+ },
+ {
+  "id": 267,
+  "where": "titan",
+  "cells": [
+   "68:2"
+  ],
+  "uk": "титан",
+  "key": "9df1b7212b8c"
+ },
+ {
+  "id": 268,
+  "where": "titan",
+  "cells": [
+   "68:3"
+  ],
+  "uk": "титани",
+  "key": "68ed7603e416"
+ },
+ {
+  "id": 269,
+  "where": "titan",
+  "cells": [
+   "68:4"
+  ],
+  "uk": "титани",
+  "key": "4604aa6b7c0c"
+ },
+ {
+  "id": 270,
+  "where": "goblin knight",
+  "cells": [
+   "71:1"
+  ],
+  "uk": "гоблін-лицар",
+  "key": "34a1ebbb170c"
+ },
+ {
+  "id": 271,
+  "where": "goblin knight",
+  "cells": [
+   "71:2"
+  ],
+  "uk": "гоблін-лицар",
+  "key": "c88349351bc5"
+ },
+ {
+  "id": 272,
+  "where": "goblin knight",
+  "cells": [
+   "71:3"
+  ],
+  "uk": "гобліни-лицарі",
+  "key": "ab35476e177d"
+ },
+ {
+  "id": 273,
+  "where": "goblin knight",
+  "cells": [
+   "71:4"
+  ],
+  "uk": "гобліни-лицарі",
+  "key": "8dd86ca4286b"
+ },
+ {
+  "id": 274,
+  "where": "evil sorceress",
+  "cells": [
+   "72:1"
+  ],
+  "uk": "зла чарівниця",
+  "key": "c8fdae60b063"
+ },
+ {
+  "id": 275,
+  "where": "evil sorceress",
+  "cells": [
+   "72:2"
+  ],
+  "uk": "зла чарівниця",
+  "key": "c602198f422e"
+ },
+ {
+  "id": 276,
+  "where": "evil sorceress",
+  "cells": [
+   "72:3"
+  ],
+  "uk": "злі чарівниці",
+  "key": "d51d166bd242"
+ },
+ {
+  "id": 277,
+  "where": "evil sorceress",
+  "cells": [
+   "72:4"
+  ],
+  "uk": "злі чарівниці",
+  "key": "d58f84f62535"
+ },
+ {
+  "id": 278,
+  "where": "gargantuan",
+  "cells": [
+   "73:1"
+  ],
+  "uk": "ґарґантюа",
+  "key": "467bac1aeb75"
+ },
+ {
+  "id": 279,
+  "where": "gargantuan",
+  "cells": [
+   "73:2"
+  ],
+  "uk": "ґарґантюа",
+  "key": "1c64a7dce30c"
+ },
+ {
+  "id": 280,
+  "where": "gargantuan",
+  "cells": [
+   "73:3"
+  ],
+  "uk": "ґарґантюа",
+  "key": "c0cca05d4a60"
+ },
+ {
+  "id": 281,
+  "where": "gargantuan",
+  "cells": [
+   "73:4"
+  ],
+  "uk": "ґарґантюа",
+  "key": "95cc674e529f"
+ },
+ {
+  "id": 282,
+  "where": "dark champion",
+  "cells": [
+   "74:1"
+  ],
+  "uk": "темний чемпіон",
+  "key": "151703b57c7e"
+ },
+ {
+  "id": 283,
+  "where": "dark champion",
+  "cells": [
+   "74:2"
+  ],
+  "uk": "темний чемпіон",
+  "key": "3ce6e0e7650a"
+ },
+ {
+  "id": 284,
+  "where": "dark champion",
+  "cells": [
+   "74:3"
+  ],
+  "uk": "темні чемпіони",
+  "key": "94ec46ac5793"
+ },
+ {
+  "id": 285,
+  "where": "dark champion",
+  "cells": [
+   "74:4"
+  ],
+  "uk": "темні чемпіони",
+  "key": "de40beb2a28c"
+ },
+ {
+  "id": 286,
+  "where": "catapult",
+  "cells": [
+   "77:1"
+  ],
+  "uk": "катапульта",
+  "key": "c812fca9479a"
+ },
+ {
+  "id": 287,
+  "where": "catapult",
+  "cells": [
+   "77:2"
+  ],
+  "uk": "катапульта",
+  "key": "6408f7b4072b"
+ },
+ {
+  "id": 288,
+  "where": "catapult",
+  "cells": [
+   "77:3"
+  ],
+  "uk": "катапульти",
+  "key": "75a031e70521"
+ },
+ {
+  "id": 289,
+  "where": "catapult",
+  "cells": [
+   "77:4"
+  ],
+  "uk": "катапульти",
+  "key": "6886ccd776a9"
+ },
+ {
+  "id": 290,
+  "where": "frenzied gnasher",
+  "cells": [
+   "78:1"
+  ],
+  "uk": "шалений гризун",
+  "key": "b8ff49b5b0a8"
+ },
+ {
+  "id": 291,
+  "where": "frenzied gnasher",
+  "cells": [
+   "78:2"
+  ],
+  "uk": "шалений гризун",
+  "key": "7527ee3b4edc"
+ },
+ {
+  "id": 292,
+  "where": "frenzied gnasher",
+  "cells": [
+   "78:3"
+  ],
+  "uk": "шалені гризуни",
+  "key": "c3673638e5d6"
+ },
+ {
+  "id": 293,
+  "where": "frenzied gnasher",
+  "cells": [
+   "78:4"
+  ],
+  "uk": "шалені гризуни",
+  "key": "350a02e117f9"
+ },
+ {
+  "id": 294,
+  "where": "mega dragon",
+  "cells": [
+   "79:1"
+  ],
+  "uk": "мегадракон",
+  "key": "ce011e813619"
+ },
+ {
+  "id": 295,
+  "where": "mega dragon",
+  "cells": [
+   "79:2"
+  ],
+  "uk": "мегадракон",
+  "key": "5a5cf5dd6c93"
+ },
+ {
+  "id": 296,
+  "where": "mega dragon",
+  "cells": [
+   "79:3"
+  ],
+  "uk": "мегадракони",
+  "key": "89a09d789d43"
+ },
+ {
+  "id": 297,
+  "where": "mega dragon",
+  "cells": [
+   "79:4"
+  ],
+  "uk": "мегадракони",
+  "key": "851e8b13bd1a"
+ }
+]

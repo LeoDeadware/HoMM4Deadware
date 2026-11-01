@@ -1,0 +1,1159 @@
+[
+ {
+  "id": 0,
+  "where": "Keyword",
+  "cells": [
+   "0:1"
+  ],
+  "uk": "",
+  "key": "66c35a65d2b0"
+ },
+ {
+  "id": 1,
+  "where": "village hall",
+  "cells": [
+   "2:1",
+   "34:1",
+   "65:1",
+   "96:1",
+   "128:1",
+   "160:1"
+  ],
+  "uk": "Сільська рада",
+  "key": "9f815bd5f312"
+ },
+ {
+  "id": 2,
+  "where": "town hall",
+  "cells": [
+   "3:1",
+   "35:1",
+   "66:1",
+   "97:1",
+   "129:1",
+   "161:1"
+  ],
+  "uk": "Ратуша",
+  "key": "8af8616b96a7"
+ },
+ {
+  "id": 3,
+  "where": "city hall",
+  "cells": [
+   "4:1",
+   "36:1",
+   "67:1",
+   "98:1",
+   "130:1",
+   "162:1"
+  ],
+  "uk": "Магістрат",
+  "key": "e344fe00de42"
+ },
+ {
+  "id": 4,
+  "where": "fort",
+  "cells": [
+   "5:1",
+   "37:1",
+   "68:1",
+   "99:1",
+   "131:1",
+   "163:1"
+  ],
+  "uk": "Форт",
+  "key": "e57965f736d2"
+ },
+ {
+  "id": 5,
+  "where": "citadel",
+  "cells": [
+   "6:1",
+   "38:1",
+   "69:1",
+   "100:1",
+   "132:1",
+   "164:1"
+  ],
+  "uk": "Цитадель",
+  "key": "cb77ea243ad8"
+ },
+ {
+  "id": 6,
+  "where": "castle",
+  "cells": [
+   "7:1",
+   "39:1",
+   "70:1",
+   "101:1",
+   "133:1",
+   "165:1"
+  ],
+  "uk": "Замок",
+  "key": "e9d8ee928c78"
+ },
+ {
+  "id": 7,
+  "where": "shipyard",
+  "cells": [
+   "8:1",
+   "40:1",
+   "71:1",
+   "102:1",
+   "134:1",
+   "166:1"
+  ],
+  "uk": "Верф",
+  "key": "3c297faa7d6a"
+ },
+ {
+  "id": 8,
+  "where": "caravan",
+  "cells": [
+   "9:1",
+   "41:1",
+   "72:1",
+   "103:1",
+   "135:1",
+   "167:1"
+  ],
+  "uk": "Караван-сарай",
+  "key": "cd3e83905b10"
+ },
+ {
+  "id": 9,
+  "where": "prison",
+  "cells": [
+   "10:1",
+   "42:1",
+   "73:1",
+   "104:1",
+   "136:1",
+   "168:1"
+  ],
+  "uk": "В'язниця",
+  "key": "d8d4559a3721"
+ },
+ {
+  "id": 10,
+  "where": "tavern",
+  "cells": [
+   "11:1",
+   "43:1",
+   "74:1",
+   "105:1",
+   "137:1",
+   "169:1"
+  ],
+  "uk": "Таверна",
+  "key": "ac0c0b8a73f3"
+ },
+ {
+  "id": 11,
+  "where": "archery range",
+  "cells": [
+   "12:1"
+  ],
+  "uk": "Стрільбище",
+  "key": "97509066e4e1"
+ },
+ {
+  "id": 12,
+  "where": "squire guild",
+  "cells": [
+   "13:1"
+  ],
+  "uk": "Гільдія зброєносців",
+  "key": "b725f2471684"
+ },
+ {
+  "id": 13,
+  "where": "ballista works",
+  "cells": [
+   "14:1"
+  ],
+  "uk": "Майстерня баліст",
+  "key": "dae55d72d195"
+ },
+ {
+  "id": 14,
+  "where": "guardhouse",
+  "cells": [
+   "15:1"
+  ],
+  "uk": "Вартівня",
+  "key": "abcd136d3bfe"
+ },
+ {
+  "id": 15,
+  "where": "barracks",
+  "cells": [
+   "16:1"
+  ],
+  "uk": "Казарми",
+  "key": "0e8fc348631d"
+ },
+ {
+  "id": 16,
+  "where": "monastary",
+  "cells": [
+   "17:1"
+  ],
+  "uk": "Монастир",
+  "key": "c7e8f1fd5cb4"
+ },
+ {
+  "id": 17,
+  "where": "altar of light",
+  "cells": [
+   "18:1"
+  ],
+  "uk": "Вівтар світла",
+  "key": "35161825c23e"
+ },
+ {
+  "id": 18,
+  "where": "knight chapter",
+  "cells": [
+   "19:1"
+  ],
+  "uk": "Лицарський капітул",
+  "key": "0c5eb04401b6"
+ },
+ {
+  "id": 19,
+  "where": "mage guild 1",
+  "cells": [
+   "20:1"
+  ],
+  "uk": "Святий собор, рівень 1",
+  "key": "9433c4fbec0b"
+ },
+ {
+  "id": 20,
+  "where": "mage guild 2",
+  "cells": [
+   "21:1"
+  ],
+  "uk": "Святий собор, рівень 2",
+  "key": "ee6bf64e6f13"
+ },
+ {
+  "id": 21,
+  "where": "mage guild 3",
+  "cells": [
+   "22:1"
+  ],
+  "uk": "Святий собор, рівень 3",
+  "key": "d261a8f9c602"
+ },
+ {
+  "id": 22,
+  "where": "mage guild 4",
+  "cells": [
+   "23:1"
+  ],
+  "uk": "Святий собор, рівень 4",
+  "key": "5d568ad3a003"
+ },
+ {
+  "id": 23,
+  "where": "mage guild 5",
+  "cells": [
+   "24:1"
+  ],
+  "uk": "Святий собор, рівень 5",
+  "key": "6d74a8c8ca55"
+ },
+ {
+  "id": 24,
+  "where": "nature library",
+  "cells": [
+   "25:1"
+  ],
+  "uk": "Орден Природи",
+  "key": "248cc647e4ff"
+ },
+ {
+  "id": 25,
+  "where": "order library",
+  "cells": [
+   "26:1"
+  ],
+  "uk": "Орден Зачарування",
+  "key": "d9fa2378ce0e"
+ },
+ {
+  "id": 26,
+  "where": "blacksmith",
+  "cells": [
+   "27:1"
+  ],
+  "uk": "Орден паладинів",
+  "key": "8cc72d840075"
+ },
+ {
+  "id": 27,
+  "where": "seminary",
+  "cells": [
+   "28:1"
+  ],
+  "uk": "Семінарія",
+  "key": "2dc231b965f3"
+ },
+ {
+  "id": 28,
+  "where": "stables",
+  "cells": [
+   "29:1"
+  ],
+  "uk": "Стайні",
+  "key": "4f2cd90c98b4"
+ },
+ {
+  "id": 29,
+  "where": "abbey",
+  "cells": [
+   "30:1"
+  ],
+  "uk": "Абатство",
+  "key": "e01465454bc1"
+ },
+ {
+  "id": 30,
+  "where": "grail",
+  "cells": [
+   "31:1"
+  ],
+  "uk": "Святий аватар",
+  "key": "7625adc8a6b1"
+ },
+ {
+  "id": 31,
+  "where": "dwarven mines",
+  "cells": [
+   "44:1"
+  ],
+  "uk": "Гномські копальні",
+  "key": "ec868e04b327"
+ },
+ {
+  "id": 32,
+  "where": "halfling burrow",
+  "cells": [
+   "45:1"
+  ],
+  "uk": "Нора напіврослика",
+  "key": "69d027b43ae2"
+ },
+ {
+  "id": 33,
+  "where": "golem factory",
+  "cells": [
+   "46:1"
+  ],
+  "uk": "Фабрика големів",
+  "key": "cc16428de2d5"
+ },
+ {
+  "id": 34,
+  "where": "mage tower",
+  "cells": [
+   "47:1"
+  ],
+  "uk": "Вежа магів",
+  "key": "5d13777c281b"
+ },
+ {
+  "id": 35,
+  "where": "altar of wishes",
+  "cells": [
+   "48:1"
+  ],
+  "uk": "Вівтар бажань",
+  "key": "34bdade0e907"
+ },
+ {
+  "id": 36,
+  "where": "golden pavilion",
+  "cells": [
+   "49:1"
+  ],
+  "uk": "Золотий павільйон",
+  "key": "796bcf1b30f2"
+ },
+ {
+  "id": 37,
+  "where": "dragon factory",
+  "cells": [
+   "50:1"
+  ],
+  "uk": "Фабрика драконів",
+  "key": "b9615415963d"
+ },
+ {
+  "id": 38,
+  "where": "cloud castle",
+  "cells": [
+   "51:1"
+  ],
+  "uk": "Хмарний замок",
+  "key": "dbb03ce86a2f"
+ },
+ {
+  "id": 39,
+  "where": "mage guild 1",
+  "cells": [
+   "52:1"
+  ],
+  "uk": "Інститут магії, рівень 1",
+  "key": "a221f5ef8105"
+ },
+ {
+  "id": 40,
+  "where": "mage guild 2",
+  "cells": [
+   "53:1"
+  ],
+  "uk": "Інститут магії, рівень 2",
+  "key": "675819c7bdda"
+ },
+ {
+  "id": 41,
+  "where": "mage guild 3",
+  "cells": [
+   "54:1"
+  ],
+  "uk": "Інститут магії, рівень 3",
+  "key": "ac7131baa44b"
+ },
+ {
+  "id": 42,
+  "where": "mage guild 4",
+  "cells": [
+   "55:1"
+  ],
+  "uk": "Інститут магії, рівень 4",
+  "key": "e8eecbe112be"
+ },
+ {
+  "id": 43,
+  "where": "mage guild 5",
+  "cells": [
+   "56:1"
+  ],
+  "uk": "Інститут магії, рівень 5",
+  "key": "c58697fe87e2"
+ },
+ {
+  "id": 44,
+  "where": "life library",
+  "cells": [
+   "57:1"
+  ],
+  "uk": "Клерикальна бібліотека",
+  "key": "d80d15b70640"
+ },
+ {
+  "id": 45,
+  "where": "death library",
+  "cells": [
+   "58:1"
+  ],
+  "uk": "Некромантська бібліотека",
+  "key": "929ac60ecda6"
+ },
+ {
+  "id": 46,
+  "where": "blacksmith",
+  "cells": [
+   "59:1"
+  ],
+  "uk": "Крамниця алхіміка",
+  "key": "e8d709c9c66c"
+ },
+ {
+  "id": 47,
+  "where": "university",
+  "cells": [
+   "60:1"
+  ],
+  "uk": "Університет",
+  "key": "715432dcf30b"
+ },
+ {
+  "id": 48,
+  "where": "treasury",
+  "cells": [
+   "61:1"
+  ],
+  "uk": "Скарбниця",
+  "key": "286378bf777f"
+ },
+ {
+  "id": 49,
+  "where": "grail",
+  "cells": [
+   "62:1"
+  ],
+  "uk": "Велика бібліотека",
+  "key": "1d622810985b"
+ },
+ {
+  "id": 50,
+  "where": "cemetery",
+  "cells": [
+   "75:1"
+  ],
+  "uk": "Цвинтар",
+  "key": "933a592d7322"
+ },
+ {
+  "id": 51,
+  "where": "torture chamber",
+  "cells": [
+   "76:1"
+  ],
+  "uk": "Катівня",
+  "key": "34fdf78f1244"
+ },
+ {
+  "id": 52,
+  "where": "kennels",
+  "cells": [
+   "77:1"
+  ],
+  "uk": "Псарня",
+  "key": "0ed350a3854b"
+ },
+ {
+  "id": 53,
+  "where": "barrow mound",
+  "cells": [
+   "78:1"
+  ],
+  "uk": "Курган",
+  "key": "9c1e0f669318"
+ },
+ {
+  "id": 54,
+  "where": "mansion",
+  "cells": [
+   "79:1"
+  ],
+  "uk": "Маєток",
+  "key": "c2674ebf486c"
+ },
+ {
+  "id": 55,
+  "where": "spawn pit",
+  "cells": [
+   "80:1"
+  ],
+  "uk": "Яма поріддя",
+  "key": "4b932a44064b"
+ },
+ {
+  "id": 56,
+  "where": "dragon graveyard",
+  "cells": [
+   "81:1"
+  ],
+  "uk": "Кладовище драконів",
+  "key": "382a8ca07efe"
+ },
+ {
+  "id": 57,
+  "where": "temple of the damned",
+  "cells": [
+   "82:1"
+  ],
+  "uk": "Храм проклятих",
+  "key": "bbfe9eba932e"
+ },
+ {
+  "id": 58,
+  "where": "mage guild 1",
+  "cells": [
+   "83:1"
+  ],
+  "uk": "Вежа темряви, рівень 1",
+  "key": "9e22350ebd78"
+ },
+ {
+  "id": 59,
+  "where": "mage guild 2",
+  "cells": [
+   "84:1"
+  ],
+  "uk": "Вежа темряви, рівень 2",
+  "key": "d180486d1522"
+ },
+ {
+  "id": 60,
+  "where": "mage guild 3",
+  "cells": [
+   "85:1"
+  ],
+  "uk": "Вежа темряви, рівень 3",
+  "key": "3caa82cd71ac"
+ },
+ {
+  "id": 61,
+  "where": "mage guild 4",
+  "cells": [
+   "86:1"
+  ],
+  "uk": "Вежа темряви, рівень 4",
+  "key": "e5ed2213fc9a"
+ },
+ {
+  "id": 62,
+  "where": "mage guild 5",
+  "cells": [
+   "87:1"
+  ],
+  "uk": "Вежа темряви, рівень 5",
+  "key": "2b8886bd52ef"
+ },
+ {
+  "id": 63,
+  "where": "chaos library",
+  "cells": [
+   "88:1"
+  ],
+  "uk": "Прибудова Хаосу",
+  "key": "f23168e0f4ef"
+ },
+ {
+  "id": 64,
+  "where": "order library",
+  "cells": [
+   "89:1"
+  ],
+  "uk": "Прибудова чаклунства",
+  "key": "b066ea542723"
+ },
+ {
+  "id": 65,
+  "where": "blacksmith",
+  "cells": [
+   "90:1"
+  ],
+  "uk": "Зброярня",
+  "key": "21537f38d666"
+ },
+ {
+  "id": 66,
+  "where": "skeleton transformer",
+  "cells": [
+   "91:1"
+  ],
+  "uk": "Перетворювач на нежить",
+  "key": "fe5b0934809d"
+ },
+ {
+  "id": 67,
+  "where": "necromancy amplifier",
+  "cells": [
+   "92:1"
+  ],
+  "uk": "Підсилювач некромантії",
+  "key": "68ba216699e5"
+ },
+ {
+  "id": 68,
+  "where": "grail",
+  "cells": [
+   "93:1"
+  ],
+  "uk": "Пекельне опудало",
+  "key": "31e3c667ddb5"
+ },
+ {
+  "id": 69,
+  "where": "bandit gen",
+  "cells": [
+   "106:1"
+  ],
+  "uk": "Злодійське кубло",
+  "key": "a01802de3470"
+ },
+ {
+  "id": 70,
+  "where": "orc camp",
+  "cells": [
+   "107:1"
+  ],
+  "uk": "Орківські вежі",
+  "key": "ee3f7f6c2556"
+ },
+ {
+  "id": 71,
+  "where": "statuary garden",
+  "cells": [
+   "108:1"
+  ],
+  "uk": "Сад статуй",
+  "key": "175624063088"
+ },
+ {
+  "id": 72,
+  "where": "labyrinth",
+  "cells": [
+   "109:1"
+  ],
+  "uk": "Лабіринт",
+  "key": "bacd0efc2ec6"
+ },
+ {
+  "id": 73,
+  "where": "lava tube",
+  "cells": [
+   "110:1"
+  ],
+  "uk": "Вулканічна жерловина",
+  "key": "aaba34629c74"
+ },
+ {
+  "id": 74,
+  "where": "nightmare",
+  "cells": [
+   "111:1"
+  ],
+  "uk": "Чорний ліс",
+  "key": "9a63061471e2"
+ },
+ {
+  "id": 75,
+  "where": "dragon cave",
+  "cells": [
+   "112:1"
+  ],
+  "uk": "Драконяча печера",
+  "key": "4b157a7fdd3e"
+ },
+ {
+  "id": 76,
+  "where": "hydra pond",
+  "cells": [
+   "113:1"
+  ],
+  "uk": "Ставок гідр",
+  "key": "870c0378a5d0"
+ },
+ {
+  "id": 77,
+  "where": "mage guild 1",
+  "cells": [
+   "114:1"
+  ],
+  "uk": "Гільдія ворожбитів, рівень 1",
+  "key": "f95b6ab77b08"
+ },
+ {
+  "id": 78,
+  "where": "mage guild 2",
+  "cells": [
+   "115:1"
+  ],
+  "uk": "Гільдія ворожбитів, рівень 2",
+  "key": "f1e276cf976e"
+ },
+ {
+  "id": 79,
+  "where": "mage guild 3",
+  "cells": [
+   "116:1"
+  ],
+  "uk": "Гільдія ворожбитів, рівень 3",
+  "key": "e28434d63e22"
+ },
+ {
+  "id": 80,
+  "where": "mage guild 4",
+  "cells": [
+   "117:1"
+  ],
+  "uk": "Гільдія ворожбитів, рівень 4",
+  "key": "20d909231c8f"
+ },
+ {
+  "id": 81,
+  "where": "mage guild 5",
+  "cells": [
+   "118:1"
+  ],
+  "uk": "Гільдія ворожбитів, рівень 5",
+  "key": "a71ecc54bdc0"
+ },
+ {
+  "id": 82,
+  "where": "blacksmith",
+  "cells": [
+   "119:1"
+  ],
+  "uk": "Гільдія пройдисвітів",
+  "key": "96a6cf8c55ff"
+ },
+ {
+  "id": 83,
+  "where": "mana vortex",
+  "cells": [
+   "120:1"
+  ],
+  "uk": "Мановир",
+  "key": "b71b98538edb"
+ },
+ {
+  "id": 84,
+  "where": "academy",
+  "cells": [
+   "121:1"
+  ],
+  "uk": "Бойова академія",
+  "key": "e852e6836731"
+ },
+ {
+  "id": 85,
+  "where": "training grounds",
+  "cells": [
+   "122:1"
+  ],
+  "uk": "Злодійська смуга перешкод",
+  "key": "c89fb4706314"
+ },
+ {
+  "id": 86,
+  "where": "death library",
+  "cells": [
+   "123:1"
+  ],
+  "uk": "Зала мертвих",
+  "key": "3bf074963394"
+ },
+ {
+  "id": 87,
+  "where": "nature library",
+  "cells": [
+   "124:1"
+  ],
+  "uk": "Зала відьом",
+  "key": "aabc8f8e2c9c"
+ },
+ {
+  "id": 88,
+  "where": "grail",
+  "cells": [
+   "125:1"
+  ],
+  "uk": "Око Хаосу",
+  "key": "89d0150fc29c"
+ },
+ {
+  "id": 89,
+  "where": "wolf den",
+  "cells": [
+   "138:1"
+  ],
+  "uk": "Вовче лігво",
+  "key": "eeea699f8965"
+ },
+ {
+  "id": 90,
+  "where": "fae trees",
+  "cells": [
+   "139:1"
+  ],
+  "uk": "Чарівні дерева",
+  "key": "a0bf5a64d29b"
+ },
+ {
+  "id": 91,
+  "where": "tiger den",
+  "cells": [
+   "140:1"
+  ],
+  "uk": "Тигряче лігво",
+  "key": "cbaa00144f1e"
+ },
+ {
+  "id": 92,
+  "where": "homestead",
+  "cells": [
+   "141:1"
+  ],
+  "uk": "Хатинка на дереві",
+  "key": "998df3096e8f"
+ },
+ {
+  "id": 93,
+  "where": "griffin cliffs",
+  "cells": [
+   "142:1"
+  ],
+  "uk": "Ґрифонові скелі",
+  "key": "90f5b718b649"
+ },
+ {
+  "id": 94,
+  "where": "unicorn glade",
+  "cells": [
+   "143:1"
+  ],
+  "uk": "Галявина єдинорогів",
+  "key": "5152e2f8b983"
+ },
+ {
+  "id": 95,
+  "where": "magic forest",
+  "cells": [
+   "144:1"
+  ],
+  "uk": "Чарівний ліс",
+  "key": "58c4ba16500d"
+ },
+ {
+  "id": 96,
+  "where": "funeral pyre",
+  "cells": [
+   "145:1"
+  ],
+  "uk": "Поховальне багаття",
+  "key": "ffbb507c855b"
+ },
+ {
+  "id": 97,
+  "where": "blacksmith",
+  "cells": [
+   "146:1"
+  ],
+  "uk": "Гільдія рейнджерів",
+  "key": "3f48672dcfc0"
+ },
+ {
+  "id": 98,
+  "where": "mage guild 1",
+  "cells": [
+   "147:1"
+  ],
+  "uk": "Зала друїдів, рівень 1",
+  "key": "80b1a2f0b481"
+ },
+ {
+  "id": 99,
+  "where": "mage guild 2",
+  "cells": [
+   "148:1"
+  ],
+  "uk": "Зала друїдів, рівень 2",
+  "key": "d2281f4a3a19"
+ },
+ {
+  "id": 100,
+  "where": "mage guild 3",
+  "cells": [
+   "149:1"
+  ],
+  "uk": "Зала друїдів, рівень 3",
+  "key": "552ee3ea3b7d"
+ },
+ {
+  "id": 101,
+  "where": "mage guild 4",
+  "cells": [
+   "150:1"
+  ],
+  "uk": "Зала друїдів, рівень 4",
+  "key": "63c0cd2bf219"
+ },
+ {
+  "id": 102,
+  "where": "mage guild 5",
+  "cells": [
+   "151:1"
+  ],
+  "uk": "Зала друїдів, рівень 5",
+  "key": "42a69a0e341e"
+ },
+ {
+  "id": 103,
+  "where": "life library",
+  "cells": [
+   "152:1"
+  ],
+  "uk": "Оранжерея Життя",
+  "key": "0ae6b0d417c6"
+ },
+ {
+  "id": 104,
+  "where": "chaos library",
+  "cells": [
+   "153:1"
+  ],
+  "uk": "Оранжерея Хаосу",
+  "key": "0556e6b8bafb"
+ },
+ {
+  "id": 105,
+  "where": "creature portal",
+  "cells": [
+   "154:1"
+  ],
+  "uk": "Портал істот",
+  "key": "cd10017b2c1f"
+ },
+ {
+  "id": 106,
+  "where": "rainbow",
+  "cells": [
+   "155:1"
+  ],
+  "uk": "Веселка",
+  "key": "b4a9395d2539"
+ },
+ {
+  "id": 107,
+  "where": "grove",
+  "cells": [
+   "156:1"
+  ],
+  "uk": "Священний гай",
+  "key": "2a817d8dadae"
+ },
+ {
+  "id": 108,
+  "where": "grail",
+  "cells": [
+   "157:1"
+  ],
+  "uk": "Камінь виклику",
+  "key": "98a28c2c3c39"
+ },
+ {
+  "id": 109,
+  "where": "berserker",
+  "cells": [
+   "170:1"
+  ],
+  "uk": "Довгий дім",
+  "key": "6a2c46fb56e8"
+ },
+ {
+  "id": 110,
+  "where": "centaur stables",
+  "cells": [
+   "171:1"
+  ],
+  "uk": "Стайні кентаврів",
+  "key": "634cf34e33e1"
+ },
+ {
+  "id": 111,
+  "where": "harpy nest",
+  "cells": [
+   "172:1"
+  ],
+  "uk": "Пік гарпій",
+  "key": "2f9641038bca"
+ },
+ {
+  "id": 112,
+  "where": "nomad camp",
+  "cells": [
+   "173:1"
+  ],
+  "uk": "Намети кочівників",
+  "key": "7857362c4f58"
+ },
+ {
+  "id": 113,
+  "where": "cyclops cave",
+  "cells": [
+   "174:1"
+  ],
+  "uk": "Печера циклопів",
+  "key": "c24f6f8e712c"
+ },
+ {
+  "id": 114,
+  "where": "ogre fort",
+  "cells": [
+   "175:1"
+  ],
+  "uk": "Форт огрів",
+  "key": "89f017d4934e"
+ },
+ {
+  "id": 115,
+  "where": "behemoth crag",
+  "cells": [
+   "176:1"
+  ],
+  "uk": "Скеля бегемотів",
+  "key": "4a22d1195f1a"
+ },
+ {
+  "id": 116,
+  "where": "cliff nest",
+  "cells": [
+   "177:1"
+  ],
+  "uk": "Гніздо на скелі",
+  "key": "b36ca870969d"
+ },
+ {
+  "id": 117,
+  "where": "blacksmith",
+  "cells": [
+   "178:1"
+  ],
+  "uk": "Арсенал",
+  "key": "a5017f4d86b3"
+ },
+ {
+  "id": 118,
+  "where": "breeding pit",
+  "cells": [
+   "179:1"
+  ],
+  "uk": "Розплідник",
+  "key": "1719dd503e44"
+ },
+ {
+  "id": 119,
+  "where": "magic dampener",
+  "cells": [
+   "180:1"
+  ],
+  "uk": "Глушник магії",
+  "key": "d8069f73984e"
+ },
+ {
+  "id": 120,
+  "where": "training grounds",
+  "cells": [
+   "181:1"
+  ],
+  "uk": "Борцівські ями",
+  "key": "81e2c261241c"
+ },
+ {
+  "id": 121,
+  "where": "arena",
+  "cells": [
+   "182:1"
+  ],
+  "uk": "Арена честі",
+  "key": "4262afd65f8b"
+ },
+ {
+  "id": 122,
+  "where": "grail",
+  "cells": [
+   "183:1"
+  ],
+  "uk": "Свято життя",
+  "key": "20de5a4e4141"
+ }
+]
