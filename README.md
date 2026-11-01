@@ -3,7 +3,7 @@
 Native macOS port of Heroes of Might and Magic IV, in Ukrainian. Pick your language below.<br>
 Нативний порт «Героїв меча і магії IV» для macOS, українською. Оберіть мову нижче.
 
-<details open>
+<details>
 <summary><b>🇺🇦 Українською</b></summary>
 
 «Герої меча і магії IV» з обома доповненнями, українською, як звичайна програма
