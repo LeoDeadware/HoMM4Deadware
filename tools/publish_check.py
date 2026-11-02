@@ -6,8 +6,9 @@ from it, nothing personal, no vendored third-party code; LICENSE is there and si
   tools/publish_check.py [--repo DIR] [--history] [--private] [ASSET.zip|DIR|FILE ...]
 
 --private: the repo is private (game data / personal findings become WARN; secrets stay FAIL).
-Exceptions: `.publish-allow` in the repo root, one glob per line + `# reason`; it turns WARN/FAIL
-of a matching path into ALLOW, never for secrets. Exit 1 on any FAIL. Stdlib only (runs in CI).
+Exceptions: `.publish-allow` in the repo root, one glob per line + `# reason` (a line without a
+reason is ignored); a glob matching the path or the reported location (`assets.zip:*` = everything
+in that release asset) turns WARN/FAIL into ALLOW, never for secrets. Exit 1 on any FAIL. Stdlib only (runs in CI).
 """
 import argparse
 import fnmatch
@@ -55,7 +56,7 @@ class Report:
         self.private, self.allow, self.rows = private, allow, []
 
     def add(self, level, cat, where, msg, path=None):
-        if level != "FAIL!" and path and any(fnmatch.fnmatch(path, g) for g in self.allow):
+        if level != "FAIL!" and any(fnmatch.fnmatch(path or "", g) or fnmatch.fnmatch(where, g) for g in self.allow):
             level = "ALLOW"
         if level == "GAME":
             level = "WARN" if self.private else "FAIL"
@@ -230,8 +231,8 @@ def main():
     allow = []
     p = os.path.join(repo, ".publish-allow")
     if os.path.exists(p):
-        allow = [l.split("#", 1)[0].strip() for l in open(p, encoding="utf-8")]
-        allow = [g for g in allow if g]
+        rows = [l.split("#", 1) for l in open(p, encoding="utf-8") if not l.lstrip().startswith("#")]
+        allow = [r[0].strip() for r in rows if len(r) == 2 and r[0].strip() and r[1].strip()]
     rep = Report(a.private, allow)
     n = check_tree(rep, repo)
     print(f"tree: {n} tracked files")
