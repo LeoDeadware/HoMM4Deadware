@@ -3,7 +3,10 @@
 blob in the history, and release assets — holds no secrets, no game data or anything derived
 from it, nothing personal, no vendored third-party code; LICENSE is there and sizes are sane.
 
-  tools/publish_check.py [--repo DIR] [--history] [--private] [ASSET.zip|DIR|FILE ...]
+  tools/publish_check.py [--repo DIR] [--history] [--private] [--release] [ASSET.zip|DIR|FILE ...]
+
+--release: also the owner's release rule — one game page, two versions of the game, Ukrainian and
+English, in one repo and one release; the README says how to get each (FAIL if not).
 
 --private: the repo is private (game data / personal findings become WARN; secrets stay FAIL).
 Exceptions: `.publish-allow` in the repo root, one glob per line + `# reason` (a line without a
@@ -49,6 +52,11 @@ UNPINNED_ACTION = re.compile(r"^\s*-?\s*uses:\s*([^@\s]+)@(?![0-9a-f]{40}\b)(\S+
 
 WARN_MB, FAIL_MB, TOTAL_FAIL_MB = 2, 20, 100
 LICENSES = ("LICENSE", "LICENSE.md", "LICENSE.txt", "COPYING")
+# README must name both versions (in either language) and must not say one of them is missing.
+VERSION_UK = re.compile(r"(?i)(ukrainian version|українськ\w* верс\w*|верс\w* українськ\w*)")
+VERSION_EN = re.compile(r"(?i)(english version|англійськ\w* верс\w*|верс\w* англійськ\w*)")
+ONE_VERSION = re.compile(r"(?i)(no english (option|version)|only in ukrainian|ukrainian[- ]only|"
+                         r"(англійськ\w*|української) (верс\w* )?нема|лише українськ\w*|тільки українськ\w*)")
 
 
 class Report:
@@ -220,11 +228,32 @@ def check_asset(rep, path):
     check_path(rep, os.path.basename(path), os.path.basename(path), os.path.getsize(path))
 
 
+def check_release(rep, repo):
+    """Owner's rule (2026-11-02): one page per game, Ukrainian and English versions, README says how."""
+    p = next((os.path.join(repo, n) for n in ("README.md", "README") if os.path.isfile(os.path.join(repo, n))), None)
+    if not p:
+        rep.add("FAIL", "release", "(root)", "no README")
+        return
+    text = open(p, encoding="utf-8").read()
+    if not re.search(r"[А-Яа-яІіЇїЄєҐґ]{4}", text):
+        rep.add("FAIL", "release", "README", "no Ukrainian text")
+    if not re.search(r"\b(the|and|game)\b", text):
+        rep.add("FAIL", "release", "README", "no English text")
+    for name, rx in (("Ukrainian", VERSION_UK), ("English", VERSION_EN)):
+        if not rx.search(text):
+            rep.add("FAIL", "release", "README", f"does not say how to get the {name} version")
+    for i, line in enumerate(text.splitlines(), 1):
+        m = ONE_VERSION.search(line)
+        if m:
+            rep.add("FAIL", "release", f"README:{i}", f"says only one version exists: {m.group(0)!r}")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--repo", default=".")
     ap.add_argument("--history", action="store_true", help="also every blob and author in the git history")
     ap.add_argument("--private", action="store_true", help="private repo: game data / personal only WARN")
+    ap.add_argument("--release", action="store_true", help="also the release rule: Ukrainian + English versions")
     ap.add_argument("assets", nargs="*", help="release assets (zip, folder, file) to check too")
     a = ap.parse_args()
     repo = os.path.abspath(a.repo)
@@ -238,6 +267,8 @@ def main():
     print(f"tree: {n} tracked files")
     if a.history:
         print(f"history: {check_history(rep, repo)} blobs scanned")
+    if a.release:
+        check_release(rep, repo)
     for asset in a.assets:
         check_asset(rep, asset)
     return rep.print()

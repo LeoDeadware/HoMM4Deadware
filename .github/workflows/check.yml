@@ -1,7 +1,12 @@
 # Runs on every push: the pre-publish gate (no secrets, no game data, no vendored code) and
 # everything that builds without the game. The game itself needs your own GOG copy (tools/setup.sh).
 name: check
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  release:
+    types: [published]
 permissions:
   contents: read
 jobs:
@@ -15,6 +20,9 @@ jobs:
           persist-credentials: false
       - name: publish check (tree + history)
         run: python3 tools/publish_check.py --history ${{ github.event.repository.private && '--private' || '' }}
+      - name: release rule (Ukrainian + English versions, README says how to get each)
+        if: startsWith(github.ref, 'refs/tags/') || github.event_name == 'release'
+        run: python3 tools/publish_check.py --release ${{ github.event.repository.private && '--private' || '' }}
       - name: python tools compile
         run: python3 -m py_compile loc/tools/*.py tools/*.py tools/collage/*.py
       - name: translation JSON parses
