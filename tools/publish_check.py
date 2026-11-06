@@ -204,7 +204,7 @@ def check_history(rep, repo):
                     if not FAKE.search(m.group(0)):
                         rep.add("FAIL!", "secret", f"{named[sha]}@{sha[:8]}", f"{name} {mask(m.group(0))} (in history)")
     for e in sorted(set(git(repo, "log", "--all", "--format=%ae%n%ce").decode().split())):
-        if not e.endswith("users.noreply.github.com"):
+        if not (e.endswith("users.noreply.github.com") or e == "noreply@github.com"):   # GitHub's own merge commits
             rep.add("GAME", "personal", "(history)", f"commit e-mail {e} (use the GitHub noreply address)")
     return len(want)
 
