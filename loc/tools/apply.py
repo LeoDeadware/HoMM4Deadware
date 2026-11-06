@@ -57,6 +57,9 @@ def main(game):
         archive = next((a for p, a in archives.items() if base.startswith(p)), None)
         if archive is None:
             continue
+        # The Gathering Storm stays English (owner 2026-11-06); catalogs kept for later.
+        if base.startswith('storm_campaign.') and os.environ.get('H4_LOC_STORM') != '1':
+            continue
         campaigns = patches[archive]
         items = json.load(open(path))
         table = {it['en'].encode('cp1252'): encode(it['uk']) for it in items if it.get('uk')}

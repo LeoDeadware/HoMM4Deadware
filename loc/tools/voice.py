@@ -19,6 +19,10 @@ RATE, CHANNELS = 44100, 2
 
 
 def entry(mp3_path):
+    # Ready entries (the DMG kit: no ffmpeg on the player's Mac): voice/entries/<clip>.h4d
+    ready = os.path.join(LOC, 'voice', 'entries', os.path.basename(mp3_path)[:-4] + '.h4d')
+    if os.path.exists(ready):
+        return open(ready, 'rb').read()
     with tempfile.TemporaryDirectory() as tmp:
         out = os.path.join(tmp, 'v.mp3')
         subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', mp3_path, '-ar', str(RATE),
