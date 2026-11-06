@@ -20,7 +20,11 @@ file -b "$C/MacOS/$exe" | grep -q "Mach-O" \
 if pgrep -f "$C/MacOS/h4-bin" >/dev/null; then
   echo "app_smoke: BUSY - Heroes IV is running (pid $(pgrep -f "$C/MacOS/h4-bin" | tr '\n' ' ')); not touched, not tested"; exit 2
 fi
-RUN="$HOME/Library/Application Support/Heroes IV/runs/app_smoke-$(date +%Y%m%d-%H%M%S)-$$"; mkdir -p "$RUN/data"
+SUP="$HOME/Library/Application Support/Heroes IV"
+BOX="$SUP/runs/app_smoke-$(date +%Y%m%d-%H%M%S)-$$"; RUN="$BOX/player"; mkdir -p "$RUN/data"
+# An app installed from the DMG reads the game data next to its player folder (<support>/game, game-uk):
+# links to the real ones, so the run's player root can stay apart from the player's own.
+for g in game game-uk; do [[ -d "$SUP/$g" ]] && ln -s "$SUP/$g" "$BOX/$g"; done
 printf '14 key Escape\n17 key Escape\n24 shot menu\n25 quit\n' > "$RUN/input.txt"
 # A run player root outside ~/Desktop (the game hangs on writes there when opened from Finder, TCC);
 # the player's own saves and settings are not touched.
@@ -35,5 +39,5 @@ grep -q "launcher: language $LANG_" "$RUN/logs/h4.log" 2>/dev/null || { echo "ap
 [[ -s "$RUN/menu.bmp" ]] || { echo "app_smoke: FAIL no screenshot (the game did not render)"; fails=1; }
 ls "$RUN/data/h4/crashes/"* >/dev/null 2>&1 && { echo "app_smoke: FAIL crash report"; fails=1; }
 (( fails )) && { echo "app_smoke: evidence $RUN"; exit 1; }
-rm -rf "${RUN:?}"   # evidence is kept only for a failure
+rm -rf "${BOX:?}"   # evidence is kept only for a failure
 echo "app_smoke: PASS ($LANG_)"
