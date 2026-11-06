@@ -836,8 +836,21 @@ void f_00720530(::recomp::Ctx& c) {
   if (const uint32_t frame = AdventureFrame(top)) {
     const uint32_t screen = CentredScreen(top);
     if (screen && Rd32(screen + 0x7C) == frame) {
+      // Only the frame's windows that were there when the screen came: the
+      // ones under it. A window made later is over it, a dialog opened from
+      // the town (creature info on a double click), which hidden was never
+      // drawn: the town froze, the dialog waiting for a click nobody saw.
+      static uint32_t under_screen = 0;
+      static std::set<uint32_t> under;
+      if (screen != under_screen) {
+        under_screen = screen;
+        under.clear();
+        ForChildren(frame, [&](uint32_t w) {
+          if (w != screen) under.insert(w);
+        });
+      }
       ForChildren(frame, [&](uint32_t w) {
-        if (w != screen && GPtr(w + kVisible)[0]) hidden.push_back(w);
+        if (w != screen && GPtr(w + kVisible)[0] && under.count(w)) hidden.push_back(w);
       });
       narrowed = frame;
       frame_rect = RectOf(frame);
