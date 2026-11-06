@@ -1,2 +1,4 @@
 # Exceptions to tools/publish_check.py: glob + "# reason" (secrets are never allowed).
 heroes4-mac-assets.zip:*  # owner's decision 2026-11-02: our own Ukrainian-localization files (combat-wing collages, voice-over) stay in releases; the localization does not work without them
+Heroes IV.dmg:Heroes IV.app/Contents/Resources/build/loc/voice/*  # owner's decision 2026-11-02 (as heroes4-mac-assets.zip): our own Ukrainian voice-over, encoded for the player's Mac; raw/*.mp3 are empty markers
+Heroes IV.dmg:Heroes IV.app/Contents/Resources/wings/*  # owner's decision 2026-11-02 (as heroes4-mac-assets.zip): our own combat-wing collages

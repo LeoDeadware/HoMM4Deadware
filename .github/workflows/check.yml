@@ -1,5 +1,5 @@
 # Runs on every push: the pre-publish gate (no secrets, no game data, no vendored code) and
-# everything that builds without the game. The game itself needs your own GOG copy (tools/setup.sh).
+# everything that builds without the game. The game itself needs your own GOG copy (the DMG, or tools/build.sh).
 name: check
 on:
   push:
@@ -24,10 +24,10 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/') || github.event_name == 'release'
         run: python3 tools/publish_check.py --release ${{ github.event.repository.private && '--private' || '' }}
       - name: python tools compile
-        run: python3 -m py_compile loc/tools/*.py tools/*.py tools/collage/*.py
+        run: python3 -m py_compile loc/tools/*.py tools/*.py tools/dmg/*.py tools/collage/*.py
       - name: translation JSON parses
         run: python3 -c "import glob,json; [json.load(open(f, encoding='utf-8')) for f in glob.glob('loc/**/*.json', recursive=True)]"
       - name: shell scripts parse
-        run: for f in tools/*.sh; do bash -n "$f"; done
+        run: for f in tools/*.sh tools/dmg/*.sh tools/icon/*.sh tests/scripts/*.sh; do bash -n "$f"; done
       - name: collage tool compiles
         run: c++ -std=c++17 -Wall -fsyntax-only tools/collage/collage.cpp

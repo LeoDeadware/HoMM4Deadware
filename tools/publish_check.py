@@ -7,7 +7,15 @@ from it, nothing personal, no vendored third-party code; LICENSE is there and si
 
 --release: also the owner's release rules — one app with both languages, Ukrainian and English,
 chosen in the launcher, and the README says so; a prebuilt app (.dmg / .app among the assets) ships
-unsigned, so the README carries the one-line Gatekeeper workaround (FAIL if not).
+unsigned, so the README carries the one-line Gatekeeper workaround (FAIL if not), and a .dmg carries
+THIRD_PARTY_NOTICES.txt (tools/notices.py: MIT/BSD/zlib keep their notice in binary copies; FAIL if not).
+Every Mach-O, .a and .o inside a .dmg must run on the app's LSMinimumSystemVersion: a minos above it FAILs
+(2026-11-06: every binary had minos 26.0 while Info.plist said 13.0; owner: the ports need macOS 26, so
+Info.plist says LSMinimumSystemVersion 26.0).
+
+HD packs (mods/hd_*) are their own FAIL in public: the testers' DMG carries them (RULES R-L5, owner
+2026-11-06), anything public needs the owner's separate decision, recorded in .publish-allow. A .dmg asset
+is mounted (macOS hdiutil) and every file inside is checked; an image that cannot be mounted FAILs.
 
 --private: the repo is private (game data / personal findings become WARN; secrets stay FAIL).
 Exceptions: `.publish-allow` in the repo root, one glob per line + `# reason` (a line without a
@@ -15,7 +23,10 @@ reason is ignored); a glob matching the path or the reported location (`assets.z
 in that release asset) turns WARN/FAIL into ALLOW, never for secrets. Exit 1 on any FAIL. Stdlib only (runs in CI).
 """
 import argparse
+import tempfile
 import fnmatch
+import glob
+import plistlib
 import os
 import re
 import subprocess
@@ -44,6 +55,9 @@ GAME_EXT = {"xbe", "iso", "xiso", "flat", "exe", "dll", "bin", "dat", "pak", "h4
             "rfs", "bik", "wma", "wav", "mp3", "ogg", "flac", "xma", "adpcm", "dds", "tga", "bmp", "png", "jpg",
             "jpeg", "gif", "webp", "mp4", "mov", "ttf", "otf", "fnt", "gpr", "rep", "rgba"}
 GAME_DIRS = re.compile(r"(^|/)(game|extracted|generated|art|voice/raw|recon/ghidra|mods/hd_[^/]*)/")
+HD_PACK = re.compile(r"(^|/)mods/hd_[^/]+/")
+# our placeholders and build files inside those dirs (ROTK lift/game/CMakeLists.txt): not game data
+BUILD_FILES = re.compile(r"(^|/)(\.gitkeep|CMakeLists\.txt)$")
 VENDOR_DIRS = re.compile(r"(^|/)(third_party|vendor|external|node_modules)/")
 ORIGINAL_TEXT_COL = {"en", "english", "orig", "original", "source"}
 PERSONAL = [("home path", re.compile(r"/Users/(?!Shared/)[A-Za-z][\w.-]*/")),
@@ -66,6 +80,7 @@ GATEKEEPER = re.compile(r"(?i)(gatekeeper|right-click\W+(it\W+)?.{0,20}open|cont
 class Report:
     def __init__(self, private, allow):
         self.private, self.allow, self.rows = private, allow, []
+        self.dmg_notices = {}   # .dmg name -> has THIRD_PARTY_NOTICES
 
     def add(self, level, cat, where, msg, path=None):
         if level != "FAIL!" and any(fnmatch.fnmatch(path or "", g) or fnmatch.fnmatch(where, g) for g in self.allow):
@@ -126,9 +141,12 @@ def check_path(rep, where, path, size):
     if SECRET_FILES.search(path):
         rep.add("FAIL!", "secret", where, "credential-like file name")
     ext = path.rsplit(".", 1)[-1].lower() if "." in os.path.basename(path) else ""
-    if ext in GAME_EXT:
+    if HD_PACK.search(path):
+        rep.add("GAME", "hd-pack", where, "HD pack (derived from game data): public only by the owner's decision "
+                "(R-L5), then .publish-allow", path)
+    elif ext in GAME_EXT:
         rep.add("GAME", "game-data", where, f".{ext}: game data or derived (image/audio/binary)", path)
-    elif GAME_DIRS.search(path):
+    elif GAME_DIRS.search(path) and not BUILD_FILES.search(path):
         rep.add("GAME", "game-data", where, "under a game-data directory", path)
     if VENDOR_DIRS.search(path):
         rep.add("FAIL", "third-party", where, "vendored third-party code: fetch it at a pinned commit instead", path)
@@ -209,7 +227,106 @@ def check_history(rep, repo):
     return len(want)
 
 
+def otool_minos(out):
+    """minos values of LC_BUILD_VERSION (platform macOS) and LC_VERSION_MIN_MACOSX in `otool -l` output."""
+    vs, cmd = [], None
+    for line in out.splitlines():
+        t = line.split()
+        if len(t) == 2 and t[0] == "cmd":
+            cmd = t[1]
+        elif len(t) == 2 and ((cmd == "LC_BUILD_VERSION" and t[0] == "minos") or
+                              (cmd == "LC_VERSION_MIN_MACOSX" and t[0] == "version")):
+            if re.fullmatch(r"\d+(\.\d+)*", t[1]):
+                vs.append(t[1])
+    return vs
+
+
+def vtuple(v):
+    return tuple(int(x) for x in v.split("."))
+
+
+def macho_minos(p):
+    """Highest minimum macOS of a Mach-O / fat / archive / object (LC_BUILD_VERSION minos or
+    LC_VERSION_MIN_MACOSX version), None if not Mach-O or no load command says."""
+    try:
+        with open(p, "rb") as fh:
+            magic = fh.read(8)
+    except OSError:
+        return None
+    if magic[:4] not in (b"\xcf\xfa\xed\xfe", b"\xce\xfa\xed\xfe", b"\xca\xfe\xba\xbe") and magic != b"!<arch>\n":
+        return None
+    try:
+        out = subprocess.run(["otool", "-l", p], capture_output=True, text=True, timeout=120).stdout
+    except (OSError, subprocess.TimeoutExpired):
+        return None
+    vs = otool_minos(out)
+    return max(vs, key=vtuple) if vs else None
+
+
+def check_minos(rep, name, mnt):
+    """FAIL every Mach-O inside an app of the image whose minos is above that app's LSMinimumSystemVersion."""
+    for app in sorted(glob.glob(os.path.join(mnt, "*.app"))):
+        plist = os.path.join(app, "Contents", "Info.plist")
+        try:
+            with open(plist, "rb") as fh:
+                lsmin = plistlib.load(fh).get("LSMinimumSystemVersion")
+        except (OSError, plistlib.InvalidFileException):
+            lsmin = None
+        over, machos = [], 0
+        for d, _, files in os.walk(app):
+            for f in files:
+                p = os.path.join(d, f)
+                if os.path.islink(p) or not os.path.isfile(p):
+                    continue
+                v = macho_minos(p)
+                machos += bool(v)
+                if v and lsmin and vtuple(v) > vtuple(lsmin):
+                    over.append((v, os.path.relpath(p, mnt)))
+        if machos and not lsmin:
+            rep.add("FAIL", "minos", f"{name}:{os.path.basename(app)}", "Info.plist has no LSMinimumSystemVersion")
+        for v, rel in over[:20]:
+            rep.add("FAIL", "minos", f"{name}:{rel}", f"built for macOS {v}, the app says LSMinimumSystemVersion {lsmin} "
+                    "(Info.plist: LSMinimumSystemVersion 26.0, R-B8)")
+        if len(over) > 20:
+            rep.add("FAIL", "minos", name, f"... and {len(over) - 20} more Mach-O files above {lsmin}")
+
+
+def check_dmg(rep, path):
+    name = os.path.basename(path)
+    rep.dmg_notices.setdefault(name, False)
+    mnt = tempfile.mkdtemp(prefix="pubdmg.")
+    try:
+        r = subprocess.run(["hdiutil", "attach", "-nobrowse", "-readonly", "-mountpoint", mnt, path],
+                           capture_output=True, text=True)
+    except OSError:
+        r = None
+    if not r or r.returncode:
+        rep.add("FAIL", "dmg", name, "cannot mount the image to check what is inside (needs macOS hdiutil)")
+        os.rmdir(mnt)
+        return
+    try:
+        for d, _, files in os.walk(mnt):
+            for f in files:
+                p = os.path.join(d, f)
+                if os.path.islink(p) or not os.path.isfile(p):
+                    continue
+                rel = os.path.relpath(p, mnt)
+                if f.startswith("THIRD_PARTY_NOTICES") or f.lower().startswith("third-party notices"):
+                    rep.dmg_notices[name] = True
+                check_path(rep, f"{name}:{rel}", rel, 0)   # binaries inside an app: no git size rule
+        check_minos(rep, name, mnt)
+    finally:
+        subprocess.run(["hdiutil", "detach", "-quiet", mnt])
+        try:
+            os.rmdir(mnt)
+        except OSError:
+            pass
+
+
 def check_asset(rep, path):
+    if path.endswith(".dmg") and os.path.isfile(path):
+        check_dmg(rep, path)
+        return
     if os.path.isdir(path):
         for d, _, files in os.walk(path):
             for f in files:
@@ -255,6 +372,9 @@ def check_release(rep, repo, assets=()):
             rep.add("FAIL", "release", f"README:{i}", f"says one language is missing: {m.group(0)!r}")
     if any(ships_app(a) for a in assets) and not GATEKEEPER.search(text):
         rep.add("FAIL", "release", "README", "prebuilt unsigned app: no one-line Gatekeeper workaround")
+    for name, ok in rep.dmg_notices.items():
+        if not ok:
+            rep.add("FAIL", "release", name, "no THIRD_PARTY_NOTICES.txt: the licenses of what it ships (tools/notices.py)")
 
 
 def ships_app(path):
@@ -285,10 +405,10 @@ def main():
     print(f"tree: {n} tracked files")
     if a.history:
         print(f"history: {check_history(rep, repo)} blobs scanned")
-    if a.release:
-        check_release(rep, repo, a.assets)
     for asset in a.assets:
         check_asset(rep, asset)
+    if a.release:
+        check_release(rep, repo, a.assets)
     return rep.print()
 
 
