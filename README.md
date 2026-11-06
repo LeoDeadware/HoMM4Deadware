@@ -1,15 +1,16 @@
 # Heroes of Might and Magic IV for Apple Silicon Macs
 
-Native macOS port of Heroes of Might and Magic IV, in Ukrainian. Pick your language below.<br>
-Нативний порт «Героїв меча і магії IV» для macOS, українською. Оберіть мову нижче.
+Native macOS port of Heroes of Might and Magic IV, in English and Ukrainian. Pick your language below.<br>
+Нативний порт «Героїв меча і магії IV» для macOS, англійською та українською. Оберіть мову нижче.
 
 <details>
 <summary><b>🇺🇦 Українською</b></summary>
 
-«Герої меча і магії IV» з обома доповненнями, українською, як звичайна програма
+«Герої меча і магії IV» з обома доповненнями, англійською або українською, як звичайна програма
 для Мака. Без Wine, емуляторів і віртуальних машин: гра працює на Маці напряму.
 
-- Українська мова: інтерфейс, кампанії, озвучка кампаній.
+- Дві мови на вибір при кожному запуску: English (оригінал) та українська (інтерфейс, кампанії,
+  озвучка кампаній; доповнення The Gathering Storm лишається англійською).
 - Широкий екран і чітка картинка на Retina-дисплеях.
 - Плавна анімація на карті й у бою.
 
@@ -26,7 +27,31 @@ Native macOS port of Heroes of Might and Magic IV, in Ukrainian. Pick your langu
 
 ---
 
-## Встановлення крок за кроком
+## Встановлення з DMG (рекомендовано)
+
+Без Термінала й Homebrew. Гра збирається на вашому Маці з вашого інсталятора GOG,
+тому в DMG немає ні коду, ні даних гри.
+
+1. **Завантажте гру з GOG** — як у кроці 1 нижче: інсталятор для Windows
+   (`setup_heroes_of_might_and_magic_4_complete_….exe` і файл `.bin`, якщо є)
+   у теку **«Завантаження»**.
+2. Відкрийте [сторінку Releases](https://github.com/LeoDeadware/HoMM4Deadware/releases)
+   і завантажте **Heroes IV.dmg**. Клацніть по ньому двічі.
+3. Перетягніть **Heroes IV** у теку **Applications**.
+4. **Перший запуск:** клацніть Heroes IV правою кнопкою → **«Відкрити»** →
+   **«Відкрити»**. Порт не підписаний Apple, тому macOS питає один раз.
+5. Оберіть мову: **English** або **Українська** (вибір запам'ятовується, змінити
+   можна при кожному запуску).
+6. Якщо на Маці немає **Command Line Tools** від Apple, відкриється системне вікно —
+   натисніть **«Встановити»**. Далі Heroes IV сам знаходить інсталятор GOG у
+   «Завантаженнях» (або питає, де він) і збирає гру: 15–40 хвилин, вікно з прогресом.
+7. Готова гра **Heroes IV** з'являється на Робочому столі. Інсталятор GOG після
+   цього можна видалити.
+
+## Встановлення з коду (Homebrew, для досвідчених)
+
+Цей спосіб поки ставить стару збірку: лише українська, гра в «Програмах» домашньої теки.
+Перемикач мов і встановлення на Робочий стіл — у DMG вище.
 
 ### Крок 1. Завантажте гру з GOG
 
@@ -178,8 +203,8 @@ Heroes of Might and Magic — торгова марка Ubisoft. Це фанат
 Heroes of Might and Magic IV with both expansions as a regular Mac app. No Wine,
 no emulators, no virtual machines: the game runs on the Mac directly.
 
-- **The game is in Ukrainian:** interface, campaigns, campaign voice-over. There
-  is no English option.
+- Two languages, chosen at every start: English (the original) and Ukrainian (interface,
+  campaigns, campaign voice-over; The Gathering Storm stays in English).
 - Wide screen and a sharp picture on Retina displays.
 - Smooth animation on the adventure map and in combat.
 
@@ -196,7 +221,31 @@ no emulators, no virtual machines: the game runs on the Mac directly.
 
 ---
 
-## Step-by-step installation
+## Install from the DMG (recommended)
+
+No Terminal, no Homebrew. The game is built on your Mac from your GOG installer,
+so the DMG holds neither the game's code nor its data.
+
+1. **Download the game from GOG**, as in step 1 below: the Windows installer
+   (`setup_heroes_of_might_and_magic_4_complete_….exe`, plus the `.bin` file if offered)
+   into **Downloads**.
+2. Open the [Releases page](https://github.com/LeoDeadware/HoMM4Deadware/releases),
+   download **Heroes IV.dmg** and double-click it.
+3. Drag **Heroes IV** to **Applications**.
+4. **First open:** right-click Heroes IV → **Open** → **Open**. The port is not
+   signed by Apple, so macOS asks once.
+5. Choose the language: **English** or **Українська** (remembered; you can change
+   it at every start).
+6. If Apple's **Command Line Tools** are missing, the system dialog opens: click
+   **Install**. Heroes IV then finds the GOG installer in Downloads (or asks where
+   it is) and builds the game: 15–40 minutes, with a progress window.
+7. The finished **Heroes IV** appears on the Desktop. You can delete the GOG
+   installer afterwards.
+
+## Install from source (Homebrew, for advanced users)
+
+This route still installs the older build: Ukrainian only, the game in your home Applications folder.
+The language switch and the Desktop install come with the DMG above.
 
 ### Step 1. Download the game from GOG
 
