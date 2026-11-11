@@ -1,5 +1,7 @@
 # Heroes of Might and Magic IV for Apple Silicon Macs
 
+**Website, screenshots and install guide:** [deadware.games/heroes4](https://deadware.games/heroes4/) · [українською](https://deadware.games/uk/heroes4/)
+
 Native macOS port of Heroes of Might and Magic IV, in English and Ukrainian. Pick your language below.<br>
 Нативний порт «Героїв меча і магії IV» для macOS, англійською та українською. Оберіть мову нижче.
 
